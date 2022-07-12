@@ -1,0 +1,149 @@
+---
+title: "Using the semantic scholar API in R"
+author: "Julian Flowers"
+format: html
+editor: visual
+bibliography: references.bib
+---
+
+## What is semantic scholar
+
+[Semantic Scholar](https://www.semanticscholar.org/me/research) (SS) is an online bibliographic database which uses a range of powerful artificial intelligence (AI) and machine learning tools to facilitate researchers in retrieving, summarising, managing and analysing citations and references.
+
+The core database has over 200 million references drawn from a wide variety of sources.
+
+It has a powerful graph database which enables rapid appreciation of the connections between authors, citations and journals for bibliometric research.
+
+## The SS API
+
+One of the most powerful features is the accessible public API. To speed things up its best to apply for an API key from [here](https://www.semanticscholar.org/product/api#Partner-Form).
+
+Once you have a key run the following code
+
+```{r eval=FALSE}
+usethis::edit_r_environ()
+```
+
+This opens the R environment file.
+
+Enter the line
+
+`SEMANTICSCHOLAR_API = <your api key>` into the file, save it and restart R.
+
+This will give you 100 API calls per second as opposed to 100 per 5 minutes without it.
+
+Getting information by using APIs is relatively straightforward - API calls are specially constructed URLs which interact with ***endpoints***.
+
+For most of the analyses in this document we will be using the SS Academic Graph API V1.0 (there are others).
+
+This has the uri <https://api.semanticscholar.org/graph/V1/paper> and forms the basis for constructing queries, and accessing data.
+
+## Interacting with the SS API in R
+
+The easiest way is to use the `semanticscholar` package which can be installed using the code `p_load_gh("kth-library/semanticscholar", dependencies = TRUE) as follows:`
+
+```{r}
+
+if(!require("pacman"))install.packages("pacman")
+p_load_gh("kth-library/semanticscholar", dependencies = TRUE)
+
+
+
+```
+
+We'll need some other R packages as well.
+
+```{r}
+p_load(tidyverse, jsonlite)
+
+
+```
+
+```{r}
+
+```
+
+### Searching papers
+
+We can search for papers using keyword searching via `semanticscholar::S2_search_papers()`
+
+Note that there is a limit of 100 papers per call. This returns a table of paperIDs (these are unique identifiers for each paper in the SS database) and titles.
+
+```{r}
+Sys.getenv("SEMANTICSCHOLAR_API")
+semanticscholar::S2_api()
+semanticscholar::S2_ratelimit()
+
+search <- "+herbivory climate change-insect-aquatic"
+
+result <- semanticscholar::S2_search_papers(search, limit = 100)
+
+
+result
+
+
+
+
+```
+
+We can can enhance the search with the `fields` argument...
+
+```{r}
+
+result1 <- semanticscholar::S2_search_papers(search, limit = 100, fields = c("year,abstract,title,venue,referenceCount,citationCount,fieldsOfStudy"))
+
+
+result1$data |>
+  knitr::kable()
+```
+
+### Available fields
+
+```{r}
+semanticscholar::S2_fields()
+```
+
+### Going further
+
+#### tl/dr
+
+This can't be accessed via the `semanticscholar` package but can be retrieved by creating our own API call and
+
+```{r}
+get_tldr <- function(ss_id){
+  require(jsonlite)
+  
+  #ss_id = ss_ids[1]
+  url <- "https://api.semanticscholar.org/graph/v1/paper/"
+  uri <- paste0(url, ss_id, "?fields=tldr")
+  
+  ext <- fromJSON(uri, simplifyDataFrame=TRUE)
+Sys.sleep(5)
+  
+}
+
+
+safe_tldr <- possibly(get_tldr, otherwise = NA_real_)
+```
+
+```{r, eval=FALSE}
+
+tldrs <- map(result1$data$paperId, safe_tldr)
+
+tldr1 <- map(tldrs, c("tldr", "text")) |>
+  enframe()
+ids <- map(tldrs, "paperId") |>
+  enframe()
+
+
+```
+
+```{r eval=FALSE}
+
+tldr2 <- tldr1 |>
+  left_join(ids, by = "name") |>
+  unnest(cols = c(value.x, value.y)) |>
+  left_join(result1$data, by = c("value.y" = "paperId"))
+tldr2
+
+```
