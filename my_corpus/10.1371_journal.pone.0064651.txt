@@ -1,0 +1,1169 @@
+Spatiotemporal Variability of
+Dimethylsulphoniopropionate on a Fringing Coral Reef:
+The Role of Reefal Carbonate Chemistry and
+Environmental Variability
+
+Heidi L. Burdett1*, Penelope J. C. Donohue1, Angela D. Hatton2, Magdy A. Alwany3, Nicholas A. Kamenos1
+
+1 School of Geographical and Earth Sciences, University of Glasgow, Glasgow, United Kingdom, 2 Scottish Association for Marine Science, Oban, Argyll, United Kingdom,
+3 Department of Marine Science, Suez Canal University, Ismailia, Egypt
+
+Abstract
+
+Oceanic pH is projected to decrease by up to 0.5 units by 2100 (a process known as ocean acidification, OA), reducing the
+calcium carbonate saturation state of the oceans. The coastal ocean is expected to experience periods of even lower
+carbonate saturation state because of the inherent natural variability of coastal habitats. Thus, in order to accurately project
+the impact of OA on the coastal ocean, we must
+first understand its natural variability. The production of
+dimethylsulphoniopropionate (DMSP) by marine algae and the release of DMSP’s breakdown product dimethylsulphide
+(DMS) are often related to environmental stress. This study investigated the spatiotemporal response of tropical macroalgae
+(Padina sp., Amphiroa sp. and Turbinaria sp.) and the overlying water column to natural changes in reefal carbonate
+intracellular DMSP and water column DMSP+DMS concentrations between the
+chemistry. We compared macroalgal
+environmentally stable reef crest and environmentally variable reef flat of the fringing Suleman Reef, Egypt, over 45-hour
+sampling periods. Similar diel patterns were observed throughout: maximum intracellular DMSP and water column DMS/P
+concentrations were observed at night, coinciding with the time of lowest carbonate saturation state. Spatially, water
+column DMS/P concentrations were highest over areas dominated by seagrass and macroalgae (dissolved DMS/P) and
+phytoplankton (particulate DMS/P) rather than corals. This research suggests that macroalgae may use DMSP to maintain
+metabolic function during periods of low carbonate saturation state. In the reef system, seagrass and macroalgae may be
+more important benthic producers of dissolved DMS/P than corals. An increase in DMS/P concentrations during periods of
+low carbonate saturation state may become ecologically important in the future under an OA regime, impacting larval
+settlement and increasing atmospheric emissions of DMS.
+
+Citation: Burdett HL, Donohue PJC, Hatton AD, Alwany MA, Kamenos NA (2013) Spatiotemporal Variability of Dimethylsulphoniopropionate on a Fringing Coral
+Reef: The Role of Reefal Carbonate Chemistry and Environmental Variability. PLoS ONE 8(5): e64651. doi:10.1371/journal.pone.0064651
+
+Editor: Tilmann Harder, University of New South Wales, Australia
+
+Received February 7, 2013; Accepted April 17, 2013; Published May 28, 2013
+Copyright: (cid:1) 2013 Burdett et al. This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits
+unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.
+
+Funding: This research was financially supported by a NERC studentship (NE/H525303/1) to HB, a University of Glasgow Mobility Scholarship to HB and PD and a
+Royal Society of Edinburgh/Scottish Government Fellowship (RSE 48701/1) and Carnegie Trust for the Universities of Scotland grant to NK. The funders had no
+role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.
+
+Competing Interests: The authors have declared that no competing interests exist.
+
+* E-mail: h.burdett.1@research.gla.ac.uk
+
+Introduction
+
+The carbonate chemistry of
+
+the oceans is regulated by a
+is driven by the dissolution of
+carbonate equilibrium that
+atmospheric CO2 into the oceans. Since the Industrial Revolution,
+atmospheric CO2 concentrations have increased from 280 ppm to
+,390 ppm; CO2 concentrations have been increasing by ,2 ppm
+yr21 since 2000 [1]. It is projected that continued anthropogenic
+emissions of CO2 will cause the pH of the oceans to drop by 0.3–
+0.5 units by 2100 [2], a process known as ocean acidification (OA).
+This rate of change has been estimated to be ,100 times faster
+than during glacial terminations [3], raising concerns over the
+future survival of calcifying organisms.
+
+Coastal habitats such as coral reefs are characterised by more
+extreme natural variations in carbonate saturation state compared
+to the open ocean, reflecting diurnal and seasonal cycles driven by
+biological and physical processes [3]. Thus, in order to accurately
+project the impact of an OA scenario on coastal ecosystems, one
+
+must first understand contemporary natural variability. Spatial
+heterogeneity of carbonate chemistry has been observed in coral
+flats and lagoons more variable than
+reef systems, with reef
+fringing forereefs due to biological
+(benthos composition) and
+physical
+(wave action and residence time) variables [4,5,6,7,8].
+Similarly, surface pCO2 in atoll and barrier reef lagoons may be
+higher than offshore waters [9]. Where the benthos is dominated
+by filamentous turf algae, pH may be high (i.e. less acidic) [7].
+Short-term and longer-term temporal heterogeneity in reefal
+carbonate chemistry has also been observed. During the day, net
+calcification may be observed, whilst net dissolution may be
+observed at night [8], influencing the carbonate chemistry of the
+overlying water column. Seasonal patterns in carbonate chemistry
+have been observed [10] but this may be de-coupled from reef
+calcification due to the maintenance of threshold saturation levels
+during the winter [11].
+
+The response of calcified organisms to reduced carbonate
+saturation state is varied depending on their carbonate structure,
+
+PLOS ONE | www.plosone.org
+
+1
+
+May 2013 | Volume 8 |
+
+Issue 5 | e64651
+
+the most
+
+their method of calcification and their ability to benefit from an
+increase in CO2 (e.g. for photosynthesis) [12]. This has led to the
+suggestion that, under an OA scenario, coral reefs may become
+dominated by macroalgae (fleshy and coralline) [13]. The negative
+effect of low carbonate saturation state on the calcification and
+growth of red coralline algae (which deposit high-magnesium
+calcite,
+thermodynamically unstable carbonate poly-
+morph) has been well reported. During the winter, net calcification
+in the temperate/polar coralline alga Lithothamnion glaciale was
+significantly reduced at high CO2 (750, 950 and 1500 ppm), whilst
+only the very high CO2 treatment (1500 ppm) induced a decrease
+in calcification in the summer [14]. Growth rates and structural
+integrity of L. glaciale may also be reduced under high CO2 (589–
+1080 matm) [15,16]. After a 1 year exposure to high CO2
+conditions (700 ppm), net dissolution exceeded net calcification in
+Lithophyllum cabiochae
+[17], and when combined with high
+temperature (+3uC) more algal necroses, death and dissolution
+were observed [17]. Spore production, growth and recruitment of
+the Corallinaceae are also inhibited by high CO2 conditions (550–
+760 ppm) [18,19,20]. Additionally, high CO2 (1000 ppm) and UV
+radiation (particularly UVB) may act synergistically to inhibit
+growth, photosynthetic O2 evolution and calcification in the
+geniculate coralline alga Corallina sessilis [21].
+
+In the field, calcifying organisms may decrease in abundance
+under high, variable pCO2 conditions [22]. Despite this, Padina
+spp. (Ochrophyta: Dictyoaceae), one of only two known calcifying
+brown algae, appear to thrive in CO2 vent systems, albeit with
+reduced calcification in the more acidified areas [23], attributed to
+the lower abundance of grazing sea urchins in acidified areas and
+from higher CO2 availability [23].
+enhanced photosynthesis
+Experimental reef studies (conducted in 2650 m3 mesocosms
+dominated by macroalgae) suggest
+that although calcification
+appears to decline under high CO2 conditions, net organic
+production does not change [24,25]. However, current studies are
+not wholly conclusive and more detailed investigations into the
+biochemical and morphological effects of low carbonate saturation
+state on calcifying benthic macroalgae are still required.
+
+[31] and attractant
+
+Dimethylsulphoniopropionate (DMSP) is a sulphur compound
+produced by many marine algae and is the major precursor to
+dimethylsulphide (DMS), a gas that may be linked to local climate
+regulation through aerosol production and cloud formation
+[26,27]. A number of cellular functions have been described for
+DMSP in macro- and microalgae, including as a compatible solute
+[28], a cryoprotectant [29], an antioxidant [30] and a herbivore
+deterrent
+[32]. A general reduction in
+intracellular DMSP concentrations with increasing latitude has
+been suggested for macroalgae in the northern hemisphere [31],
+perhaps in response to the cryoprotective properties of DMSP
+[29]. However, this suggestion was based primarily on Chlor-
+ophyta species,
+the abundance of which also increases with
+increasing latitude.
+secondary
+metabolites (e.g.
+tend to increase in low latitudes,
+perhaps due to increased grazing pressure [33]. The principal
+functions of DMSP have not been extensively studied and the lack
+of data available on macroalgal DMSP concentrations currently
+prevents such assessments to be made.
+
+In contrast, other macroalgal
+
+terpenes)
+
+Information on the effect of reduced carbonate saturation state
+on intracellular DMSP concentrations in algae is limited and has
+provided variable results. Intracellular DMSP concentrations in
+the green macroalgae Ulva lactuca and U. clathrata was not affected
+by elevated pCO2 conditions (up to 1514 matm) [34]. However, in
+the non-geniculate red coralline alga L. glaciale, reduced pH
+(pH 7.7), particularly when variable,
+led to an increase in
+intracellular DMSP concentrations [16]. Species-specific responses
+
+Diurnal DMSP Patterns on a Tropical Reef
+
+have also been observed in phytoplankton. An up-regulation of
+intracellular DMSP has been observed in Emiliania huxleyi under
+high temperature and high CO2 (+4uC/1000 ppm) [35]; (+6uC/
+790 ppm) [36]. In contrast, intracellular DMSP concentrations
+were reduced in Thalassiosira pseudonana and Phaeodactylum tricornutum
+under high temperature and CO2 (+6uC/790 ppm) [36].
+
+In tropical reef environments,
+
+intracellular DMSP may be
+important as an antioxidant, grazing deterrent and/or compatible
+solute. Recent studies also suggest that intracellular DMSP may
+play a role in improving tolerance to variable carbonate chemistry
+conditions [16]. Corals from environmentally variable conditions
+(e.g. reef lagoons and flats) may be more thermally tolerant than
+those from more stable conditions (e.g. reef crests) [37]. Thus, it
+may be expected that organisms (e.g. corals and macroalgae) on
+reef flats have also developed mechanisms (e.g. up-regulation of
+DMSP) to become more tolerant of carbonate system variability
+compared to those on reef crests. This study assessed natural
+spatiotemporal variability of
+intracellular DMSP and water
+column DMSP+DMS (DMS/P) concentrations in the fringing
+reef environment of the Red Sea and related this to the carbonate
+chemistry of the overlying water column. It was hypothesised that
+(1) intracellular DMSP and water column DMS/P concentrations
+would fluctuate more on the environmentally variable reef flat
+compared to the environmentally stable reef crest and (2) corals
+would be the primary source of DMS/P in the reef system, as was
+observed on the Great Barrier Reef, Australia [38,39].
+
+Materials and Methods
+
+Study Site and Field Sampling Design
+
+Research was conducted on the fringing Suleman Reef, Gulf of
+Aqaba, northern Red Sea, Egypt (28u289N, 34u309W) in August
+2011. This reef is characterised by four distinct zones: seagrass
+beds nearest the shore, the reef flat 40–60 m from the shore, the
+reef crest 100–120 m from the shore and the reef slope which
+extends away from the reef crest to a depth of ,10 m. On
+average, water depth was uniform across
+the reef platform
+(,0.8 m). All research was approved by the Dahab Marine
+Research Center and the Marine Environmental Center, Suez
+Canal University, provided the permit to conduct the research.
+
+Water and macroalgal samples were taken at the reef
+
+flat
+(dominated by fleshy and coralline macroalgae) and the reef crest
+(dominated by small branching corals, macroalgae and encrusting
+coralline algae) over two 45-hour experimental periods, at T14,
+T21, T29, T38 and T45 hours (Where T0 was 00:00 on day one).
+In situ water temperature, salinity and dissolved oxygen were
+recorded at each timepoint using a YSI Pro 2030 instrument. In
+situ photosynthetically active radiation (PAR) at the sea bed was
+recorded hourly at the reef flat and reef crest using an Apogee
+QSO-E underwater quantum sensor and Gemini voltage data
+logger.
+
+Carbonate Chemistry
+
+At each timepoint, water samples were preserved for carbonate
+chemistry with MgCl2 [40] and stored in the dark for subsequent
+total alkalinity (TA) and dissolved inorganic carbon (DIC) analysis.
+DIC was determined using a CO2 Coulometer (CM5014 v.3, UIC
+Ltd.) with acidification module (CM5130 v.2, UIC Ltd.) and
+methods described by Dickson et al. [40]. TA was determined
+using the 2-stage open-cell titration method [40]. In situ TA, DIC,
+temperature and salinity measurements were used to calculate pH,
+22 concentrations and calcite (VCa) and
+pCO2, HCO3
+aragonite (VAr)
+saturation states using CO2SYS [41] with
+
+2 and CO3
+
+PLOS ONE | www.plosone.org
+
+2
+
+May 2013 | Volume 8 |
+
+Issue 5 | e64651
+
+dissociation constants from Mehrbach et al. [42] refit by Dickson
+and Millero [43] and [KSO4] using Dickson [44].
+
+Statistics
+
+Intracellular DMSP
+
+Three macroalgal species were analysed for intracellular DMSP
+(n = 10 per species, per timepoint, per location): Padina sp.
+(Ochrophyta: Dictyotales), Amphiroa sp. (Rhodophyta: Corallinales)
+and Turbinaria sp.
+(Ochrophyta: Fucales). Both Padina sp. and
+Amphiroa sp. were found on the reef crest and reef flat; Turbinaria sp.
+was found only on the reef crest. Macroalgal samples (,0.2 g)
+were stored in 10 M NaOH in gas-tight glass vials sealed with
+Pharma-Fix (Grace Alltech) crimp lids to hydrolyse all intracellular
+DMSP into DMS. Vials were stored in the dark until DMS
+quantification.
+
+Water Column DMSP
+
+At each sampling timepoint, water samples were collected from
+the reef flat and reef crest (n = 5 per location per timepoint), from
+15 cm above the seabed. 50 ml water samples were filtered using a
+0.7 mm depth filter (Millepore). The filtrate and filter paper were
+stored in glass vials sealed with Pharma-Fix septa at a final
+concentration of 0.33 M NaOH. These samples represented the
+total dissolved and particulate DMS+DMSP pool
+(DMSPt).
+Logistical constraints limited DMSPt sample collections to the
+first 45-hour sampling period only.
+
+Reef Transect – Spatial Variation
+
+In addition to the reef flat/reef crest diel comparison, water
+samples (n = 3 per location) were also taken at one timepoint
+(16:00) along a transect perpendicular to the shore at
+five
+locations: at the seagrass bed (10 m from the shore), on the reef
+flat (50 m from the shore), crest (100 m from the shore) and slope
+(120 m from the shore) and 270 m offshore (sandy bottom, no
+discernible macro-primary production). Samples were prepared
+for DMSPt using the methods described above.
+
+DMSP Analysis
+
+All DMSP samples were analysed using a Shimadzu 2014 gas
+chromatograph (GC) fitted with a 25 m capillary column (Restek
+RTx-5MS 30 m column, 0.25 mm ID) and a sulphur-specific FPD
+detector (injector port and column oven temperature: 45uC,
+detector: 200uC). Samples were analysed within 2 months of
+collection. Intracellular DMSP samples were analysed by direct
+injection of the vial headspace into the GC injector port. Water
+column DMSPt samples were pre-concentrated using the purge
+and cryotrap technique [45] before injection into the GC. Sample
+concentrations were quantified from DMSP standard calibration
+curves (DMSP standard from Research Plus Inc.). The limit of
+detection was 960 ng S per 100 ml headspace injection and
+0.64 ng S per injection using the cryotrap system; standard and
+sample precision was within 3%.
+
+Proportion Calcified
+
+The proportion of Padina sp. and Amphiroa sp. from the reef crest
+and flat that was calcified was determined by recording the mass of
+samples before and after overnight storage in 10 M NaOH to
+break down the organic material. The mass remaining represented
+the calcified portion, which was expressed as a percentage of the
+original mass. The proportion of Amphiroa sp. from the reef crest
+that was calcified could not be calculated as the carbonate
+structure broke down in the NaOH preventing final mass
+assessment.
+
+Diurnal DMSP Patterns on a Tropical Reef
+
+Intracellular DMSP measurements could not be transformed to
+achieve normality and homogeneity of variance, thus a non-
+parametric multi-comparison Kruskall-Wallis test was performed
+to compare the data sets. Transect DMSPt data were analysed
+using general linear models (test assumptions met). Analyses were
+conducted using Minitab V15.
+
+Generalised Additive Models (GAMs) were used to assess the
+relationship between the reefal abiotic parameters and measured
+macroalgal and water column DMSP concentrations. GAMs were
+conducted in R (V2.14.2) using the ‘mgcv’ package [46]. Thin
+plate regression splines were used as the smoothing basis, allowing
+multiple predictors to be considered and reducing subjectivity as
+knot locations (i.e. where splines join) are not manually specified
+[46]. Abiotic parameter interactions were identified using the ‘tree’
+package in R. The most parsimonious GAM for each DMSP
+dataset was determined using generalised cross validation tech-
+niques (GCV) [46].
+
+Results
+
+Water Chemistry
+
+Both the reef crest and reef
+
+flat exhibited a diel trend in
+water temperature: highest water temperatures were in the
+afternoon and lowest temperatures were at dawn (Figure 1A).
+Whilst minimum water temperature on the reef flat and reef
+crest were the same (26.0uC), maximum temperatures were
+higher on the reef flat than the reef crest (29.1uC compared to
+27.5uC), resulting in the reef
+flat having a wider temperate
+(3.15uC and 1.5uC respectively,
+range than the reef crest
+Figure 1A). The range in dissolved oxygen was also wider on
+flat (60–160%) than the reef crest (110–70%, Figure
+the reef
+supporting information). No difference was observed
+S1A,
+between the reef crest and reef
+flat in terms of PAR (0.8 m
+depth, Figure S1B, supporting information), with a maximum of
+.1500 mmol photons m22 s21 at 14:00 on day one and day
+two of the 45-hour experimental periods.
+
+(2422–2681 mmol kg21) or flat
+
+TA did not exhibit a strong diurnal oscillation on the reef
+(2433–2574 mmol kg21,
+crest
+Figure 1B). DIC on the reef flat (,2000 mmol kg 21) was lower
+than the reef crest (,2100 mmol kg21) at all daytime sampling
+points; at night (21 h and 45 h) DIC on the flat and crest were
+similar (2100–2200 mmol kg21, Figure 1B). Saturation states
+were highest in the day (maximum VCa: 9.3 on the crest and
+7.8 on the flat; VAr: 5.9 on the crest and 4.9 on the flat) and
+lowest at night/dawn (minimum VCa: 3.9 on the crest and 3.7
+on the flat; VAr: 2.4 on the crest and 2.3 on the flat, Figure 1C).
+2 concentrations and pCO2 diel trends
+pH, CO3
+(derived from TA and DIC) are available in Figure S1C–F
+(supporting information).
+
+22 and HCO3
+
+Intracellular and Water Column DMSP
+
+A general diurnal oscillation was observed for most DMSP
+measurements: high DMSP concentrations at 21:00 (T21+T45)
+and low concentrations at 14:00 (T14+T38, Figure 2). An
+exception to this was Padina sp. on the crest (no diurnal trend,
+Figure 2A). No statistical difference was observed between the
+intracellular DMSP concentrations of Padina sp. from the reef flat
+and crest except at T29 (Z = 3.41, p,0.001, Figure 2A).
+Intracellular DMSP in Amphiroa sp. on the flat (12.665.5 mg S
+g21
+crest
+(24.968.2 mg S g21, Z = 4.73, p,0.001, Figure 2B), with a
+significant diurnal
+low intracellular DMSP at 14:00
+(T14+T38) and high DMSPi at 21:00 (T21+T45, Z = 4.63,
+
+, mean6SD) was
+
+significantly
+
+than the
+
+trend of
+
+lower
+
+PLOS ONE | www.plosone.org
+
+3
+
+May 2013 | Volume 8 |
+
+Issue 5 | e64651
+
+Diurnal DMSP Patterns on a Tropical Reef
+
+Figure 1. Diel pattern of abiotic parameters on Suleman Reef, Egypt. In situ A: water temperature (uC), B: TA and DIC (mmol kg21) and C:
+calcite (VCa) and aragonite (VAr) saturation states at the reef crest (black symbols) and reef flat (open symbols) over a 45-hour period on Suleman
+Reef, Egypt. Grey shading indicates night-time (sunset – sunrise). Data presented as mean60.5 range of two experimental runs.
+doi:10.1371/journal.pone.0064651.g001
+
+p,0.001, Figure 2B). A diurnal trend was also evident in the
+intracellular DMSP concentrations of Turbinaria sp. from the reef
+(,0.3 mg S g21 at 14:00, .0.5 mg S g21 at 21:00
+crest
+[T21+T45]), although this was not significant (Z ,3.40) and was
+characterised by a relatively high variability at 21:00 (T21+T45)
+and 07:00 (T29, Figure 2C). DMSPt did not differ significantly
+between the crest and flat (T22 = 20.18, p = 0.862, Figure 2D), but
+there was suggestion of a diurnal trend, with elevated concentra-
+tions at 21:00 (T21+T45) compared to 14:00 (T14+T38),
+particularly on the reef flat.
+
+Associations between Environmental Conditions and
+DMSP
+
+Carbonate chemistry parameters were present
+
+in the most
+parsimonious GAM models for all DMSP datasets (Table 1).
+Water temperature was significantly associated with intracellular
+DMSP concentrations in Amphiroa sp. (reef crest and flat, Table 1).
+Dissolved oxygen was significantly associated with intracellular
+DMSP concentrations in Padina sp. (reef crest), Turbinaria sp. (reef
+crest) and water column DMSPt (reef
+flat, Table 1). The %
+deviance explained by the GAM models was generally higher for
+reef flat datasets, except Padina sp. (reef crest: 66%, reef crest: 44%
+deviance explained, Table 1).
+
+Transect DMSPt
+
+A significant difference in DMSPt was observed between the
+five transect sampling sites (F4 = 10.38, p = 0.001)
+(Figure 3).
+DMSPt on the reef crest (17.2960.53 nmol L21, mean6SE) and
+slope (14.6761.11 nmol L21) were significantly lower than the
+seagrass (23.3862.04 nmol L21) and offshore (23.8961.29 nmol
+L21)
+flat exhibited an intermediate DMSPt
+concentration (18.3260.66 nmol L21).
+
+sites. The reef
+
+Proportion Calcified
+
+No significant difference in the proportion of thallus that was
+calcified was observed between Padina sp. samples from the reef
+crest (56.5616.0%, mean6SD) and flat (51.564.7%, T1 = 0.30,
+p = 0.816). The proportion for Amphiroa sp. on the reef flat that was
+calcified was 43.665.0%. The proportion of Amphiroa sp. on the
+reef crest that was calcified could not be determined, although
+visually these samples appeared to be more heavily calcified.
+
+Discussion
+
+Biological Control of Carbonate Chemistry
+
+Biological processes, particularly photosynthesis/respiration and
+calcification/dissolution can strongly influence the carbonate
+chemistry of tropical reefs [4,7,8]. The Suleman reef platform
+was, on average, only 0.8 m deep, thus biological processes are
+
+PLOS ONE | www.plosone.org
+
+4
+
+May 2013 | Volume 8 |
+
+Issue 5 | e64651
+
+Diurnal DMSP Patterns on a Tropical Reef
+
+Figure 2. Diel pattern of DMS/P measurements on Suleman Reef, Egypt. Intracellular DMSP (mg S g21 algae as intracellular DMSP, DMSPi) of
+A: Padina sp., B: Amphiroa sp. and C: Turbinaria sp. and, in the water column, D: total DMS+DMSP (DMSPt, nmol L21) on the reef crest (black circles)
+and reef flat (open circles) over a 45-hour period on Suleman Reef, Egypt. Grey shading indicates night-time (sunset – sunrise). Data presented as
+mean6SE. Note the different y-axes on all graphs.
+doi:10.1371/journal.pone.0064651.g002
+
+Table 1. Most parsimonious GAM models for intracellular DMSP (DMSPi) for Padina sp., Amphiroa sp. and Turbinaria sp. and water
+column DMSP on the reef crest and flat at Suleman Reef, Egypt.
+
+Location
+
+Sample
+
+GAM formula
+
+Est. df
+
+GCV score
+
+Adj. R2
+
+Dev. exp. (%)
+
+Crest
+
+Flat
+
+Padina
+
+Amphiroa
+
+Turbinaria
+
+Water column
+
+Padina
+
+Amphiroa
+
+Water column
+
+DMSPi , s(TA)+s(DO)
+DMSPi , s(TA)+s(Temp:TA)
+DMSPi , s(DO)+s(DO:DIC)
+DMSPt , s(VCa)
+DMSPi , s(TA)+s(TA:VCa)
+DMSPi , s(Temp)+s(VCa)+s(pCO2)
+DMSPt , s(DO)+s(pH)
+
+6.92
+
+5.16
+
+4.00
+
+2.57
+
+5.02
+
+5.99
+
+3.98
+
+0.084
+
+0.074
+
+0.150
+
+0.009
+
+0.100
+
+0.034
+
+0.005
+
+0.64
+
+0.278
+
+0.536
+
+0.169
+
+0.408
+
+0.739
+
+0.745
+
+66.4
+
+31.3
+
+56.2
+
+27
+
+43.7
+
+75.4
+
+80.9
+
+Statistics presented: estimated degrees of freedom (Est. df), GCV score, Adjusted R2 (Adj. R2), % deviance explained (Dev. exp.).
+TA: Total alkalinity, DO: dissolved oxygen, Temp: water temperature, DIC: dissolved inorganic carbon, VCa: calcite saturation state, pCO2: partial pressure of CO2.
+doi:10.1371/journal.pone.0064651.t001
+
+PLOS ONE | www.plosone.org
+
+5
+
+May 2013 | Volume 8 |
+
+Issue 5 | e64651
+
+Diurnal DMSP Patterns on a Tropical Reef
+
+Figure 3. DMSPt measurements along a transect across Suleman Reef, Egypt. Measurements taken from the five zones of Suleman reef:
+seagrass beds nearest the shore, the reef flat, reef crest, reef slope and 270 m offshore. Data presented as mean6SE.
+doi:10.1371/journal.pone.0064651.g003
+
+likely to have strongly influenced the observed diel patterns in
+carbonate chemistry, probably due to the low surface area to
+volume ratio [47]. In general, carbonate parameters were more
+variable on the reef flat compared to the reef crest. The diel
+difference between CO2 utilisation and release was likely higher on
+the reef flat than the crest due to the high proportion of macroalgal
+cover on the reef flat. CO2 uptake for photosynthesis during the
+day (which reduces DIC) and release by respiration at night (which
+increases DIC) were the probable drivers of the diel pattern in
+DIC concentrations. This proposed biological control mechanism
+was also reflected in the dissolved oxygen concentrations, which
+were ,160% saturated during the day (release from photosyn-
+thesis) and ,60% saturated during the night
+(uptake for
+respiration) on the reef flat (see Figure S1A, supporting informa-
+tion). The TA and DIC measurements observed in Suleman Reef
+are within the range cited for other tropical reef systems [47]. Such
+large diel changes in oxygen saturation have also been reported for
+Puerto Rican reefs (62–138%) [6].
+
+Species-specific Intracellular DMSP Concentrations
+
+in more extreme conditions
+
+Intracellular DMSP concentrations of Red Sea tropical
+macroalgae in this study were higher than intracellular DMSP
+concentrations reported for the same genera from Australia [39]
+and the Caribbean [48]. Restricted water circulation within the
+Gulf of Aqaba results
+(salinity,
+temperature and carbonate chemistry) compared to other tropical
+reefs [49], which may necessitate an increase in intracellular
+DMSP relative to other tropical reef environments. Despite this,
+inter- and intra-species differences in intracellular DMSP concen-
+trations were observed in the macroalgae of Suleman Reef, with
+Amphiroa sp.
+(crest and
+flat).Turbinaria sp. (crest). Grazing pressure may have contributed
+to the species-specific and diel patterns in intracellular DMSP
+concentrations, as grazing pressure is typically highest at night on
+tropical reefs [50] and DMSP may be an important grazing
+defence mechanism in macroalgae [51,52,53].
+
+(crest).Amphiroa sp.
+
+(flat) .Padina sp.
+
+Diel Regulation of DMSP
+
+[51,52,53]. Our results also suggest
+
+The production of DMSP by algae is energetically costly [54],
+thus the regulation of DMSP in response to environmental change
+(e.g. hypersalinity) may be relatively slow [55]. However, the
+principal functions of DMSP in algae under varying environmen-
+tal conditions are not well understood. Overall, a clear diel pattern
+in macroalgal
+intracellular DMSP and water column DMSPt
+concentrations was observed, with DMSP concentrations typically
+supporting the macroalgal grazing defence
+highest at night,
+hypothesis
+that DMSP
+concentrations were driven, at least in part, by the reefal carbonate
+chemistry. Thus,
+intracellular DMSP may play a role in
+maintaining macroalgal cellular
+low
+carbonate saturation conditions, although other factors may also
+play a role (e.g. nutrients, grazing pressure). In temperate red
+coralline algae, DMSP may be up-regulated in response to acute
+changes in saturation state [16], thus it may be proposed that the
+algae sampled in this study also respond to decreases in saturation
+state by up-regulating intracellular DMSP concentrations. DMSPt
+will have consisted of benthic, detrital, land and phytoplankton
+material. DMSPt on the reef flat was well described by dissolved
+oxygen and pH (81% deviance explained); whilst DMSPt on the
+reef crest was not well described by any of the measured abiotic
+parameters (most parsimonious parameter: VCa, 27% deviance
+explained), suggesting that DMSPt on the crest was influenced by
+offshore waters more than DMSPt on the reef
+flat (different
+phytoplanktonic community for example).
+
+function whilst under
+
+temperature was a significant
+
+DMSP and its breakdown products have been proposed as an
+‘antioxidant cascade’ [30], able to ‘mop up’ reactive oxygen
+species produced by photosynthesis or elevated temperature.
+Water
+factor contributing to
+observed intracellular DMSP concentrations in Amphiroa sp. This
+suggests that either DMSP was utilised during the day and
+replenished at night or there was a lag in the response of
+intracellular DMSP in Amphiroa sp. to ROS production (perhaps
+due to the energy outlay required) [54]. However, such a long lag
+
+PLOS ONE | www.plosone.org
+
+6
+
+May 2013 | Volume 8 |
+
+Issue 5 | e64651
+
+in DMSP response (seven hours or more) may not be an effective
+mechanism against oxidative damage.
+
+Dissolved oxygen levels remained well above the suggested level
+for hypoxic impact (,30% saturation) [56] and the effect of
+reduced oxygen saturation on the intracellular DMSP concentra-
+tions of macroalgae is not known. However, dissolved oxygen did
+appear to influence the intracellular DMSP concentrations of
+Padina sp. and Turbinaria sp., suggesting that DMSP may be up-
+regulated during periods of low oxygen saturation.
+
+Benthic Producers of DMSP
+
+Tropical corals have been described as one of
+
+the most
+important benthic sources of DMSP and DMS in the coastal
+zone [39]. Most data are from the Great Barrier Reef (GBR),
+Australia but the sources of water column DMSP and DMS are
+undefined. The GBR is also morphologically and hydrographically
+different to the fringing reef of this study. Results from this study
+that other macro-primary producers may be more
+suggest
+important sources of DMSPt
+than corals. Nearshore DMSPt
+concentrations were highest in areas dominated by seagrass beds
+and macroalgae (on the reef flat) rather than corals (reef crest and
+slope). DMSPt concentrations were also elevated at the offshore
+site, where the primary source is likely to have been phytoplank-
+ton. Importantly, DMSP in the water column is available to
+microorganisms for potential breakdown into DMS, which is then
+available for atmospheric flux. Given the shallow water depth of
+the Suleman Reef platform (,0.8 m), the inshore reef areas may
+be important sources of atmospheric DMS in the region.
+
+Structural Tolerance to Variable Conditions
+
+Calcification in Amphiroa sp.
+
+(high-magnesium calcite) was
+visibly reduced on the reef flat, suggesting that the algae were,
+relatively speaking, partially decalcified in the more variable
+conditions. This could not be quantitatively confirmed but changes
+to the calcite structure of red coralline algae in response to variable
+carbonate saturation has been observed in the temperate coralline
+alga Lithothamnion glaciale [16]. Grazing pressure may have also
+contributed to the observed differences in calcification. In contrast,
+the calcification of Padina sp.
+(aragonite) was not significantly
+different between the reef flat and reef crest, despite previous
+reports of decalcified Padina sp. in naturally low pH environments
+in Italy and Papua New Guinea [23].
+
+References
+
+1. NOAA. Trends in atmospheric carbon dioxide. Available: http://www.esrl.
+
+noaa.gov/gmd/ccgg/trends/mlo.html. Accessed 2012.
+
+2. Caldeira K, Wickett ME (2005) Ocean model predictions of chemistry changes
+from carbon dioxide emissions to the atmosphere and ocean. Journal of
+Geophysical Research 110: C09S04.
+
+3. Pelejero C, Calvo E, Hoegh-Guldberg O (2010) Paleo-perspectives on ocean
+
+acidification. Trends in Ecology & Evolution 25: 332–344.
+
+4. Anthony KRN, A. Kleypas J, Gattuso J-P (2011) Coral reefs modify their
+seawater carbon chemistry – implications for impacts of ocean acidification.
+Global Change Biology 17: 3655–3666.
+
+5. Kleypas JA, Anthony KRN, Gattuso J-P (2011) Coral reefs modify their
+seawater carbon chemistry – case study from a barrier reef (Moorea, French
+Polynesia). Global Change Biology 17: 3667–3678.
+
+6. Gray SEC, DeGrandpre MD, Langdon C, Corredor JE (2012) Short-term and
+seasonal pH, pCO2 and saturation state variability in a coral-reef ecosystem.
+Global Biogeochem Cycles 26: GB3012.
+
+7. Gagliano M, McCormick M, Moore J, Depczynski M (2010) The basics of
+acidification: baseline variability of pH on Australian coral reefs. Marine Biology
+157: 1849–1856.
+
+8. Zhang Z, Falter J, Lowe R, Ivey G (2012) The combined influence of
+hydrodynamic forcing and calcification on the spatial distribution of alkalinity in
+a coral reef system. Journal of Geophysical Research 117: C04034.
+
+9. Suzuki A, Kawahata H (2003) Carbon budget of coral reef systems: an overview
+of observations in fringing reefs, barrier reefs and atolls in the Indo-Pacific
+regions. Tellus B 55: 428–444.
+
+Diurnal DMSP Patterns on a Tropical Reef
+
+Environmental Implications and Conclusions
+
+that
+
+[3]. Our
+
+study suggests
+
+In coastal regions, the effect of OA will be superimposed on the
+resulting in new carbonate
+naturally variable environment,
+extremes
+intracellular DMSP
+concentrations may be regulated in response to variability in
+reefal carbonate chemistry, helping to maintain cellular function
+during periods of lower carbonate saturation. Macroalgal intra-
+cellular DMSP regulation may also impact
+the function of
+macroalgae within the reefal ecosystem. Coralline algae are
+important settlement cues for invertebrate larvae, particularly
+corals, e.g. [57,58], a function which may be reduced under high-
+CO2 conditions [59] and which may be driven by intracellular
+DMSP concentrations [60]. It is projected that other calcifying
+reef organisms such as urchins may be detrimentally affected by
+OA, e.g. [22,61,62], impacting the food web dynamics of the reef
+ecosystem and perhaps allowing a phase shift towards macroalgae
+dominance to occur [63]. A shift towards macroalgal dominance
+may subsequently impact DMSP biogeochemistry, affecting
+ecosystem function and perhaps resulting in higher water column
+DMSPt concentrations. This will
+increase the potential atmo-
+spheric emissions of DMS from the area, with subsequent impacts
+on local climate regulation [26,27].
+
+Supporting Information
+
+Figure S1 Diel pattern in abiotic parameters of Sule-
+man Reef, Egypt.
+In situ A: dissolved oxygen (%), B:
+photosynthetically active radiation (PAR, mmol photons m22
+s21), C: pCO2 (matm), D: HCO3
+2 concentration (mmol kg21), E:
+CO3
+(TIF)
+
+22 concentration (mmol kg21), F: pH.
+
+Acknowledgments
+
+Thanks extend to the staff at the Dahab Marine Research Centre for their
+provision of research facilities.
+
+Author Contributions
+
+Conceived and designed the experiments: HB PD NK. Performed the
+experiments: HB PD NK. Analyzed the data: HB. Wrote the paper: HB
+PD AH MA NK.
+
+10. Bates NR, Amat A, Andersson AJ (2010) Feedbacks and responses of coral
+calcification on the Bermuda reef system to seasonal changes in biological
+processes and ocean acidification. Biogeosciences 7: 2509–2530.
+
+11. Falter JL, Lowe RJ, Atkinson MJ, Cuet P (2012) Seasonal coupling and de-
+coupling of net calcification rates from coral reef metabolism and carbonate
+chemistry at Ningaloo Reef, Western Australia. Journal of Geophysical Research
+117: C05003.
+
+12. Ries JB, Cohen AL, McCorkle DC (2009) Marine calcifiers exhibit mixed
+
+response to CO2-induced ocean acidification. Geology 37: 1131–1134.
+
+13. Hoegh-Guldberg O, Mumby PJ, Hooten AJ, Steneck RS, Greenfield P, et al.
+(2007) Coral Reefs Under Rapid Climate Change and Ocean Acidification.
+Science 318: 1737–1742.
+
+14. Bu¨ denbender J, U R, A F (2011) Calcification of the Arctic coralline red algae
+Lithothamnion glaciale in response to elevated CO2. Marine Ecology Progress Series
+441: 79–87.
+
+15. Ragazzola F, Foster LC, Form A, Anderson PSL, Hansteen TH, et al. (2012)
+Ocean acidification weakens the structural integrity of coralline algae. Global
+Change Biology 18: 2804–2812.
+
+16. Burdett HL, Aloisio E, Calosi P, Findlay HS, Widdicombe S, et al. (2012) The
+effect of chronic and acute low pH on the intracellular DMSP production and
+epithelial cell morphology of red coralline algae. Marine Biology Research 8:
+756–763.
+
+17. Martin S, Gattuso JP (2009) Response of Mediterranean coralline algae to ocean
+acidification and elevated temperature. Global Change Biology 15: 2089–2100.
+
+PLOS ONE | www.plosone.org
+
+7
+
+May 2013 | Volume 8 |
+
+Issue 5 | e64651
+
+18. Cumani F, Bradassi F, Di Pascoli A, Bressan G (2010) Marine Acidification
+Effects on Reproduction and Growth Rates of Corallinaceae Spores (Rhodo-
+phyta). CIESM Congress Proceedings 39: 735.
+
+19. Kuffner IB, Andersson AJ, Jokiel PL, Rodgers KuS, Mackenzie FT (2008)
+Decreased abundance of crustose coralline algae due to ocean acidification.
+Nature Geoscience 1: 114–117.
+Jokiel P, Rodgers K, Kuffner I, Andersson A, Cox E, et al. (2008) Ocean
+acidification and calcifying reef organisms: a mesocosm investigation. Coral
+Reefs 27: 473–483.
+
+20.
+
+21. Gao K, Zheng Y (2010) Combined effects of ocean acidification and solar UV
+radiation on photosynthesis, growth, pigmentation and calcification of
+the
+coralline alga Corallina sessilis (Rhodophyta). Global Change Biology 16: 2388–
+2398.
+
+22. Hall-Spencer JM, Rodolfo-Metalpa R, Martin S, Ransome E, Fine M, et al.
+show ecosystem effects of ocean
+
+(2008) Volcanic carbon dioxide vents
+acidification. Nature 454: 96–99.
+Johnson VR, Russell BD, Fabricius KE, Brownlee C, Hall-Spencer JM (2012)
+Temperate and tropical brown macroalgae thrive, despite decalcification, along
+natural CO2 gradients. Global Change Biology: n/a-n/a.
+
+23.
+
+24. Langdon C, Broecker WS, Hammond DE, Glenn E, Fitzsimmons K, et al.
+(2003) Effect of elevated CO2 on the community metabolism of an experimental
+coral reef. Global Biogeochem Cycles 17: 1011.
+
+25. Langdon C, Takahashi T, Sweeney C, Chipman D, Goddard J, et al. (2000)
+Effect of calcium carbonate saturation state on the calcification rate of an
+experimental coral reef. Global Biogeochem Cycles 14: 639–654.
+
+26. Charlson RJ, Lovelock JE, Andreae MO, Warren SG (1987) Oceanic
+phytoplankton, atmospheric sulphur, cloud albedo and climate. Nature 326:
+655–661.
+
+27. Ayers GP, Cainey JM (2007) The CLAW hypothesis: a review of the major
+
+developments. Environmental Chemistry 4: 366–374.
+
+28. Kirst G (1996) Osmotic adjustment in phytoplankton and macroalgae: the use of
+dimethylsulfoniopropionate (DMSP). In: Kiene RP, Visscher PT, Keller
+Maureen D, Kirst G, editors. Biological and Environmental Chemistry of
+DMSP and Related Sulfonium Compounds. New York: Plenum Press. 121–129.
+29. Karsten U, Kuck K, Vogt C, Kirst GO (1996) Dimethylsulfoniopropionate
+production in phototrophic organisms and its physiological
+function as a
+cryoprotectant. In: Kiene RP, Visscher PT, Keller MD, Kirst GO, editors.
+Biological Chemistry of DMSP and Related Sulfonium Compounds. New York:
+Plenum Press. 143–153.
+
+DMSP and DMS in marine algae. Nature 418: 317–320.
+
+31. Van Alstyne K, Puglisi M (2007) DMSP in marine macroalgae and
+impacts. Aquatic
+
+function, and ecological
+
+macroinvertebrates: Distribution,
+Sciences - Research Across Boundaries 69: 394–402.
+
+32. Seymour JR, Simo´ R, Ahmed T, Stocker R (2010) Chemoattraction to
+the Marine Microbial Food Web.
+
+Dimethylsulfoniopropionate Throughout
+Science 329: 342–345.
+
+33. Dethier M, Van Alstyne K, Duggins D (2001) Spatial Patterns in Macroalgal
+
+Chemical Defenses. Marine Chemical Ecology: CRC Press. 301–324.
+
+34. Kerrison P, Suggett D, Hepburn L, Steinke M (2012) Effect of elevated pCO2 on
+the production of dimethylsulphoniopropionate (DMSP) and dimethylsulphide
+(DMS) in two species of Ulva (Chlorophyceae). Biogeochemistry 110: 5–16.
+
+35. Arnold HE, Kerrison P, Steinke M (2012) Interacting effects of ocean
+acidification and warming on growth and DMS-production in the haptophyte
+coccolithophore Emiliania huxleyi. Global Change Biology: n/a-n/a.
+
+36. Spielmeyer A, Pohnert G (2012) Influence of temperature and elevated carbon
+dioxide on the production of dimethylsulfoniopropionate and glycine betaine by
+marine phytoplankton. Marine Environmental Research 73: 62–69.
+
+37. Oliver T, Palumbi S (2011) Do fluctuating temperature environments elevate
+
+coral thermal tolerance? Coral Reefs 30: 429–440.
+
+38. Broadbent AD, Jones GB (2004) DMS and DMSP in mucus ropes, coral mucus,
+surface films and sediment pore waters from coral reefs in the Great Barrier
+Reef. Marine and Freshwater Research 55: 849–855.
+
+39. Broadbent AD, Jones GB, Jones RJ (2002) DMSP in corals and benthic algae
+from the Great Barrier Reef. Estuarine Coastal and Shelf Science 55: 547–555.
+40. Dickson AG, Sabine CL, Christian JR, editors (2007) Guide to best practices for
+
+ocean CO2 measurements. 191 p.
+
+Diurnal DMSP Patterns on a Tropical Reef
+
+41. Pierrot D, Lewis E, Wallace DWR (2006) CO2SYS DOS Program developed
+for CO2 system calculations. ORNL/CDIAC-105. Carbon Dioxide Information
+analysis Center. Oak Ridge National Laboratory, US Deparptment of Energy,
+Oak Ridge, TN.
+
+42. Mehrbach C, Culberson CH, Hawley JE, Pytkowicz RM (1973) Measurement of
+the Apparent Dissociation Constants of Carbonic Acid in Seawater at
+Atmospheric Pressure. Limnology and Oceanography 18: 897–907.
+
+43. Dickson AG, Millero FJ (1987) A comparison of the equilibrium constants for
+the dissociation of carbonic acid in seawater media. Deep Sea Research
+Part A Oceanographic Research Papers 34: 1733–1743.
+
+44. Dickson AG (1990) Standard potential of
+
+the reaction: AgCl(s) +1/
+the ion
+2 in synthetic sea water from 273.15 to 318.15 K. The Journal of
+
+2H2(g) = Ag(s)+HCl(aq), and and the standard acidity constant of
+HSO4
+Chemical Thermodynamics 22: 113–127.
+
+45. Turner SM, Malin G, Bagander LE, Leck C (1990) Interlaboratory calibration
+and sample analysis of dimethyl sulfide in water. Marine Chemistry 29: 47–62.
+46. Wood SN (2006) Generalised Additive Models. An Introduction with R. Boca
+
+Raton: Taylor & Francis.
+
+47. Kleypas JA, Langdon C (2006) Coral reefs and changing seawater carbonate
+chemistry. Coral Reefs and Climate Change: Science and Management.
+Washington, DC: AGU. 73–110.
+
+48. Dacey JWH, King GM, Lobel PS (1994) Herbivory by reef fishes and the
+production of dimethylsulfide and acrylic-acid. Marine Ecology Progress Series
+112: 67–74.
+
+49. Chiffings A (2003) Marine Region 11: Arabian Seas. A global representative
+
+system of Marine Protected Areas.
+
+50. Lewis SM, Wainwright PC (1985) Herbivore abundance and grazing intensity
+on a Caribbean coral reef. Journal of Experimental Marine Biology and Ecology
+87: 215–228.
+
+51. Van Alstyne KL, Houser LT (2003) Dimethylsulphide release during
+macroinvertebrate grazing and its role as an activated chemical defense. Marine
+Ecology Progress Series 250: 175–181.
+
+52. Van Alstyne KL, Pelletreau KN, Kirby A (2009) Nutritional preferences
+override chemical defenses in determining food choice by a generalist herbivore,
+Littorina sitkana. Journal of Experimental Marine Biology and Ecology 379: 85–
+91.
+
+53. Van Alstyne KL, Wolfe GV, Freidenburg TL, Neill A, Hicken C (2001)
+Activated defense systems in marine macroalgae: evidence for an ecological role
+for DMSP cleavage. Marine Ecology Progress Series 213: 53–65.
+
+in marine algae and higher plants. Journal of Sea Research 43: 183–197.
+
+55. Kirst G (1989) Salinity tolerance of eukaryotic marine algae. Annu Rev Plant
+
+Physiol Plant Mol Biol 40: 21–53.
+
+56. Doney SC (2010) The Growing Human Footprint on Coastal and Open-Ocean
+
+Biogeochemistry. Science 328: 1512–1516.
+
+57. Steller D, Ca´ceres-Martinez C (2009) Coralline algal rhodoliths enhance larval
+settlement and early growth of the Pacific calico scallop Argopecten ventricosus.
+Marine Ecology Progress Series 396: 49–60.
+
+58. Huggett M, Williamson J, de Nys R, Kjelleberg S, Steinberg P (2006) Larval
+settlement of the common Australian sea urchin Heliocidaris erythrogramma in
+response to bacteria from the surface of coralline algae. Oecologia 149: 604–619.
+59. Webster NS, Uthicke S, Botte´ ES, Flores F, Negri AP (2013) Ocean acidification
+reduces induction of coral settlement by crustose coralline algae. Global Change
+Biology 19: 303–315.
+
+60. Steinberg PD, De Nys R (2002) Chemical Mediation of Colonization of Seaweed
+
+Surfaces. Journal of Phycology 38: 621–629.
+
+61. Stumpp M, Dupont S, Thorndyke MC, Melzner F (2011) CO2 induced seawater
+acidification impacts sea urchin larval development II: Gene expression patterns
+in pluteus larvae. Comparative Biochemistry and Physiology - Part A: Molecular
+Integrative Physiology 160: 320–330.
+
+62. Stumpp M, Wren J, Melzner F, Thorndyke MC, Dupont ST (2011) CO2
+induced seawater acidification impacts sea urchin larval development I: Elevated
+metabolic rates decrease scope for growth and induce developmental delay.
+Comparative Biochemistry and Physiology - Part A: Molecular Integrative
+Physiology 160: 331–340.
+
+63. Dudgeon S, Aronson R, Bruno J, Precht W (2010) Phase shifts and stable states
+
+on coral reefs. Marine Ecology Progress Series 413: 201–216.
+
+30. Sunda W, Kieber DJ, Kiene RP, Huntsman S (2002) An antioxidant function for
+
+54. Stefels J (2000) Physiological aspects of the production and conversion of DMSP
+
+PLOS ONE | www.plosone.org
+
+8
+
+May 2013 | Volume 8 |
+
+Issue 5 | e64651
+
+

@@ -1,0 +1,973 @@
+RESEARCH ARTICLE
+Salinity stress drives herbivory rates and
+selective grazing in subtidal seagrass
+communities
+
+Sahira Y. BellID1,2*, Matthew W. FraserID1, John Statton1, Gary A. Kendrick1
+
+1 School of Biological Sciences and UWA Oceans Institute, Faculty of Science, University of Western
+Australia, Crawley, Western Australia, Australia, 2 Balu Blue Foundation, Port Lincoln, South Australia,
+Australia
+
+The role of environmental-stress gradients in driving trophic processes like grazing, has
+potential to shape ecosystem responses to environmental change. In subtidal seagrass sys-
+tems, however, the variation in top-down processes along stress gradients are poorly under-
+stood. We deployed herbivory assays using the five most common seagrass species of
+Shark Bay, to determine whether herbivory pressure changed across a salinity-stress gradi-
+ent from oceanic (38 PSU) to hyper-saline (51 PSU) conditions. Seagrass tissue removed
+from herbivory assays by fishes decreased as environmental stress increased, and herbi-
+vores consumed greater amounts of tropical seagrass species compared to the temperate
+species that dominate seagrass cover in Shark Bay. This heightened consumption was
+correlated with enriched seagrass nutrient concentrations. Our work suggests there’s a fun-
+damental relationship between trophic interactions and environmental conditions within
+complex marine settings. Abiotic stressors like salinity directly impact seagrass communi-
+ties physiologically; however we show that salinity stressors also shift biotic interactions,
+indirectly influencing grazing rates and thus having a greater effect on seagrasses than
+physiological impacts alone. In Shark Bay where restoration efforts are being employed to
+address large scale loss of seagrasses, the relationship between herbivory pressure and
+salinity-stress could therefore prove crucial to restoration success.
+
+a1111111111
+a1111111111
+a1111111111
+a1111111111
+a1111111111
+
+* sahira.bell@research.uwa.edu.au
+
+Abstract
+
+OPEN ACCESS
+
+Citation: Bell SY, Fraser MW, Statton J, Kendrick
+
+GA (2019) Salinity stress drives herbivory rates
+
+and selective grazing in subtidal seagrass
+
+communities. PLoS ONE 14(3): e0214308. https://
+
+doi.org/10.1371/journal.pone.0214308
+
+Editor: Just Cebrian, Mississippi State University,
+
+UNITED STATES
+
+Received: October 29, 2018
+
+Accepted: March 10, 2019
+
+Published: March 21, 2019
+
+Copyright: © 2019 Bell et al. This is an open access
+article distributed under the terms of the Creative
+
+Commons Attribution License, which permits
+
+unrestricted use, distribution, and reproduction in
+
+any medium, provided the original author and
+
+source are credited.
+
+Data Availability Statement: All relevant data are
+
+within the manuscript, Supporting Information
+
+files, and the figshare data repository (doi: 10.
+
+6084/m9.figshare.3506276).
+
+Introduction
+
+Funding: A NHT II Caring for Country Project grant
+
+(OC11-00643) coordinated by the Western
+
+Australian Marine Science Institute (https://www.
+
+wamsi.org.au/) and awarded to G.A.K., and an ARC
+
+Linkage Grant (LP130100155) awarded to G.A.K.
+
+and J.S funded this research. Additional funding for
+
+M.W.F. was received through a Ph.D. grant from
+
+the School of Biological Sciences, UWA. S.Y.B. was
+
+Top-down control can be useful in understanding herbivory interactions within macrophyte
+communities [1], particularly when extreme environmental conditions vary within a region.
+As multiple factors such as light, temperature, nutrients or salinity (bottom-up) and compe-
+tition and herbivory (top-down) can influence the structure and dynamics of macrophyte
+communities, and it can therefore be difficult to interpret the dominant drivers of commu-
+nity interactions. Plant-herbivore trophic interactions are highly influential in structuring
+marine systems, with shifts in the herbivore composition due to environmental stress
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0214308 March 21, 2019
+
+1 / 13
+
+supported by an Honours grant from the School of
+
+Biological Sciences, UWA. The funders had no role
+
+in study design, data collection and analysis,
+
+decision to publish, or preparation of the
+
+manuscript.
+
+Competing interests: The authors have declared
+
+that no competing interests exist.
+
+Salinity stress-gradients in seagrass ecosystems
+
+(e.g. temperature, salinity) having the capacity to severely impact ecosystem function [2–4].
+Accurate predictions of marine ecosystem responses to environmental change therefore rely
+upon an understanding of species interactions (direct and indirect) in combination with the
+influence of abiotic factors.
+
+Grazing by herbivorous fish is a fundamental ecological process structuring seagrass ecosys-
+
+tems [5–7], yet the environmental drivers that influence grazing rates and grazer abundance
+are relatively understudied. Herbivory rates are influenced by a variety of factors, many of
+which are also influenced by changes in salinity. For example, macrophyte availability, habitat
+heterogeneity, leaf texture and chemical composition [8–12] influence the rate of herbivory,
+and can themselves be impacted by salinity changes. Fish consumers’ forage choice also plays a
+vital role in regulating the coexistence of multiple seagrass species within a trophic level [11].
+Herbivores preferentially graze on seagrass species with higher nutrient content [5, 13]; how-
+ever, results vary among species and spatially within species [14]. As a result, the distribution
+and abundance of seagrass communities are controlled when species of higher nutrient con-
+tent are preferentially grazed, meaning less palatable species become most abundant [11].
+From such studies it is clear that feedbacks in grazed ecosystems can influence seagrass species
+composition [15]. Therefore, quantifying how environmental factors regulate herbivore graz-
+ing rates is central to understanding system dynamics of seagrass ecosystems [16].
+
+Many studies that have incorporated seagrass-consumer interactions to date have been con-
+
+ducted in tropical seagrass environments or in systems heavily impacted by anthropogenic
+processes [17–21], with fewer applied to pristine systems with a mix of temperate and tropical
+species [22]. Shark Bay, Western Australia represents an ideal location to develop a predictive
+framework for changes in herbivory interactions within an environment exposed to minimal
+anthropogenic impacts, a strong environmental gradient (salinity) and containing intact herbi-
+vore communities. Shark Bay is located at an overlap of biotic provinces where ecological
+communities within the area have both tropical and temperate members, contributing to its
+high biodiversity. In Shark Bay, a strong, semi-permanent hyper-salinity gradient is present
+throughout the embayment [23] and is maintained by high rates of evaporation and limited
+water exchange with adjacent oceanic waters. This salinity-stress gradient (ranging between 36
+PSU and 65 PSU) is a permanent feature, and results in physiologically stressed seagrasses in
+hyper-saline areas [23]. As such, it is likely to have a substantial influence over seagrass com-
+munity dynamics, including grazing pressure [24–26].
+
+Here, we examined changes to the top-down influence of herbivory pressure and feeding
+choice on seagrasses, across the permanent salinity gradient from normal oceanic levels (38
+PSU) to hyper-saline conditions (51 PSU) in Shark Bay, Western Australia. Our hypotheses
+were; (i) the total biomass of seagrass removed from herbivory trials would decrease as salinity
+increased and (ii) the fast growing, small-bodied, tropical seagrass species that are high in
+nutrients would be selected by grazers.
+
+Methods
+Site description
+
+Shark Bay is 13,000 km2 in size and is located ~800 km north of Perth, Western Australia (25˚
+47’S, 113˚43’E, Fig 1). Salinity ranges from 36 PSU at the northern embayment opening to
+>65 PSU in the southern Hamelin Pool region [27]. Shark Bay is a shallow (<15 m), relatively
+isolated, large subtropical coastal embayment containing some of the most species rich sea-
+grass meadows in the world [23]. Seagrasses are the dominant benthic community covering an
+estimated 3500 km2 [28] and contribute to its listing as a UNESCO World Heritage Area [26].
+Meadows are dominated by the larger temperate seagrasses Amphibolis antarctica and
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0214308 March 21, 2019
+
+2 / 13
+
+Salinity stress-gradients in seagrass ecosystems
+
+Fig 1. Location of six study sites and coastal town of Denham in relation to the salinity gradient in Shark Bay,
+Western Australia. Sites recorded the following average salinities in situ (north to south): 1 = 38 PSU, 2 = 39 PSU,
+3 = 41 PSU, 4 = 44 PSU, 5 = 48 PSU and 6 = 51 PSU. Salinity contour lines are redrawn from Walker (1985) and are
+represented by solid black lines. Insert shows the location of Shark Bay relative to the rest of Western Australia.
+
+https://doi.org/10.1371/journal.pone.0214308.g001
+
+Posidonia australis, that typically form dense and monospecific canopies [23]. Smaller, faster-
+growing, tropical to subtropical Halophila ovalis, Halodule uninervis, and Cymodocea angu-
+stata are also common but found in much lower abundances, as mixed meadows, understory
+or as a single species patch in extreme environments (Table 1) [23].
+
+Herbivory assays
+
+Herbivory pressure was assessed using herbivory assays (tether deployments, Fig 2) comprised
+of the five most abundant seagrass species; A. antarctica, P. australis, H. uninervis, H. ovalis
+and C. angustata (Fig 3). Six study sites within the eastern embayment ranging from Guiche-
+nault Point to L’haridon Bight were identified for assay deployment to sample across the strong
+salinity gradient (Fig 1). Sites were selected to keep tidal influence, current strength, sediment
+type and temperature consistent [29–31]. At each site, six forage-choice assays were deployed
+at least 1 m apart in bare sand, within 1 m of an existing seagrass meadow, between depths
+of 3–5 m (Fig 2). Bare sand was chosen for deployment in order to allow the assays to be
+
+Table 1. Summary of the extent of the five most abundant seagrasses of Shark Bay, Western Australia, to a range of environmental conditions. Table has been
+adapted from Walker et al. (1988).
+
+Species
+Posidonia australis
+Amphibolis antarctica
+Cymodocea angustata
+Halodule uninervis
+Halophila ovalis
+
+https://doi.org/10.1371/journal.pone.0214308.t001
+
+Depth (m)
+
+Salinity (‰)
+
+Notes
+
+0–14
+
+0–15
+
+0–14
+
+Intertidal-14
+
+Intertidal-14
+
+35–55
+
+32–62.4
+
+38–50
+
+35–64
+
+35–55
+
+On bands and channels
+
+Found under all conditions
+
+In sand patches or as understory
+
+In sand flats or as understory
+
+On sand flats or edge of banks
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0214308 March 21, 2019
+
+3 / 13
+
+Salinity stress-gradients in seagrass ecosystems
+
+Fig 2. (a) Image of a deployed herbivory assay. NB: that pink flagging tape observed in the image was removed after
+assay deployment. Photo credit: Sahira Bell. (b) Schematic representation of herbivory assay deployment in situ.
+Schematic is not to scale.
+
+https://doi.org/10.1371/journal.pone.0214308.g002
+
+distinguished from the natural seagrass patches seen in the camera recordings. Similar topo-
+graphic landscape was targeted for assay deployments, as surrounding landscape can impact a
+variety of ecological processes [32, 33]. Five sites were sampled (n = 30 assays) in March (sum-
+mer: sites 1,2,3,4 and 6) and in July 2014 (winter: sites 1,2,3,5 and 6). Site 4 was not sampled in
+winter, instead it was replaced with site 5 as to target a higher salinity and gain a more thor-
+ough representation of the salinity gradient. In preparation for forage-choice assay deployment
+fresh seagrass leaves were collected (removed from their rhizomatic parts) from a donor sea-
+grass meadow the evening prior and stored in seawater (~39 PSU) until deployment. Attributes
+of seagrass donor sites were kept consistent (i.e. different seagrass patches to negate depletion
+of an area, but consistent salinities targeted). On each assay three leaves were used for P. aus-
+tralis servings, and five leaves were used for A. antarctica, C. angustata, H. ovalis and H. unin-
+ervis servings in order to approximately standardise for biomass [22]. Only clean, undamaged
+leaves with no evidence of grazing marks or epiphytes were used for each trial. Each serving
+was attached to a 3mm nylon line, with servings spaced every 30 cm along the line. In order to
+simulate live seagrass, the servings were secured to the line with pegs to stand vertically with
+the nylon rope secured to the sea floor using metal tent pegs. All five seagrass species were pres-
+ent on each forage choice assay, with the species order being randomly assigned.
+
+Total biomass removed (%) due to herbivory was assessed using digital photographs. Prior
+to a deployment each seagrass serving was photographed individually with a tag indicating the
+site and assay number. Each forage-choice assay was deployed for 24 hrs, before being col-
+lected and re-photographed and analysed using the area measurement function in the program
+CPCe [34]. The initial measurement of leaf area was subtracted from the leaf area remaining
+after 24 hours then converted to biomass lost due to herbivory based on the biomass constant
+of the species (using conversion: dry weight � area lost).
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0214308 March 21, 2019
+
+4 / 13
+
+Salinity stress-gradients in seagrass ecosystems
+
+Fig 3. (a) Halodule uninervis, (b) Halophila ovalis, (c) Cymodocea angustata, (d) Posidonia australis and (e)
+Amphibolis antarctica leaves with signs of herbivory after being deployed for a period of 24 hrs. Images are not set to
+the same scale for bite mark clarity. Photo credit: Sahira Bell.
+
+https://doi.org/10.1371/journal.pone.0214308.g003
+
+Discrete video cameras were deployed at each site to ensure seagrass leaf loss was due to
+
+herbivory and not due to any leaf damage caused by handling or deployment, and to identify
+grazers. Go-Pro Hero2/3+ cameras were set in custom-built underwater housings, mounted
+on a 10cm pole and positioned at an assay’s corner focussing on the seagrass servings. The
+camera was positioned to enable all five seagrass species to be observed in a single frame. With
+the aid of battery pack extensions each camera had an average recording time of ~3hrs.
+
+Salinity was recorded at each site using a YSI CastAway-CTD (YSI Environmental 2010,
+Ohio, USA). CTD drops were made prior to assay deployment and repeated once all assays
+were in place (approximately 1 hour later) to take into account the fluctuations of salinity
+within a tidal cycle. CTD drops were conducted in summer and winter, with average salinity
+for each site determined from these values.
+
+Nutrient content analysis
+
+Seagrass samples (n = 30 leaves) were collected from the donor beds in summer and winter for
+nutrient content analysis. Leaves from mature specimens of each species were collected. All
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0214308 March 21, 2019
+
+5 / 13
+
+Salinity stress-gradients in seagrass ecosystems
+
+samples were stored on ice then immediately frozen upon return to shore, where they
+remained frozen until processing.
+
+Seagrass leaves were thawed and oven-dried at 60˚C, then ground to a fine powder with a
+
+ball and mill. Carbon (C) and Nitrogen (N) concentrations, C:N ratios and δ13C and δ15N iso-
+tope signatures were determined from subsamples of seagrass in both winter and summer
+samples using an Automated C/N Analyser-Mass Spectrometer consisting of a 20/22 mass
+spectrometer connected to an ANCA-SI preparation system (SERCON, UK) at the Western
+Australian Biogeochemistry Centre, the University of Western Australia. All samples were
+standardised using a multipoint normalisation against a secondary reference of Radish colle-
+gate (3.167% N, δ15N 5.71%, 41.51% C, δ13C 28.61%). This was in turn standardised against
+primary analytical standards (International Atomic Energy Agency (IAEA) Vienna) [35, 36].
+For estimates of the C:N ratio, the external error of analysis (one standard deviation) did
+not exceed 0.1. For δ13C and δ15N calculations error was no more than 0.1‰ and 0.2‰
+respectively.
+
+This study was completed under permit number SW016069 from the WA Department of
+Biodiversity, Conservation and Attractions. All data are available online through the figshare
+repository (10.6084/m9.figshare.3506276).
+
+Statistical analysis
+
+A conditional approach to analyses was used due to the large number of zeros in the dataset. A
+linear mixed effects model in the statistical package R (version 3.1.2, nlme package [37, 38])
+was used to investigate factors impacting the proportion of leaf biomass removed by consum-
+ers. Data were square root transformed in order to meet assumptions of normality, and were
+analysed for effects of Species, Season and Salinity, with Site included as a random factor.
+Interactions of the model were also investigated. Where interactions were significant, Tukey’s
+Honest Significant Difference (HSD) tests were conducted to further explore the effects. To
+explore the role of seagrass nutrient content in the context of herbivory pressure, analysis of
+variance (ANOVA) was used to determine differences in nutrient content between seagrass
+species and seasons. To further explore the correlation between nutrient content and grazing
+pressure, Pearson correlation tests were employed.
+
+Results
+Herbivory assays
+
+Total leaf biomass removed by consumers ranged from 55.8 g (dry weight) at the lowest salin-
+ity (38 PSU) to 3.07 g at the highest salinity (51 PSU). The proportion of leaf biomass removed
+from seagrass servings varied significantly across the salinity gradient (P = 0.001, Table 2),
+
+Table 2. Results of ANOVA examining the total leaf biomass removed in summer and winter in response to Salin-
+ity (Sa), Species (Sp) and Season (Se). Significant P values are highlighted in bold.
+
+Factor
+
+Salinity
+
+Species
+
+Season
+
+Sa x Sp
+
+Sa x Se
+
+Sp x Se
+
+Sa x Sp x Se
+
+df
+5
+
+17
+
+4
+
+1
+
+3
+
+3
+
+5
+
+F-value
+
+77.25
+
+16.25
+
+21.74
+
+11.92
+
+7.09
+
+3.63
+
+3.92
+
+P value
+0.001
+
+<0.001
+
+0.006
+
+<0.001
+
+0.06
+
+<0.01
+
+0.619
+
+https://doi.org/10.1371/journal.pone.0214308.t002
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0214308 March 21, 2019
+
+6 / 13
+
+Salinity stress-gradients in seagrass ecosystems
+
+Fig 4. Proportion of leaf biomass removed in summer (left) and winter (right) for the five most common seagrass
+species of Shark Bay, Western Australia. Seagrass species are arranged along the x-axis according to leaf turnover
+rates from the slowest to the fastest species. Median (horizontal line), first and third quartile (hinges) and 95%
+confidence intervals (notches) are shown. Letters correspond to significant differences in biomass removed (Tukey
+HSD).
+
+https://doi.org/10.1371/journal.pone.0214308.g004
+
+however this was not consistent across Species, with a significant Salinity by Species interac-
+tion (P < 0.001, Table 2). The proportion of biomass removed decreased as the environmental
+stress of salinity increased, with greater removal rates observed only for the tropical species
+Cymodocea angustata, Halodule uninervis and Halophila ovalis (Figs 4 and 5). There was sig-
+nificant variation in the proportion of leaf biomass removed between Species, however this
+was not consistent across both Seasons, with a significant Species by Season interaction
+(P < 0.004, Table 2, Fig 4). Post Hoc tests revealed that in summer, H. uninervis and H. ovalis
+experienced significantly higher grazing rates than the temperate seagrass species. Cymodocea
+angustata showed intermediate grazing rates, with post hoc tests revealing a significant differ-
+ence observed only in comparison to H. ovalis (Fig 4a). In winter, the only significant differ-
+ence observed was between grazing rates of H. uninervis and Posidonia australis (Fig 4b).
+When examining species differences across seasons, only H. ovalis showed significant change,
+with a higher proportion of leaf biomass removed in summer than winter.
+
+Fig 5. Seagrass leaf biomass removed (%) during summer (top) and winter (bottom) for the five most common
+seagrass species of Shark Bay, Western Australia. Lines (blue) represent linear regression.
+
+https://doi.org/10.1371/journal.pone.0214308.g005
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0214308 March 21, 2019
+
+7 / 13
+
+Salinity stress-gradients in seagrass ecosystems
+
+Table 3. Average nutrient content by weight for each of the five sampled seagrass species. Note that lower nutrient
+ratio values indicate species of greater quality i.e. higher relative N or P content.
+
+Species
+
+Posidonia australis
+Amphibolis antarctica
+Cymodocea angustata
+Halodule uninervis
+Halophila ovalis
+
+https://doi.org/10.1371/journal.pone.0214308.t003
+
+C:N
+
+(weight)
+
+20.4
+
+23.2
+
+14.6
+
+18.4
+
+17.6
+
+C:P
+
+(weight)
+
+311.5
+
+373.9
+
+213.9
+
+231.6
+
+126.3
+
+Nutrient content of seagrass species
+There was significant variation among seagrasses in C:N ratios (P = 0.02), but not in C:P ratios
+(P = 0.07). The faster growing tropical seagrass species had higher N and P concentrations
+than the temperate Posidonia australis and Amphibolis antarctica (Table 3). Cymodocea angu-
+stata had the highest relative N content (i.e. lowest C: N ratio), with H. uninervis and H. ovalis
+showing similar and intermediate values. Nitrogen concentrations were lowest in P. australis
+and A. antarctica. Similarly, P concentrations were also lowest in P. australis and A. antarctica
+and highest in H. ovalis (Table 3). Cymodocea angustata and H. uninervis had similar and
+intermediate values. Pearson correlation tests revealed a significant correlation between C:N
+ratio and grazing intensity (P = 0.04, correlation coefficient -0.65), but no significant correla-
+tion between C:P ratio and grazing intensity (P = 0.37, correlation coefficient -0.33). No
+significant difference in nutrient content was detected between seasons (Nitrogen P = 0.29,
+Phosphorus P = 0.15).
+
+Video analysis
+
+A total of 120 hrs of video footage was captured across both sampling periods. This accounted
+for 8.3% of total assay deployment time being recorded. Four direct herbivory events were
+observed (one in summer, three in winter), and there were no patterns associated with these
+events. Consumers included the herbivorous rabbitfish (Siganus fuscescens) and the Western
+striped grunter (Helotes octolineatus–previously Pelates octolineatus), which were both
+observed to consumer P. australis and C. angustata servings. Consumption ranged from 0.16
+cm2 to 3.3 cm2. A comprehensive list of all fish species recorded within the Eastern embayment
+of Shark Bay is provided as supplementary material (S1 Table).
+
+Discussion
+
+We show that increasing salinity in Shark Bay correlates to changes in the biotic interaction
+of grazing, indirectly influencing seagrass biomass. Leaf biomass removed by grazing fish
+decreased as the environmental stress of salinity increased (Fig 5), supporting our first hypoth-
+esis and highlighting salinity as a potential driver of seagrass herbivory in Shark Bay. Abiotic
+stressors like salinity directly impact seagrass communities growth rates and distribution [39,
+40]; however here we demonstrate that salinity also reduces the rate of top-down interactions,
+indirectly influencing seagrass meadows. Extreme salinity stress for seagrasses is a predomi-
+nant feature of Shark Bay [26], and salinity influences seagrass standing stock in two ways;
+directly through physiological stress [27], and indirectly through the top-down impact of graz-
+ing. This study underscores the importance of integrating abiotic and biotic processes when
+studying community interactions and advances our understanding of utilising tethering tech-
+niques to do so.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0214308 March 21, 2019
+
+8 / 13
+
+Salinity stress-gradients in seagrass ecosystems
+
+The hypothesis that fast-growing, small bodied tropical seagrass species with higher N and
+P contents would be grazed more heavily was supported, despite these species having a lower
+abundance and biomass across Shark Bay [23]. The least grazed species (Amphibolis antarctica
+and Posidonia australis, Fig 4) are the most abundant species in Shark Bay, typically forming
+large, dense and monospecific canopies [23]. As such, they provide a key ecological service as
+structurally complex habitat, further facilitating herbivory on the smaller, nutrient enriched
+tropical species [22, 41]. Sediments within Shark Bay are oligotrophic with sediment P concen-
+trations extremely low across the study area [42, 43]. As a result, seagrass species relatively
+enriched in nutrients are generally found as mixed meadows, understory or as a single species
+patch in extreme environments (up to 64 PSU, Table 3) [23]. Interestingly, it appears that con-
+sumers within this system are willing to target rarer and smaller seagrass species with higher
+nutrient concentrations, despite them being harder to locate across the salinity gradient and
+containing substantially smaller biomass. Seagrass meadows are commonly considered as
+habitat providing structures rather than a food source [44, 45]. However, we show substantial
+consumption of seagrass leaves over small time scales (24 hrs), contrasting studies suggesting
+seagrass herbivory is infrequent [46–48]. These findings highlight the importance of seagrasses
+in nutritionally supporting the ecosystems in Shark Bay, however we also acknowledge there
+are additional seagrass qualities (i.e. morphological defences–fibre content [49], structural car-
+bohydrates [50]) not accounted for that may also be of influence.
+
+All herbivores are not influenced by salinity in the same way, therefore grazer type may also
+
+affect forage choice [10]. Due to camera availability and battery life limitations in the video
+component of this study, we were unable to draw quantitative conclusions as to which meso-
+grazers were responsible for seagrass consumption. The observed shift in preferential grazing
+between seasons was most likely attributed to changes in consumer communities [51], how-
+ever this again cannot be concluded from this study alone. Nevertheless, it is interesting to
+note the presence and observed feeding of the striped trumpeter (omnivore: Helotes octolinea-
+tus) and rabbitfish (herbivore: Siganus fuscescens) within this study; a herbivore which has
+been documented in Shark Bay on only two other occasions [52, 53] despite extensive fish sur-
+veys conducted in the area [54–57]. Distribution of S. fuscescens down the West Australian
+coast has extended poleward in recent years due to warming ocean waters [58], with associated
+herbivory from this species proving catastrophic for macrophyte communities [59]. With
+ocean temperatures and marine heatwaves predicted to increase in the coming years [3, 60],
+the capacity for Shark Bay to withstand associated increases in herbivore communities will
+likely be tested. As such, our study’s comprehensive baseline record of herbivory pressure and
+identification of consumers will be crucial in underpinning future mechanisms of impact,
+given that these abiotic impacts can prove detrimental to seagrass communities [61].
+
+Tethering techniques employed by this study have proved an effective tool to quantify the
+impact of seagrass herbivory, however this technique does not come without its limitations.
+For example, herbivory assays were placed within bare sand ~1m from an existing seagrass
+meadow in order to be easily located and retrieved, and filmed. Herbivory pressure within sea-
+grass meadows is not equal (Johns refs 2, 40, 41), and other studies specific to Shark Bay have
+revealed a greater pressure on seagrasses at a meadows edge as opposed to those within the
+meadow [62]. As such, this study takes great care in interpreting absolute values of herbivory
+pressure and instead focuses on the change in pressure across the gradient. Despite this limita-
+tion, the in situ tethering technique provides strong evidence for changes to seagrass herbivory
+in Shark Bay, enabling us to examine both abiotic and biotic variables impacting seagrass
+communities.
+
+Environmental stress has the capability to directly and indirectly influence foundation com-
+
+munities, completely transforming the benthic structure of marine ecosystems [2, 60, 63]. By
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0214308 March 21, 2019
+
+9 / 13
+
+Salinity stress-gradients in seagrass ecosystems
+
+examining species interactions in combination with abiotic factors this study suggests that
+salinity is a key environmental driver of herbivory pressure in Shark Bay. We contribute to the
+wealth of new evidence demonstrating the importance of top-down control in seagrass ecosys-
+tems, and highlight the importance of accounting for herbivory when understanding macro-
+phyte dynamics. For Shark Bay; an area which has recently seen dramatic losses of seagrass
+meadows due to abiotic stress and physical disturbances, this relationship between herbivory
+pressure and salinity-stress could prove crucial to restoration success and future management
+of this UNESCO World Heritage region.
+
+Supporting information
+
+S1 Table. Comprehensive list of fish species found in the Eastern embayment of Shark Bay,
+Western Australia. Table has been adapted from Travers and Potter (2002), Jackson et al.
+(2007), Belicka et al. (2012), Heithaus et al. (2012) and Walker et al. (2012).
+(DOCX)
+
+Acknowledgments
+
+We acknowledge the logistical support provided by the University of Western Australia and
+the Shark Bay Ecosystem Restoration Project under the direction of M. Heithaus. We also
+acknlowedge the analysis support provided by D. Edwards and H. Kilian.
+
+Author Contributions
+
+Conceptualization: Sahira Y. Bell, Matthew W. Fraser, John Statton, Gary A. Kendrick.
+
+Funding acquisition: Sahira Y. Bell, Matthew W. Fraser, John Statton, Gary A. Kendrick.
+
+Data curation: Sahira Y. Bell, Matthew W. Fraser.
+
+Formal analysis: Sahira Y. Bell.
+
+Investigation: Sahira Y. Bell.
+
+Methodology: Sahira Y. Bell, Matthew W. Fraser.
+
+Project administration: Sahira Y. Bell.
+
+Resources: Sahira Y. Bell.
+
+Supervision: John Statton, Gary A. Kendrick.
+
+Validation: Sahira Y. Bell.
+
+Visualization: Sahira Y. Bell.
+
+Writing – original draft: Sahira Y. Bell.
+
+Writing – review & editing: Sahira Y. Bell, Matthew W. Fraser, John Statton, Gary A.
+
+Kendrick.
+
+References
+1. Shears NT, Babcock RC. Marine reserves demonstrate top-down control of community structure on
+
+temperate reefs. Oecologia. 2002; 132(1):131–42. https://doi.org/10.1007/s00442-002-0920-x PMID:
+28547276
+
+2. Verge´s A, Steinberg PD, Hay ME, Poore AG, Campbell AH, Ballesteros E, et al. The tropicalization of
+temperate marine ecosystems: climate-mediated changes in herbivory and community phase shifts.
+Proceedings of the Royal Society of London B: Biological Sciences. 2014; 281(1789):20140846.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0214308 March 21, 2019
+
+10 / 13
+
+Salinity stress-gradients in seagrass ecosystems
+
+3. Hyndes GA, Heck KL, Verge´s A, Harvey ES, Kendrick GA, Lavery PS, et al. Accelerating tropicalization
+and the transformation of temperate seagrass meadows. Bioscience. 2016; 66(11):938–48. https://doi.
+org/10.1093/biosci/biw111 PMID: 28533562
+
+4. Hyndes GA, Kendrick A, MacArthur LD, Stewart E. Differences in the species-and size-composition of
+
+fish assemblages in three distinct seagrass habitats with differing plant and meadow structure. Mar Biol.
+2003; 142(6):1195–206.
+
+5. Heck KL, Valentine JF. Plant–herbivore interactions in seagrass meadows. J Exp Mar Biol Ecol. 2006;
+
+330(1):420–36.
+
+6. Poore AGB, Campbell AH, Coleman RA, Edgar GJ, Jormalainen V, Reynolds PL, et al. Global patterns
+in the impact of marine herbivores on benthic primary producers. Ecol Lett. 2012; 15(8):912–22. https://
+doi.org/10.1111/j.1461-0248.2012.01804.x PMID: 22639820
+
+7. Bakker ES, Arthur R, Alcoverro T. Assessing the role of large herbivores in the structuring and function-
+
+ing of freshwater and marine angiosperm ecosystems. Ecography. 2016; 39(2):162–79.
+
+8. De los Santos C, Onoda Y, Vergara JJ, Pe´rez-Llore´ns JL, Bouma TJ, La Nafie YA, et al. A comprehen-
+
+sive analysis of mechanical and morphological traits in temperate and tropical seagrass species. Mar
+Ecol Prog Ser. 2016; 551:81–94.
+
+9. Prado P, Farina S, Tomas F, Romero J, Alcoverro T. Marine protection and meadow size alter fish her-
+
+bivory in seagrass ecosystems. Mar Ecol Prog Ser. 2008; 371:11–21.
+
+10. Prado P, Heck K. Seagrass selection by omnivorous and herbivorous consumers: determining factors.
+
+Mar Ecol Prog Ser. 2011; 429:45–55.
+
+11. Armitage AR, Fourqurean JW. The short-term influence of herbivory near patch reefs varies between
+
+seagrass species. J Exp Mar Biol Ecol. 2006; 339(1):65–74.
+
+12. Darnell KM, Heck KL. Species-specific effects of prior grazing on the palatability of turtlegrass. J Exp
+
+Mar Biol Ecol. 2013; 440:225–32.
+
+13. Goecker M, Heck K, Valentine J. Effects of nitrogen concentrations in turtlegrass Thalassia testudinum
+on consumption by the bucktooth parrotfish Sparisoma radians. Mar Ecol Prog Ser. 2005; 286:239–48.
+
+14. Duarte CM. Seagrass nutrient content. Mar Ecol Prog Ser. 1990; 6(2):201–7.
+15. Preen A, Marsh H, Lawler I, Prince R, Shepherd R. Distribution and abundance of dugongs, turtles, dol-
+
+phins and other megafauna in Shark Bay, Ningaloo Reef and Exmouth Gulf, Western Australia. Wildl
+Res. 1997; 24(2):185–208.
+
+16. Valentine JF, Duffy JE. The central role of grazing in seagrass ecology. In: Larkum A, Orth RJ, Duarte
+
+CM, editors. Seagrasses: Biology, ecology and conservation. Netherlands: Springer; 2006. p. 463–501.
+
+17. Valentine JF, Heck K. Seagrass herbivory: evidence for the continued grazing of marine grasses. Mar
+
+Ecol Prog Ser. 1999; 176:291–302.
+
+18. Valentine JF, Heck K, Kirsch KD, Webb D. Role of sea urchin Lytechinus variegatus grazing in regulat-
+
+ing subtropical turtlegrass Thalassia testudinum meadows in the Florida Keys (USA). Mar Ecol Prog
+Ser. 2000; 200:213–28.
+
+19. Gallegos M, Olesen B. Herbivory on Posidonia oceanica: magnitude and variability in the Spanish Medi-
+
+terranean. Mar Ecol Prog Ser. 1996; 130:147–55.
+
+20. Kirsch KD, Valentine JF, Heck KL. Parrotfish grazing on turtlegrass Thalassia testudinum: evidence for
+
+the importance of seagrass consumption in food web dynamics of the Florida Keys National Marine
+Sanctuary. Mar Ecol Prog Ser. 2002; 227:71–85.
+
+21. Heck K, Fodrie F, Madsen S, Baillie C, Byron D. Seagrass consumption by native and a tropically asso-
+ciated fish species: potential impacts of the tropicalization of the northern Gulf of Mexico. Mar Ecol Prog
+Ser. 2015; 520:165–73.
+
+22. Burkholder DA, Heithaus MR, Fourqurean JW. Feeding preferences of herbivores in a relatively pristine
+
+subtropical seagrass ecosystem. Mar Freshw Res. 2012; 63(11):1051–8.
+
+23. Walker D, Kendrick G, McComb A. The distribution of seagrass species in Shark Bay, Western Austra-
+
+lia, with notes on their ecology. Aquat Bot. 1988; 30(4):305–17.
+
+24. Garrote-Moreno A, McDonald A, Sherman TD, Sa´nchez-Lizaso JL, Heck KL, Cebrian J. Short-term
+
+impacts of salinity pulses on ionic ratios of the seagrasses Thalassia testudinum and Halodule wrightii.
+Aquat Bot. 2015; 120:315–21.
+
+25. Garrote-Moreno A, Sandoval-Gil JM, Ruiz JM, Marı´n-Guirao L, Bernardeau-Esteller J, Muñoz RG, et al.
+
+Plant water relations and ion homoeostasis of Mediterranean seagrasses (Posidonia oceanica and
+Cymodocea nodosa) in response to hypersaline stress. Mar Biol. 2015; 162(1):55–68.
+
+26. Kendrick GA, Fourqurean JW, Fraser MW, Heithaus MR, Jackson G, Friedman K, et al. Science behind
+management of Shark Bay and Florida Bay, two P-limited subtropical systems with different climatology
+and human pressures. Mar Freshw Res. 2012; 63(11):941–51.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0214308 March 21, 2019
+
+11 / 13
+
+Salinity stress-gradients in seagrass ecosystems
+
+27. Walker D. Correlations between salinity and growth of the seagrass Amphibolis antarctica (labill.) Son-
+
+der & Aschers., In Shark Bay, Western Australia, using a new method for measuring production rate.
+Aquat Bot. 1985; 23(1):13–26.
+
+28. Arias-Ortiz A, Serrano O, Masque´ P, Lavery PS, Mueller U, Kendrick GA, et al. A marine heatwave
+
+drives massive losses from the world’s largest seagrass carbon stocks. Nature Climate Change. 2018;
+8(4):338.
+
+29. Burling MC, Pattiaratchi CB, Ivey GN. The tidal regime of Shark Bay, Western Australia. Estuar Coast
+
+Shelf Sci. 2003; 57(5–6):725–35.
+
+30. Hetzel Y, Pattiaratchi C, Lowe R. Intermittent dense water outflows under variable tidal forcing in Shark
+
+31.
+
+Bay, Western Australia. Cont Shelf Res. 2013; 66:36–48.
+Fraser MW, Gleeson DB, Grierson PF, Laverock B, Kendrick GA. Metagenomic evidence of microbial
+community responsiveness to phosphorus and salinity gradients in seagrass sediments. Frontiers in
+microbiology. 2018; 9.
+
+32. Smith TM, Hindell JS, Jenkins GP, Connolly RM. Seagrass patch size affects fish responses to
+
+edges. J Anim Ecol. 2010; 79(1):275–81. https://doi.org/10.1111/j.1365-2656.2009.01605.x PMID:
+19656237
+
+33. Gera A, Romero J, Alcoverro T. Matrix composition and patch edges influence plant–herbivore interac-
+
+tions in marine landscapes. Funct Ecol. 2014; 28(6):1440–8.
+
+34. Kohler KE, Gill SM. Coral Point Count with Excel extensions (CPCe): A Visual Basic program for the
+
+determination of coral and substrate coverage using random point count methodology. Comput Geosci.
+2006; 32(9):1259–69.
+
+35. Coplen TB, Brand WA, Gehre M, Gro¨ning M, Meijer HAJ, Toman B, et al. New guidelines for δ
+
+13C measurements. Anal Chem. 2006; 78(7):2439–41. https://doi.org/10.1021/ac052027c PMID:
+16579631
+
+36. Paul D, Skrzypek G, Fo´rizs I. Normalization of measured stable isotopic compositions to isotope refer-
+
+ence scales–a review. Rapid Commun Mass Spectrom. 2007; 21(18):3006–14. https://doi.org/10.1002/
+rcm.3185 PMID: 17705258
+Team RC. R: A language and environment for statistical computing. R Foundation for Statistical Com-
+puting. Vienna, Austria 2014.
+
+37.
+
+38. R_Core_Team. R: A language and environment for statistical computing. Vienna, Austria: R Founda-
+
+tion for Statistical Computing; 2014.
+
+39. Montague CL, Ley JA. A possible effect of salinity fluctuation on abundance of benthic vegetation and
+
+associated fauna in northeastern Florida Bay. Estuaries. 1993; 16(4):703–17.
+
+40. Walker D, McComb A. Salinity response of the seagrass Amphibolis antarctica (Labill.) Sonder et
+
+Aschers.: an experimental validation of field results. Aquat Bot. 1990; 36(4):359–66.
+
+41. Heithaus MR. Fish communities of subtropical seagrass meadows and associated habitats in Shark
+
+Bay, Western Australia. Bull Mar Sci. 2004; 75(1):79–99.
+
+42. Atkinson M. Low phosphorus sediments in a hypersaline marine bay. Estuar Coast Shelf Sci. 1987; 24
+
+43.
+
+(3):335–47.
+Fraser MW, Kendrick GA, Grierson PF, Fourqurean JW, Vanderklift MA, Walker DI. Nutrient status of
+seagrasses cannot be inferred from system-scale distribution of phosphorus in Shark Bay, Western
+Australia. Mar Freshw Res. 2012; 63(11):1015–26.
+
+44. Sogard SM. Colonization of artificial seagrass by fishes and decapod crustaceans: importance of prox-
+
+imity to natural eelgrass. J Exp Mar Biol Ecol. 1989; 133(1):15–37.
+
+45. Edgar GJ, Shaw C. The production and trophic ecology of shallow-water fish assemblages in southern
+Australia II. Diets of fishes and trophic relationships between fishes and benthos at Western Port, Victo-
+ria. J Exp Mar Biol Ecol. 1995; 194(1):83–106.
+
+46. Cebrian J. Variability and control of carbon consumption, export, and accumulation in marine communi-
+
+ties. Limnol Oceanogr. 2002; 47(1):11–22.
+
+47. Kikuchi T, Peres J. Consumer ecology in seagrass beds. In: McRoy C, Helffrich C, editors. Seagrass
+
+48.
+
+49.
+
+ecosystems: a scientific perspective. New York and Basel: Marcel Dekker Inc.; 1977. p. 147–93.
+Thayer GW, Engel DW, LaCroix MW. Seasonal distribution and changes in the nutritive quality of living,
+dead and detrital fractions of Zostera marina. J Exp Mar Biol Ecol. 1977; 30(2):109–27.
+Fritz RS, Simms EL. Plant resistance to herbivores and pathogens: ecology, evolution, and genetics:
+University of Chicago Press; 1992.
+
+50. Klumpp DW, Nichols PD. A study of food chains in seagrass communities II. Food of the rock flathead,
+Platycephalus laevigatus Cuvier, a major predator in a Posidonia australis seagrass bed. Mar Freshw
+Res. 1983; 34(5):745–54.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0214308 March 21, 2019
+
+12 / 13
+
+Salinity stress-gradients in seagrass ecosystems
+
+51. Ansari Z, Chatterji A, Ingole B, Sreepada R, Rivonkar C, Parulekar A. Community structure and sea-
+sonal variation of an inshore demersal fish community at Goa, west coast of India. Estuar Coast Shelf
+Sci. 1995; 41(5):593–610.
+
+52. Walker D, Kendrick G, Vanderklift M, Fraser MW, Statton J, Grol M, et al. Caring for Our Country: Shark
+
+Bay Effects of Rising Water Levels on the Faure Sill and Stromatolites. WAMSI, CSIRO, UWA, 2012.
+Travers MJ, Potter IC. Factors influencing the characteristics of fish assemblages in a large subtropical
+marine embayment. J Fish Biol. 2002; 61(3):764–84.
+
+54. Bessey C, Heithaus MR. Ecological niche of an abundant teleost Pelates octolineatus in a subtropical
+
+seagrass ecosystem. Mar Ecol Prog Ser. 2015; 541:195–204.
+Jackson G, Burton C, Moran M, Radford B. Distribution and abundance of juvenile pink snapper, Pagrus
+auratus, in the gulfs of Shark Bay, Western Australia, from trap surveys. Fish Res Rep. 2007;(161).
+
+53.
+
+55.
+
+56. Belicka LL, Burkholder D, Fourqurean JW, Heithaus MR, Macko SA, Jaffe´ R. Stable isotope and fatty
+acid biomarkers of seagrass, epiphytic, and algal organic matter to consumers in a pristine seagrass
+ecosystem. Mar Freshw Res. 2012; 63(11):1085–97.
+
+57. Heithaus ER, Heithaus PA, Heithaus MR, Burkholder D, Layman CA. Trophic dynamics in a relatively
+
+pristine subtropical fringing mangrove community. Mar Ecol Prog Ser. 2011; 428:49–61.
+
+58. Wernberg T, Bennett S, Babcock RC, de Bettignies T, Cure K, Depczynski M, et al. Climate-driven
+
+regime shift of a temperate marine ecosystem. Science. 2016; 353(6295):169–72. https://doi.org/10.
+1126/science.aad8745 PMID: 27387951
+
+59. Bennett S, Wernberg T, Harvey ES, Santana-Garcon J, Saunders BJ. Tropical herbivores provide resil-
+
+60.
+
+ience to a climate-mediated phase shift on temperate reefs. Ecol Lett. 2015.
+Fraser MW, Kendrick GA, Statton J, Hovey RK, Zavala-Perez A, Walker DI. Extreme climate events
+lower resilience of foundation seagrass at edge of biogeographical range. J Ecol. 2014; 102(6):1528–
+36.
+
+61. Nowicki RJ, Fourqurean JW, Heithaus MR. The role of consumers in structuring seagrass communities:
+
+direct and indirect mechanisms. Seagrasses of Australia: Springer; 2018. p. 491–540.
+
+62. Statton J, Gustin-Craig S, Dixon KW, Kendrick GA. Edge Effects along a Seagrass Margin Result in an
+
+63.
+
+Increased Grazing Risk on Posidonia australis Transplants. PLoS ONE. 2015; 10(10):e0137778.
+https://doi.org/10.1371/journal.pone.0137778 PMID: 26465926
+Thomson JA, Burkholder DA, Heithaus MR, Fourqurean JW, Fraser MW, Statton J, et al. Extreme tem-
+peratures, foundation species, and abrupt ecosystem change: an example from an iconic seagrass eco-
+system. Global Change Biol. 2015; 21(4):1463–74.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0214308 March 21, 2019
+
+13 / 13
+
+

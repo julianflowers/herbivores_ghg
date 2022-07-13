@@ -1,0 +1,893 @@
+Ecological Consequences of Sediment on High-Energy
+Coral Reefs
+Christopher H. R. Goatley*, David R. Bellwood
+
+Australian  Research  Council  Centre  of  Excellence  for  Coral  Reef  Studies,  and  School  of  Marine  and  Tropical  Biology,  James  Cook  University,  Townsville,
+Queensland, Australia
+
+Abstract
+
+Sediments are widely accepted as a threat to coral reefs but our understanding of their ecological impacts is limited.
+Evidence  has  suggested  that  benthic  sediments  bound  within  the  epilithic  algal  matrix  (EAM)  suppress  reef  fish
+herbivory, a key ecological process maintaining reef resilience. An experimental combination of caging and sediment
+addition treatments were used to investigate the effects of sediment pulses on herbivory and EAMs and to determine
+whether  sediment  addition  could  trigger  a  positive-feedback  loop,  leading  to  deep,  sediment-rich  turfs.  A  1-week
+pulsed  sediment  addition  resulted  in  rapid  increases  in  algal  turf  length  with  effects  comparable  to  those  seen  in
+herbivore  exclusion  cages.  Contrary  to  the  hypothesised  positive-feedback  mechanism,  benthic  sediment  loads
+returned to natural levels within 3 weeks, however, the EAM turfs remained almost 60% longer for at least 3 months.
+While reduced herbivore density is widely understood to be a major threat to reefs, we show that acute disturbances
+to  reef  sediments  elicit  similar  ecological  responses  in  the  EAM.  With  reefs  increasingly  threatened  by  both
+reductions  in  herbivore  biomass  and  altered  sediment  fluxes,  the  development  of  longer  turfs  may  become  more
+common on coral reefs.
+
+Citation: Goatley CHR, Bellwood DR (2013) Ecological Consequences of Sediment on High-Energy Coral Reefs. PLoS ONE 8(10): e77737. doi:10.1371/
+journal.pone.0077737
+Editor: Peter S. Petraitis, University of Pennsylvania, United States of America
+Received June 5, 2013; Accepted September 6, 2013; Published October 4, 2013
+Copyright: © 2013 Goatley et al. This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits
+unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.
+Funding: This study was funded by the Lizard Island Reef Research Foundation and the Australian Museum, through a Lizard Island Doctoral Fellowship
+(C.H.R.G.), and the Australian Research Council (D.R.B.). The funders had no role in study design, data collection and analysis, decision to publish, or
+preparation of the manuscript.
+Competing interests: The authors have declared that no competing interests exist.
+* E-mail: christopher.goatley@my.jcu.edu.au
+
+Introduction
+
+Coral  reefs  are  among  the  most  biodiverse  ecosystems  on
+the  planet.  Despite  the  ecological  and  physical  complexity
+associated  with  this  biodiversity,  they  are  remarkably  fragile.
+The  increasing  rate  of  disturbances  associated  with  climate
+change  and  other  anthropogenically  induced  stressors  has
+repeatedly  highlighted  that  acute  stressors  can  have  long
+lasting  impacts  [1,2].  For  example,  temperature  anomalies
+lasting  for  very  short  periods  can  result  in  bleaching  events,
+which  have  long-term  effects  at  reef-wide  scales  [3].  While
+temperature anomalies might be the best understood, there are
+many other acute threats to coral reefs. These include storms,
+freshwater inundation and, potentially, sediments.
+
+The  source  of  sediment  on  coral  reefs  affects  its  physical
+and chemical properties. Fine marine (primarily carbonate) and
+terrigenous  (primarily  silicate)  sediments  can  be  transported
+long  distances  in  suspension  and/or  driven  by  hydrodynamic
+activity 
+these  sediments  can  be  particularly
+deleterious to coral reefs, blocking light penetration and, upon
+settling, producing blankets of smothering silt [5], their affects
+
+[4].  While 
+
+tend  to  be  best-documented  on  near-shore  reefs  [6].  The
+proximity to the sources of terrigenous sediments and shallow
+waters  allow  sediments  to  be  effectively  resuspended  and
+transported  to  these  reefs  [4].  On  reefs  further  from  shore,
+however, most sediment is produced in situ as the reef matrix
+is eroded into sediments by physical, biological and, chemical
+processes [7].
+
+While  benthic  sediments  are  highly  dynamic  on  offshore
+coral reefs [8,9]. The continual production of sediments through
+erosion is often balanced by hydrodynamically driven losses to
+deep  water  or  accretion  into  cays  or  beaches  [8].  As  such,
+although  the  sediment  is  constantly  moving,  the  system
+remains in a state of dynamic stability [10,11], with all but the
+most severe perturbations being short lived [12].
+
+On  hard  coral  reef  substrata  some  sediment  exists  in  sand
+patches,  but  a  large  proportion  of  the  benthic  sediment  is
+bound within algal turfs [13–16]. The turfs also trap detritus and
+provide habitat for infaunal organisms [17,18]. Together, these
+components  form  an  epilithic  algal  matrix  (EAM;  [19]);  a
+ubiquitous feature of coral reefs, often occupying more benthic
+space  than  corals  [16,20].  On  the  Great  Barrier  Reef,  EAMs
+
+PLOS ONE | www.plosone.org
+
+1
+
+October 2013 | Volume 8 | Issue 10 | e77737
+
+in 
+
+cover  between  18  and  59%  of  the  reef  surface  [21].  While
+EAMs  can  play  positive  roles  on  coral  reefs,  with  some
+components  providing  settlement  cues  for  corals  [22]  and
+others  directly  adding  to  carbonate  accretion  [23],  they  also
+have  several  deleterious  impacts.  Algae  within  the  EAMs  can
+compete  with  corals  for  space  [24,25],  increase  sediment
+deposition  [26,27]  and  reduce  the  settlement  success  and
+survivorship of juvenile corals [28,29]. The algal turfs in EAMs
+can  also  represent  an  early  stage  in  successional  growth  of
+macroalgae on reefs [30,31].
+
+trapped 
+
+On  ‘healthy’  coral  reefs,  EAMs  are  maintained  as  well-
+cropped productive turfs by herbivores, usually reef fishes [32].
+The intensity of herbivory by fishes on these reefs can control
+the  growth  of  algae  [33–35].  While  herbivory  is  clearly  a  vital
+function  on  coral  reefs,  recent  evidence  suggests 
+that
+sediments  may  affect  reef  fish  communities  [36,37],  and
+furthermore,  sediments 
+the  EAM  can  deter
+herbivores from feeding [10,11]. Sediment reductions result in
+almost  instantaneous  increases  in  rates  of  reef  fish  herbivory
+and  measurable  declines  in  algal  turf  length  in  less  than  four
+hours  [10].  The  increased  herbivory  with  reduced  sediment
+loads 
+trapped  sediments  actively  deter
+herbivores,  however,  evidence  for  sediment  suppression  of
+herbivory remains almost entirely based on sediment removal
+experiments,  which  report 
+following
+sediment  reductions  [10,11].  Yet  questions  remain:  a)  will  an
+increase  in  sediments  produce  similar  changes  in  herbivory?
+And  b)  are  these  effects  long-lasting  or  temporary?  This  is
+particularly interesting as increased sediments are believed to
+pose an ongoing threat to coral reefs [5,38].
+
+increasing  herbivory 
+
+indicates 
+
+that 
+
+The  interactions  between  benthic  sediment  and  herbivory
+suggest  the  possibility  of  a  positive  feedback  loop.  Any
+disturbance leading to increased EAM sediment load, such as
+exposure  to  a  sediment  plume  from  storms,  flooding  or
+dredging  could  deter  herbivores.  The  reduced  top  down
+pressure on the EAM is likely to result in an increase in EAM
+length  [10],  allowing  further  sediment  trapping  [27,35].  The
+potential  result  is  a  self-sustaining,  long,  sediment-rich  EAM,
+unpalatable  to  herbivores.  Using  a  combination  of  herbivore
+exclusion cages and pulsed sediment additions we attempt to
+initiate this positive feedback and generate a deep, sediment-
+rich  EAM.  In  doing  so,  we  will  provide  information  on  the
+relative impacts of sediment pulses and herbivore removal on
+coral reef resilience.
+
+Materials and Methods
+
+Ethics statement
+
+All  procedures  were  conducted  according  to  the  ethics
+guidelines  of  James  Cook  University,  Townsville  (ethics
+approval  A1522),  and  permitting  requirements  of  the  Great
+(permit  number:
+Barrier  Reef  Marine  Parks  Authority 
+G10/33755.1).  Data  are  available 
+the  supplementary
+material (Table S1).
+
+in 
+
+Experimental procedures
+
+Experimental manipulations were conducted at two sites on
+the  exposed  reef  crest  southeast  of  Lizard  Island  in  the
+
+Sediment on High-Energy Coral Reefs
+
+northern  section  of  the  Great  Barrier  Reef,  Australia.  The
+experiment was conducted between December and March, in
+the  southern  hemisphere  summer.  The  sites  had  similar
+topographies, were at a depth of 2-4 m, and separated by over
+800  m.  Sites  were  characterised  by  sparse  coral  colonies,
+separated by expanses of short well-cropped EAMs on a flat,
+low-complexity  reef  matrix.  At  each  site,  six  fully  caged,  six
+open  (uncaged)  and  six  partially  caged  1  m2  plots  were
+haphazardly  delineated  on  the  flat  EAM.  Full  cages  were
+constructed of a steel bar frame, 25 cm high, enclosing the 1
+m2  plot,  attached  to  the  reef  using  epoxy  putty  and  enclosed
+with  galvanised  4  cm  wire  mesh.  Partial  cages  were
+constructed of vertical panels identical to those used in the fully
+caged treatments and were deployed to control for any effect of
+the  cage  treatments  on  the  EAM  or  sediment,  while  allowing
+herbivores access to graze the EAM.
+
+leeward  of 
+
+Half of the plots in each cage treatment were subjected to an
+experimental  sediment  addition.  In  these  addition  plots,  a
+sediment load of 8.6 kg m-2 was maintained for one week. This
+sediment load was equivalent to that on the adjacent reef flat
+(approximately  40  m 
+the  crest),  which  was
+determined  by  weighing  dried  sediment  samples  collected
+using an electric vacuum sampler from 20 replicate 5.8 × 10-3
+m2 rings (see [39]). The sediment for treatments was collected
+from a reef-margin sand apron and had a similar particle size
+profile to that found on the reef flat. When evenly spread, the
+8.6 kg of sediment covered the 1 m2 plot to a depth of 15 mm.
+Sediment was added daily to each plot to maintain this depth
+for  one  week,  simulating  an  acute  sedimentation  event.  Then
+the plots were left undisturbed for the remainder of the three-
+month experimental period.
+
+The sediment depth and EAM turf length in each plot were
+recorded using the depth probe of vernier calipers (n = 20 reps
+for  each  plot).  Measurements  were  made  as  sediment  was
+initially manipulated (T0), then at weekly intervals for 6 weeks
+post-manipulation (T1-6), and again after three months (T7).
+
+EAM turf length data were standardised to percent increase
+over  initial  turf  length  (at  T0)  correcting  for  initial  variation
+among plots. The data were then analysed using 2- and 3-way
+analyses  of  variances  (ANOVAs)  of  the  T7  data.  Site  was
+categorised  as  a  random  factor  and  was  found  to  have  no
+significant  effect  or  interaction.  It  was  therefore  pooled  to
+increase the power of the analysis [40,41]. Data normality was
+assessed using residuals plots and square-root transformations
+were  applied  where  necessary.  To  allow  data  transformation
+for statistical analyses, negative percent EAM turf length values
+were  removed  by  the  addition  of  a  constant  to  all  data.  Time
+series  data  were  analysed  using  2-  and  3-way  repeated
+measures  ANOVAs  (RM  ANOVAs).  Multivariate  comparisons
+(Pillai’s  Trace;  RM  MANOVAs)  were  used  if  assumptions  of
+sphericity were violated.
+
+Results
+
+After three months (T7) the greatest increase in the length of
+algae in the EAM was seen in the caged plots and a significant
+difference in turf length was observed between the caged and
+open  plots 
+root
+
+(Figure  1;  3-way  ANOVA  on  square 
+
+PLOS ONE | www.plosone.org
+
+2
+
+October 2013 | Volume 8 | Issue 10 | e77737
+
+Sediment on High-Energy Coral Reefs
+
+Figure  1.    The  effects  of  the  experimental  manipulations,  at  sediment  addition,  2  and  12  weeks.    Black  circles  represent
+added sediment and vertical lines the relative length of turfs in the EAM. Fishes indicate where herbivores had access to the plots.
+doi: 10.1371/journal.pone.0077737.g001
+
+Sediment  additions  to  the  open  plots,  however,  resulted  in
+remarkable EAM turf algae growth, i.e., over 435% greater than
+observed on open, natural sediment treatment plots (Figure 2).
+The time series data showed an initial rapid increase in turf
+length followed by an apparent asymptote after approximately
+three  weeks  (Figure  3).  Data  differed  significantly  over  time
+(RM MANOVA; Pillai’s Trace = 0.647, F6,25 = 7.639, P <0.0001)
+and  in  the  time  ×  caging  interaction  (Pillai’s  Trace  =  0.636,
+F12,52 = 2.022, P = 0.041). No other factors showed significant
+interactions (Table S3).
+
+Direct  measurements  of  the  sediment  loads  in  the  EAMs
+were  conducted  alongside  measurements  of  the  EAM  turf
+length.  Unlike  the  turf  length,  sediment  rapidly  declined  in  all
+treatments  to  levels  indistinguishable  from  natural  sediment
+loads within three weeks (Figure 4; Table S4).
+
+Discussion
+
+We found that a one-week pulsed increase in sediment loads
+resulted in significant and sustained (3-month) increases in the
+length of turfs in EAMs on a coral reef (Figure 1). However, our
+results  provide  only  limited  support  for  the  existence  of  the
+proposed  positive  feedback  loop.  Although  the  length  of  turfs
+increased,  high  hydrodynamic  activity  on  the  crest  (e.g.  [42])
+quickly  removed  sediment  from  the  turfs  and  the  predicted
+deep, sediment-rich turfs were not formed. Increased EAM turf
+length did not appear to require high sediment loads.
+
+The  EAMs  on  the  exposed  crest  used  in  this  study  are
+heavily  grazed  by  coral  reef  fishes,  which  maintain  short,
+productive algal turfs [43]. Previous studies have demonstrated
+that  when  EAM  with  long  turfs  are  transplanted  from  the  reef
+flat  (low  herbivore  pressure)  to  the  crest  (high  herbivore
+pressure) they are rapidly consumed by fishes [13,35]. It was,
+
+Figure 2.  EAM turf lengths at T7 (3 months post sediment
+addition).  Filled bars represent sediment addition treatments
+and  open  bars  natural  sediment  treatments.  A  and  B  denote
+significant  groupings  (Fisher’s  LSD).  Data  are  shown  as
+percentage of T0 ± standard error, sites are pooled, therefore n
+= 6 replicates for each.
+doi: 10.1371/journal.pone.0077737.g002
+
+transformed  data:  F2,24  =  7.32,  P  =  0.003).  While  no  other
+factors  or  interactions  were  significant  (Table  S2),  a  Fisher’s
+least  significant  difference  (LSD)  post-hoc  test  revealed  two
+groupings  in  the  caging  ×  sediment  treatment  interaction
+(Figure  2).  Without  sediments,  a  clear  cage  effect  was
+observed. Algal length increased by 58.9%; no response was
+seen in the open or partial cages.
+
+Sediment  additions  to  caged  and  partially  caged  plots
+resulted  in  no  observable  differences  to  the  EAM  when
+compared 
+the  corresponding  natural  sediment  plots.
+
+to 
+
+PLOS ONE | www.plosone.org
+
+3
+
+October 2013 | Volume 8 | Issue 10 | e77737
+
+Sediment on High-Energy Coral Reefs
+
+Figure  3.    EAM  turf  length  over  time.    Data  are  pooled
+between  sites  and  standardized  as  percentage  of  T0.  Filled
+circles  represent  sediment  addition,  open  circles  represent
+natural sediment loads. Time is measured in weeks except T7,
+which is three months after T0. a. shows the responses of the
+caged plots, b. the open plots, and c. the partially caged plots.
+Data are shown as percentage of T0 ± standard error, with sites
+pooled, n = 6 replicates for each point. The lines fitted follow a
+one-phase decay model where appropriate.
+doi: 10.1371/journal.pone.0077737.g003
+
+therefore, expected that any sediment-induced increase in the
+length  of  EAM  turfs  would  be  rapidly  reversed  as  sediments
+returned to normal levels, as a result of hydrodynamic activity,
+
+Figure 4.  Sediment depth over time.  Filled points represent
+sediment  addition  treatments,  open  points  represent  natural
+sediment  treatments.  Circles  represent  data  from  site  1,  and
+triangles site 2. Time is measured in weeks except T7, which is
+three months after T0. a. shows data from the caged plots, b.
+the open plots, and c. the partially caged plots. Data are shown
+as  mean  depth  in  mm  ±  standard  error,  n  =  3  replicates  for
+each.
+doi: 10.1371/journal.pone.0077737.g004
+
+PLOS ONE | www.plosone.org
+
+4
+
+October 2013 | Volume 8 | Issue 10 | e77737
+
+releasing the algae from any sediment-induced suppression of
+herbivory (e.g. [10,11]). This was not the case.
+
+The EAMs in the present study grew in response to reduced
+herbivory  (cages),  increased  sediments,  or  a  combination  of
+these factors. Growth in the cages was probably a result of the
+reduction  in  grazing  [33,35].  While  sediment  addition  may
+increase  algal  turf  length  as  a  result  of  the  algae  investing
+greater energy resources in linear extension to reach light [44]
+and/or  increased  availability  of  nutrients  desorbed  from  the
+sediment  [13,45].  In  both  cage  and  sediment  treatments  the
+algal  growth  was  rapid  and  occurred  soon  after  the  initial
+manipulations were made, while any added sediment was still
+present. The growth of the EAMs slowed rapidly as sediment
+loads diminished. Notably, there was no growth of macroalgae,
+only an increase in turf length. Whether the time for macroalgal
+development  was  insufficient,  if  propagules  or  juveniles  were
+absent  or  if  the  high  hydrodynamic  activity  at  this  site  limited
+development  of  macroalgae  [10,42],  the  key  result  is  that
+responses  of  algal  turfs  with  artificially  reduced  herbivory
+(cages)  were  comparable  to  those  with  increased  sediment
+loads.
+
+Remarkably, after the initial growth of the algal filaments the
+new, longer, EAMs remained for at least three months in both
+caged and open plots. The three treatments followed different
+trajectories: (1) by reducing herbivory, cages maintained a long
+EAM  regardless  of  sediments  (as  in  previous  studies,  e.g.
+[31,34]).  (2)  In  open  plots,  EAMs  likewise  remained  long,  but
+only if exposed to sediment. This was particularly striking given
+the  rapid  loss  of  sediment.  It  may  be  that  the  vertical
+distribution of the remaining sediments through the EAM plays
+an important role in deterring herbivores, or that changes in the
+microbial  community  [46,47]  or  detrital  load  of  the  turfs  [48]
+made them less palatable to herbivores. The methods used in
+this study, however, could not detect any of these factors and,
+as  such,  further  study  is  necessary  to  determine  what  is
+underpinning  this  stability.  However,  the  lack  of  recovery  is
+worrying  as  it  highlights  that  reefs  are  slow  to  recover  from
+sediment-induced disturbances, even short, ‘pulsed’ events. (3)
+The  partially  caged  plots 
+initial  growth
+trajectories to their equivalent open plots, however, the longer
+EAMs appeared to ‘recover’ (i.e. reduce in length) as sediment
+was removed. The apparent ‘recovery’ of the EAM in the partial
+cages  was  unexpected.  It  was  expected  that,  as  herbivores
+had  access  to  the  benthos,  the  EAMs  would  follow  the
+responses  seen  in  the  open  plots.  However,  this  difference
+appears  to  be  a  result  of  increased  herbivory  in  the  partial
+cages.  The  partial  cages  increased  topographic  complexity,
+and  provided  shelter  for  a  range  of  reef  herbivores  allowing
+localised increases in grazing (cf. [49–52]).
+
+followed  similar 
+
+We  found  that  the  growth  of  EAMs  after  a  one-week
+sediment pulse was equivalent to, or greater than, that seen in
+simulated  herbivore  removals  using  cages.  While  increased
+sediment  is  often  considered  deleterious  to  reefs,  most
+information pertaining to its effects are at a physiological scale,
+considering  the  impact  on  individual  organisms  [53];  little  is
+known  about  how  sediments  affect  the  broader  ecosystem
+functions on which coral reefs rely [54]. At physiological scales,
+sediments have deleterious impacts on almost all benthic reef
+
+Sediment on High-Energy Coral Reefs
+
+in 
+
+[22] 
+
+result 
+
+increased  sediments 
+
+taxa  [53],  however  the  role  of  sediments  in  mediating  reef
+processes is currently limited to studies addressing the impact
+of sediment laden EAMs in driving settlement and survivorship
+induce
+of  corals.  While  some  algae  within  EAMs  may 
+settlement 
+reduced
+settlement  of  reef  corals  as  they  create  a  mobile  substrate,
+preventing  access  to  the  consolidated  reef  matrix  [14,29].
+Furthermore,  benthic  sediments  reduce  survival  of  post-
+settlement  corals  particularly  during  their  early  development
+presumably due to abrasion and shading [29,55]. In addition to
+affecting benthic coral reef organisms, our findings suggest that
+increased sediments might suppress herbivory resulting in the
+development  and  persistence  of  longer  EAMs  driving  further
+implications  for  reef  ecosystems.  Reduced  herbivory  through
+increased  fishing  pressure  is  widely  publicised  as  a  major
+threat to coral reefs on a global scale [56], but it appears that
+short-term  increases  in  sediment  release  or  resuspension
+through  anthropogenic  activities  (e.g.  [5,38,57])  have  the
+potential to have similar effects at localised scales.
+
+The manipulation used in this study is comparable to that of
+other  short-term  (acute)  perturbations  caused  by  natural  or
+anthropogenic  disturbances.  Storms  and  cyclones  can  move
+sediment from areas with high natural loads, such as lagoons
+or reef flats, which, as with this study site, may be only a few
+tens  of  meters  away  [58].  Storms  can  also  increase  runoff  to
+inner  and  mid-shelf  reefs  [8,9,59].  Similarly,  anthropogenic
+sediment perturbations caused by dredging and other shallow-
+water  maritime  activities  can  resuspend  sediments  [5,60,61].
+These  events  may  all  generate  long  EAMs  similar  to  those
+seen  after  the  experimental  sediment  manipulation.  An  even
+greater  impact  may  be  observed  if  these  events  happen  in
+succession, without sufficient recovery time. The longer EAMs
+generated in this study persisted for at least 3 months, with no
+obvious  sign  of  recovery.  If  disturbances  increasing  sediment
+loads occurred more often than this, there is the risk that the
+turfs  may  grow  longer  still  and  persist  for  longer  periods.  An
+assessment  of  the  recovery  time  is  necessary  to  assess
+whether such a ratchet effect (sensu [62]) is likely to lead to the
+disruption of ecological processes on reefs.
+
+It is essential to note that our observations are of the effects
+of ‘natural’ carbonate dominated sediments, which characterise
+offshore  coral  reefs.  The  disturbance  induced  by  this  study,
+therefore, represents the best-case scenario for the effects of
+sediments on reefs. Terrigenous sediments, with higher silicate
+and  nutrient  loads  alongside  a  high  likelihood  of  associated
+pollutants 
+fertilisers  and
+pesticides), are likely to have even greater impacts [38,63].
+
+from  metals,  chemical 
+
+(e.g. 
+
+Although  our  study  did  not  find  evidence  to  support  the
+existence  of  a  positive  feedback  leading  to  sediment-laden
+turfs, a clear and lasting effect was observed following an acute
+disturbance,  with  the  development  of  a  long-turfed  EAM.
+Longer  EAMs  on  reefs  have  the  potential  to  reduce  coral
+settlement  [29],  provide  inferior  grazing  surfaces  for  fishes
+[10,11],  and  present  an  ecologically  and  economically  less-
+desirable  state  [2].  The  development  of  these  long  EAMs
+appears  to  be  driven  by  increases  in  both  benthic  sediments
+and reductions in herbivory. In a world where reefs are affected
+by  increasingly  unpredictable  climatic  conditions  and  chronic
+
+PLOS ONE | www.plosone.org
+
+5
+
+October 2013 | Volume 8 | Issue 10 | e77737
+
+reductions  in  herbivore  abundances,  these  longer  EAMs  are
+likely  to  become  an  increasingly  common  feature  on  coral
+reefs.
+
+Supporting Information
+
+Table  S1.    Raw  data.  ‘Time’  column  is  measured  in  weeks.
+Plots  1-9  are  site  1  and  10-18  site  2.  ‘Turf/Sed’  column
+indicates what is being measured.
+(PDF)
+
+Table S2.  2-way ANOVA of T7 turf length data (square root
+x + 21.0633 transformed data, sites pooled).
+(PDF)
+
+Table  S3.    RM  MANOVA  results  of  EAM  depth  over  time,
+across  caging  and  sediment  treatments,  pooled  between
+sites  (Figure  3).  Assumptions  of  sphericity  were  violated  by
+univariate tests, as such multivariate tests (Pillai’s Trace) were
+used.
+(PDF)
+
+References
+
+1. Nyström  M,  Folke  C,  Moberg  F  (2000)  Coral  reef  disturbance  and
+resilience  in  a  human-dominated  environment.  Trends  Ecol  Evol  15:
+413–417. doi:10.1016/S0169-5347(00)01948-0. PubMed: 10998519.
+
+2. Norström AV, Nyström M, Lokrantz J, Folke C (2009) Alternative states
+on coral reefs: beyond coral–macroalgal phase shifts. Mar Ecol Prog S
+376: 295-306. doi:10.3354/meps07815.
+
+3. Hoegh-Guldberg O, Mumby PJ, Hooten J, Steneck RS, Greenfield P, et
+al.  (2007)  Coral  reefs  under  rapid  climate  change  and  ocean
+acidification.  Science  318:  1737–1742.  doi:10.1126/science.1152509.
+PubMed: 18079392.
+
+4. Alongi  DM,  Mckinnon  AD  (2005)  The  cycling  and  fate  of  terrestrially-
+derived sediments and nutrients in the coastal zone of the Great Barrier
+Reef  shelf.  Mar  Pollut  Bull  51:  239–252.  doi:10.1016/j.marpolbul.
+2004.10.033. PubMed: 15757725.
+
+5. Erftemeijer  PLA,  Riegl  B,  Hoeksema  BW,  Todd  PA 
+
+(2012)
+Environmental impacts of dredging and other sediment disturbances on
+corals:  a  review.  Mar  Pollut  Bull  64:  1737–1765.  doi:10.1016/
+j.marpolbul.2012.05.008. PubMed: 22682583.
+
+6. Fabricius  K,  De’ath  G,  McCook  L,  Turak  E,  Williams  DM  (2005)
+Changes  in  algal,  coral  and  fish  assemblages  along  water  quality
+gradients on the inshore Great Barrier Reef. Mar Pollut Bull 51: 384–
+398. doi:10.1016/j.marpolbul.2004.10.041. PubMed: 15757737.
+
+7. Scoffin TP (1992) Taphonomy of coral reefs: a review. Coral Reefs 11:
+
+57–77. doi:10.1007/BF00357423.
+
+8. Kench  P  (1998)  A  currents  of  removal  approach  for  interpreting
+carbonate  sedimentary  processes.  Mar  Geol  145:  197–223.  doi:
+10.1016/S0025-3227(97)00101-1.
+
+9. Kench  PS,  Brander  RW  (2006)  Wave  processes  on  coral  reef  flats:
+Implications  for  reef  geomorphology  using  Australian  case  studies.  J
+Coast Res 22: 209–223.
+
+10. Bellwood  DR,  Fulton  CJ  (2008)  Sediment-mediated  suppression  of
+herbivory on coral reefs: decreasing resilience to rising sea levels and
+climate  change?  Limnol  Oceanogr  53:  2695–2701.  doi:10.4319/lo.
+2008.53.6.2695.
+
+11. Goatley  CHR,  Bellwood  DR  (2012)  Sediment  suppresses  herbivory
+across a coral reef depth gradient. Biol Lett 8: 1016–1018. doi:10.1098/
+rsbl.2012.0770. PubMed: 23097459.
+
+12. Scoffin  TP  (1993)  The  geological  effects  of  hurricanes  on  coral  reefs
+and the interpretation of storm deposits. Coral Reefs 12: 203–221. doi:
+10.1007/BF00334480.
+
+13. Purcell  SW  (2000)  Association  of  epilithic  algae  with  sediment
+distribution  on  a  windward  reef  in  the  northern  Great  Barrier  Reef,
+Australia. Bull Mar Sci 66: 199–214.
+
+Sediment on High-Energy Coral Reefs
+
+Table  S4.    RM  MANOVA  results  of  sediment  depth  over
+time,  across  caging  and  sediment  treatments,  pooled
+between  sites  (Figure  4).  Assumptions  of  sphericity  were
+violated  by  univariate  tests,  as  such  multivariate  tests  (Pillai’s
+Trace) were used.
+(PDF)
+
+Acknowledgements
+
+Many thanks to R. Benz, S. Binning, C. Fulton, S. Hansen, H.
+Harrison,  C.  Harte,  S.  Harte,  M.  Hay,  J.  Kerry,  S.  Leahy,  S.
+Page,  D.  Roche,  T.  Sinclair-Taylor,  M.  Trapon,  J.  Welsh,  two
+anonymous reviewers and the staff of Lizard Island Research
+Station 
+for 
+field  assistance  and/or  helpful  advice  and
+comments.
+Author Contributions
+
+the  experiments:  CHRG  DRB.
+Conceived  and  designed 
+Performed the experiments: CHRG. Analyzed the data: CHRG
+DRB.  Contributed  reagents/materials/analysis  tools:  CHRG
+DRB. Wrote the manuscript: CHRG DRB.
+
+14. Birrell  CL,  McCook  LJ,  Willis  BL  (2005)  Effects  of  algal  turfs  and
+sediment on coral settlement. Mar Pollut Bull 51: 408–414. doi:10.1016/
+j.marpolbul.2004.10.022. PubMed: 15757739.
+
+15. Goatley  CHR,  Bellwood  DR  (2010)  Biologically  mediated  sediment
+fluxes on coral reefs: sediment removal and off-reef transportation by
+the surgeonfish Ctenochaetus striatus. Mar Ecol Prog S 415: 237–245.
+doi:10.3354/meps08761.
+
+16. Goatley  CHR,  Bellwood  DR  (2011)  The  roles  of  dimensionality,
+canopies  and  complexity  in  ecosystem  monitoring.  PLOS  ONE  6:
+e27307. doi:10.1371/journal.pone.0027307. PubMed: 22073311.
+
+17. Kramer  MJ,  Bellwood  DR,  Bellwood  O  (2012)  Cryptofauna  of  the
+epilithic algal matrix on an inshore coral reef, Great Barrier Reef. Coral
+Reefs 31: 1007–1015. doi:10.1007/s00338-012-0924-x.
+
+18. Kramer  MJ,  Bellwood  DR,  Bellwood  O  (2013)  Emergent  fauna  from
+hard surfaces on the Great Barrier Reef, Australia. Mar Freshw Res 64:
+687–691. doi:10.1071/MF12284.
+
+19. Wilson S, Bellwood DR (1997) Cryptic dietary components of territorial
+damselfishes (Pomacentridae, Labroidei). Mar Ecol Prog S 153: 299–
+310. doi:10.3354/meps153299.
+
+20. Vroom  PS  (2011)  “Coral  dominance”:  a  dangerous  ecosystem
+
+misnomer? Mar Biol. Article ID: 164127
+
+21. Wismer  S,  Hoey  AS,  Bellwood  DR  (2009)  Cross-shelf  benthic
+community structure on the Great Barrier Reef: relationships between
+macroalgal cover and herbivore biomass. Mar Ecol Prog S 376: 45–54.
+doi:10.3354/meps07790.
+
+22. Diaz-Pulido  G,  Harii  S,  McCook  LJ,  Hoegh-Guldberg  O  (2010)  The
+impact of benthic algae on the settlement of a reef-building coral. Coral
+Reefs 29: 203–208. doi:10.1007/s00338-009-0573-x.
+
+23. Chisholm  JRM  (2003)  Primary  productivity  of  reef-building  crustose
+coralline  algae.  Limnol  Oceanogr  48:  1376–1387.  doi:10.4319/lo.
+2003.48.4.1376.
+
+24. McCook  LJ,  Jompa  J,  Diaz-Pulido  G  (2001)  Competition  between
+corals and algae on coral reefs: a review of evidence and mechanisms.
+Coral Reefs 19: 400–417. doi:10.1007/s003380000129.
+
+25. Diaz-Pulido G, McCook LJ, Dove S, Berkelmans R, Roff G et al. (2009)
+Doom and boom on a resilient reef: climate change, algal overgrowth
+and  coral  recovery.  PLOS  ONE  4:  e5239.  doi:10.1371/journal.pone.
+0005239. PubMed: 19384423.
+
+26. Eckman JE, Duggins DO, Sewel AT (1989) Ecology of understory kelp
+environments. I. Effects of kelps on flow and particle transport near the
+bottom. 
+doi:
+10.1016/0022-0981(89)90055-5.
+
+Exp  Mar 
+
+173–187. 
+
+27. Carpenter R, Williams S (1993) Effects of algal turf canopy height and
+microscale substratum topography on profiles of flow speed in a coral
+
+129: 
+
+Ecol 
+
+Biol 
+
+J 
+
+PLOS ONE | www.plosone.org
+
+6
+
+October 2013 | Volume 8 | Issue 10 | e77737
+
+forereef  environment.  Limnol  Oceanogr  38:  687–694.  doi:10.4319/lo.
+1993.38.3.0687.
+
+28. Nugues  MM,  Roberts  CM  (2003)  Coral  mortality  and  interaction  with
+algae  in  relation  to  sedimentation.  Coral  Reefs  22:  507–516.  doi:
+10.1007/s00338-003-0338-x.
+
+29. Birrell  CL,  McCook  LJ,  Willis  BL,  Diaz-Pulido  GA  (2008)  Effects  of
+benthic  algae  on  the  replenishment  of  corals  and  the  implications  for
+the resilience of coral reefs. Oceanogr Mar Biol Annu Rev 46: 25–63.
+
+30. Hixon  MA,  Brostoff  WN  (2013)  Succession  and  herbivory:  effects  of
+differential fish grazing on Hawaiian coral-reef algae. Ecol Monogr 66:
+67–90.
+
+31. Burkepile  DE,  Hay  ME  (2010)  Impact  of  herbivore  identity  on  algal
+succession  and  coral  growth  on  a  Caribbean  reef.  PLOS  ONE  5:
+e8963. doi:10.1371/journal.pone.0008963. PubMed: 20126450.
+
+32. Bellwood DR, Hughes TP, Folke C, Nyström M (2004) Confronting the
+coral  reef  crisis.  Nature  429:  827–833.  doi:10.1038/nature02691.
+PubMed: 15215854.
+
+33. Hughes  TP,  Rodrigues  MJ,  Bellwood  DR,  Ceccarelli  D,  Hoegh-
+Guldberg O et al. (2007) Phase shifts, herbivory, and the resilience of
+coral reefs to climate change. Curr Biol 17: 360–365. doi:10.1016/j.cub.
+2006.12.049. PubMed: 17291763.
+
+34. Burkepile DE, Hay ME (2008) Herbivore species richness and feeding
+complementarity  affect  community  structure  and  function  on  a  coral
+reef. Proc Natl Acad Sci U S A 105: 16201–16206. doi:10.1073/pnas.
+0801946105. PubMed: 18845686.
+
+35. Bonaldo  RM,  Bellwood  DR  (2011)  Spatial  variation  in  the  effects  of
+grazing  on  epilithic  algal  turfs  on  the  Great  Barrier  Reef,  Australia.
+Coral Reefs 30: 381–390. doi:10.1007/s00338-010-0704-4.
+
+36. Mallela  J,  Roberts  C,  Harrod  C,  Goldspink  CR  (2007)  Distributional
+patterns and community structure of Caribbean coral reef fishes within
+a  river-impacted  bay.  J  Fish  Biol  70:  523–537.  doi:10.1111/j.
+1095-8649.2007.01323.x.
+
+37. Cheal AJ, Emslie MJ, MacNeil MA, Miller I, Sweatman H (2013) Spatial
+variation 
+fish
+communities and the resilience of coral reefs. Ecol Appl 23: 174–188.
+doi:10.1890/11-2253.1. PubMed: 23495645.
+
+functional  characteristics  of  herbivorous 
+
+38. Fabricius KE (2005) Effects of terrestrial runoff on the ecology of corals
+and coral reefs: review and synthesis. Mar Pollut Bull 50: 125–146. doi:
+10.1016/j.marpolbul.2004.11.028. PubMed: 15737355.
+
+39. Purcell  SW  (1996)  A  direct  method  for  assessing  sediment  load  in
+
+the 
+
+in 
+
+epilithic algal communities. Mar Pollut Bull 15: 211–213.
+
+40. Vergés  A,  Bennett  S,  Bellwood  DR 
+
+(2012)  Diversity  among
+macroalgae-consuming 
+transcontinental
+comparison. PLOS ONE 7: e45543. doi:10.1371/journal.pone.0045543.
+PubMed: 23029083.
+
+fishes  on  coral  reefs:  a 
+
+41. Fox RJ, Bellwood DR (2013) Niche partitioning of feeding microhabitats
+produces  a  unique  function  for  herbivorous  rabbitfishes  (Perciformes,
+Siganidae)  on  coral  reefs.  Coral  Reefs  32:  13–23.  doi:10.1007/
+s00338-012-0945-5.
+
+42. Fulton  CJ,  Bellwood  DR  (2005)  Wave-induced  water  motion  and  the
+fish  assemblages.  Limnol
+
+functional 
+Oceanogr 50: 255–264. doi:10.4319/lo.2005.50.1.0255.
+
+for  coral  reef 
+
+implications 
+
+43. Hoey  AS,  Bellwood  DR  (2008)  Cross-shelf  variation  in  the  role  of
+parrotfishes  on  the  Great  Barrier  Reef.  Coral  Reefs  27:  37–47.  doi:
+10.1007/s00338-007-0287-x.
+
+44. Prathep  A  (2003)  Spatial  and 
+
+in  sediment
+accumulation in an algal turf and their impact on associated fauna. Mar
+Biol 142: 381–390.
+
+temporal  variations 
+
+45. Entsch  B,  Boto  KG,  Sim  RG,  Wellington  JT  (1983)  Phosphorus  and
+nitrogen  in  coral  reef  sediments.  Limnol  Oceanogr  28:  465–476.  doi:
+10.4319/lo.1983.28.3.0465.
+
+Sediment on High-Energy Coral Reefs
+
+13: 
+
+Microbiol 
+
+46. Barott KL, Rodriguez-Brito B, Janouškovec J, Marhaver KL, Smith JE
+et al. (2011) Microbial diversity associated with four functional groups of
+benthic  reef  algae  and  the  reef-building  coral  Montastraea  annularis.
+Environ 
+doi:10.1111/j.
+1462-2920.2010.02419.x. PubMed: 21272183.
+
+1192–1204. 
+
+47. Barott KL, Rodriguez-Mueller B, Youle M, Marhaver KL, Vermeij MJA et
+al. (2012) Microbial to reef scale interactions between the reef-building
+coral Montastraea annularis and benthic algae. Proc R Soc Lond B Biol
+Sci 279: 1655–1664. doi:10.1098/rspb.2011.2155. PubMed: 22090385.
+48. Wilson  S  (2002)  Nutritional  value  of  detritus  and  algae  in  blenny
+territories on the Great Barrier Reef. J Exp Mar Biol Ecol 271: 155–169.
+doi:10.1016/S0022-0981(02)00035-7.
+
+49. Madin EMP, Madin JS, Booth DJ (2011) Landscape of fear visible from
+
+space. Sci Rep 1: 14. PubMed: 22355533.
+
+50. Vergés  A,  Vanderklift  MA,  Doropoulos  C,  Hyndes  GA  (2011)  Spatial
+patterns  in  herbivory  on  a  coral  reef  are  influenced  by  structural
+complexity but not by algal traits. PLOS ONE 6: e17115. doi:10.1371/
+journal.pone.0017115. PubMed: 21347254.
+
+51. Welsh JQ, Bellwood DR (2011) Spatial ecology of the steephead parrot
+fish  (Chlorurus  microrhinos):  an  evaluation  using  acoustic  telemetry.
+Coral Reefs 31: 55–65.
+
+52. Downie RA, Babcock RC, Thomson DP, Vanderklift MA (2013) Density
+of  herbivorous  fish  and  intensity  of  herbivory  are  influenced  by
+proximity to coral reefs. Mar Ecol Prog S 482: 217–225. doi:10.3354/
+meps10250.
+
+53. Fabricius KE, Golbuu Y, Victor S (2007) Selective mortality in coastal
+reef organisms from an acute sedimentation event. Coral Reefs 26: 69.
+doi:10.1007/s00338-006-0171-0.
+
+54. Airoldi  L,  Balata  D,  Beck  MW  (2008)  The  Gray  Zone:  relationships
+between  habitat  loss  and  marine  diversity  and  their  applications  in
+conservation.  J  Exp  Mar  Biol  Ecol  366:  8–15.  doi:10.1016/j.jembe.
+2008.07.034.
+
+55. Babcock  R,  Mundy  C  (1996)  Coral  recruitment:  consequences  of
+settlement  choice 
+two
+scleractinians.  J  Exp  Mar  Biol  Ecol  206:  179–201.  doi:10.1016/
+S0022-0981(96)02622-6.
+
+for  early  growth  and  survivorship 
+
+56. Hughes TP, Baird AH, Bellwood DR, Card M, Connolly SR et al. (2003)
+Climate  change,  human  impacts,  and  the  resilience  of  coral  reefs.
+Science  301:  929–933.  doi:10.1126/science.1085046.  PubMed:
+12920289.
+
+57. McCulloch M, Fallon S, Wyndham T, Hendy E, Lough J et al. (2003)
+Coral record of increased sediment flux to the inner Great Barrier Reef
+since  European  settlement.  Nature  421:  727-730.  doi:10.1038/
+nature01361. PubMed: 12610621.
+
+58. Purcell SW, Bellwood DR (2001) Spatial patterns of epilithic algal and
+detrital resources on a windward coral reef. Coral Reefs 20: 117–125.
+doi:10.1007/s003380100150.
+
+59. Gagan  MK,  Johnson  DP,  Carter  RM  (1988)  The  Cyclone  Winifred
+storm  bed,  central  Great  Barrier  Reef  shelf,  Australia.  J  Sedimentary
+Petrol 58: 845–856.
+
+60. Wolanski  E,  Gibbs  R  (1992)  Resuspension,  and  clearing  of  dredge
+spoils after dredging, Cleveland Bay, Australia. Water Environ Res 64:
+910–914. doi:10.2175/WER.64.7.9.
+
+61. Esslemont  G,  Russell  RA,  Maher  WA  (2004)  Coral  record  of  harbour
+dredging:  Townsville,  Australia.  J  Mar  Syst  52:  51–64.  doi:10.1016/
+j.jmarsys.2004.01.005.
+
+62. Birkeland C (2004) Ratcheting Down the Coral Reefs. BioScience 54:
+
+in 
+
+1021-1027.
+
+63. Devlin MJ, Brodie J (2005) Terrestrial discharge into the Great Barrier
+Reef Lagoon: nutrient behavior in coastal waters. Mar Pollut Bull 51: 9–
+22. doi:10.1016/j.marpolbul.2004.10.037. PubMed: 15757704.
+
+PLOS ONE | www.plosone.org
+
+7
+
+October 2013 | Volume 8 | Issue 10 | e77737
+
+
