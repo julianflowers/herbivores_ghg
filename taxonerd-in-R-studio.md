@@ -109,7 +109,10 @@ Then at the \>\>\> prompt enter the following
 
 This loads the relevant modules and sets up the NER functions.
 
-We are now ready to parse some text.
+We are now ready to parse some text - for wxampla
+
+"Brown bears (Ursus arctos), which are widely distributed throughout the northern hemisphere, are recognised as opportunistic omnivore"
+
 
     >>> ner.find_in_text("Brown bears (Ursus arctos), which are widely distributed throughout the northern hemisphere, are recognised as opportunistic omnivore")
            offsets          text
@@ -117,7 +120,7 @@ We are now ready to parse some text.
     T1  LIVB 13 25  Ursus arctos
     >>> 
 
-`taxonerd` can also parse files (.txt, .docx, .pdf) but
+`taxonerd` can also parse files (.txt, .docx, .pdf).
 
 The annotated files are text files - these can be assembled into a
 database of taxa for each file.
