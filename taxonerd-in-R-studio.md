@@ -87,9 +87,6 @@ Now open a terminal window
 
 Tools\>Terminal\>New terminal
 
-ner = TaxoNERD(model=“en_ner_eco_mdt”, prefer_gpu=False,
-with_abbrev=False)
-
 You should see something like this. At the prompt type Python3 to open a
 Python session
 
