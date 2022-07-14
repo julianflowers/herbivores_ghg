@@ -72,7 +72,7 @@ reticulate::py_install("https://github.com/nleguillarme/taxonerd/releases/downlo
 
     ## Using virtual environment '/Users/julianflowers/Dropbox/Mac (2)/Desktop/herbivores_ghg/renv/python/virtualenvs/renv-python-3.8' ...
 
-    ## + '/Users/julianflowers/Dropbox/Mac (2)/Desktop/herbivores_ghg/renv/python/virtualenvs/renv-python-3.8/bin/python' -m pip install --upgrade 'https://github.com/nleguillarme/taxonerd/releases/download/v1.3.0/en_ner_eco_md-1.0.0.tar.gz'
+    ## + '/Users/julianflowers/Dropbox/Mac (2)/Desktop/herbivores_ghg/renv/python/virtualenvs/renv-python-3.8/bin/python' -m pip install --upgrade 'https://github.com/nleguillarme/taxonerd/releases/download/v1.3.0/en_ner_eco_biobert-1.0.0.tar.gz'
 
 If you are running this on a Mac you can achieve the same result inside
 a `Bash` code chunk.
