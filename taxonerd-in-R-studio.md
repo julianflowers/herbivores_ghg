@@ -83,7 +83,7 @@ pip install taxonerd
 pip install https://github.com/nleguillarme/taxonerd/releases/download/v1.3.0/en_ner_eco_biobert-1.0.0.tar.gz
 ```
 
-Now open a terminal window
+Now open a terminal window from RStudio
 
 Tools\>Terminal\>New terminal
 
