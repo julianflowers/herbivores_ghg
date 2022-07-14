@@ -19,7 +19,7 @@ package, here we use the Python implementation and the `terminal`
 application which is available in R Studio.
 
 The first step is to install the `reticulate` package which allows R to
-interact with Python and a couple of other packages to manipulate the data and manage the Python environment. The `pacman` package (for package manager) makes life easier to install further R pacakges.
+interact with Python and a couple of other packages to manipulate the data and manage the Python environment. The `pacman` package (for package manager) makes life easier to install further R packages.
 
 ``` r
 if(!require("pacman"))install.packages("pacman")
