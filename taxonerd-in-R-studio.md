@@ -109,7 +109,7 @@ Then at the \>\>\> prompt enter the following
 
 This loads the relevant modules and sets up the NER functions.
 
-We are now ready to parse some text - for wxampla
+We are now ready to parse some text - for example
 
 "Brown bears (Ursus arctos), which are widely distributed throughout the northern hemisphere, are recognised as opportunistic omnivore"
 
