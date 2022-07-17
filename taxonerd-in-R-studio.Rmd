@@ -102,3 +102,18 @@ f1 |>
 
 
 ```
+#### Going further
+
+We can attempt to convert the scientific names to common names to help rapid scanning, For this the `taxize` package is useful.
+
+```{r, eval=FALSE}
+
+p_load_gh("ropensci/taxize")
+
+test <- f1 |>
+  pluck("taxon") 
+
+map(test, ~taxize::sci2comm(.x, simplify = FALSE))
+
+```
+
