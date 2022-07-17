@@ -1,0 +1,6703 @@
+Biotic Interactions Overrule Plant Responses to Climate,
+Depending on the Species’ Biogeography
+
+Astrid Welk1*, Erik Welk1,2, Helge Bruelheide1,2
+
+1 Institute of Biology/Geobotany and Botanical Garden, Martin Luther University Halle-Wittenberg, Halle (Saale), Germany, 2 German Centre for Integrative Biodiversity
+Research (iDiv) Halle-Jena-Leipzig, Leipzig, Germany
+
+Abstract
+
+This study presents an experimental approach to assess the relative importance of climatic and biotic factors as
+determinants of species’ geographical distributions. We asked to what extent responses of grassland plant species to biotic
+interactions vary with climate, and to what degree this variation depends on the species’ biogeography. Using a gradient
+from oceanic to continental climate represented by nine common garden transplant sites in Germany, we experimentally
+tested whether congeneric grassland species of different geographic distribution (oceanic vs. continental plant range type)
+responded differently to combinations of climate, competition and mollusc herbivory. We found the relative importance of
+biotic interactions and climate to vary between the different components of plant performance. While survival and plant
+height increased with precipitation, temperature had no effect on plant performance. Additionally, species with continental
+plant range type increased their growth in more benign climatic conditions, while those with oceanic range type were
+largely unable to take a similar advantage of better climatic conditions. Competition generally caused strong reductions of
+aboveground biomass and growth. In contrast, herbivory had minor effects on survival and growth. Against expectation,
+these negative effects of competition and herbivory were not mitigated under more stressful continental climate
+conditions. In conclusion we suggest variation in relative importance of climate and biotic interactions on broader scales,
+mediated via species-specific sensitivities and factor-specific response patterns. Our results have important implications for
+species distribution models, as they emphasize the large-scale impact of biotic interactions on plant distribution patterns
+and the necessity to take plant range types into account.
+
+Citation: Welk A, Welk E, Bruelheide H (2014) Biotic Interactions Overrule Plant Responses to Climate, Depending on the Species’ Biogeography. PLoS ONE 9(10):
+e111023. doi:10.1371/journal.pone.0111023
+
+Editor: Christopher J. Lortie, York U, Canada
+
+Received December 18, 2013; Accepted September 27, 2014; Published October 30, 2014
+Copyright: (cid:2) 2014 Welk et al. This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits
+unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.
+
+Funding: The Graduate School of Saxony-Anhalt and the DFG Priority Programme 1374 ‘‘Infrastructure-Biodiversity-Exploratories’’ (BR 1698/14-1) supported the
+study financially. The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript.
+
+Competing Interests: The authors have declared that no competing interests exist.
+
+* Email: astrid.welk@botanik.uni-halle.de
+
+Introduction
+
+Understanding the causes of species geographical distributions is
+a major research goal in ecology, often driven by the desire to
+model future species distributions in a world undergoing climate
+change. Sobero´n [1] summarized the main determinants of species
+distribution, which apart
+from a species’ dispersal capacity
+comprise the physiological niche and biotic interactions. Depend-
+ing on the species’ physiological niche [2,3], a fundamental range
+of environmental, and in particular climatic conditions, defines the
+suitable range for growth, reproduction and establishment of
+populations
+range of environmental
+conditions is usually modified by biotic interactions, for example
+owing to constricted tolerances in the presence of competitors or
+herbivores [1,5]. The result
+is the species’ ecological [2,3]or
+realized niche [6], which is the environmental range of conditions
+under which a species does occur in nature.
+
+fundamental
+
+[4]. This
+
+Correlative species distribution models are based on the central
+spatial
+assumption that on broad geographic scales, species’
+distributions are in equilibrium with climate, while biotic
+interactions are of minor importance [7]. At the same time, is
+has been emphasized that biotic interactions are important at local
+scales, e.g. for presence and abundance in communities [1,8].
+However, it has been recognized that detrimental biotic interac-
+
+tions, such as competition and herbivory, have the potential to
+limit plant distribution also on large spatial scales [9,10]. For
+instance, Bruelheide & Scheidel [11] demonstrated that
+the
+altitudinal distribution of a montane plant species is restricted to
+higher elevations because of
+increasing slug herbivory in the
+lowlands.
+
+Impacts of biotic interactions on plant performance have been
+demonstrated to change along climate gradients as for example
+was proposed by the stress gradient hypothesis for competition
+[12,13]. Thereby, competition should gain in relative importance
+under benign climate conditions. For example, Loehle [14]
+suggested that the northern range limits of North American tree
+species are limited by cold tolerance, while competitive ability
+should determine the southern range limits. This has also been
+demonstrated with examples of
+increasing competition with
+decreasing altitude [15]. Similarly, other biotic interactions might
+vary with climate conditions. For example, slug herbivore pressure
+was shown to increase with decreasing altitude [16].
+
+In addition to altitudinal and latitudinal climate gradients,
+environments
+in Europe are also structured by a distinct
+longitudinal differentiation in climate. A strong gradient exists
+from oceanic climate in Western Europe, with relatively narrow
+annual temperature ranges and constantly humid conditions, to
+continental climate in Eastern Europe, with large temperature
+
+PLOS ONE | www.plosone.org
+
+1
+
+October 2014 | Volume 9 |
+
+Issue 10 | e111023
+
+seasonality and low annual precipitation. Along this gradient, the
+general physiological growth conditions for plants get harsher with
+increasing continentality. The strong impact of this continentality
+gradient on plant distribution is also evident in phytogeographical
+classification systems that classify plant species according to their
+geographic distribution along this gradient
+into oceanic and
+continental plant range types [17,18].
+
+Species populations are expected to increase in performance,
+the closer their locations’ growth conditions is to the species’
+climate optimum [19]. Under the general assumption that species’
+geographic distributions reflect their environmental requirements,
+species should do better under conditions which are climatically
+less peripheral. Testing this assumption for North American tree
+species, Purves [20] found distinct differences in growth and
+demographic rates between northern and southern peripheral
+range sections when compared with the core area. Accordingly,
+oceanic and continental plant species should perform better in
+oceanic and continental climates respectively. On the other hand,
+this view has recently been challenged as glasshouse experiments
+revealed no clear differences between responses of oceanic and
+continental species in respect to soil moisture levels and frost
+hardiness [21,22]. However, multiple species field tests on plant
+range type-specific adaptations are still missing.
+
+If closely related plant species tend to be similar in their
+in geographical
+fundamental niche requirements, differences
+limitation,
+distribution patterns might be caused by dispersal
+biogeographical history and biotic interactions. Differences in
+biotic characteristics are probably responsible for the large amount
+of unexplained interspecific variation in periphery-core compar-
+isons of species performance [20]. As predicted by the stress-
+gradient-hypothesis, plant-plant interactions can turn from com-
+petition to facilitation with increasing abiotic stress [15]. Thus,
+competition should be less intense in continental compared to
+oceanic regions. Similarly, mollusc herbivory might also be
+reduced in continental regions as slugs (e.g. Arionidae) show clear
+preferences to more benign climate conditions [16]. Hence,
+species distributed in continental regions may be less adapted to
+negative biotic interactions and more vulnerable to biotic stress.
+This mismatch might be disadvantageous in the climatically more
+favourable oceanic regions. In consequence, detrimental biotic
+interactions should have a different impact depending on the
+species’ plant range type.
+
+Based on these considerations a transplant experiment was set
+up in nine Botanic Gardens along a continentality gradient in
+Germany (Fig. 1), where the relative impact of biotic interactions
+(competition and mollusc herbivory) and climate was tested with
+congeneric plant species of contrasting plant range types. Such
+transplant experiments have been used before and demonstrated a
+strong climatic impact on the transplants’ survival, growth and
+reproduction [23–25].
+
+The following hypotheses were tested: H1) There is an
+interactive effect between climate and biotic treatments on plant
+performance. In particular, we expected the effect of competition
+and herbivory to become weaker with increasing climatic
+continentality. H2) At the oceanic end of the gradient, species
+with general oceanic distribution should perform better than
+species with general continental distribution range and vice versa,
+indicating range type-specific adaptation. H3) Depending on the
+plant range type, biotic treatments affect species differently, as the
+continental plant species should be more susceptible to competi-
+tion and herbivory. Furthermore, assuming that
+the relative
+importance of herbivory and competition decreases with increas-
+ingly continental climate, the negative biotic effects on continental
+species should decrease with increasing continentality. Testing
+
+Biotic Interactions, Climate and Biogeography
+
+these hypotheses aims at improving the mechanistic understanding
+of species distribution patterns.
+
+Material and Methods
+
+Ethics statement
+
+The authorities that issued the permit to use the Botanical
+Gardens were the scientific or technical directors of the gardens.
+As they also assigned the piece of land to us, carrying out the
+experiment without this permit would not have been possible.
+Seeds for the experiment were collected from public land and all
+regulations concerning protected or endangered species were
+respected.
+
+Climate gradient
+
+To establish a climatic gradient for common garden locations,
+we made use of the network of Botanical Gardens, as they provide
+excellent conditions for reproducibility, and generally have similar
+soil conditions,
+i.e. fertile garden soils (hortisols). Additionally,
+these gardens usually suffer from high mollusc densities, which
+motivated us to manipulate mollusc herbivory as a negative biotic
+impact. Using the geographic coordinates of 66 major Botanical
+Gardens in Germany we extracted the mean values for mean
+minimum temperatures of the coldest month and mean annual
+precipitation for the last 50 years, using the WORLDCLIM
+dataset [26]. We chose 12 gardens located along a gradient from
+oceanic (mild winter and high precipitation) to continental (cold
+winter and low precipitation) climate conditions. Out of these,
+nine gardens responded positively to our request for conducting an
+experiment (Fig. 1, Table 1).
+
+For the study period (June 2008–October 2009), monthly mean
+data for temperature and precipitation were obtained from the
+nearest official meteorological
+stations. Table 1 shows mean
+temperatures as well as accumulated temperature and precipita-
+tion sums at the nine study sites for the investigation period. To
+analyze the weather conditions during the study period,
+the
+climate data of all nine Botanical Gardens were subjected to a
+principal component analysis (PCA, prcomp procedure; R 2.15.2,
+R Development Core Team 2012). In the PCA, the Botanical
+Gardens were ordered along a clear gradient
+related to
+temperature on the first, and precipitation variables on the second
+axis (explaining 53% and 28% of the overall variance in climate
+conditions, respectively). Summer temperature of 2009 had the
+highest loading and was positively correlated with the first PCA
+axis scores (Table 1). The remaining temperature variables for the
+vegetation period were also highly positively correlated with the
+first PCA axis while precipitation variables and minimum
+temperature were negatively correlated with this axis (Table 1).
+Regarding the second PCA axis, summer precipitation in 2009
+had the highest loading and was negatively correlated with the
+respective axis scores (Table 1). The Botanical Gardens were
+arranged from Osnabru¨ ck (OSN) to Frankfurt (FRA) and from
+Frankfurt (FRA) to Braunschweig (BS) along PCA axis 1 and 2,
+respectively (Table 1).
+
+Transplants and measurements
+
+Fourteen herbaceous species were included in the experiment,
+two from each of seven genera. The two congeneric species are of
+similar growth form, have similar habitat preferences (Table S1),
+but differ in their geographical distribution range, in particular
+with respect to the longitudinal positions of their western range
+boundary (Figure S1). The following species were included in this
+transplant experiment (taxonomy according Ja¨ ger & Werner [27],
+plant range type as follows: oceanic-continental): Carlina vulgaris
+
+PLOS ONE | www.plosone.org
+
+2
+
+October 2014 | Volume 9 |
+
+Issue 10 | e111023
+
+Biotic Interactions, Climate and Biogeography
+
+Figure 1. Locations of the Botanical Gardens in the transplant experiment showing the main gradients in climatic differences. A)
+Sum of the monthly mean temperature in summer (June-August), B) Precipitation of the vegetation period in mm. Climate data were obtainded from
+[26] and refer to the same periods as used in Table 1, but refer to long-term averages. For abbreviations of locations see Table 1.
+doi:10.1371/journal.pone.0111023.g001
+
+- Ca. biebersteinii, Centaurea scabiosa - Ce. stoebe, Dianthus
+deltoides - Di. carthusianorum, Inula conyzae - I. hirta, Koeleria
+pyramidata - K. macrantha, Scabiosa columbaria -Sc. ochroleuca
+and Silene nutans - Si. otites. The species are perennial plants
+which are all native to Europe (see distribution maps in Figure S1)
+and occur mainly in dry to semidry open grasslands [27]. All
+species had already been investigated in other glasshouse [21,22]
+and field experiments [28].
+
+Seeds of all species were collected in summer 2007 in Central
+Germany, using large populations to avoid negative effects of low
+genetic diversity (for geographical coordinates of the sampling
+localities see Table S1). Seedlings of all species were raised under
+controlled standardized glasshouse conditions in spring 2008. In
+June 2008, the young seedlings were transplanted into the plots.
+To ensure initial establishment, plants were watered regularly for
+one month. There were some species for which not enough
+seedlings were available, resulting in three species pairs that could
+not be planted in all gardens. These missing species pairs were
+randomly assigned to all gardens, except for those at the ends of
+the climate gradient which received all seven genera. We made
+sure that no more than one species pair was missing in any of the
+nine gardens.
+
+At the beginning of the experiment, the leaf number of every
+transplant was counted to calculate relative growth rates according
+to Hunt [29]. At the end of the experiment, in October 2009,
+survival, flowering status, number of leaves, number of flowering
+units, plant height, specific leaf area (SLA) and the proportion of
+consumed leaf area (visually assessed) were recorded. Additionally,
+aboveground biomass was harvested and weighed after drying at
+70uC for 48 hours.
+are
+
+http://data.idiv.de/repo/
+
+available
+
+data
+
+All
+
+at
+
+data_Welk_etal_PlosOne.xls.
+
+Experimental setup
+
+In every garden one study plot consisting of 16 subplots of one
+by one metre area each was established (Figure S2). Each subplot
+was divided in four rows and four columns, resulting in 16 planting
+positions (Figure S2). One individual per plant species was planted
+in every subplot at randomly chosen positions resulting in a
+maximum of 14 transplants (and two empty positions) per subplot.
+For the competition treatment, seeds of Festuca rubra (cultivar
+Wilma, RUDLOFF Feldsaaten GmbH, Bad Schwartau, Ger-
+many) were sown (5 g/m2) on eight subplots at the time of planting
+of the transplants (Figure S2). All subplots were regularly weeded
+except for Festuca rubra in the competition subplots. For the
+mollusc exclosure we regularly applied a mollusc repellent
+(Ferramol, W. Neudorff GmbH KG, Emmerthal) on eight of the
+subplots. In spring 2009, these plots were additionally equipped
+(IRKA, R+M
+with metal
+Gartenbedarf, Rehling, www.der-schneckenzaun.de). The compe-
+tition and mollusc exclosure treatments were fully crossed and all
+treatment combinations were replicated four times per Botanical
+Garden (Figure S2), resulting in a total of 144 subplots and 1824
+transplant individuals.
+
+to exclude molluscs
+
+frame fences
+
+Statistical analyses
+
+All response variables (survival, incidence of flowering, RGR of
+leaf number, aboveground biomass, plant height, number of
+flowering units, SLA and proportion of consumed leaf area
+biomass) were analysed with separate generalized linear mixed
+effect models (GLMM, proc glimmix, type III SS, SAS 9.2, SAS
+Institute Inc. 2008). For survival and incidence of flowering, a
+logit-link function and binomial error distribution were used, while
+the GLMM for all other response variables had an identity-link
+
+PLOS ONE | www.plosone.org
+
+3
+
+October 2014 | Volume 9 |
+
+Issue 10 | e111023
+
+Biotic Interactions, Climate and Biogeography
+
+7
+2
+2
+0
+2
+
+.
+
+2
+2
+0.4
+
+N
+S
+O
+
+.
+
+7
+2
+5
+
+E
+U
+M
+
+.
+
+9
+2
+5
+
+N
+B
+
+.
+
+5
+3
+5
+
+N
+E
+J
+
+.
+
+2
+3
+5
+
+S
+B
+
+.
+
+6
+3
+5
+
+T
+O
+P
+
+.
+
+4
+4
+5
+
+L
+A
+H
+
+.
+
+4
+4
+5
+
+I
+
+A
+M
+
+.
+
+6
+6
+5
+
+A
+R
+F
+
+.
+
+9
+7
+5
+
+2
+A
+C
+P
+s
+g
+din
+a
+o
+L
+
+1
+A
+C
+P
+s
+g
+din
+a
+o
+L
+
+n
+e
+d
+r
+a
+g
+
+l
+a
+c
+i
+n
+a
+t
+o
+B
+
+e
+l
+b
+a
+i
+r
+a
+v
+
+e
+t
+a
+m
+
+i
+l
+
+C
+
+6
+8
+1
+0
+2
+
+.
+
+2
+1
+0.4
+
+.
+
+5
+0
+4
+
+.
+
+0
+1
+4
+
+.
+
+9
+0
+4
+
+.
+
+6
+0
+4
+
+.
+
+4
+1
+4
+
+.
+
+0
+1
+4
+
+.
+
+6
+1
+4
+
+.
+
+0
+2
+4
+
+.
+
+8
+2
+4
+
+l
+
+n
+a
+e
+m
+y
+h
+t
+n
+o
+m
+e
+h
+t
+
+f
+o
+m
+u
+S
+
+.
+)
+
+A
+C
+P
+(
+
+l
+
+s
+i
+s
+y
+a
+n
+a
+
+t
+n
+e
+n
+o
+p
+m
+o
+c
+
+l
+
+a
+p
+i
+c
+n
+i
+r
+p
+
+e
+h
+t
+
+m
+o
+r
+f
+
+s
+t
+l
+u
+s
+e
+r
+
+d
+n
+a
+
+s
+n
+e
+d
+r
+a
+G
+
+l
+
+a
+c
+i
+n
+a
+t
+o
+B
+
+e
+h
+t
+
+f
+o
+
+s
+n
+o
+i
+t
+i
+d
+n
+o
+c
+
+c
+i
+t
+a
+m
+
+i
+l
+
+C
+
+.
+
+1
+
+e
+l
+b
+a
+T
+
+8
+5
+2
+0
+2
+
+.
+
+1
+1
+0.4
+
+.
+
+2
+5
+3
+1
+
+.
+
+1
+6
+3
+1
+
+.
+
+8
+6
+3
+1
+
+.
+
+5
+5
+3
+1
+
+.
+
+1
+7
+3
+1
+
+.
+
+2
+8
+3
+1
+
+.
+
+5
+8
+3
+1
+
+.
+
+4
+4
+4
+1
+
+.
+
+0
+7
+4
+1
+
+l
+
+n
+a
+e
+m
+y
+h
+t
+n
+o
+m
+e
+h
+t
+
+f
+o
+m
+u
+S
+
+9
+6
+2
+0
+2
+
+.
+
+4
+0
+4
+0
+
+.
+
+.
+
+7
+4
+9
+
+.
+
+1
+5
+9
+
+.
+
+9
+5
+9
+
+.
+
+9
+4
+9
+
+.
+
+7
+5
+9
+
+.
+
+2
+7
+9
+
+.
+
+9
+6
+9
+
+.
+
+4
+2
+0
+1
+
+.
+
+2
+4
+0
+1
+
+l
+
+n
+a
+e
+m
+y
+h
+t
+n
+o
+m
+e
+h
+t
+
+f
+o
+m
+u
+S
+
+2
+9
+0.5
+2
+
+9
+9
+0.3
+2
+
+7
+9
+0
+0
+2
+
+.
+
+4
+4
+2
+0
+2
+
+.
+
+0
+4
+1
+0
+2
+
+.
+
+.
+
+1
+8
+9
+1
+
+.
+
+3
+9
+0
+2
+
+.
+
+9
+2
+8
+1
+
+.
+
+3
+3
+7
+1
+
+.
+
+2
+9
+3
+1
+
+.
+
+1
+2
+5
+1
+
+.
+
+1
+1
+5
+1
+
+.
+
+2
+3
+6
+1
+
+.
+
+5
+5
+0
+2
+
+9
+0
+0
+2
+
+r
+e
+m
+m
+u
+s
+
+n
+
+i
+
+n
+o
+i
+t
+a
+t
+i
+p
+i
+c
+e
+r
+P
+
+9
+4
+1
+0
+2
+
+.
+
+.
+
+0
+6
+1
+3
+
+.
+
+0
+2
+3
+3
+
+.
+
+0
+8
+6
+3
+
+.
+
+8
+2
+6
+3
+
+.
+
+4
+0
+4
+2
+
+.
+
+0
+8
+7
+2
+
+.
+
+2
+2
+0
+3
+
+.
+
+6
+1
+8
+2
+
+.
+
+6
+4
+3
+3
+
+n
+o
+i
+t
+a
+t
+e
+g
+e
+v
+
+e
+h
+t
+
+f
+o
+
+n
+o
+i
+t
+a
+t
+i
+p
+i
+c
+e
+r
+P
+
+9
+7
+2
+0
+2
+
+.
+
+.
+
+2
+0
+2
+
+.
+
+5
+0
+2
+
+.
+
+8
+0
+2
+
+.
+
+6
+2
+2
+
+.
+
+7
+0
+2
+
+.
+
+9
+1
+2
+
+.
+
+1
+2
+2
+
+.
+
+8
+1
+2
+
+.
+
+9
+1
+2
+
+n
+a
+e
+m
+y
+h
+t
+n
+o
+m
+
+l
+
+f
+o
+m
+u
+m
+n
+M
+
+i
+
+i
+
+6
+1
+3
+0
+2
+
+.
+
+.
+
+2
+0
+8
+2
+
+.
+
+7
+3
+2
+2
+
+.
+
+7
+1
+7
+1
+
+.
+
+3
+9
+5
+1
+
+.
+
+9
+9
+6
+1
+
+.
+
+4
+8
+7
+1
+
+.
+
+0
+2
+5
+1
+
+.
+
+1
+9
+6
+1
+
+.
+
+9
+8
+6
+1
+
+n
+o
+i
+t
+a
+t
+e
+g
+e
+v
+
+e
+h
+t
+
+f
+o
+
+n
+o
+i
+t
+a
+t
+i
+p
+i
+c
+e
+r
+P
+
+3
+4
+0.4
+2
+
+7
+1
+3
+0
+2
+
+.
+
+.
+
+2
+6
+9
+5
+
+.
+
+7
+5
+5
+5
+
+.
+
+7
+9
+3
+5
+
+.
+
+1
+2
+2
+5
+
+.
+
+3
+0
+1
+4
+
+.
+
+4
+6
+5
+4
+
+.
+
+2
+4
+5
+4
+
+.
+
+7
+0
+5
+4
+
+.
+
+5
+3
+0
+5
+
+n
+o
+i
+t
+a
+t
+e
+g
+e
+v
+
+e
+h
+t
+
+f
+o
+
+n
+o
+i
+t
+a
+t
+i
+p
+i
+c
+e
+r
+P
+
+2
+3
+0
+
+.
+
+0
+5
+2
+
+.
+
+5
+4
+0
+
+.
+
+1
+4
+1
+
+.
+
+9
+9
+0
+
+.
+
+5
+2
+1
+
+.
+
+.
+
+0
+3
+3
+2
+
+.
+
+0
+2
+2
+2
+
+.
+
+5
+3
+1
+2
+
+.
+
+8
+9
+0
+2
+
+6
+7
+2
+
+.
+
+2
+3
+3
+
+.
+
+A
+C
+P
+
+e
+h
+t
+
+f
+o
+
+s
+e
+r
+o
+c
+s
+
+s
+i
+x
+a
+
+t
+s
+r
+i
+F
+
+.
+
+3
+1
+1
+2
+
+.
+
+1
+1
+1
+2
+
+.
+
+4
+5
+0
+2
+
+2
+4
+0
+
+.
+
+.
+
+3
+1
+0
+2
+
+.
+
+6
+6
+2
+2
+
+A
+C
+P
+
+e
+h
+t
+
+f
+o
+
+s
+e
+r
+o
+c
+s
+
+s
+i
+x
+a
+
+d
+n
+o
+c
+e
+S
+
+l
+
+n
+a
+e
+m
+y
+h
+t
+n
+o
+m
+e
+h
+t
+
+f
+o
+m
+u
+S
+
+C
+u
+
+n
+
+i
+
+)
+t
+s
+u
+g
+u
+A
+-
+e
+n
+u
+J
+(
+
+9
+0
+0
+2
+
+r
+e
+m
+m
+u
+s
+
+n
+
+i
+
+e
+r
+u
+t
+a
+r
+e
+p
+m
+e
+t
+
+n
+o
+i
+t
+a
+t
+e
+g
+e
+v
+
+e
+h
+t
+
+f
+o
+
+e
+r
+u
+t
+a
+r
+e
+p
+m
+e
+t
+
+)
+r
+e
+b
+o
+t
+c
+O
+
+-
+t
+s
+u
+g
+u
+A
+
+(
+
+8
+0
+0
+2
+
+d
+o
+i
+r
+e
+p
+
+C
+u
+
+n
+
+i
+
+n
+o
+i
+t
+a
+t
+e
+g
+e
+v
+
+e
+h
+t
+
+f
+o
+
+e
+r
+u
+t
+a
+r
+e
+p
+m
+e
+t
+
+C
+u
+
+n
+
+i
+
+9
+0
+0
+2
+
+d
+n
+a
+
+8
+0
+0
+2
+
+d
+o
+i
+r
+e
+p
+
+n
+o
+i
+t
+a
+t
+e
+g
+e
+v
+
+e
+h
+t
+
+f
+o
+
+e
+r
+u
+t
+a
+r
+e
+p
+m
+e
+t
+
+)
+r
+e
+b
+m
+e
+t
+p
+e
+S
+-
+l
+i
+r
+p
+A
+
+(
+
+9
+0
+0
+2
+
+d
+o
+i
+r
+e
+p
+
+C
+u
+
+n
+
+i
+
+m
+m
+n
+
+i
+
+)
+t
+s
+u
+g
+u
+A
+-
+e
+n
+u
+J
+(
+
+)
+r
+e
+b
+o
+t
+c
+O
+–
+t
+s
+u
+g
+u
+A
+
+(
+
+8
+0
+0
+2
+
+d
+o
+i
+r
+e
+p
+
+m
+m
+n
+
+i
+
+m
+m
+n
+
+i
+
+9
+0
+0
+2
+
+d
+n
+a
+
+8
+0
+0
+2
+
+d
+o
+i
+r
+e
+p
+
+9
+0
+0
+2
+–
+8
+0
+0
+2
+
+e
+r
+u
+t
+a
+r
+e
+p
+m
+e
+t
+
+)
+1
+A
+C
+P
+=
+
+(
+
+)
+2
+A
+C
+P
+=
+
+(
+
+)
+r
+e
+b
+m
+e
+t
+p
+e
+S
+-
+l
+i
+r
+p
+A
+
+(
+
+9
+0
+0
+2
+
+d
+o
+i
+r
+e
+p
+
+m
+m
+n
+
+i
+
+4
+
+t
+n
+e
+n
+o
+p
+m
+o
+C
+
+l
+
+a
+p
+i
+c
+n
+i
+r
+P
+
+e
+h
+t
+
+f
+o
+
+i
+
+s
+g
+n
+d
+a
+o
+
+l
+
+d
+n
+a
+
+s
+e
+r
+o
+c
+S
+
+.
+s
+i
+
+x
+a
+A
+C
+P
+
+t
+s
+r
+i
+f
+
+e
+h
+t
+
+f
+o
+
+s
+e
+r
+o
+c
+s
+
+r
+i
+e
+h
+t
+
+o
+t
+
+i
+
+g
+n
+d
+r
+o
+c
+c
+a
+
+d
+e
+t
+r
+o
+s
+
+e
+r
+a
+
+y
+d
+u
+t
+s
+
+s
+i
+h
+t
+
+n
+
+i
+
+d
+e
+d
+u
+l
+c
+n
+
+i
+
+s
+n
+e
+d
+r
+a
+g
+
+l
+
+a
+c
+i
+n
+a
+t
+o
+B
+
+.
+s
+i
+x
+a
+A
+C
+P
+
+t
+s
+r
+i
+f
+
+e
+h
+t
+
+n
+o
+
+i
+
+s
+g
+n
+d
+a
+o
+
+l
+
+r
+i
+e
+h
+t
+
+o
+t
+
+i
+
+g
+n
+d
+r
+o
+c
+c
+a
+
+d
+e
+g
+n
+a
+r
+r
+a
+
+e
+r
+a
+
+l
+
+s
+e
+b
+a
+i
+r
+a
+v
+
+e
+t
+a
+m
+
+i
+l
+
+C
+
+e
+
+l
+l
+
+a
+H
+–
+
+L
+A
+H
+
+,
+
+i
+
+n
+a
+M
+m
+a
+
+t
+r
+u
+f
+k
+n
+a
+r
+F
+
+–
+A
+R
+F
+
+,
+
+i
+
+g
+e
+w
+h
+c
+s
+n
+u
+a
+r
+B
+
+–
+
+S
+B
+
+,
+
+n
+n
+o
+B
+
+–
+N
+B
+
+:
+
+i
+
+n
+o
+i
+t
+a
+v
+e
+r
+b
+b
+a
+
+n
+e
+d
+r
+a
+g
+
+l
+
+a
+c
+i
+n
+a
+t
+o
+B
+
+.
+s
+r
+e
+t
+t
+e
+
+l
+
+l
+
+d
+o
+b
+
+n
+
+i
+
+n
+w
+o
+h
+s
+
+e
+r
+a
+
+s
+i
+x
+a
+A
+C
+P
+
+r
+e
+p
+
+i
+
+s
+g
+n
+d
+a
+o
+
+l
+
+l
+
+e
+t
+u
+o
+s
+b
+a
+
+t
+s
+e
+h
+g
+h
+
+i
+
+h
+t
+i
+
+l
+
+w
+s
+e
+b
+a
+i
+r
+a
+v
+
+e
+e
+r
+h
+t
+
+e
+h
+T
+
+.
+s
+c
+i
+l
+
+a
+t
+i
+
+n
+
+i
+
+n
+w
+o
+h
+s
+
+e
+r
+a
+
+)
+
+A
+C
+P
+(
+
+l
+
+s
+i
+s
+y
+a
+n
+A
+
+.
+
+m
+a
+d
+s
+t
+o
+P
+
+–
+
+T
+O
+P
+
+,
+
+k
+c
+u¨
+r
+b
+a
+n
+s
+O
+–
+
+N
+S
+O
+
+,
+r
+e
+t
+s
+n
+u¨
+M
+–
+
+E
+U
+M
+
+,
+
+i
+
+z
+n
+a
+M
+–
+
+I
+
+A
+M
+
+,
+t
+d
+e
+t
+s
+r
+e
+s
+s
+I
+
+a
+n
+e
+J
+
+–
+
+N
+E
+J
+
+l
+
+,
+)
+e
+a
+a
+S
+(
+
+1
+0
+0
+t
+.
+3
+2
+0
+1
+1
+1
+0
+e
+n
+o
+p
+
+.
+
+.
+l
+
+a
+n
+r
+u
+o
+j
+/
+1
+7
+3
+1
+0
+1
+
+.
+
+:
+i
+
+o
+d
+
+PLOS ONE | www.plosone.org
+
+October 2014 | Volume 9 |
+
+Issue 10 | e111023
+
+function and Gaussian error distribution. To identify the most
+relevant climatic drivers of the different response variables we
+included the scores of the first and second PCA axes as covariates
+in the models. Fixed categorical factors in all models were plant
+range type (oceanic, continental), competition (presence/absence)
+and herbivory (presence/absence). All possible two and three-way
+interactions of fixed factors and covariates were included. Subplot
+identity (nested in the interaction of garden identity, herbivory and
+competition treatment) and species identity (nested in plant range
+type) entered the models as crossed random factors.
+
+Unbiased least square means (LS means) and standard errors
+were calculated using the LSMEANS statements in SAS 9.2 (SAS
+Institute Inc. 2008) and used to produce graphs. Tukey post-hoc
+tests were calculated for contrasts between treatment combina-
+tions. All graphs were produced with R 2.15.2 (R Development
+Core Team 2012).
+
+Results
+
+Main effects of climate, competition and herbivory
+
+The climate gradient significantly affected survival, above-
+ground biomass, plant height, number of flowering units, SLA and
+proportion of leaf area consumed (Table 2). While temperature,
+which was captured by the first PCA axis, had no significant effect
+on any response variable, precipitation, with high loadings on the
+second PCA axis, played a major role. Survival (p = 0.005), plant
+(p,0.001)
+height
+decreased with decreasing precipitation (i.e.
+increasing PCA2
+scores), while proportion of consumed leaf area increased
+(p = 0.020). Additionally,
+interactions of
+(p = 0.002), aboveground biomass
+both PCA axes for survival
+(p = 0.005), plant height (p = 0.038), number of flowering units (p,
+0.001) and specific leaf area (p = 0.042, Table 2).
+
+(p = 0.013) and number of
+
+there were significant
+
+flowering units
+
+The competition and mollusc exclosure treatments had strong
+effects on all response variables except survival (Table 2). This
+demonstrates that our experimental subplot manipulation of biotic
+interactions was effective and that these two biotic factors were key
+determinants of plant performance across all species. Competition
+flowering (by 27.1%,
+significantly reduced the incidence of
+referring to LSmeans estimates from the GLMM, p,0.001), RGR
+of leaf number (by 259.2%, p,0.001), aboveground biomass (by
+240.8%, p,0.001) and number of flowering units (by 235.5%,
+p,0.001). Furthermore, there was an increase in SLA (by +6.2%,
+p = 0.022) and proportion of consumed leaf area (by +50.1%, p,
+0.001) when competitors were present. Mollusc exclosure resulted
+(by +3.5%, p = 0.031) and lower
+in increased plant height
+proportions of consumed leaf area (by 229.7%, p,0.001).
+Additionally, proportions of consumed leaf area showed a
+significant
+interaction effect of competition with herbivory
+(p = 0.004): While the mollusc exclosures reduced the amount of
+consumed leaf area by 210.3% in absence of competition, the
+reduction was 240.5% in presence of competition.
+
+Interaction of climate with impacts of competition and
+herbivory
+
+In general, the climate gradient had no effects on the outcome
+of the biotic subplot manipulations for most response variables
+(Table 2). Along the first PCA axis (temperature) the competition
+effect on number of flowering units changed (p = 0.043, Table 2).
+With increasing temperature (i.e.
+increasing PCA1 scores), the
+number of
+flowering units increased when competitors were
+absent, while the number of flowering units remained unchanged
+when competitors were present. The effect of mollusc exclosure
+changed along the second PCA axis (precipitation) for incidence of
+
+Biotic Interactions, Climate and Biogeography
+
+flowering (p = 0.027, Table 2). With decreasing precipitation (i.e.
+increasing PCA2 scores) flowering was observed less frequently
+when molluscs were excluded, while flowering increased in
+frequency in the presence of mollusc herbivory.
+
+Effects of plant range type and the interactions of plant
+range type with climate, competition and herbivory
+
+No significant main effects of plant range type were observed for
+any of the response variables (Table 2). This also applied to SLA,
+showing that the two representatives for plant range types did not
+differ in basic functional traits. However, significant interactions
+indicated that species of different plant range types responded
+differently along the climate gradient and to the subplot treatments
+(Table 2).
+
+incidence of
+flowering, aboveground biomass and
+Survival,
+flowering units were significantly affected by the
+number of
+interaction of plant range type with competition (Table 2). The
+plants of the oceanic range type survived slightly better in presence
+of competitors (+1.6%), whereas those of the continental range
+type had clearly lower survival rates (29.0%) when competitors
+were present (p = 0.025, Fig. 2A). Similarly, plants with continen-
+tal range type flowered less frequently in presence of competitors
+(27.7%), whereas flowering of oceanic plants remained nearly
+unaffected by competition (20.9%, p = 0.030, Fig. 2B).
+In
+contrast, aboveground biomass (oceanic 247.9%, continental 2
+flowering units (oceanic 2
+32.6%, p = 0.008) and number of
+40.5%, continental 227.0%, p = 0.017) were generally negatively
+affected by competition, with stronger negative effects on plants
+with oceanic than on continental range type (Fig. 2C,D).
+
+With respect to the herbivory treatment, plant range type was
+important for the incidence of flowering (p = 0.007) and propor-
+tion of consumed leaf area (p = 0.027, Table 2). Plants of the
+continental range type showed a decrease in the proportion of
+flowering individuals (24.8%) in the presence of molluscs while
+those of the oceanic range type displayed a slight increase (+0.6%,
+Fig. 2E). Without mollusc exclosure, plants of the oceanic range
+type were consumed more frequently than plants of
+the
+continental range type (Fig. 2F).
+
+There were also threefold significant interactions of competi-
+tion, herbivory and plant range type. The plant range types
+displayed contrasting response patterns to herbivory and compe-
+tition in survival (p = 0.028, Fig. 3A,B), plant height (p = 0.023,
+Fig. 3C,D) and number of flowering units (p = 0.022, Fig. 3E,F,
+Table 2). Survival and plant height of continental plants were
+strongly negatively affected by the single effects of herbivory and
+competition (Fig. 3B,D). These effects had the same magnitude
+and were not additive when mollusc herbivory occurred in
+combination with competition. Survival and plant height of
+oceanic plants remained unaffected by the biotic treatments
+(Fig. 3A,C). The contrasting pattern was observed for the number
+of flowering units, where oceanic plants were strongly affected by
+biotic interactions (Fig. 3E), while continental plants were not
+(Fig. 3F). In oceanic plants, herbivory and competition had
+opposing effects on number of flowering units. While herbivory
+alone caused a significant increase in number of flowering units,
+competition alone had no significant effect. However, when
+competitors were present in addition to herbivores, the number of
+flowering units of oceanic plants strongly decreased (Fig. 3E).
+Neither RGR of leaf number nor the proportion of consumed leaf
+area showed significantly different effects for the contrasting range
+types in the presence or absence of herbivores or competition
+(Table 2).
+
+The responses to the climatic variables of plants of contrasting
+range types differed for incidence of flowering (PCA2, p = 0.018,
+
+PLOS ONE | www.plosone.org
+
+5
+
+October 2014 | Volume 9 |
+
+Issue 10 | e111023
+
+Biotic Interactions, Climate and Biogeography
+
+*
+
+*
+*
+
+*
+
+6
+1
+0
+
+.
+
+0
+4
+5
+
+.
+
+6
+2
+0
+
+.
+
+8
+4
+0
+
+.
+
+5
+3
+0
+
+.
+
+8
+8
+0
+
+.
+
+6
+6
+1
+
+.
+
+8
+3
+0
+
+.
+
+7
+4
+8
+
+.
+
+0
+
+5
+0
+0
+
+.
+
+4
+7
+2
+
+.
+
+7
+3
+0
+
+.
+
+5
+4
+0
+
+.
+
+8
+8
+0
+
+.
+
+3
+0
+0
+
+.
+
+9
+5
+1
+
+.
+
+1
+1
+0
+
+.
+
+7
+2
+1
+
+.
+
+1
+9
+4
+
+.
+
+1
+0
+0
+
+.
+
+3
+0
+0
+
+.
+
+2
+1
+0
+
+.
+
+7
+3
+2
+1
+
+7
+3
+2
+1
+
+7
+3
+2
+1
+
+0
+3
+1
+
+7
+3
+2
+1
+
+7
+3
+2
+1
+
+7
+3
+2
+1
+
+0
+3
+1
+
+7
+3
+2
+1
+
+7
+3
+2
+1
+
+7
+3
+2
+1
+
+0
+3
+1
+
+7
+3
+2
+1
+
+7
+3
+2
+1
+
+7
+3
+2
+1
+
+7
+3
+2
+1
+
+7
+3
+2
+1
+
+7
+3
+2
+1
+
+7
+3
+2
+1
+
+7
+3
+2
+1
+
+2
+1
+
+7
+3
+2
+1
+
+7
+3
+2
+1
+
+7
+3
+2
+1
+
+7
+3
+2
+1
+
+*
+*
+*
+
+0
+4
+4
+1
+
+.
+
+0
+3
+1
+
+*
+
+8
+7
+4
+
+.
+
+*
+
+*
+
+.
+
+5
+0
+
+1
+0
+1
+
+.
+
+3
+1
+4
+
+.
+
+7
+3
+5
+
+.
+
+*
+
+*
+
+2
+7
+1
+1
+
+5
+2
+
+.
+
+9
+9
+4
+1
+
+6
+4
+0
+
+.
+
+9
+4
+4
+1
+
+2
+7
+1
+1
+
+*
+*
+*
+
+2
+7
+6
+1
+
+.
+
+9
+9
+4
+1
+
+0
+2
+6
+
+.
+
+9
+4
+4
+1
+
+3
+1
+0
+
+.
+
+4
+0
+2
+
+.
+
+5
+2
+2
+1
+
+5
+2
+2
+1
+
+2
+7
+1
+1
+
+*
+*
+*
+
+1
+6
+9
+1
+
+.
+
+9
+9
+4
+1
+
+0
+3
+4
+
+.
+
+9
+4
+4
+1
+
+*
+*
+
+8
+0
+8
+
+.
+
+5
+2
+2
+1
+
+*
+*
+*
+
+6
+9
+8
+1
+
+.
+
+0
+3
+1
+
+*
+*
+*
+
+8
+5
+8
+2
+
+.
+
+0
+3
+1
+
+0
+3
+1
+
+*
+*
+*
+
+3
+1
+3
+5
+
+.
+
+8
+2
+1
+
+*
+*
+*
+
+6
+2
+6
+1
+
+.
+
+0
+3
+1
+
+*
+*
+*
+
+2
+5
+3
+1
+
+.
+
+d
+e
+m
+u
+s
+n
+o
+c
+
+f
+o
+
+n
+o
+i
+t
+r
+o
+p
+o
+r
+P
+
+f
+o
+
+r
+e
+b
+m
+u
+N
+
+a
+e
+r
+a
+
+f
+a
+e
+l
+
+)
+
+A
+L
+S
+(
+
+a
+e
+r
+a
+
+f
+a
+e
+l
+
+c
+i
+f
+i
+c
+e
+p
+S
+
+s
+t
+i
+n
+u
+
+g
+n
+i
+r
+e
+w
+o
+l
+f
+
+t
+h
+g
+i
+e
+h
+
+t
+n
+a
+l
+P
+
+d
+n
+u
+o
+r
+g
+e
+v
+o
+b
+A
+
+s
+s
+a
+m
+o
+b
+
+i
+
+f
+a
+e
+l
+
+f
+o
+
+R
+G
+R
+
+r
+e
+b
+m
+u
+n
+
+f
+o
+
+e
+c
+n
+e
+d
+i
+c
+n
+
+I
+
+g
+n
+i
+r
+e
+w
+o
+l
+f
+
+s
+e
+t
+a
+r
+
+l
+a
+v
+i
+v
+r
+u
+S
+
+F
+
+n
+e
+d
+F
+D
+
+F
+
+n
+e
+d
+F
+D
+
+F
+
+n
+e
+d
+F
+D
+
+F
+
+n
+e
+d
+F
+D
+
+F
+
+n
+e
+d
+F
+D
+
+F
+
+n
+e
+d
+F
+D
+
+F
+
+n
+e
+d
+F
+D
+
+n
+e
+d
+F
+D
+
+m
+u
+n
+F
+D
+
+e
+h
+t
+n
+o
+e
+p
+y
+t
+
+e
+g
+n
+a
+r
+
+l
+
+t
+n
+a
+p
+d
+n
+a
+
+i
+
+y
+r
+o
+v
+b
+r
+e
+h
+
+,
+
+n
+o
+i
+t
+i
+t
+e
+p
+m
+o
+c
+
+l
+
+,
+)
+y
+e
+v
+i
+t
+c
+e
+p
+s
+e
+r
+
+,
+s
+t
+c
+e
+f
+f
+e
+n
+o
+i
+t
+a
+t
+i
+p
+i
+c
+e
+r
+p
+d
+n
+a
+
+e
+r
+u
+t
+a
+r
+e
+p
+m
+e
+t
+g
+n
+i
+t
+n
+e
+s
+e
+r
+p
+e
+r
+
+,
+
+2
+d
+n
+a
+
+1
+s
+e
+x
+a
+A
+C
+P
+(
+
+s
+e
+t
+a
+i
+r
+a
+v
+o
+c
+
+c
+i
+t
+a
+m
+
+i
+l
+c
+
+f
+o
+t
+c
+e
+f
+f
+e
+
+e
+h
+T
+
+.
+
+2
+e
+l
+b
+a
+T
+
+.
+s
+n
+e
+d
+r
+a
+G
+
+l
+
+a
+c
+i
+n
+a
+t
+o
+B
+
+e
+h
+t
+
+n
+
+i
+
+d
+e
+r
+u
+s
+a
+e
+m
+e
+c
+n
+a
+m
+r
+o
+f
+r
+e
+p
+
+t
+n
+a
+p
+
+l
+
+f
+o
+
+l
+
+s
+e
+b
+a
+i
+r
+a
+v
+
+t
+n
+e
+r
+e
+f
+f
+i
+d
+
+7
+0
+0
+
+.
+
+0
+6
+0
+
+.
+
+7
+6
+0
+
+.
+
+1
+4
+2
+
+.
+
+1
+1
+0
+
+.
+
+2
+0
+0
+
+.
+
+0
+2
+0
+
+.
+
+7
+0
+0
+
+.
+
+8
+4
+0
+
+.
+
+3
+1
+1
+
+.
+
+3
+0
+0
+
+.
+
+6
+8
+0
+
+.
+
+2
+4
+2
+
+.
+
+7
+0
+0
+
+.
+
+8
+4
+0
+
+.
+
+4
+6
+2
+
+.
+
+2
+0
+0
+
+.
+
+3
+1
+0
+
+.
+
+6
+0
+0
+
+.
+
+0
+5
+0
+
+.
+
+0
+
+2
+7
+1
+1
+
+*
+
+2
+1
+4
+
+.
+
+9
+9
+4
+1
+
+2
+7
+1
+1
+
+3
+2
+0
+
+.
+
+9
+9
+4
+1
+
+2
+7
+1
+1
+
+*
+*
+
+6
+7
+7
+
+.
+
+9
+9
+4
+1
+
+0
+3
+1
+
+2
+7
+1
+1
+
+2
+7
+1
+1
+
+2
+7
+1
+1
+
+0
+3
+1
+
+2
+7
+1
+1
+
+2
+7
+1
+1
+
+2
+1
+
+2
+7
+1
+1
+
+2
+7
+1
+1
+
+2
+7
+1
+1
+
+2
+7
+1
+1
+
+2
+7
+1
+1
+
+2
+7
+1
+1
+
+2
+7
+1
+1
+
+2
+7
+1
+1
+
+4
+4
+0
+
+.
+
+4
+3
+0
+
+.
+
+8
+3
+1
+
+.
+
+9
+2
+1
+
+.
+
+2
+3
+2
+
+.
+
+7
+1
+0
+
+.
+
+3
+6
+0
+
+.
+
+0
+8
+0
+
+.
+
+1
+5
+0
+
+.
+
+9
+1
+3
+
+.
+
+0
+
+2
+6
+0
+
+.
+
+0
+2
+3
+
+.
+
+8
+0
+0
+
+.
+
+2
+2
+1
+
+.
+
+9
+9
+0
+
+.
+
+9
+9
+4
+1
+
+9
+9
+4
+1
+
+9
+9
+4
+1
+
+0
+3
+1
+
+9
+9
+4
+1
+
+9
+9
+4
+1
+
+9
+9
+4
+1
+
+2
+1
+
+9
+9
+4
+1
+
+9
+9
+4
+1
+
+9
+9
+4
+1
+
+9
+9
+4
+1
+
+9
+9
+4
+1
+
+9
+9
+4
+1
+
+2
+0
+3
+
+.
+
+5
+6
+0
+
+.
+
+4
+0
+0
+
+.
+
+5
+1
+0
+
+.
+
+8
+6
+0
+
+.
+
+2
+7
+0
+
+.
+
+6
+4
+0
+
+.
+
+6
+0
+0
+
+.
+
+1
+0
+0
+
+.
+
+0
+3
+0
+
+.
+
+7
+0
+0
+
+.
+
+1
+0
+2
+
+.
+
+3
+5
+0
+
+.
+
+1
+0
+0
+
+.
+
+2
+4
+3
+
+.
+
+1
+5
+1
+
+.
+
+6
+2
+1
+
+.
+
+0
+5
+0
+
+.
+
+2
+8
+0
+
+.
+
+9
+4
+4
+1
+
+9
+4
+4
+1
+
+9
+4
+4
+1
+
+0
+3
+1
+
+9
+4
+4
+1
+
+9
+4
+4
+1
+
+9
+4
+4
+1
+
+0
+3
+1
+
+9
+4
+4
+1
+
+9
+4
+4
+1
+
+9
+4
+4
+1
+
+2
+1
+
+9
+4
+4
+1
+
+9
+4
+4
+1
+
+9
+4
+4
+1
+
+9
+4
+4
+1
+
+9
+1
+1
+
+.
+
+7
+7
+0
+
+.
+
+4
+0
+0
+
+.
+
+1
+0
+0
+
+.
+
+3
+0
+0
+
+.
+
+0
+
+0
+
+9
+1
+0
+
+.
+
+7
+0
+0
+
+.
+
+1
+1
+1
+
+.
+
+2
+0
+0
+
+.
+
+2
+0
+0
+
+.
+
+4
+5
+0
+
+.
+
+9
+3
+0
+
+.
+
+5
+9
+0
+
+.
+
+0
+5
+0
+
+.
+
+1
+0
+0
+
+.
+
+0
+2
+0
+
+.
+
+5
+2
+2
+1
+
+5
+2
+2
+1
+
+5
+2
+2
+1
+
+8
+2
+1
+
+5
+2
+2
+1
+
+5
+2
+2
+1
+
+5
+2
+2
+1
+
+8
+2
+1
+
+5
+2
+2
+1
+
+5
+2
+2
+1
+
+2
+1
+
+5
+2
+2
+1
+
+5
+2
+2
+1
+
+5
+2
+2
+1
+
+5
+2
+2
+1
+
+5
+2
+2
+1
+
+5
+2
+2
+1
+
+5
+2
+2
+1
+
+9
+9
+4
+1
+
+*
+
+5
+6
+6
+
+.
+
+9
+4
+4
+1
+
+9
+4
+4
+1
+
+4
+4
+0
+
+.
+
+5
+2
+2
+1
+
+9
+4
+4
+1
+
+*
+
+7
+5
+4
+
+.
+
+5
+2
+2
+1
+
+4
+0
+1
+
+.
+
+3
+0
+2
+
+.
+
+3
+2
+1
+
+.
+
+1
+0
+0
+
+.
+
+7
+4
+0
+
+.
+
+7
+1
+1
+
+.
+
+6
+6
+0
+
+.
+
+9
+0
+0
+
+.
+
+9
+3
+0
+
+.
+
+0
+5
+0
+
+.
+
+4
+6
+0
+
+.
+
+6
+7
+0
+
+.
+
+5
+1
+1
+
+.
+
+0
+5
+2
+
+.
+
+0
+8
+0
+
+.
+
+0
+
+0
+4
+0
+
+.
+
+9
+0
+1
+
+.
+
+3
+2
+0
+
+.
+
+8
+3
+1
+
+.
+
+3
+0
+0
+
+.
+
+2
+1
+0
+
+.
+
+2
+0
+0
+
+.
+
+1
+3
+3
+
+.
+
+3
+4
+2
+1
+
+3
+4
+2
+1
+
+3
+4
+2
+1
+
+3
+4
+2
+1
+
+3
+4
+2
+1
+
+3
+4
+2
+1
+
+0
+3
+1
+
+3
+4
+2
+1
+
+3
+4
+2
+1
+
+0
+3
+1
+
+3
+4
+2
+1
+
+3
+4
+2
+1
+
+2
+1
+
+3
+4
+2
+1
+
+3
+4
+2
+1
+
+3
+4
+2
+1
+
+3
+4
+2
+1
+
+3
+4
+2
+1
+
+3
+4
+2
+1
+
+3
+4
+2
+1
+
+3
+4
+2
+1
+
+3
+4
+2
+1
+
+3
+4
+2
+1
+
+*
+
+0
+9
+4
+
+.
+
+0
+0
+5
+1
+
+3
+4
+2
+1
+
+*
+*
+
+6
+7
+7
+
+.
+
+0
+0
+5
+1
+
+*
+
+*
+
+*
+
+4
+6
+5
+
+.
+
+0
+0
+5
+1
+
+8
+7
+0
+
+.
+
+0
+0
+5
+1
+
+1
+0
+0
+
+.
+
+0
+0
+5
+1
+
+6
+9
+3
+
+.
+
+0
+0
+5
+1
+
+6
+3
+2
+
+.
+
+2
+0
+0
+
+.
+
+4
+9
+2
+
+.
+
+0
+0
+5
+1
+
+0
+0
+5
+1
+
+8
+7
+2
+
+.
+
+5
+1
+0
+
+.
+
+1
+4
+1
+
+.
+
+5
+1
+1
+
+.
+
+3
+2
+0
+
+.
+
+7
+3
+1
+
+.
+
+2
+7
+1
+
+.
+
+1
+1
+2
+
+.
+
+7
+4
+0
+
+.
+
+5
+2
+0
+
+.
+
+7
+1
+0
+
+.
+
+7
+4
+2
+
+.
+
+0
+5
+0
+
+.
+
+7
+6
+1
+
+.
+
+0
+0
+5
+1
+
+0
+0
+5
+1
+
+0
+0
+5
+1
+
+0
+3
+1
+
+0
+0
+5
+1
+
+0
+0
+5
+1
+
+0
+0
+5
+1
+
+0
+3
+1
+
+0
+0
+5
+1
+
+0
+0
+5
+1
+
+0
+3
+1
+
+0
+0
+5
+1
+
+0
+0
+5
+1
+
+0
+0
+5
+1
+
+2
+1
+
+*
+*
+
+*
+*
+
+4
+8
+7
+
+.
+
+8
+3
+6
+1
+
+6
+0
+0
+1
+
+.
+
+8
+3
+6
+1
+
+F
+
+0
+
+8
+2
+0
+
+.
+
+5
+2
+0
+
+.
+
+1
+2
+2
+
+.
+
+2
+3
+0
+
+.
+
+7
+8
+0
+
+.
+
+0
+
+6
+2
+0
+
+.
+
+1
+0
+0
+
+.
+
+8
+0
+0
+
+.
+
+3
+6
+1
+
+.
+
+5
+3
+0
+
+.
+
+9
+4
+1
+
+.
+
+6
+0
+0
+
+.
+
+6
+5
+0
+
+.
+
+9
+2
+2
+
+.
+
+3
+2
+2
+
+.
+
+4
+8
+0
+
+.
+
+4
+4
+0
+
+.
+
+5
+0
+0
+
+.
+
+8
+1
+0
+
+.
+
+8
+3
+6
+1
+
+9
+2
+1
+
+8
+3
+6
+1
+
+8
+3
+6
+1
+
+8
+3
+6
+1
+
+9
+2
+1
+
+8
+3
+6
+1
+
+8
+3
+6
+1
+
+8
+3
+6
+1
+
+9
+2
+1
+
+8
+3
+6
+1
+
+8
+3
+6
+1
+
+8
+3
+6
+1
+
+8
+3
+6
+1
+
+8
+3
+6
+1
+
+2
+1
+
+8
+3
+6
+1
+
+8
+3
+6
+1
+
+8
+3
+6
+1
+
+8
+3
+6
+1
+
+8
+3
+6
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+)
+
+C
+
+(
+
+n
+o
+i
+t
+i
+t
+e
+p
+m
+o
+C
+
+2
+A
+C
+P
+6
+1
+A
+C
+P
+
+2
+A
+C
+P
+6
+1
+A
+C
+P
+6
+C
+
+)
+
+H
+
+(
+
+i
+
+y
+r
+o
+v
+b
+r
+e
+H
+
+1
+A
+C
+P
+6
+H
+
+2
+A
+C
+P
+6
+H
+
+2
+A
+C
+P
+6
+1
+A
+C
+P
+6
+H
+
+1
+A
+C
+P
+6
+H
+6
+C
+
+2
+A
+C
+P
+6
+H
+6
+C
+
+H
+6
+C
+
+)
+R
+(
+
+e
+p
+y
+t
+
+e
+g
+n
+a
+R
+
+2
+A
+C
+P
+6
+1
+A
+C
+P
+6
+R
+
+1
+A
+C
+P
+6
+R
+
+2
+A
+C
+P
+6
+R
+
+1
+A
+C
+P
+6
+C
+
+2
+A
+C
+P
+6
+C
+
+1
+A
+C
+P
+6
+R
+6
+C
+
+2
+A
+C
+P
+6
+R
+6
+C
+
+R
+6
+H
+
+1
+A
+C
+P
+6
+R
+6
+H
+
+2
+A
+C
+P
+6
+R
+6
+H
+
+H
+6
+C
+6
+R
+
+R
+6
+C
+
+t
+c
+e
+f
+f
+E
+
+1
+A
+C
+P
+
+2
+A
+C
+P
+
+,
+p
+*
+*
+*
+
+.
+s
+t
+c
+e
+f
+f
+e
+
+t
+n
+a
+c
+i
+f
+i
+n
+g
+i
+s
+
+e
+t
+a
+c
+i
+d
+n
+
+i
+
+l
+
+s
+e
+u
+a
+v
+F
+d
+o
+B
+
+l
+
+.
+s
+l
+e
+d
+o
+m
+
+r
+a
+e
+n
+
+i
+l
+
+d
+e
+z
+i
+l
+
+a
+r
+e
+n
+e
+g
+n
+o
+d
+e
+s
+a
+b
+a
+v
+o
+n
+A
+
+I
+I
+I
+
+e
+p
+y
+t
+
+a
+m
+o
+r
+f
+
+s
+e
+u
+a
+v
+
+l
+
+F
+
+s
+a
+
+l
+l
+
+e
+w
+s
+a
+
+l
+
+y
+e
+v
+i
+t
+c
+e
+p
+s
+e
+r
+
+,
+n
+e
+d
+F
+D
+d
+n
+a
+m
+u
+n
+F
+D
+
+(
+
+i
+
+r
+o
+t
+a
+n
+m
+o
+n
+e
+d
+d
+n
+a
+
+r
+o
+t
+a
+r
+e
+m
+u
+n
+e
+h
+t
+
+r
+o
+f
+
+m
+o
+d
+e
+e
+r
+f
+
+f
+o
+s
+e
+e
+r
+g
+e
+d
+s
+w
+o
+h
+s
+e
+b
+a
+t
+
+l
+
+e
+h
+T
+
+2
+7
+1
+1
+
+*
+
+9
+2
+5
+
+.
+
+9
+9
+4
+1
+
+*
+
+8
+1
+5
+
+.
+
+9
+4
+4
+1
+
+0
+0
+5
+1
+
+*
+
+5
+8
+4
+
+.
+
+8
+3
+6
+1
+
+2
+0
+0
+t
+.
+3
+2
+0
+1
+1
+1
+0
+e
+n
+o
+p
+
+.
+
+.
+l
+
+a
+n
+r
+u
+o
+j
+/
+1
+7
+3
+1
+0
+1
+
+.
+
+:
+i
+
+o
+d
+
+.
+
+.
+
+5
+0
+0
+,
+p
+*
+
+,
+
+.
+
+1
+0
+0
+,
+p
+*
+*
+
+,
+
+1
+0
+0
+0
+
+.
+
+2
+7
+1
+1
+
+*
+
+4
+7
+5
+
+.
+
+9
+9
+4
+1
+
+9
+4
+4
+1
+
+*
+*
+
+7
+9
+6
+
+.
+
+5
+2
+2
+1
+
+1
+7
+4
+
+.
+
+0
+0
+5
+1
+
+*
+
+7
+0
+5
+
+.
+
+8
+3
+6
+1
+
+PLOS ONE | www.plosone.org
+
+6
+
+October 2014 | Volume 9 |
+
+Issue 10 | e111023
+
+Biotic Interactions, Climate and Biogeography
+
+Figure 2. Significant interactive effects of plant range type with competition on A) survival, B) incidence of flowering, C)
+aboveground biomass and D) number of flowering units, and interactive effects of plant range type with herbivory on E) incidence
+of flowering and F) proportion of consumed leaf area. Graphs are plotted with LSmeans estimates and standard errors derived from the
+GLMM’s. For statistical details see Table 2.
+doi:10.1371/journal.pone.0111023.g002
+
+Fig. 4A) and plant height (PCA2, p = 0.010, Fig. 4B, Table 2).
+Incidence of
+flowering of continental plants decreased with
+decreasing precipitation (i.e. increasing PCA2 scores) while that
+of oceanic plants increased (Fig. 4A). Similarly, plant height of
+continental plants decreased with decreasing precipitation) but
+remained constant in oceanic plant species (Fig. 4B). At the moist
+end of the gradient, plants of the continental range type flowered
+more frequently and were taller than oceanic ones, while on the
+dry end the pattern was reversed (Fig. 4A,B).
+
+for
+
+Furthermore, along the precipitation gradient, the effect of
+incidence of
+competition differed between range types
+flowering (PCA2, p = 0.047, Fig. 4C) and aboveground biomass
+(PCA2, p = 0.033, Fig. 4D, Table 2). For both response variables,
+oceanic plants showed changed climate responses when compe-
+tition was manipulated. Incidence of flowering and aboveground
+biomass
+strongly increased with decreasing precipitation (i.e.
+increasing PCA2 scores) when competitors were absent (Fig. 4C).
+In the presence of competition, oceanic plants showed only a slight
+increase in incidence of flowering (Fig. 4C) and a decrease in
+aboveground biomass with decreasing precipitation (i.e. increasing
+PCA2 scores, Fig. 4D). In contrast, plants with continental plant
+range type showed almost no changes in their climate responses
+when competition was manipulated. With decreasing precipitation
+(i.e. increasing PCA2 scores) incidence of flowering and above-
+
+ground biomass of continental plants decreased, both in the
+absence and presence of competitors (Fig. 4C,D).
+
+Discussion
+
+The climate conditions in our transplant experiment were
+characterized by a distinct gradient from oceanic to continental
+climate. Across all species included in our study, temperature was
+less important for performance variation than precipitation. Plants
+benefited from higher precipitation in terms of higher survival,
+taller growth and increasing number of flowering units. Addition-
+ally, plant growth and reproduction were strongly negatively
+affected by competition and partly by mollusc herbivory,
+indicating that competition was more detrimental than herbivory.
+Biotic interactions affected all response variables except plant
+survival. This indicates that the relative importance of biotic
+interactions and climate differed among the different response
+variables.
+
+Effects of climate on biotic interactions
+
+In our first hypothesis, we expected that the negative effect of
+competition and herbivory is mitigated under the more stressful
+continental climate conditions. This was not the case for survival
+and plant growth. Biotic interactions only changed the response
+along the climate gradient in the case of variables related to
+
+PLOS ONE | www.plosone.org
+
+7
+
+October 2014 | Volume 9 |
+
+Issue 10 | e111023
+
+Biotic Interactions, Climate and Biogeography
+
+Figure 3. Summary of interactive effects of competition and herbivory on species with different plant range types for survival (A,B),
+plant height (C,D) and number of flowering units (E,F). Effects for the oceanic species are illustrated on the left side (A,C,E), for continental on
+the right side (B,D,F). The values in the bottom left corner are LSmeans estimates calculated from the GLMM for the treatment without biotic
+interactions. The values on the arrows are differences in the LSmeans estimates of this treatment-combination indicating the direction and strength
+of the relation. Units are percentage (A,B), cm (C,D) and numbers (E,F). Bold arrows indicate significant effects according to the Tukey post hoc-test.
+***p,0.001, **p,0.01, *p,0.05.
+doi:10.1371/journal.pone.0111023.g003
+
+flowering. Competition generally reduced aboveground biomass
+and growth, irrespective of climate. Restrictions in water supply at
+the dry end of the climatic gradient did not aggravate the effect of
+competition, probably because target plants and competitors were
+affected likewise. However, we also have to consider that the fertile
+garden soils used in our experiment have affected the interaction
+of climate and competition. While competition is expected to
+become more pronounced under fertile conditions, drought effects
+might have been reduced. In contrast to competition, mollusc
+herbivory had no impact on biomass production and was
+independent of the climate conditions in our experiment, except
+for incidence of flowering. This does not confirm the results of a
+recent global meta-analysis of Rodrı´guez-Castan˜ eda [30], who
+found that the effect of general herbivory on plant performance
+increased in moister ecosystems. Bruelheide & Scheidel [11]
+described increased slug herbivory with decreasing altitude, which
+was reflected in increasing temperatures, and overall, more benign
+growth conditions. A potential explanation for this mismatch to
+our results might be that the climate gradient used in our study
+was not steep enough to evoke climate-dependent herbivory effects
+on plant performance. Additionally,
+the generally high slug
+
+abundances in Botanical gardens might have uncoupled the
+climate-herbivory relationship, which emphasises the need for
+assessing mollusc densities in future studies. Given the large
+distance between the experimental sites, we were not able to count
+molluscs during rain events or to quantify mollusc activity [11,16].
+
+Interaction of climate with plant range type
+
+We secondly hypothesised that the changing climate conditions
+in our study have a different impact on the transplants with respect
+to their range type. The expectation that species of the oceanic
+plant range type perform better at the oceanic end of the climate
+gradient and those of the continental plant range type at the
+continental end of
+the climate gradient was not confirmed.
+Instead, we even found opposing patterns with increased incidence
+of flowering, plant height and aboveground biomass for continen-
+tal plants under moister conditions and for oceanic plants under
+drier conditions. These results support the outcome of previous
+experiments in the field and the greenhouse, where analyses with
+the same species set revealed similar responses to manipulated
+climate change [28] or altered soil moisture conditions [21,22].
+Nevertheless, at least for the continental species, we expected a
+
+PLOS ONE | www.plosone.org
+
+8
+
+October 2014 | Volume 9 |
+
+Issue 10 | e111023
+
+Biotic Interactions, Climate and Biogeography
+
+Figure 4. Significant effects of the climate gradient (climate covariate) on plants with different plant range types for A) incidence of
+flowering and B) plant height, and in interaction with competition for C) incidence of flowering and D) aboveground biomass.
+Climate covariates are PCA 2 scores which are negatively correlated with precipitation sums of the vegetation period during the experiment (Table 1).
+Graphs are plotted with LSmeans estimates derived from the GLMM’s. For statistical details see Table 2.
+doi:10.1371/journal.pone.0111023.g004
+
+(Figure S1). However,
+
+is less simple as higher temperatures that
+
+poorer performance in the more oceanic climate since the
+setup covered an area extending beyond their
+experimental
+western distribution limit
+the general
+impression was that plants of the continental range type responded
+stronger to the climatic gradient than those of the oceanic range
+type, especially with plant height. In contrast to our findings,
+numerous transplant experiments have described a decreased
+fitness beyond a species’ current range [31]. However, most of
+these species’ range boundaries were studied along latitudinal or
+altitudinal climate gradients [32,33], where temperature is the
+dominant driver. In contrast, the climate gradient covered in our
+experiment
+favour
+growth rates are counteracted by increasing drought
+risk.
+Consistent with our results, Stanton-Geddes et al. [34] observed
+fitness declines towards the northern range edge but not to the
+western range edge of Chamaecrista fasciculata, a widespread
+annual legume from North America. However, we also have to
+consider that short-term experiments, as presented here, might
+perhaps not be able to detect clear home-site advantages. For
+example,
+in a transplant experiment monitored over 30 years
+Bennington [35] encountered increasingly stronger home-site
+advantages for ecotypes of two arctic plant species with time.
+Our study design also did not allow for assessing the impact of
+focus on
+climate on population demography as we did not
+recruitment. Given that our species are almost all
+long-lived,
+although some of them are hapaxanth (Table S1), a 2 years-study
+period is certainly not sufficient to estimate the impact of climate
+
+on long-term survival and demography. This clearly underlines the
+need for long-term studies.
+
+Interaction of competition and herbivory with plant
+range type
+
+species
+
+found that plant
+
+When climatic factors failed to explain species range limitation,
+biotic interactions have often been made accountable for directly
+limiting distribution ranges [31,36]. For example, Engels & Jensen
+[37]
+from salt marshes performed
+similarly well
+in both freshwater and saltwater marshes, when
+competition was excluded. Similarly, in our experiment, plants
+with continental range type survived much better in absence of
+competition than those with oceanic plant range type. In addition,
+continental plants flowered more frequently when competitors or
+herbivores were removed or excluded, respectively. This sensitivity
+to competition and herbivory of continental plants was not
+modified by climate. This indicates that the geographic distribu-
+tion of continental plants is not directly limited by climate
+conditions but by other factors, such as competition. However,
+biotic interactions might act on different spatial scales. In a tundra
+study system Le Roux et al. [38] found that small scale species
+distribution was shaped by horizontal biotic interactions (i.e.
+competition) rather than by vertical interactions (i.e. herbivory).
+Similarly, our experimental evidence on survival and incidence of
+flowering supports our third hypothesis stating that continental
+plants are more vulnerable to competition and herbivory than
+
+PLOS ONE | www.plosone.org
+
+9
+
+October 2014 | Volume 9 |
+
+Issue 10 | e111023
+
+oceanic plants. However, oceanic plants were stronger negatively
+affected by competition in biomass and flower production than
+continental plants. Regarding these inconsistent results, the third
+hypothesis
+that continental plants are more susceptible to
+competition or herbivory has to be rejected.
+
+Although individuals of both plant range types suffered from
+biotic stress, they showed different strategies to cope with that.
+Particularly, the combined effect of competition and herbivory
+caused different plant responses with respect to plant range type.
+Only plants of continental range type displayed lower survival
+rates and smaller plant height in presence of competitors and
+herbivores. In contrast, oceanic plants were significantly affected
+in their flower production by herbivory alone and in combination
+with competition. The reduced flower production of the oceanic
+the compensatory response to
+plants might be an effect of
+herbivory and demonstrates a shift
+in resource allocation to
+enhanced plant growth [39]. Further reproductive traits such as
+number of seeds, seed mass and seed dispersal mode, have also
+profound effects on plant persistence [40] but could not be
+assessed in our experiment. Nevertheless,
+survival of plant
+individuals is ecologically essential to maintain a population. A
+synthesis of all our results indicates, that continental plants run a
+higher risk to suffer from competition and herbivory than oceanic
+plants, particularly if they are subjected to the combination of both
+competition and herbivory.
+
+Conclusion
+
+From the results of our experiment we can conclude that, at the
+geographical scale of Germany, the continentality gradient is of
+minor direct importance for species of the considered plant range
+types compared to negative biotic interactions. Competition and
+herbivory affected particularly the performance of individuals of
+continental plant range type. There was only weak evidence for
+the assumption that the impact of competition and herbivory
+should vary with climate. In consequence, predictions of future
+geographic range dynamics of plants species have to be considered
+with caution, especially when based solely on occurrence data and
+climatic variables. Mechanistic models would be more suitable,
+but to devise such models a better understanding of plant ecology
+is needed [41]. Consequentially, Wisz et al [42] recommended
+targeted long-term field monitoring approaches. Such long-term
+field experiments should not only include species of different plant
+range types but also measure demographic rates, which requires
+the assessment of sexual and vegetative recruitment.
+
+References
+
+Biotic Interactions, Climate and Biogeography
+
+Supporting Information
+
+Figure S1 Distribution maps of the congeneric species
+pairs used in the study. A – Carlina, B – Centaurea, C –
+Dianthus, D – Inula, E – Koeleria, F – Scabiosa, G - Silene.
+Species which were assigned to oceanic range types are coloured in
+blue, continental are coloured in red. Violet colour indicates range
+overlap of the two species The Botanical Gardens where the
+experimental sites were located are shown as black dots. Details on
+the compilation of the data for these distributions maps are given
+in Hofmann et al. (2013).
+(DOCX)
+
+Figure S2 Plot scheme of the experimental design in
+every Botanical Garden. All
+treatments were randomly
+assigned to subplots and plants were randomly assigned to
+planting positions. All species were planted into subplots. Symbols:
+- C = absence of competitors (regular weeding), + C = presence
+of competitors (Festuca rubra), - H = slug herbivore exclusion
+(subplot with metal frame and slug repellents), + H = without slug
+herbivore exclusion (subplot without metal frame).
+(DOCX)
+
+Table S1 Species characteristics (Ja¨ ger & Werner 2005)
+and coordinates of the localities where seeds were
+collected. Growth form: eg = evergreen,
+sg = summergreen,
+hc = hemicryptophyte, p = perennial.
+(DOCX)
+
+Acknowledgments
+
+to all
+
+We are very grateful
+the participating Botanical Gardens for
+providing space for the establishment and help for the maintenance of the
+experimental plots, especially (sorted by the Botanical Gardens): W. Lobin
+and J. Manner (Bonn), M. Kraft (Braunschweig), M. Wessel (Frankfurt a.
+M.), M. H. Hoffmann and A. Fla¨ schendra¨ ger (Halle), S. Arndt (Jena), R.
+Omlor and B. Meyer (Mainz), H. Voigt (Mu¨ nster), N. Friesen and H.
+Bru¨ggemann (Osnabru¨ ck), M. Burkart and K. Kla¨ ring (Potsdam). We are
+also indebted to all technicians and student helpers who conducted field
+and lab work, particularly M. Baudis and S. Kosellek. Seed collection was
+assisted by V. Bremerich, J. Danihelka and J. Stolle. M. Hofmann was a
+great help in raising the plants. The manuscript was significantly improved
+by the comments of John Stanton-Geddes and another anonymous
+reviewer.
+
+Author Contributions
+
+Conceived and designed the experiments: AW EW HB. Performed the
+experiments: AW. Analyzed the data: AW EW HB. Contributed reagents/
+materials/analysis tools: AW EW HB. Wrote the paper: AW EW HB.
+
+1. Sobero´n J (2007) Grinnellian and Eltonian niches and geographic distributions
+
+of species. Ecol Lett 10: 1115–1123.
+
+2. Ellenberg H (1953) Physiological and ecological responses of the same plant
+species (in German). Physiologisches und o¨kologisches Verhalten derselben
+Pflanzenarten. Ber Dtsch bot Ges 65: 350–361.
+
+3. Hector A, von Felten S, Hautier Y, Weilenmann M, Bruelheide H (2012) Effects
+of dominance and diversity on productivity along Ellenberg’s experimental water
+table gradients. PLoS ONE 7: e43358.
+
+9. Louda SM, Keeler KH, Holt RD (1990) Herbivore influences on plant
+performance and competitive interactions. In: Grace JB, Tilman D, editors.
+Perspectives on plant competition. New York: Academic Press. pp. 413–444.
+
+10. Salisbury EJ (1926) The Geographical Distribution of Plants in Relation to
+
+Climatic Factors. The Geographical Journal 67: 312–335.
+
+11. Bruelheide H, Scheidel U (1999) Slug herbivory as a limiting factor for the
+
+geographical range of Arnica montana. J Ecol 87: 839–848.
+
+12. Bertness MD, Callaway R (1994) Positive interactions in communities. Trends
+
+4. Godsoe W (2010) I can’t define the niche but I know it when I see it: a formal
+
+Ecol Evol 9: 191–193.
+
+link between statistical theory and the ecological niche. Oikos 119: 53–60.
+
+5. Colwell RK, Fuentes ER (1975) Experimental studies of niche. Annu Rev Ecol
+
+13. Maestre FT, Callaway RM, Valladares F, Lortie CJ (2009) Refining the stress-
+gradient hypothesis for competition and facilitation in plant communities. J Ecol
+97: 199–205.
+
+6. Hutchinson GE (1957) Concluding Remarks. Cold Spring Harb Symp Quant
+
+14. Loehle C (1998) Height growth rate tradeoffs determine northern and southern
+
+Syst 6: 281–310.
+
+Biol 22: 415–427.
+
+range limits for trees. J Biogeogr 25: 735–742.
+
+7. Dormann CF, Schymanski SJ, Cabral J, Chuine I, Graham C, et al. (2012)
+Correlation and process in species distribution models: bridging a dichotomy.
+J Biogeogr 39: 2119–2131.
+
+15. Callaway RM, Brooker RW, Choler P, Kikvidze Z, Lortie CJ, et al. (2002)
+Positive interactions among alpine plants increase with stress. Nature 417: 844–
+848.
+
+8. Duffy JE, Cardinale BJ, France KE, McIntyre PB, The´bault E, et al. (2007) The
+functional role of biodiversity in ecosystems: incorporating trophic complexity.
+Ecol Lett 10: 522–538.
+
+16. Scheidel U, Bruelheide H (2001) Altitudinal differences in herbivory on montane
+
+Compositae species. Oecologia 129: 75–86.
+
+PLOS ONE | www.plosone.org
+
+10
+
+October 2014 | Volume 9 |
+
+Issue 10 | e111023
+
+Biotic Interactions, Climate and Biogeography
+
+17.
+
+Ja¨ ger EJ (1968) The plant geographical oceanity-division of the Holarctis and the
+ocean affinity of plant distribution ranges (in German). Die pflanzengeogra-
+phische Ozeanita¨ tsgliederung der Holarktis und die Ozeanita¨ tsbindung der
+Pflanzenareale. Fed Rep 79: 157–335.
+
+18. Finnie TJR, Preston CD, Hill MO, Uotila P, Crawley MJ (2007) Floristic
+elements in European vascular plants: an analysis based on Atlas Florae
+Europaeae. J Biogeogr 34: 1848–1872.
+
+19. Brown J, Mehlman D, Stevens G (1995) Spatial variation in abundance. Ecology
+
+76: 2028–2043.
+
+20. Purves DW (2009) The demography of range boundaries versus range cores in
+
+eastern US tree species. Proc R Soc B 276: 1477–1484.
+
+21. Bu¨ tof A, Bruelheide H (2011) Effects of an unspecialized soil pathogen on
+congeneric plant species with different geographic distributions. Preslia 83: 205–
+217.
+
+22. Hofmann M, Bu¨ tof A, Welk E, Bruelheide H (2013) Relationship between
+fundamental and realized niches with respect to frost and drought resistance.
+Preslia 85: 1–17.
+Joshi J, Schmid B, Caldeira MC, Dimitrakopoulos PG, Good J, et al. (2001)
+Local adaptation enhances performance of common plant species. Ecol Lett 4:
+536–544.
+
+23.
+
+24. Bruelheide H, Heinemeyer A (2002) Climatic factors controlling the eastern and
+altitudinal distribution boundary of Digitalis purpurea L. in Germany. Flora
+197: 475–490.
+
+25. De Frenne P, Brunet J, Shevtsova A, Kolb A, Graae BJ, et al.
+
+(2011)
+Temperature effects on forest herbs assessed by warming and transplant
+experiments along a latitudinal gradient. Global Change Biol 17: 3240–3253.
+
+26. Hijmans RJ, Cameron SE, Parra JL, Jones PG, Jarvis A (2005) Very high
+resolution interpolated climate surfaces for global land areas. Int J Climatol 25:
+1965–1978.
+Ja¨ ger EJ, Werner K, editors (2005) Werner Rothmaler: Exkursionsflora von
+Deutschland. 10. edition. Mu¨ nchen: Elsevier (Spektrum).
+
+27.
+
+28. Bu¨ tof A, von Riedmatten LR, Dormann CF, Scherer-Lorenzen M, Welk E, et
+al. (2012) The responses of grassland plants to experimentally simulated climate
+change depend on land use and region. Global Change Biol 18: 127–137.
+
+29. Hunt R (1990) Basic growth analyses. London: Unwin Hyman Ltd.
+
+30. Rodrı´guez-Castan˜ eda G (2013) The world and its shades of green: a meta-
+analysis on trophic cascades across temperature and precipitation gradients.
+Global Ecol Biogeogr 22: 118–130.
+
+31. Sexton JP, McIntyre PJ, Angert AL, Rice KJ (2009) Evolution and ecology of
+
+species range limits. Annu Rev Ecol Evol S 40: 415–436.
+
+32. Hennenberg KJ, Bruelheide H (2003) Ecological investigations on the northern
+distribution range of Hippocrepis comosa L. in Germany. Plant Ecol 166: 167–
+188.
+
+33. Angert AL, Schemske DW (2005) The evolution of species’ distributions:
+Reciprocal transplants across the elevation ranges of Mimulus cardinalis and M.
+lewisii. Evolution 59: 1671–1684.
+
+34. Stanton-Geddes J, Tiffin P, Shaw RG (2012) Role of climate and competitors in
+limiting fitness across range edges of an annual plant. Ecology 93: 1604–1613.
+35. Bennington CC, Fetcher N, Vavrek MC, Shaver GR, Cummings KJ, et al.
+(2012) Home site advantage in two long-lived arctic plant species: results from
+two 30-year reciprocal transplant studies. J Ecol 100: 841–851.
+
+36. Gaston JK (2003) The structure and dynamics of geographic ranges. Oxford:
+
+Oxford University Press.
+
+37. Engels JG, Jensen K (2010) Role of biotic interactions and physical factors in
+determining the distribution of marsh species along an estuarine salinity
+gradient. Oikos 119: 679–685.
+
+38. Le Roux PC, Lenoir J, Pellissier L, Wisz MS, Luoto M (2013) Horizontal, but
+not vertical, biotic interactions affect fine-scale plant distribution patterns in a
+low-energy system. Ecology 94: 671–682.
+
+39. Rosenthal JP, Kotanen PM (1994) Terrestrial plant tolerance to herbivory.
+
+Trends Ecol Evol 9: 145–148.
+
+40. Maurer K, Durka W, Sto¨cklin J (2003) Frequency of plant species in remnants of
+calcareous grassland and their dispersal and persistence characteristics. Basic
+Appl Ecol 4: 307–316.
+
+41. Buckley LB, Urban MC, Angilletta MJ, Crozier LG, Rissler LJ, et al. (2010) Can
+mechanism inform species’ distribution models? Ecology Letters 13: 1041–1054.
+42. Wisz MS, Pottier J, Kissling WD, Pellissier L, Lenoir J, et al. (2013) The role of
+biotic interactions in shaping distributions and realised assemblages of species:
+implications for species distribution modelling. Biol Rev Camb Philos Soc 88:
+15–30.
+
+PLOS ONE | www.plosone.org
+
+11
+
+October 2014 | Volume 9 |
+
+Issue 10 | e111023
+
+

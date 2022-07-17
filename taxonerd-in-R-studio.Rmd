@@ -1,0 +1,119 @@
+    ---
+    title: "Running taxonerd from R Studio"
+    output: 
+        html_document:
+          keep_md=yes
+    ---
+
+```{r}
+knitr::opts_chunk$set(cache=TRUE)
+```
+
+`taxonerd` is a Python package which parses texts and extracts taxa and species information. It compares text contents with very large databases (language models) of species information and finds most similar taxa. This process is known as *named entity recognition* or NER for short.
+
+This note outlines how to use `taxonerd` in R. Although there is an R package, here we use the Python implementation and the `terminal` application which is available in R Studio.
+
+The first step is to install the `reticulate` package which allows R to interact with Python.
+
+```{r}
+if(!require("pacman"))install.packages("pacman")
+p_load(tidyverse, reticulate, renv)
+```
+
+Then use the `renv` package as follows and in the Console select a Python3.8 version (`taxonerd` doesn't seem to work with higher versions of Python). Note you will need to install Python3.8 before you begin.
+
+```{r}
+renv::use_python()
+```
+
+This creates a Python virtual environment and makes life much easier.
+
+Now we can use reticulate to install the `taxonerd` package and the `biobert` language model it uses as a look up (`pip` is a Python package installer).
+
+```{r}
+
+reticulate::py_install("taxonerd", pip = TRUE)
+reticulate::py_install("https://github.com/nleguillarme/taxonerd/releases/download/v1.3.0/en_ner_eco_md-1.0.0.tar.gz", pip = TRUE)
+
+```
+
+If you are running this on a Mac you can achieve the same result inside a `Bash` code chunk.
+
+```{Bash, eval = FALSE}
+which python 
+pip install taxonerd
+pip install https://github.com/nleguillarme/taxonerd/releases/download/v1.3.0/en_ner_eco_biobert-1.0.0.tar.gz
+```
+
+Now open a terminal window
+
+Tools\>Terminal\>New terminal
+
+ner = TaxoNERD(model="en_ner_eco_mdt", prefer_gpu=False, with_abbrev=False)
+
+You should see something like this. At the prompt type Python3 to open a Python session
+
+\`\`\`
+
+    (renv-python-3.8) (base) MacBook-Air-9:herbivores_ghg julianflowers$ python3
+
+    Python 3.8.13 (default, Jul 12 2022, 21:50:06) 
+
+    [Clang 13.0.1 ] on darwin
+
+    Type "help", "copyright", "credits" or "license" for more information.
+
+    >>>
+
+Then at the \>\>\> prompt enter the following
+
+    >>>from taxonerd import TaxoNERD
+    >>>ner = TaxoNERD(model="en_er_eco_biobert", prefer_gpu=False, with_abbrev=False)
+
+This loads the relevant modules and sets up the NER functions.
+
+We are now ready to parse some text.
+
+    >>> ner.find_in_text("Brown bears (Ursus arctos), which are widely distributed throughout the northern hemisphere, are recognised as opportunistic omnivore")
+           offsets          text
+    T0   LIVB 0 11   Brown bears
+    T1  LIVB 13 25  Ursus arctos
+    >>> 
+
+`taxonerd` can also parse files (.txt, .docx, .pdf) but
+
+The annotated files are text files - these can be assembled into a database of taxa for each file.
+
+
+```{r file-taxa}
+
+p <- here::here("my_ann")
+f <- list.files(p, "ann", full.names = T)
+b <- basename(f)
+
+read_delim(f[1], col_names = c("text", "position", "taxon")) %>%
+  mutate(file = basename(f[1]))
+
+f1 <- map_dfr(f, ~read_delim(.x, col_names = c("text", "position", "taxon")) |> mutate(file = basename(.x)))
+
+f1 |>
+  knitr::kable()
+
+
+
+```
+#### Going further
+
+We can attempt to convert the scientific names to common names to help rapid scanning, For this the `taxize` package is useful.
+
+```{r, eval=FALSE}
+
+p_load_gh("ropensci/taxize")
+
+test <- f1 |>
+  pluck("taxon") 
+
+map(test, ~taxize::sci2comm(.x, simplify = FALSE))
+
+```
+
