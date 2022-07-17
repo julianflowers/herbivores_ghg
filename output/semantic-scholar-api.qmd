@@ -6,17 +6,21 @@ editor: visual
 bibliography: references.bib
 ---
 
-## What is semantic scholar
+```{r}
+knitr::opts_chunk$set(cache = TRUE)
+```
+
+## What is semantic scholar?
 
 [Semantic Scholar](https://www.semanticscholar.org/me/research) (SS) is an online bibliographic database which uses a range of powerful artificial intelligence (AI) and machine learning tools to facilitate researchers in retrieving, summarising, managing and analysing citations and references.
 
 The core database has over 200 million references drawn from a wide variety of sources.
 
-It has a powerful graph database which enables rapid appreciation of the connections between authors, citations and journals for bibliometric research.
+It has a graph database which enables rapid appreciation of the connections between authors, citations and journals for bibliometric research.
 
 ## The SS API
 
-One of the most powerful features is the accessible public API. To speed things up its best to apply for an API key from [here](https://www.semanticscholar.org/product/api#Partner-Form).
+One of the most powerful features is the accessible public API. To speed things up it is best to apply for an API key from [here](https://www.semanticscholar.org/product/api#Partner-Form).
 
 Once you have a key run the following code
 
@@ -31,6 +35,8 @@ Enter the line
 `SEMANTICSCHOLAR_API = <your api key>` into the file, save it and restart R.
 
 This will give you 100 API calls per second as opposed to 100 per 5 minutes without it.
+
+### Getting info from the API
 
 Getting information by using APIs is relatively straightforward - API calls are specially constructed URLs which interact with ***endpoints***.
 
@@ -59,22 +65,20 @@ p_load(tidyverse, jsonlite)
 
 ```
 
-```{r}
-
-```
-
 ### Searching papers
 
-We can search for papers using keyword searching via `semanticscholar::S2_search_papers()`
+We can now search for papers using keyword searching via `semanticscholar::S2_search_papers()`
 
 Note that there is a limit of 100 papers per call. This returns a table of paperIDs (these are unique identifiers for each paper in the SS database) and titles.
+
+SS queries support basic boolean operators - AND, OR, NOT.
 
 ```{r}
 Sys.getenv("SEMANTICSCHOLAR_API")
 semanticscholar::S2_api()
 semanticscholar::S2_ratelimit()
 
-search <- "+herbivory climate change-insect-aquatic"
+search <- "+herbivory climate change-insect"
 
 result <- semanticscholar::S2_search_papers(search, limit = 100)
 
@@ -109,7 +113,7 @@ semanticscholar::S2_fields()
 
 This can't be accessed via the `semanticscholar` package but can be retrieved by creating our own API call and
 
-```{r}
+```{r, cache=TRUE}
 get_tldr <- function(ss_id){
   require(jsonlite)
   
