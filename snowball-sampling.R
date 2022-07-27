@@ -1,7 +1,5 @@
 ## snowball sampling with R
 
-highschool
-
 library(myScrapers); library(semanticscholar);library(tidygraph); library(ggraph)
 library(tidyverse)
 
@@ -25,6 +23,8 @@ get_S2_refs <- function(paperId){
   refs <- as.data.table(refs) 
 }
 
+"466446d58e6e5e97e447e88dd9d4b05d4d4b4229"
+
 refs <- get_S2_refs("466446d58e6e5e97e447e88dd9d4b05d4d4b4229")
 
 
@@ -32,16 +32,18 @@ get_S2_citations <- function(paperId){
   #paperId <- "466446d58e6e5e97e447e88dd9d4b05d4d4b4229"
   require(semanticscholar)
   require(jsonlite)
+  require(data.table)
   api <- S2_api()
   url <- paste0(api, "graph/v1/paper/", paperId, "/citations")
   cit <- fromJSON(url, simplifyDataFrame=TRUE)
-  cit <- as_tibble(cit) |>
+  cit <- as.data.table(cit) 
   
 }
 
+
 refs$data$citedPaper$paperId
 
-cit <- get_S2_citations(refs$data$citedPaper$paperId[2])
+cit <- get_S2_citations("672c52c4e0280b601b936df6b2f8ab1828312274")
 
 safe_refs <- possibly(get_S2_refs, otherwise = NA_real_)
 safe_cits <- possibly(get_S2_citations, otherwise = NA_real_)
@@ -60,6 +62,9 @@ round1 <- round1 |>
   mutate(round1 = map(round1, ~select(.x, data.citedPaper.paperId, data.citedPaper.title))) |>
   unnest("round1", names_repair = "universal")
 
+round1 |>
+  count(data.citedPaper.title...5, sort = TRUE)
+
 round1 <- round1 |>
   group_by(data.citedPaper.paperId...2) |>
   mutate(n = n())
@@ -72,8 +77,42 @@ round1 |>
   #geom_node_text(aes(label = name), size = 2) +
   theme(legend.position = 'bottom') +
   coord_fixed()
+
+library(tictoc)
+
+tic()
+round1 |>
+  count(data.citedPaper.paperId...4, data.citedPaper.title...5, sort = TRUE) |>
+  slice(1:300) |>
+  drop_na() |>
+  mutate(cits = map(data.citedPaper.paperId...4, safe_cits)) |>
+  unnest("cits") -> test_cits
+toc()
+
+test_cits <- as.data.table(test_cits)
+
+test_cits |>
+  as_tbl_graph() |>
+  ggraph(layout = 'nicely') +
+  geom_edge_link(aes(colour = n)) +
+  geom_node_point() + 
+  #geom_node_text(aes(label = name), size = 2) +
+  theme(legend.position = 'bottom') +
+  coord_fixed()
+  
+
 round2 <- round1 |>
-  mutate(round2 = map(data.citedPaper.paperId...2, safe_cits))
+  mutate(cit_round = map(data.citedPaper.paperId...4, safe_cits))
+
+
+sc <- safe_cits("4aadd075b0bd5b96dcff1e80ef5505f135cf44e2")
+sc
+
+
+
+
+
+  mutate(round2 = map(data.citedPaper.paperId...4[4], safe_cits))
 
 ## we'll do one round of sampling
 

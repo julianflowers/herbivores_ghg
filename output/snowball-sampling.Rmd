@@ -1,0 +1,60 @@
+---
+title: "Document driven SS search"
+author: "Julian Flowers"
+date: '2022-07-18'
+output: 
+    html_document:  
+        toc: yes
+        toc_float: yes
+        keep_md: yes
+    
+bibliography: references.bib
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, cache = TRUE)
+```
+
+## Setup
+
+Install and load packages
+
+```{r install-and-load-libraries}
+
+if(!require("pacman"))install.packages("pacman")
+p_load_gh("kth-library/semanticscholar", dependencies = TRUE)
+p_load(readtext, pdftools, tidytext, quanteda, tidyverse, ggraph, devtools)
+
+```
+
+## Search
+
+@WOS:000784981500002 as starting point
+
+```{r}
+
+
+test_ss <- semanticscholar::S2_search_papers("What evidence exists on the impacts of large  herbivores on climate change? A systematic  map protocol")
+
+test_ss$data
+
+```
+
+## Extract references from each paper
+
+```{r}
+
+source_url("https://github.com/julianflowers/herbivores_ghg/blob/master/R/get_S2_refs.R?raw=TRUE")
+source_url("https://github.com/julianflowers/herbivores_ghg/blob/master/R/get_S2_citations.R?raw=TRUE")
+
+safe_refs <- safely(get_S2_refs)
+safe_cit <- safely(get_S2_citations)
+
+refs <- map_dfr(test_ss$data$paperId[1], get_S2_refs) 
+cits <- map_dfr(test_ss$data$paperId, get_S2_citations)
+
+glimpse(refs)
+glimpse(cits)
+```
+
+## References
