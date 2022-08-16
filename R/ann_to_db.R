@@ -19,3 +19,10 @@ x
 
 taxa_db |>
   gt::gt()
+
+
+update.packages("data.table")
+library(data.table)
+packageVersion("data.table")
+
+data.table::

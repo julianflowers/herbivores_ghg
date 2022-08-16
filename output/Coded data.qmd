@@ -1,0 +1,215 @@
+---
+title: "Herbivory coding"
+format: html
+editor: visual
+execute: 
+  cache: true
+  message: true
+  warning: true
+  echo: false
+toc: true
+toc-location: left
+code-fold: true
+code-tools: true
+---
+
+## Import and wrangle data
+
+```{r}
+#| label: import data 
+## load libraries
+
+library(pacman)
+pacman::p_load(tidyverse, readxl, here, skimr, overviewR, ggmap)       ## readxl is needed to load excel files into R
+                                              ## the `here` package helps with file paths
+
+
+path <- here::here("data")
+
+xls <- list.files(path, "xls", full.names = TRUE)
+
+data <- readxl::read_xlsx(xls[2])
+
+data <- data |>
+  janitor::clean_names()
+
+```
+
+Lets look at the data
+
+```{r}
+#| label: descriptives
+nrow <- nrow(data)
+ncol <- ncol(data)
+
+skimr::skim(data)
+```
+
+-   The data set has `r nrow` rows and `r ncol` columns
+
+```{r}
+
+data |>
+  count(europe)
+```
+
+## Mapping
+
+To map locations of studies we need to
+
+1.  Extract the lat longs
+2.  Convert them to decimal coordinates
+
+Lets look at the different ways in which lat-longs are recorded in the data so we can create string patterns to extract and convert the values.
+
+The basic pattern is degrees and minutes, some have seconds - this can be represented as 1-2 digits followed by a variable number of non-digits repeated 2 or 3 times and with a compass point at the beginning or the end.
+
+Looking at the unique contents of the `latitude_n_s` field we can also see it contains non lats (a DOI) and also other numbers which we need to remove or exclude.
+
+```{r}
+#| label: unique lat-longs
+#| eval: false
+data$latitude_n_s[1] |>
+  str_extract(pattern2)
+```
+
+```{r}
+
+#| label: create regex patterns 
+
+#pattern1 <- "\\d{1,2}\\.\\d{1,2}"                                  ## e.g. N54:41:18 
+pattern2 <- "\\d{1,2}\\D*\\d{1,2}\\D*\\d{1,2}\\D*[NSEW]"             ## e.g. 52 8' 12\"N
+pattern3 <- "\\d{1,2}\\D*\\d{1,2}\\D*[NS]"                         ## e.g. 52Â°86' N
+pattern2a <- "\\d{1,2}\\D*\\d{1,2}\\.\\d{1,2}\\.\\d{1,2}\\D*[NSEW]" 
+pattern2b <- "\\d{1,2}\\D*\\d{1,2}\\.\\d{1,2}\\D*[NSEW]"## eg 52 25' 43.76"N
+pattern4 <- "[EW]\\d{1,2}\\D*\\d{1,2}\\D*\\d{1,2}"
+pattern5 <- "\\d{1,2}\\D*\\d{1,2}\\D*\\d{1,2}\\D*[EW]" 
+pattern6 <- "\\d{1,2}\\D*\\d{1,2}\\D*[EW]"
+pattern7 <- "[NS]\\d{1,2}[[:punct:]]\\d{1,2}[[:punct:]]\\d{1,2}"
+pattern8 <- "[EW]\\d{1,2}[[:punct:]]\\d{1,2}[[:punct:]]\\d{1,2}"
+
+
+```
+
+We can use these patterns to isolate the lat-longs, extract the numerical data and calculate the decimal coordinates.
+
+```{r}
+#| label: dry run
+library(stringi)
+lat_long <- data|>
+  select(item, latitude_n_s, longitude_e_w) |>
+  mutate_all(~str_remove_all(.,"20 sites")) |>
+  mutate_all(~str_remove_all(., "Hill.\\d")) |>
+  mutate_all(~str_remove_all(., "NY\\D*\\d{6}")) |>
+  mutate_all(~str_remove_all(., "(state in info)\r\n") )|>
+  mutate(latitude_n_s = str_remove(latitude_n_s, pattern8), 
+         longitude_e_w = str_remove(longitude_e_w, pattern7))
+
+lat_long
+
+
+ll <- lat_long |>
+  mutate(lat = str_extract(latitude_n_s, pattern2a), 
+         lat = ifelse(is.na(lat), str_extract(latitude_n_s, pattern2), lat), 
+         lat = ifelse(is.na(lat), str_extract(latitude_n_s, pattern7), lat), 
+         long = str_extract(longitude_e_w, pattern2),
+         long = ifelse(is.na(long), str_extract(longitude_e_w, pattern2b), long),
+         long = ifelse(is.na(long), str_extract(longitude_e_w, pattern8), long), 
+         long = ifelse(is.na(long), str_extract(longitude_e_w, pattern6), long))
+
+ll |>
+  filter(str_detect(item, "Medi"))
+
+```
+
+```{r}
+#| label: calculate decimal lat-longs
+#| message: false
+#| 
+#lats <- 
+  
+lat_long |>
+  filter(str_detect(item, "^D"))
+```
+
+
+
+```{r}
+  
+trial <- ll |> 
+  mutate(lat1 = str_replace_all(lat, "\\D", " "),
+         long1 = str_replace_all(long, "\\D", " ")) |>
+  mutate(latlen = str_length(lat1)) 
+
+points <- trial |> 
+  select(item, lat, long) |>
+  mutate(compass_lat = str_extract(lat, "[NS]"), 
+         compass_long = str_extract(long, "[EW]"), 
+         lat1 = str_extract_all(lat, "\\d{1,2}"), 
+         long1 = str_extract_all(long, "\\d{1,2}")) |>
+  drop_na() |>
+  unnest("lat1") |>
+  group_by(item) |>
+  mutate(lat_id = row_number()) |>
+  filter(!lat_id %in% c(3,4)) |>
+  mutate(lat1 = as.numeric(lat1), 
+         dec_lat = ifelse(str_detect(lat, "\\d{1,2}\\.\\d{1,2}"), lat1[1] + lat1[2]/100, lat1[1] + lat1[2]/60)) |>
+  select(-c(lat1, lat_id)) |>
+  unnest("long1") |>
+  mutate(long_id = row_number()) |>
+  filter(long_id %in% c(1,2)) |> 
+  mutate(long1 = as.numeric(long1),
+         dec_long = ifelse(str_detect(long, "\\d{1,2}\\.\\d{1,2}"), long1[1] + long1[2]/100, long1[1] + long1[2]/60), 
+         dec_long = ifelse(compass_long == "W", dec_long * -1, dec_long), 
+         dec_lat = ifelse(compass_long == "S", dec_lat * -1, dec_lat)) |>
+  select(item, dec_lat, dec_long) |>
+  distinct()
+  
+  
+
+```
+
+```{r}
+
+## temp fix of daaz while working out a better solution
+
+daaz_lat <- 51 + 41/60
+daaz_long <- 2 + 37/60
+
+points[23, "dec_lat"] <- daaz_lat
+points[23, "dec_long"] <- daaz_long
+
+points
+```
+
+
+```{r}
+library(sf)
+  coords <- points |>
+  st_as_sf(coords = c(x = "dec_long", y = "dec_lat"), crs = 4326)
+  
+coords
+```
+
+## Interactive map
+
+```{r}
+library(mapview);library(sp);library(ggspatial)
+
+mapview(coords, legend = FALSE)
+```
+
+## Static map
+
+```{r}
+
+coords |>
+  ggplot() +
+  annotation_map_tile("cartolight") +
+  geom_sf() +
+  theme_void()
+  
+
+```
+
+
