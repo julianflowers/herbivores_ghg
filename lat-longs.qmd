@@ -1,0 +1,102 @@
+---
+title: "Extracting lat longs from published articles"
+format: html
+editor: visual
+execute:
+    cache: true
+    message: false
+    warning: false
+    echo: true
+toc: true
+toc-location: left
+code-fold: true
+code-tools: true
+---
+
+## Introduction
+
+Ecological field studies usually report site location or range.
+
+This note explains how to programmatically extract lat-longs from pdf publications for further processing (e.g. mapping).
+
+One of the challenges is that there is not consistent reporting pattern so this is based on analyses of 45 documents which form part of the herbivory climate change review.
+
+## Method
+
+I outline 3 steps:
+
+1.  Reading pdfs into R
+2.  Designing the code to identify lat longs on the extracted text - this uses a process called regular expressions
+3.  Onward processing of the extracted lat longs into decimal coordinated (if they are not already in decimal format).
+
+### Reading pdfs into R
+
+There are 2 R packages widely used for reading text and pdf files into R - `readtext` and `pdftools`.
+
+In this note I will use `readtext`
+
+I've already created a directory to store the pdfs I want to extract the information from.
+
+```{r}
+#| label: load libraries
+
+library(pacman)  ## package manager
+p_load(tidyverse, readtext) ## installs and loads packages if not already installed or loaded
+
+
+```
+
+It's really easy to use `readtext`
+
+```{r}
+#| label: readtext
+
+p <- here::here("~/Downloads/herbivory-corpus")   ## point R at the pdf directory 
+
+f <- list.files(p, "pdf", full.names = T)         ## get a list of files
+
+df <- map_dfr(f, readtext)                        ## iterate through file list, read in the text and create a data frame
+
+df                                       ## look at first 6 rows of dataframe
+```
+
+There are 2 columns - the file name of document, and the text effectively stored in a cell in the dataframe
+
+We can now generate a piece of text (regular expression) to try and match lat-longs in the documents.
+
+-   \\\\d{1,2}◦\\\\s\*\\\\d{1,2}.\*\[NSEW\] matches 20◦45'N. Note that in some pdfs what is printed as ° actually turns out to be ◦ when the pdf text is extracted
+
+-   \\\\d{1,2}°\\\\s\*\\\\d{1,2}.\*\[NSEW\] matches 20°45'N.
+
+-   \\\\d{1,2}\\\\.\\\\d{1,2}◦.\*\[NSEW\] matches 20.45◦W
+
+-   \\\\d{1,2}\\\\.\\\\d{1,2}°\*\[NSEW\] matches 20.45°E
+
+-   \\\\d{1,2}:\\\\d{1,2}:\\\\d{1,2}.\*\[NSEW\] matches 20:45:11 W
+
+Sometimes to compass point is at the beginning rather than the end of the expression.
+
+Regular expressions are an essential bit of coding needed to extract information from text but looks like gibberish.
+
+Lets apply these patterns to our texts
+
+### Finding lat-longs
+
+```{r}
+
+pattern1 <- "\\d{1,2}◦\\s*\\d{1,2}.*[NSEW]|\\d{1,2}\\.\\d{1,2}◦.*[NSEW]|\\d{1,2}\\.\\d{1,2}°*[NSEW]|NSEW]?\\d{1,2}:\\d{1,2}:\\d{1,2}?"
+
+x <- mutate(df, lat_long = str_extract_all(text, "\\d{1,2}◦\\s*\\d{1,2}.*[NSEW]|^\\d{1,2}:\\d{1,2}:\\d{1,2}.*[NSEW]$|\\d{1,2}°\\s*\\d{1,2}.*[NSEW]|\\d{1,2}\\.\\d{1,2}°.*[NSEW]|\\d{1,2}\\.\\d{1,2}◦.*[NSEW]"))
+
+x |>
+  unnest("lat_long") |>
+  select(doc_id, lat_long) |>
+  mutate(degree = str_extract_all(lat_long, "\\d{1,2}"), 
+         point = str_extract_all(lat_long, "[NSEW]")) |>unnest("degree") |>
+  group_by(doc_id, point) |>
+  unnest("point") |>
+  mutate(id = row_number()) |>
+  distinct()
+
+
+```

@@ -1,0 +1,4544 @@
+Accepted Manuscript
+
+Title: Testing DayCent and DNDC model simulations of N2O fluxes and assessing
+the impacts of climate change on the gas flux and biomass production from a humid
+pasture
+
+Authors: M. Abdalla, M. Jones, J. Yeluripati, P. Smith, J. Burke, M. Williams
+
+PII:
+DOI:
+Reference:
+
+S1352-2310(10)00391-2
+10.1016/j.atmosenv.2010.05.018
+AEA 9672
+
+To appear in:
+
+Atmospheric Environment
+
+Received Date: 22 February 2010
+Revised Date: 5 May 2010
+Accepted Date: 10 May 2010
+
+Please cite this article as: Abdalla, M., Jones, M., Yeluripati, J., Smith, P., Burke, J., Williams, M. Testing
+DayCent and DNDC model simulations of N2O fluxes and assessing the impacts of climate change
+on the gas flux and biomass production from a humid pasture, Atmospheric Environment (2010), doi:
+10.1016/j.atmosenv.2010.05.018
+
+This is a PDF file of an unedited manuscript that has been accepted for publication. As a service to
+our customers we are providing this early version of the manuscript. The manuscript will undergo
+copyediting, typesetting, and review of the resulting proof before it is published in its final form. Please
+note that during the production process errors may be discovered which could affect the content, and all
+legal disclaimers that apply to the journal pertain.
+
+Testing DayCent and DNDC model simulations of N2O fluxes and 
+assessing the impacts of climate change on the gas flux and biomass 
+
+production from a humid pasture 
+
+M. Abdalla1, M. Jones1, J. Yeluripati2, P. Smith2, J. Burke3and M. Williams1 
+
+1Department of Botany, School of Natural Sciences, Trinity College Dublin, Dublin 2, 
+Ireland 
+2Institute  of  Biological  and  Environmental  Sciences,  School  of  Biological  Sciences, 
+University of Aberdeen, 23 St. Machar Drive, Aberdeen, AB24 3UU, UK 
+3Oak Park Crops Research Centre, Teagasc, Co. Carlow, Ireland 
+ 
+Key words: DayCent, DNDC, Nitrous Oxide, Pasture 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+26 
+
+27 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1
+
+Corresponding author: 
+
+Dr. Mohamed Abdalla 
+
+Address: Department of Botany  
+
+School of Natural Sciences 
+
+Trinity College Dublin, Dublin 2, Ireland 
+
+Email address: abdallm@tcd.ie 
+
+Phone no.: 0035318963740 or Mobile: 00353851496206 
+
+ACCEPTED MANUSCRIPT
+
+MANUSCRIPT
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+26 
+
+27 
+
+28 
+
+29 
+
+30 
+
+31 
+
+32 
+
+33 
+
+Testing DayCent and DNDC model simulations of N2O fluxes and assessing the 
+impacts of climate change on the gas flux and biomass production from a humid 
+
+pasture 
+
+M. Abdalla1, M. Jones1, J. Yeluripati2, P. Smith2, J. Burke3and M. Williams1 
+
+ 
+
+1Department of Botany, School of Natural Sciences, Trinity College Dublin, Dublin 2, Ireland 
+2Institute  of  Biological  and  Environmental  Sciences,  School  of  Biological  Sciences,  University  of 
+Aberdeen, 23 St. Machar Drive, Aberdeen, AB24 3UU, UK 
+3Oak Park Crops Research Centre, Teagasc, Co. Carlow, Ireland 
+ 
+Key words: DayCent, DNDC, Nitrous Oxide, Pasture 
+
+12 
+
+Abstract 
+
+Simulation models are one of the  approaches used to investigate  greenhouse 
+
+gas  emissions  and  potential  effects  of  global  warming  on  terrestrial  ecosystems. 
+
+DayCent  which  is  the  daily  time-step  version  of  the  CENTURY  biogeochemical 
+
+model,  and  DNDC  (the  DeNitrification-DeComposition  model)  were  tested  against 
+
+observed  nitrous  oxide  flux  data  from  a  field  experiment  on  cut  and  extensively 
+
+grazed pasture located at the Teagasc Oak Park Research Centre, Co. Carlow, Ireland. 
+
+The soil was classified as a free draining sandy clay loam soil with a pH of 7.3 and a 
+mean organic carbon and nitrogen content at 0-20 cm of 38 and 4.4 g kg-1 dry soil, 
+respectively. The aims of this study were to validate DayCent and DNDC models for 
+
+estimating  N2O  emissions  from  fertilized  humid  pasture,  and  to  investigate  the 
+impacts  of  future  climate  change  on  N2O  fluxes  and  biomass  production. 
+Measurements of N2O flux were carried out from November 2003 to November 2004 
+using static chambers. Three climate scenarios, a baseline of measured climatic data 
+
+from  the  weather  station  at  Carlow,  and  high  and  low  temperature  sensitivity 
+
+scenarios predicted by the Community Climate Change Consortium For Ireland (C4I) 
+
+based  on 
+
+the  Hadley  Centre  Global  Climate  Model 
+
+(HadCM3)  and 
+
+the 
+
+Intergovernment  Panel  on  Climate  Change  (IPCC)  A1B  emission  scenario  were 
+investigated. DayCent predicted cumulative N2O flux and biomass production under 
+fertilized  grass  with  relative  deviations  of  +38%  and  (-23%)  from  the  measured, 
+
+respectively.  However,  DayCent  performs  poorly  under  the  control  plots,  with  flux 
+
+relative deviation of (-57%) from the measured. Comparison between simulated and 
+
+ 
+
+2
+
+ACCEPTED MANUSCRIPT
+
+MANUSCRIPT
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+26 
+
+27 
+
+28 
+
+29 
+
+30 
+
+31 
+
+measured  flux  suggests  that  both  DayCent  model’s  response  to  N  fertilizer  and 
+
+simulated  background  flux  need  to  be  adjusted.  DNDC  overestimated  the  measured 
+
+flux with  relative deviations of +132 and +258% due to overestimation of the effects 
+
+of  SOC.  DayCent,  though  requiring  some  calibration  for  Irish  conditions,  simulated 
+
+N2O fluxes more consistently than did DNDC. We used DayCent to estimate future 
+fluxes  of  N2O  from  this  field.  No  significant  differences  were  found  between 
+cumulative N2O flux under climate change and baseline conditions. However, above-
+ground grass biomass was significantly increased from the baseline of 33 t ha-1 to 45 
+(+34%) and 50 (+48%) t dry matter ha-1 for the low and high temperature sensitivity 
+scenario respectively. The increase in above-ground grass biomass was mainly due to 
+
+the  overall  effects  of  high  precipitation,  temperature  and  CO2  concentration.  Our 
+results  indicate  that  because  of  high  N  demand  by  the  vigorously  growing  grass, 
+
+cumulative N2O flux is not projected to increase significantly under climate change, 
+unless more N is applied. This was observed for both the high and low temperature 
+
+sensitivity scenarios.  
+
+16 
+
+1. Introduction 
+
+Nitrous Oxide (N2O), on a kg to kg basis, has a global warming potential of 
+approximately 298-310 times that of carbon dioxide (CO2) over a 100 year timescale 
+(Watson et al., 1996; IPCC, 2007) with an atmospheric lifetime of approximately 120 
+
+years (Prather, 1998). The concentration of N2O in the atmosphere has risen from a 
+pre-industrial level of about 270 ppb to 319 ppb in 2005, and is estimated to be rising 
+
+at  a  rate  of  0.8  ppb  per  annum  (IPCC,  2007).  According  to  the  IPCC  (2001;  2007) 
+
+N2O is responsible for about 6% of the anthropogenic component of radiative forcing.  
+ 
+
+The  complex  interaction  of  microbiological  processes  and  soil  conditions, 
+
+such  as  water  content,  carbon  (C)  and  nitrogen  (N)  content,  temperature  and  pH 
+
+regulates  N2O  dynamics  in  the  soil  profile,  and  determines  how  and  when  N2O  is 
+released  from  the  soil  surface  (Granli  and  Bockman,  1994).  Management  practices 
+
+such as soil tillage, crop type, and the application of nitrogen fertilizers influence the 
+
+physical  and  hydrological  condition  of  the  soil  and  the  timing  and  distribution  of 
+
+nutrient  inputs.  This  in  turn  affects  the  size,  composition  and  activity  of  the  soil 
+
+ 
+
+3
+
+ACCEPTED MANUSCRIPT
+
+MANUSCRIPT
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+26 
+
+27 
+
+28 
+
+29 
+
+30 
+
+31 
+
+32 
+
+microbial population, and therefore, the extent of N2O production and emission from 
+agricultural soils. 
+
+Worldwide,  agricultural  soils,  particularly  grazed  pastures,  are  the  major 
+
+single source of N2O emissions contributing approximately 46 to 52% of the global 
+anthropogenic N2O flux (Mosier et al., 1998; Olivier et al., 1998; Kroeze et al., 1999; 
+IPCC,  2007).  In  Europe,  grasslands  are  the  major  contributor  to  the  exchange  of 
+
+greenhouse  gases  in  the  biosphere,  with  fluxes  intimately  linked  to  management 
+
+practices.  In  Europe,  about  40%  of  the  agricultural  area  is  covered  by  permanent 
+
+grassland used for livestock farming (FAO, 2004). Grasslands range from intensively 
+
+fertilized pure grass swards to extensively managed grass-legume mixtures and semi-
+
+natural grasslands, which are often found in mountainous areas or on moist lowland 
+
+soils (FAO, 2004). In Ireland, about 80% of the agricultural area and 58% of the total 
+
+land  area  is  grassland  (Teagasc,  2010;  CSO  Census  of  Agriculture,  2010).  This 
+
+includes grazed pasture, silage, hay meadows and rough grazing areas.  
+
+Changes in the exchange of greenhouse  gases between  grassland ecosystems 
+
+and the atmosphere may significantly impact on global climate change. Consequently, 
+the increase in  global mean  annual temperature,  predicted to be 1.5-4.5  oC over the 
+next 50-100 years, will dramatically affect terrestrial ecosystems (IPCC, 2007). Most 
+
+biological and chemical soil processes are strongly dependent on temperature (Shaver 
+
+et al., 2000) including decomposition (Shaw and Harte, 2001), N mineralization and 
+
+nitrification  (Stark  and  Firestone,  1996),  nutrients  uptake  (BassiriRad,  2000),  and 
+
+consequently emissions of CO2, N2O and methane (CH4) (Malhi et al.,  1990; Raich 
+and Schlesinger, 1992; Abdalla et al., 2009a) respond to temperature.  
+
+The  DayCent  (Daily  Century)  and  DNDC  (DeNitrification-DeComposition) 
+
+models  are  two  widely-used  ecosystem  biogeochemistry  models  used  to  estimate 
+
+greenhouse  gas emissions. The DayCent model is the daily time-step version of the 
+
+CENTURY biogeochemical model (Parton et al., 1994). Comparison of model results 
+
+and  observed  data  have  shown  that  DayCent  reliably  simulates  crop  yield,  SOM 
+
+levels, and trace-gas flux for various native and managed systems (Del Grosso et al., 
+
+2002; Del Grosso et al., 2009). The DNDC model was developed to assess N2O, NO, 
+N2 and CO2 emissions from agricultural soils (Li et al., 1992, Li 2000). The rainfall 
+driven  process-based  model  DNDC  (Li  et  al.,  1992)  was  originally  developed  for 
+
+ 
+
+4
+
+ACCEPTED MANUSCRIPT
+
+MANUSCRIPT
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+26 
+
+27 
+
+28 
+
+29 
+
+30 
+
+31 
+
+32 
+
+33 
+
+USA  conditions.  It  has  been  used  for  simulation  at  a  regional  scale  for  the  United 
+
+States (Li et al., 1996), China (Li et al., 2001), Canada (Smith et al., 2010) and Europe 
+
+(Kesik et al., 2006). This study is part of an ongoing research programme to measure 
+
+and model N2O flux from Irish agriculture (Abdalla et al., 2009a, b and c). The aims 
+of  this  study  were  to  validate  the  DayCent  and  DNDC  models  for  estimating  N2O 
+emissions  from  fertilized  humid  grassland  in  the  midlands  of  Ireland,  and  to 
+
+investigate the effect of future climate change on N2O fluxes and biomass production.  
+
+2. Materials and methods 
+
+2.1 Field experimental site 
+
+A detailed description of the study site can be found in Abdalla et al. (2009a, 
+b). It is located at the Oak Park Research Centre in Carlow 52o 86′ N and 6o 54′ W, 
+Ireland. The site area  (≈ 7 ha) has an elevation of 56 m a.s.l, a mean annual rainfall of 
+824 mm and a mean annual air temperature of 9.4 oC. The soil is classified as a sandy 
+clay loam with a pH of 7.3 and a mean organic carbon and nitrogen content at 0-20 
+cm  of  38,  and  4.4  g  kg-1  dry  soil,  respectively.  The  pasture  has  been  permanent 
+grassland  for  at  least  the  last  80  years,  but  was  ploughed  and  reseeded  in  October 
+
+2001 with perennial ryegrass (Lolium perenne L., cv Cashel) at a density of 13.5 kg 
+ha-1 and white clover (Trifolium repens L., cv Aran) at a density of 3.4 kg ha-1. 
+ 
+
+Silage  cutting  took  place  once  during  the  experimental  period  on  15th  May 
+2004 and  extensive cattle  grazing was from July to November 2003,  and then from 
+July to November 2004 with a stocking rate of 2 cattle ha-1. Nitrogen in the form of 
+calcium ammonium nitrate (CAN) was applied at a rate of 200 kg N ha-1 y-1 in two 
+applications  of  128  and  72  kg  N  ha-1  on  the  2nd  of  April  and  27th  of  May  2004, 
+respectively. Grazing and cutting took place on  the whole  field for both the control 
+
+and  the  fertilized  plots.  Nitrous  oxide  fluxes  were  measured  from  four  replicated 
+
+chambers on the control plots and four replicated chambers on the fertilized plots. 
+
+2.2 Field N2O fluxes and grass biomass  
+
+Measurements  of  N2O  flux  were  carried  out  from  November  2003  to 
+November 2004. Nitrous oxide fluxes were measured using the methodology of Smith 
+
+et al. (1995). Large chambers were made from steel and painted with white paint on 
+
+the  outside  and  black  paint  on  the  inside  to  prevent  interior  heating.  Chambers 
+
+ 
+
+ 
+
+5
+
+ACCEPTED MANUSCRIPT
+
+MANUSCRIPT
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+26 
+
+28 
+
+29 
+
+30 
+
+31 
+
+32 
+
+consisted of two parts: a 52 x 52 x 15 cm3 square collar inserted permanently into the 
+soil over which a 50 x 50 x 30 cm3 lid with a plastic septum could be sealed in place 
+for gas sample collection. To reduce spatial variation caused by excreta patches, we 
+
+chose a part of the field which was deemed to be representative of the whole field, and 
+used four replicated large static chambers that covered 0.25 m2 at a distance of 100 m 
+apart.  Previous  studies  on  grassland  fields  of  similar  size  used  3–4  replicated 
+
+chambers to measure N2O fluxes (Flechard et al., 2007; Allard et al., 2007).  
+
+After the lids were in place an initial gas sample was taken and a second was 
+
+taken  at  60  minutes.    Linearity  was  checked  by  sampling  each  half  an  hour  for  a 
+
+closure period of 3 hours. In order to cover most of the year we sampled every week, 
+
+and more intensively (twice a week) following fertilizer application. Previous studies 
+
+of  N2O  fluxes  using  static  chambers  have  sampled  at  frequencies  ranging  from  one 
+hour to two weeks (Mogge et al., 1999; Choudhary et al., 2002; Simek et al., 2004; 
+
+Flechard  et  al.,  2007).  Samples  were  taken  in  the  morning  between  9  and  11  am. 
+
+Samples were taken using a 60 ml gas-tight syringe after flushing of the syringe 3-4 
+
+times in the chamber to ensure adequate mixing of air within the chamber. All 60 ml 
+
+of the sample was then injected into a 3 ml gas-tight vial with a vent needle inserted 
+
+into  the  top  of  the  vial  to  allow  the  extra  air  flush  out.  N2O  concentrations  were 
+measured using a gas chromatograph (Shimadzu GC 14B, Kyoto, Japan) with electron 
+capture  detection  (column  and  detector  temperatures  were  30  and  300  oC 
+respectively). The nitrous oxide standard was a 1 +/- 0.02 ppm N2O in synthetic air. A 
+calibration series was made by proportional dilution of the standard with pure N2. The 
+daily flux rate for each chamber and the average daily flux rate for the four replicates 
+
+were calculated using the closed flux chamber technique equation (Smith et al., 1995; 
+
+Baggs  et  al.,  2003).  Aboveground  biomass  samples  were  harvested  each  1-2  weeks 
+
+from four circular rings of 50 cm diameter. 
+
+27 
+
+ 2.3. Models descriptions 
+
+The DayCent model is the daily time step version of the CENTURY (Parton et 
+
+al.,  1994)  biogeochemical  model.  DayCent  (DelGrosso  et  al.,  2001;  Parton  et  al., 
+
+1998) simulates fluxes of C and N between the atmosphere, vegetation, and soil. Plant 
+
+growth is controlled by nutrient availability, water, and temperature. Nutrient supply 
+
+is  a  function  of  soil  organic  matter  (SOM)  decomposition  and  external  nutrient 
+
+ 
+
+6
+
+ACCEPTED MANUSCRIPT
+
+MANUSCRIPT
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+26 
+
+27 
+
+28 
+
+29 
+
+30 
+
+31 
+
+32 
+
+additions.  Daily  maximum/minimum  temperature  and  precipitation,  timing  and 
+
+description of management events and soil texture data are needed as model inputs. 
+
+Key  sub-models  include  plant  production,  SOM  decomposition,  soil  water  and 
+
+temperature by layer, nitrification and denitrification, and CH4 oxidation. Comparison 
+of model results and plot data has shown that DayCent reliably simulates crop yield, 
+
+SOM levels, and trace gases (Li et al., 2005; DelGrosso et al., 2009). 
+
+In this study the DNDC model (version 8.9; http://www.dndc.sr.unh.edu/) was 
+
+applied.  DNDC  contains  four  main  sub-models  (Li  et  al.,  1992;  Li,  2000);  the  soil 
+
+climate sub-model calculates hourly and daily soil temperature and moisture fluxes in 
+
+one dimension, the crop growth sub-model simulates crop biomass accumulation and 
+
+partitioning,  the  decomposition  sub-model  calculates  decomposition,  nitrification, 
+
+NH3 volatilization and CO2 production, whilst the denitrification sub-model tracks the 
+-, NO, N2O and N2 based 
+sequential biochemical reduction from nitrate (NO3) to NO2
+on soil redox potential and dissolved organic carbon. 
+
+Measured values of meteorological parameters and land management records 
+
+were  used  as  input  variables  to  the  DayCent  and  DNDC  models  (Abdalla  et  al., 
+
+2009a). Field N2O flux data were used for DayCent and DNDC models validations by 
+comparing measured and predicted N2O fluxes. The models accuracies were evaluated 
+by  calculating  the  Root  Mean  Square  Error  (RMSE)  and  relative  deviation  (RD) 
+
+between observed and DayCent/DNDC out puts.  
+
+RMSE = (Σ(modelled − observed)2/N)1/2                                                             (1) 
+RD = (modelled – observed)/observed x 100                                                        (2) 
+where N is the number of data series. Annual cumulative flux for models outputs were 
+
+calculated as the sum of simulated daily fluxes (Cai et al., 2003). Soil properties and 
+
+climate input data of both models are summarized in Table 1.  
+
+2.4. Climate scenarios 
+
+The future climate data used in this research were statistically downscaled by 
+
+the  Irish National Meteorological Service Research Group (C4I, 2008) based on the 
+
+Hadley  Centre  Global  Climate  Model  (HadCM3)  and  the  emission  scenario  (A1B) 
+published  by  the  Intergovernmental  Panel  on  Climate  Change  (Nakicenovic  and 
+
+Swart, 2000; IPCC, 2001). Two different temperature sensitivity scenarios (high and 
+
+ 
+
+ 
+
+7
+
+ACCEPTED MANUSCRIPT
+
+MANUSCRIPT
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+26 
+
+27 
+
+28 
+
+29 
+
+30 
+
+31 
+
+32 
+
+33 
+
+34 
+
+ 
+
+ 
+
+ 
+
+low)  were  investigated  to  estimate  the  uncertainty  in  future  climate  (Collins  et  al., 
+
+2006). A regional climate model, known as RCA3, was applied to the HadCM3 data in 
+a  process  which  is  known  as  dynamic  downscaling.  RCA3  is  based  on  a  model 
+initially developed by the Rossby Centre and further developed by the C4I project at 
+
+Met  Éireann.  The  resultant  model  data  has  a  horizontal  resolution  of  25  km.  A  full 
+
+description is given in the C4I (2008) report. 
+
+ 
+
+The baseline scenario is a measured daily climate data set (1961-1990) from a 
+
+nearby  weather  station  in  Carlow.  The  two  future  climate  scenarios  (high  and  low 
+
+temperature sensitivity) investigated in this study are of daily data and for a period of 
+
+30  years  (2061-2090)  from  the  HadCM4.  Weather  input  data  are  maximum  and 
+minimum air temperature and precipitation. CO2 concentrations of 350 and 700 ppmv 
+were  suggested  and  used  in  the  models  for  the  baseline  and  future  scenarios, 
+
+respectively (IPCC, 1995). 
+
+2.5 Statistical analysis 
+
+Statistical analyses were carried out using the PRISM (GraphPad, San Diego, 
+
+USA)  and  Data  Desk  (Data  Description  Inc.  New  York,  USA)  software  packages. 
+
+Flux  data  was  checked  for  normal  distribution  and  log  transformed.  Regression 
+
+analysis and both 1- and 2-way analyses of variance (ANOVA) were applied to N2O 
+flux and biomass production.  
+
+3. Results and discussion 
+
+3.1 Model validations and results under baseline scenario 
+
+Temporal patterns of N2O for the observed and DayCent modelled fluxes from 
+the fertilized plots were generally similar for most of the measured period. However, 
+
+DayCent overestimated the influence of added N fertilizer by producing two types of 
+
+N2O  peaks;  a  smaller  one  at  the  time  of  N  application  and  a  higher  one  later  in 
+August,  2004  (Figure  1).  This  second  higher  peak  was  not  observed  for  the  control 
+
+plots. Here, as both the fertilized and control plots were subjected to the same climate 
+
+and  extensively  grazed,  it  was  clear  that  N  availability  in  the  soil  was  the  only 
+
+difference between the two, suggesting that this later peak was due to residual effects 
+
+of applied N fertilizer. The model suggests that applied fertilizer N is retained in the 
+
+soil  for  long  periods  (up  to  September),  where  other  environmental  factors  like 
+
+8
+
+ACCEPTED MANUSCRIPT
+
+MANUSCRIPT
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+26 
+
+27 
+
+28 
+
+29 
+
+30 
+
+31 
+
+32 
+
+33 
+
+34 
+
+rainfall  and  temperature  are  high  (Figure  2),  resulting  in  a  second  higher  N2O  peak 
+(Figure 1). Comparisons over many years showed that the height and time of this later 
+
+peak depends on the combined effects of higher rainfall and temperature (Figure 2). 
+
+Rainfall increases soil moisture and stimulates denitrification by temporarily reducing 
+
+the  oxygen  diffusion  into  the  soil  (Dobbie  and  Smith,  2001)  and  increasing  the 
+
+solubility of organic carbon and nitrate in the soil (Bowden and Bormann 1986). High 
+
+temperature increases both soil organic matter decomposition and microbial response 
+
+to  other  perturbations,  such  as  fertilization  and  rainfall  (Stanford  and  Epstein  1974; 
+
+Bramley and White, 1990; Antonopoulos, 1999; Wennman and Katterer, 2006). The 
+
+model  also  overestimated  the  measured  soil  water  filled  pore  space  values  (WFPS; 
+
+Figure  3).  This  overestimation  may  result  in  significant  flux  discrepancies  between 
+
+the  measured  and  modelled  data  since  WFPS  is  a  critical  determinant  of  N2O  flux 
+(Keller  and  Reiners,  1994;  Ruser  et  al.,  1998;  Dobbie  and  Smith,  2001).  This 
+
+parameter is a key requirement for a reliable simulation of N2O (Frolking et al., 1998), 
+as  increasing  WFPS  may  reduce  the  contribution  of  nitrification,  and  increase 
+
+denitrification (Li, 2000; Li et al., 2001). 
+
+The second simulated peak resulted in a higher cumulative N2O flux of 3.6 kg 
+ha-1 compared with the measured flux of 2.6 kg ha-1, which corresponds to a relative 
+deviation  of  +38%  from  the  measured  flux  (Table  2).  The  regression  between 
+
+observed and modelled fluxes (y = 0.41x + 0.57) accounted for 32% of the variation 
+
+in the data (RMSE = 2) (Figure 4). However, by excluding this peak, the model gave 
+
+approximately similar cumulative N2O flux to that observed, with a deviation of only 
++1%. This is not the case for the control plots where, although this second peak was 
+
+not observed, the model performed poorly compared to observed data with a relative 
+
+deviation of (-57%) RMSE = 0.5 (Table 2 and Figure 1). In contrast to Del Grosso et 
+
+al. (2008), DayCent underestimated the flux at zero N fertilizer with a cumulative flux 
+of 0.5 kg ha-1 compared with a cumulative measured flux of 1 kg ha-1. The comparison 
+with field data suggests that, for applications on unfertilised Irish grasslands, DayCent 
+
+could be improved by increasing the background emissions of N2O (Del Grosso et al., 
+2008). 
+
+The  pattern  of  simulated  grass  biomass  by  the  DayCent-model  agreed  well 
+
+with the measured results and the model underestimated observed biomass by (-23%). 
+
+ 
+
+ 
+
+ 
+
+9
+
+ACCEPTED MANUSCRIPT
+
+MANUSCRIPT
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+26 
+
+27 
+
+28 
+
+29 
+
+30 
+
+31 
+
+32 
+
+33 
+
+34 
+
+The relationship between the weekly simulated above-ground grass biomass and the 
+
+weekly  field  observed  biomass  is  illustrated  in  Figure  5.  Here,  the  regression  (y  = 
+
+0.47x  +  0.5)  accounted  for  38%  of  the  variation  in  the  data  (RMSE  =  0.15). 
+
+Comparable  results  using  DayCent  were  also  reported  for  wheat,  rice,  maize  and 
+
+soybean (Stehfest et al., 2007; Del Grosso et al., 2008). Simulated soil temperature by 
+
+DayCent  and  DNDC  compared  favourably  with  measurements  (Figure  6);  for 
+DayCent r2 = 0.64 and RMSE = 0.57 whilst for DNDC r2 = 0.88 and RMSE = 0.44.  
+ 
+
+Simulated emissions of N2O flux by the DNDC model showed similar patterns 
+as  the  field  measured  flux  for  most  of  the  measured  period.  However,  DNDC 
+
+predicted  a  significantly  higher  peak,  from  both  the  fertilized  and  control  plots  in 
+
+February.  This  higher  peak  resulted  in  an  annual  cumulative  N2O  flux  of  6.04  and 
+3.58 kg N2O-N ha-1, with annual differences between the measured and modelled flux 
+of 3.44 and 2.58 kg N2O-N ha-1, for fertilized and control plots respectively (Table 2 
+and Figure 1). Due to this peak, estimation of annual emissions was very poor with 
+
+relative deviations of +132% (RMSE = 5.2; for fertilized plots) and +258% (RMSE = 
+
+4;  for  the  control  plots)  from  the  measured  flux.  DNDC  also  significantly 
+
+underestimated the observed above-ground biomass by 75% (RMSE = 0.22) (Figure 
+
+5). The model (DNDC) is very sensitive to soil organic carbon content (SOC; Li et al., 
+
+1996,  2001;  Beheydt  et  al.,  2007;  Abdalla  et  al.,  2009a);  a  20%  increase  in  SOC 
+
+corresponds  to  a  58%  increase  in  N2O  flux  (Abdalla  et  al.,  2009a).  Similar  over-
+estimates of the effects of initial SOC by DNDC have also been reported by Li et al. 
+
+(1992),  Brown  et  al.  (2002)  and  Hsieh  et  al.  (2005).  DNDC  also  significantly 
+
+overestimates observed WFPS (Figure 3), leading to a higher than observed predicted 
+
+flux (Beheydt et al., 2007; Abdalla et al., 2009a).  
+
+Although the Daycent model needs to be better parameterised for application 
+
+in  Irish  grasslands,  both  cumulative  total  N2O  emission,  and  the  general  pattern  of 
+emissions  agree  quite  well  with  measured  data,  and  were  better  than  equivalent 
+
+estimates from the DNDC model, which significantly overestimated the observed flux 
+
+and  underestimated  the  observed  biomass.  Improving  the  parameterisation  of 
+
+DayCent  for  Irish  grasslands  will  make  the  model  a  useful  tool  for  testing  different 
+
+mitigation  scenarios,  and  will  enhance  the  quality  of  the  reporting  to  the  United 
+
+Nations  Framework  Convention  on  Climate  Change  (UNFCCC)  through  use  of  an 
+
+ 
+
+ 
+
+10
+
+ACCEPTED MANUSCRIPT
+
+MANUSCRIPT
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+26 
+
+27 
+
+28 
+
+29 
+
+30 
+
+31 
+
+32 
+
+33 
+
+IPCC  tier  3  methodology  (IPCC,  2006).  In  this  study,  depending  on  the  results  of 
+
+model  validations,  we  considered  that  using  DayCent  for  estimating  the  magnitude 
+
+and seasonal trends of N2O fluxes and above ground biomass was more suitable than 
+DNDC.  
+
+ 
+
+3.2 Model results under climate change scenarios 
+
+Because  the  DNDC  model  significantly  overestimated  observed  N2O  fluxes  and 
+significantly  underestimated  observed  above  ground  biomass,  the  impacts  of  future 
+
+climate  change  were  investigated  using  the  DayCent  model  only.  Two  climate 
+
+scenarios from the C4I, low and high temperature sensitivity, to provide the highest 
+
+and  lowest  impacts  of  climate  change,  were  investigated.  For  each  scenario,  the 
+
+DayCent model was run for a period of 30 years. Simulated patterns of N2O fluxes, 
+under both scenarios, were similar to that at the baseline scenario during most of the 
+
+year  (Table  3;  Figure  7).  Here,  average  height  of  the  first  peak  at  baseline  was 
+
+approximately similar to that of 2004 but, under climate change scenarios, DayCent 
+
+predicted a significant increase for this peak. The reason was the higher temperature 
+
+and  rainfall,  expected  due  to  climate  change  during  fertilizer  application,  compared 
+
+with the baseline. The average height for the second peak at baseline was decreased 
+
+because  time  for  this  peak  was  different  from  one  year  to  another.  However,  under 
+
+climate change, the second peak disappeared, mainly due to the decrease in available 
+
+N  later  in  the  season.  No  statistically  significant  difference  (p>0.05)  between  the 
+
+annual cumulative fluxes for the three scenarios was found. Under climate change, the 
+
+high  temperature  sensitivity  scenario  produced  slightly  higher  cumulative  nitrous 
+oxide  fluxes  (4.4  kg  ha-1)  whilst  the  low  temperature  sensitivity  scenario  produced 
+slightly  lower  cumulative  nitrous  oxide  fluxes  (4.1  kg  ha-1)  compared  with  the 
+baseline fluxes (4.2 kg ha-1).  This is different from the significant increases in N2O 
+flux predicted for a nearby  cropland field, using  DNDC, where  climate  change was 
+
+projected  to  increase  the  flux  by  55-88%  depending  on  the  N  fertilizer  application 
+
+rate. However, in the cropland field, most of the fluxes took place during the post crop 
+
+harvesting period, where straw was incorporated and no crops were present (Abdalla 
+
+et al., 2009c).  
+
+For  both  future  scenarios,  predicted  biomass  production  was  significantly 
+
+higher (p<0.05) than in the baseline (Figure 8). This increase was due to the overall 
+
+ 
+
+11
+
+ACCEPTED MANUSCRIPT
+
+MANUSCRIPT
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+26 
+
+27 
+
+28 
+
+29 
+
+30 
+
+31 
+
+32 
+
+33 
+
+effect  of  increasing  rainfall,  temperature  and  CO2  concentration.  Under  baseline 
+conditions, annual above-ground grass biomass (dry matter) was about 33 t ha-1 whilst 
+under climate change this value was increased to 45 (+34%) and 50 (+48%) t ha-1 for 
+the  low  and  high  temperature  sensitivity  scenario.  An  increase  in  grass  dry  matter 
+
+production  in  Ireland  due  to  climate  change  was  also  predicted  by  Fitzgerald  et  al. 
+
+(2009). Here, changes in precipitation (Rosenzweig and Tubiello, 1997; Izaurralde et 
+
+al., 2003; Mearns et al., 2003) and temperature  (Fiscus et al., 1997)  can affect crop 
+
+productivity.  Higher  temperatures  may  increase  plant  carboxilation  and  stimulate 
+
+higher  photosynthesis,  respiration,  and  transpiration  rates.  Plant  growth  and 
+
+development  would  continue  to  increase,  because  of  enhanced  metabolic  rates  at 
+
+higher  temperatures,  combined  with  increased  carbon  availability  (Reddy  et  al., 
+
+2000). Changing atmospheric carbon dioxide concentrations could also have positive 
+
+effects on plants (Mitchell et al., 1993; Curtis and Wang, 1998; Anwar et al., 2007). 
+
+Several factors may be responsible for this effect (i) increasing CO2 has a direct effect 
+on C availability by stimulating photosynthesis and reducing photorespiration (Akita 
+
+and  Moss,  1973)  (ii)  increasing  CO2  concentrations  decrease  stomatal  conductance 
+(Moss et al., 1961; Akita and Moss, 1973; Wong, 1979; Rogers et al., 1983; Morrison 
+
+and  Gifford,  1984)  which  reduces  the  transpiration  rate  per  unit  leaf  area.  Reduced 
+
+transpiration  will  also  increase  the  leaf  temperature  which  can  further  increase 
+
+photosynthesis (Acock,  1990). Both an increase in photosynthesis and a  decrease in 
+
+transpiration result in an increase in the grass water use efficiency. (iii) increases in 
+
+CO2  decrease  the  crop  N  concentration  (Schmitt  and  Edwards,  1981;  Hocking  and 
+Meyer, 1991).  
+
+Climate feedback could have significant impacts on N2O fluxes from soil. Soil 
+nitrogen  increases  due  to  increasing  mineralisation  with  changing  temperature  and 
+
+precipitation  (Waksman  and  Gerretsen,  1931;  Kirschbaum,  1995;  Wennman  and 
+
+Katterer,  2006;  Abdalla  et  al.,  2009c).  However,  in  this  simulation,  climate  change 
+
+showed no significant effect on N2O flux from the soil. In our simulations, there was a 
+considerably greater demand for N from enhanced grass growth under climate change 
+
+(Figure 8). The amount of available soil N, in excess of the N requirement of the grass 
+
+decreased, resulting in low N2O flux. Here, N2O flux has a threshold response to N, 
+and the amount of N lost to atmosphere depends on the amount of N taken by the crop 
+
+(McSwiney and Robertson, 2005; Abdalla et al., 2010). Soil mineral nitrogen and N 
+
+ 
+
+12
+
+ACCEPTED MANUSCRIPT
+
+MANUSCRIPT
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+26 
+
+27 
+
+28 
+
+29 
+
+30 
+
+31 
+
+32 
+
+33 
+
+34 
+
+ 
+
+ 
+
+mineralization are the main sources of N2O production (Bouwman 1990; Granli and 
+Bockman  1994;  Abdalla  et  al.,  2010).  Nitrogen  has  a  direct  influence  on  N2O 
+production  by  provision  of  N  for  both  nitrification  and  denitrification  (Baggs  and 
+
+Blum, 2004). This is in agreement with many other studies over a range of different 
+
+soils and crop systems (McSwiney  and Robertson, 2005-arable; Abassi and Adams, 
+
+2000;  Maddock  et  al.  2001;  Ball  et  al.,  2002  and  Maljanen  et  al.,  2002-forest  and 
+
+grasslands).  However,  the  soil  type  under  investigation  is  a  sandy  loam  that  has 
+
+relatively low mineralization. Soil characteristics and environmental conditions affect 
+
+mineralisation  (Schoenau  and  Campbel,  1996),  and  the  extensive  grazing  had  no 
+
+significant  effect  on  N2O  flux.    Compared  to  the  baseline,  a  significant  decrease 
+(p<0.05) was observed for the daily soil ammonium at 15cm depth, from 35 to 14 and 
+19 mg kg-1 for the high and low temperature sensitivity scenarios, respectively (Table 
+3).  Therefore,  future  N2O  flux  from  this  field  will  not  be  significantly  affected  by 
+climate change, unless more N fertilizer is applied.  
+
+Considering that the grass area in Ireland is about 4 M ha (CSO, 2010), sandy 
+
+loam  soil  make  up  >  30%  of  Irish  soil  types  and  the  nitrogen  fertilizer  application 
+rates  used  by  the  farmers  at  the  time  of  this  work  were  200  kg  ha-1  N,  DayCent 
+predicted large increase in above-ground grass biomass due to climate change. Under 
+
+climate change, for the high and low temperature sensitivity scenarios, above-ground 
+
+grass biomass could increase by approximately 68 and 48 Mt dry matter, respectively. 
+
+However, the increase in N2O flux due to climate change under this low N input grass 
+is  negligible,  suggesting  that  future  climate  change  will  favour  Irish  low  N  input 
+
+grasslands, with more biomass but no significant change in N2O flux. 
+
+DayCent  model  was  run  assuming  that  the  current  field  management  will 
+
+remain  the  same  in  the  future.  However,  the  predicted  future  higher  above  ground 
+
+biomass  production  by  DayCent  would  encourage  farmers  to  increase  grazing 
+
+intensity. This would increase emissions of methane (CH4) and excretal N deposition 
+from  grazing  animals.    Alternatively,  farmers  could  apply  less  N  fertilizer  to  the 
+
+pasture  to  achieve  the  current  amount  of  above  ground  biomass  production  without 
+
+making significant change on N2O or CH4 fluxes. 
+
+ 
+
+ 
+
+4. Conclusions 
+
+13
+
+ACCEPTED MANUSCRIPT
+
+MANUSCRIPT
+
+Although  further  improvement  is  possible,  the  DayCent  model  effectively 
+
+estimates the N2O fluxes and biomass production from the Irish grasslands compared 
+with DNDC model. DNDC significantly overestimates the measured N2O flux, with 
+relative deviations of +132% (RMSE = 5.2) and 258% (RMSE = 4) for the fertilized 
+
+and control plots. DayCent predicted N2O flux and biomass production from fertilized 
+grass  with  relative  deviations  of  +38%  (RMSE  =  2)  and  (-23%)  (RMSE  =  0.15) 
+
+compared  with  the  observed  values,  respectively.  DayCent  predicts  a  significantly 
+
+higher peak coinciding  with higher temperature  and rainfall in August -  September, 
+
+associated with fertiliser N still held in the soil later in the season. The model fit under 
+
+control plots was not good with a relative deviation of (-57%) (RMSE = 0.5). Under 
+
+climate change, grass biomass was projected to increase from the baseline value of 33 
+t ha-1 to 45 (+34%) and 50 (+48%) t ha-1 for the low and high temperature sensitivity 
+scenarios, respectively. Our results suggest, that due to significant grass growth and 
+
+higher N demand by the grass, climate change is not expected to significantly affect 
+
+N2O fluxes from this low N input pasture, unless more N is applied in the future. This 
+was projected for both the high and low temperature sensitivity scenarios. Our results 
+
+suggest that future climate change will favour the Irish, low N input grasslands with 
+
+more biomass but with no significant change in N2O flux. 
+ 
+Acknowledgements 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+This work was funded by the EU sixth framework program (contract EVK2-
+
+22 
+
+CT2001-00105,  Greengrass  Project  Europe)  and  Irish  EPA  project  No:  2001-CD-
+
+23 
+
+C1M1  and  contributed  to  the  EU-funded  NitroEurope  project  (project  number 
+
+24 
+
+017841).  We  are  grateful  to  the  Irish  National  Meteorological  Service  Research 
+
+25 
+
+Group  (Met  Éireann)  for  providing  us  with  the  C4I  climate  projections  and  good 
+
+26 
+
+collaboration. Pete Smith is a Royal Society-Wolfson Research Merit Award holder. 
+
+27 
+
+We are also grateful to John Clifton-Brown for providing us with the grass biomass 
+
+28 
+
+data,  Per  Ambus  for  carrying  out  our  gas  analysis,  and  Teagasc  in  Carlow  for 
+
+29 
+
+facilitating our field work. 
+
+30 
+
+31 
+
+ 
+References 
+
+ 
+
+14
+
+ACCEPTED MANUSCRIPT
+
+MANUSCRIPT
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+8 
+
+9 
+
+11 
+
+12 
+
+14 
+
+15 
+
+16 
+
+18 
+
+19 
+
+20 
+
+22 
+
+23 
+
+24 
+
+25 
+
+26 
+
+Abdalla, M., Wattenbach, M., Smith, P., Ambus, P., Jones, M., Williams, M., 2009a.  
+
+Application  of  the  DNDC  model  to  predict  emissions  of  N2O  from  Irish 
+agriculture. Geoderma 151, 327-337  
+
+Abdalla, M., Jones, M., Smith, P., Williams, M., 2009b. Nitrous oxide fluxes and  
+
+denitrification sensitivity to temperature in Irish pasture soils. Soil Use 
+
+Management 25, 376-388 
+
+7 
+
+Abdalla, M., Jones and Williams, M., 2009c. Simulation of Nitrous oxide Emissions  
+
+from  Irish  arable  soils:  effects  of  climate  change  and  management.  Biology 
+
+and Fertility of Soils. Online DOI: 10.1007/s0037-009-0424-5 
+
+10 
+
+Abdalla, M., Jones, M., Ambus, P., Williams, M., 2010. Emissions of Nitrous oxide  
+
+from Irish arable soils: effects of tillage and reduced N input. Nutrient Cycling 
+
+in Agroecosystems 86, 53-65 
+
+13 
+
+Abassi, M.K., Adams, W.A., 2000. Gaseous N emissions during simultaneous   
+
+nitrification / denitrification associated with mineral N fertilisation to a 
+
+grassland soil under field conditions. Soil Biology and Biochemistry 32, 1251-
+
+1259 
+
+17 
+
+Acock,  B., 1990. Effects of carbon dioxide on photosynthesis, plant growth, and  
+
+other processes. In: Impact of Carbon Dioxide, Trace Gases, and Climate 
+
+Change on Global Agriculture. American Society of Agronomy Madison WI, 
+
+ASA especial pub. No. 53 
+
+21 
+
+Akita, S. and Moss, D. N., 1973. Photosynthetic responses to CO2 and light by maize  
+
+and  wheat  leaves  adjusted  for  constant  stomatal  apertures.  Crop  Science  13, 
+
+234-237 
+
+Allard, V., Soussana, J.-F., Falcimagne, R., Berbigier, P., Bonnefond, J.M., Ceschia,  
+
+E., D’hour, P., Henault, C.,  Laville, P., Martin,  C., Pinares-Patino, C., 2007. 
+
+the role of grazing management for the net biome productivity and greenhouse 
+
+ 
+
+15
+
+ACCEPTED MANUSCRIPT
+
+MANUSCRIPT
+
+1 
+
+2 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+13 
+
+14 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+26 
+
+28 
+
+29 
+
+gas  budget  (CO2,  N2O  and  CH4)  of  semi-natural  grassland.  Agriculture, 
+Ecosystem and Environment121, 47-58 
+
+3 
+
+Antonopoulos, A.Z., 1999. Comparison of different models to simulate soil  
+
+temperature and moisture–effects on nitrogen mineralisation in the soil. 
+
+Journal of Plant nutrition and Soil Science 162, 667-675 
+
+Anwar, M.R., O’Leary, G., McNeil, D., Hossain, H., Nelson, R., 2007. Climate  
+
+Change impact on rain fed wheat in south-eastern Australia. Field Crops Res 
+
+104, 139-147 
+
+Baggs, E.M., Blum, H., 2004. CH4 oxidation and emissions of CH4 and N2O from  
+
+Lolium perenne swards under elevated atmospheric CO2. Soil Biology and 
+Biochemstry 36, 713-723 
+
+12 
+
+Baggs, E.M., Stevenson, M., Pihlatie, M., Regar, A., Cook, H., Cadisch, G. 2003.  
+
+Nitrous oxide emissions following application of residues and fertilizer under 
+
+zero and conventional tillage. Journal of Plant Soil 254, 361-370 
+
+15 
+
+Ball, B.C., McTaggart, I.P., Watson, C.A., 2002. Influence of organic ley-arable  
+
+management and afforestation in sandy loam to clay loam soils on fluxes of 
+
+N2O and CH4 in Scotland. Agriculture, Ecosystems and Environment 90, 305-
+317 
+
+BassiriRad, H., 2000. Kinetics of nutrient uptake by roots: responses to global change.  
+
+New Phytologist 147, 155-169 
+
+Beheydt, D., Boeckx, P., Sleutel, S., Li, C., Van Cleemput, O., 2007. Validation of  
+
+DNDC for 22 long-term N2O field emission measurements. Atmospheric 
+Environment 41, 6196-6211 
+
+Bouwman, A.F.,1990. Exchange of greenhouse gas between terrestrial ecosystems  
+
+and atmosphere. In: A.F. Bouwman (Ed.). Soil and the Greenhouse Effects. 
+
+Wiley, Chichester, UK, pp. 61-127 
+
+27 
+
+Bowden, W.B., Bormann, F. H., 1986. Transport and loss of nitrous oxide in  
+
+soil water after forest clear cutting. Science 233, 867-869 
+
+Bramley, R.G.V., White, R.E., 1990. The variability of nitrifying activity in field  
+
+ 
+
+16
+
+ACCEPTED MANUSCRIPT
+
+MANUSCRIPT
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+26 
+
+27 
+
+28 
+
+29 
+
+30 
+
+31 
+
+soils. Plant Soil 126, 203-208 
+
+Brown, L., Syed, B., Jarvis, S.C., Sneath, R.W., Phillips, V.R., Goulding, K.W.T., Li,  
+
+C., 2002. Development and application of a mechanistic model to estimate 
+
+emission of nitrous oxide from UK agriculture. Atmospheric Environment 36, 
+
+Cai, Z., Swamoto, T., Li, C., Kang, G., Boonjawat, J., Mosier, A., Wassmann, R.,  
+
+Tsuruta,  H.,  2003.  Field  validation  of  the  DNDC-model  for  greenhouse  gas 
+
+emissions in East Asian cropping systems. Global Biogeochemical Cycles 17, 
+
+917-928 
+
+1107 
+
+10 
+
+Choudhary, M.A., Akramkhanov, A., Saggar, S., 2002. Nitrous oxide emissions from  
+
+a  New  Zealand  cropped  soil:  tillage  effects,  spatial  and  seasonal  variability. 
+
+Agriculture, Ecosystems and Environment 93, 33-43 
+
+Collins, W.D., V. Ramaswamy, M.D. Schwarzkopf, Y. Sun, R.W. Portmann, Q.  
+
+Fu,S.E.B. Casanova, J.-L. Dufresne, D.W. Fillmore, P.M.D. Forster, V.Y. 
+
+Galin, L.K. Gohar, W.J. Ingram, D.P. Kratz, M.-P. Lefebvre, J. Li, P. Marquet, 
+
+V. Oinas, Y. Tsushima, T. Uchiyama, Zhong, W.Y., 2006: Radiative forcing 
+
+by well-mixed greenhouse gases: Estimates from climate models in the 
+
+Intergovernmental Panel on Climate Change (IPCC) Fourth Assessment 
+
+Report (AR4). Journal of Geophysical Research111, D14317 
+
+C4I, 2008. Community Climate Change Consortium For Ireland. Ireland in a Warmer  
+
+World. Scientific Predictions of the Irish Climate in the Twenty-first century. 
+
+Final Report. Access at: http://www.c4i.ie/docs/IrelandinaWarmerWorld.pdf 
+
+CSO, 2010. Irish Central Statistics Office. Access at: www.cso.ie 
+
+Curtis, P.S., Wang, X., 1998. A meta analysis of elevated CO2 effects on woody plant  
+
+mass, forms and physiology. Oeclogia 113, 299-313 
+
+Del Grosso, S.J., Parton, W.J., Mosier, A.R., Hartman, M.D., Brenner, L., Ojima,  
+
+D.S., Schimel, D.S., 2001. “Simulated Interaction of Carbon Dynamics and 
+
+Nitrogen Trace Gas Fluxes Using the DAYCENT Model.” In Modeling 
+
+Carbon and Nitrogen Dynamics for Soil Management, Schaffer, M., et al. 
+
+(Eds.), p. 303-332. Boca Raton, FL: CRC Press 
+
+Del Grosso, S.J., Ojima, D.S., Parton, W.J., Mosier, A.R., Peterson, G.A., 
+
+ 
+
+17
+
+ACCEPTED MANUSCRIPT
+
+MANUSCRIPT
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+12 
+
+13 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+24 
+
+25 
+
+26 
+
+27 
+
+28 
+
+29 
+
+30 
+
+Schimel, D.S., 2002. Simulated effects of dryland cropping intensification on 
+
+soil organic matter and greenhouse gas exchanges using the DAYCENT 
+
+ecosystem model. Environmental Pollution 116, S75-S83 
+
+DelGrosso, S.J., Halvorson, A.D., Parton, W.J., 2008. Testing DayCent model  
+
+simulations  of  corn  yields  and  nitrous  oxide  emissions  in  irrigated  tillage 
+
+systems in Colorado. Journal of Environmental Quality 37, 1383-1389 
+
+DelGrosso, S.J., Ojima, D.S., Parton, W.J., Stehfest, E., Heistemann, M., DeAngelo,  
+
+B., Rose, S., 2009.Global scale DayCent model analysis of greenhouse gas 
+
+emissions and mitigation strategies for cropped soils. Global and Planetary 
+
+10 
+
+Change 67, 44-50 
+
+11 
+
+Dobbie, K.E., Smith, K.A., 2001. The effects of temperature, water filled pore  
+
+space and land use on N2O emissions from imperfectly drained gleysol. 
+European Journal of Soil Science 52, 667-673 
+
+14 
+
+FAO, 2004. Food and Agriculture Organization. FAOSTAT Database Collections.  
+
+http://www.apps.fao.org, 2004, FAO, Rome, Italy 
+
+Fiscus, E.L., Reid, C.D., Miller, J.E., Heagle, A.S., 1997. Elevated CO2 reduces O3  
+
+flux and O3-induced yield losses in soybeans: possible implications for 
+elevated CO2 studies. Journal of Experimental Botany 48, 307–13. 
+
+Fitzgerald, J.B., Brereton, A.J., Holden, N.M., 2009. Assessment of the adaptation  
+
+potential  of  grass-based  diary  systems  to  climate  change  in  ireland-the 
+
+maximized  production  scenario.  Agricultural  and  Forest  Meteorology  149, 
+
+244-255 
+
+23 
+
+Flechard, C., Ambus, P., Skiba, U., Rees, R.M., Hensen, A., Van den Pol A.,  
+
+Soussana,  J.F.,  Jones,  M.,  Clifton-Brwon,  J.,  Raschi,  A.,  Horvath,  L.,  Van 
+
+Amstel,  A.,  Neftel,  A.,  Jocher,  M.,  Ammann,  C.,  Fuhrer,  J.,  Calanca,  P., 
+
+Thalman,  E.,  Pilegaard,  K.,  Di  Marco,  C.,  Campbell,  C.,  Nemitz,  E., 
+
+Hargreaves, K.J., Levy, P., Ball, B., Jones, S., Van de Bulk, W.C.M., Groot, 
+
+T.,  Blom,  M.,  Gunnink,  H.,  Kasper,  G.,  Allard,  V.,  Cellier,  P.,  Laville,  P., 
+
+Henault, C., Bizouard, F., Jolivot, D., Abdalla, M., Williams, M., Baronti, S., 
+
+Berretti,  F.,  Grosz,  B.,  Dominques,  R.,  2007.  Effects  of  climate  and 
+
+ 
+
+18
+
+ACCEPTED MANUSCRIPT
+
+MANUSCRIPT
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+11 
+
+12 
+
+14 
+
+15 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+25 
+
+26 
+
+management intensity on nitrous oxide emissions in grassland systems across 
+
+Europe. Agriculture, Ecosystems Environment 121, 35-152 
+
+Frolking, S.E., Mosier, A.R., Ojima, D.S., Li, C., Parton, W.J., Potter, C.S., Priesack,  
+
+E.,  Stenger,  R.,  Haberbosch,  C.,  Dorsch,  P.,  Flessa,  H.,  Smith,  K.A.,  1998. 
+
+Comparisons of N2O emissions from soils at three temperate agricultural sites: 
+simulations of year-round measurements by four models. Nutrients Cycling in 
+
+Agro-ecosystems 52, 77-105 
+
+Granli, T., Bockman, O.C., 1994. Nitrogen oxide from agriculture. Norwegian Journal  
+
+of Agricultural Sciences 12, 7-127 
+
+10 
+
+Hocking, P.J. and Meyer, C.P., 1991. Carbon dioxide enrichment decreases critical  
+
+nitrate and nitrogen concentrations in wheat. Journal of Plant Nutrition 14, 
+
+571-584 
+
+13 
+
+ Hsieh, C.I., Leahy, P., Kiely, G., Li. C., 2005. The effect of future climate  
+
+perturbations  on  N2O  emissions  from  a  fertilized  humid  grassland.  Nutrient 
+Cycling in Agroecosystems 73,15-23 
+
+16 
+
+IPCC, 2001. Climate change 2001, Third assessment Report of the IPCC, Cambridge  
+
+University Press UK. 
+
+IPCC, 2006. IPCC 2006 Revised Guidelines for National Greenhouse Gas 
+
+Inventories. Volume 4: Agriculture, Forestry and Other Land Use (AFOLU). NGGIP, 
+
+Institute for Global Environmental Strategies, 2108-11, Kamiyamaguchi, 
+
+Hayama, Kanagawa, Japan 240-0115.  
+
+22 
+
+IPCC, 2007. Changes in atmospheric constituents and in radiative forcing.  
+
+23 
+
+Cambridge University Press, UK and New York USA. 
+
+24 
+
+Izaurralde, R.C.C., N.J., Rosenberg, R.A., Brown, J.R.,Thomson A. M. ,  2003   
+
+Integrated Assessment of Hadley Centre (HadCM2) Climate-Change Impacts 
+
+on Agricultural Productivity and Irrigation Water Supply in the Conterminous 
+
+ 
+
+19
+
+ACCEPTED MANUSCRIPT
+
+MANUSCRIPT
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+16 
+
+17 
+
+19 
+
+20 
+
+24 
+
+25 
+
+26 
+
+27 
+
+United States. Part II. Regional Agricultural Production in 2030 and 
+
+2095. Agricultural and Forest Meteorology 117, 97-122  
+
+Keller, M. and Reiners, W.A. 1994. Soil-atmosphere exchange of nitrous oxide, nitric  
+
+oxide,  and  methane  under  secondary  succession  of  pasture  to  forest  in  the 
+
+Atlantic lowlands of Cost Rica. Global Biogeochemical Cycles 8, 399-409 
+
+Kesik, M., Bruggemann, N., Forkel, R., Kiese, R., Knoche, R., Li, C., Seufert, G.,  
+
+Simpson, D., Butterbach-Bahl, 2006. Future scenarios of N2O emissions from 
+European forest soils. Journal of Geophysical Research 111, G02018, 
+
+doi:10.1029/2005JG000115, 2006 
+
+Kirschbaum, M.U.F., 1995. The temperature dependence of soil organic matter  
+
+decomposition, and the effect of global warming on soil organic C storage. 
+
+Soil Biology and Biochemstry 27, 753-760 
+
+Kroeze, C., Mosier, A., Bouwman, L., 1999. Closing the global N2O budget. A  
+
+retrospective analysis 1500-1994. Global Biochemical Cycles 12, 1-8 
+
+15 
+
+Li, C., Frolking, S., Frolking, T.A., 1992. A model of nitrous oxide evolution from  
+
+soil driven by rainfall events.1. Model structure and sensitivity. Journal of 
+
+Geophysical Research Atmosphere 97, 9759-9776 
+
+18 
+
+Li, C., Narayanan, V., Harriss, R., 1996. Model estimate of N2O emissions from  
+
+agricultural lands in the United States. Global Biogeochemical Cycles 10, 297-
+
+21 
+
+Li, C., 2000. Modelling trace gas emissions from agricultural ecosystems. Nutrients  
+
+22 
+
+Cycling in Agro-ecosystems 58, 259-276 
+
+23 
+
+Li, C., Zhuang, Y., Cao, M., Crill, P., Dai, Z., Frolking, S., Moore, B., Salas, W.,  
+
+Song, W., Wang, X., 2001. Comparing a process-based agro ecosystem model 
+
+to the IPCC methodology for developing a national inventory of N2O 
+emissions from arable lands in China. Nutrient Cycling in Agro ecosystems 
+
+306 
+
+60, 1-3 
+
+28 
+
+Li, Y., Chen, D., Zhang, Y., Edis, R., Ding, H., 2005. Comparison of three  
+
+ 
+
+20
+
+ACCEPTED MANUSCRIPT
+
+MANUSCRIPT
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+11 
+
+12 
+
+14 
+
+15 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+26 
+
+27 
+
+28 
+
+29 
+
+30 
+
+31 
+
+modeling approaches for simulating denitrification and nitrous oxide 
+
+emissions from loam-textured arable soils. Global Biogeochemical Cycles, 19, 
+
+GB3002 
+
+Maddock, J.E.L., Dos Santos, M.B.P., Prata, K.R., 2001. Nitrous oxide emission from  
+
+soil of the Mata Atlantica, Rio De Janeiro state, Brazil. Geophysical Research 
+
+Atmosphere 106, 23055-23060 
+
+Malhi, S.S., McGill, W.B., Nyborg, N., 1990. Nitrate losses in soils: effect of   
+
+temperature, moisture and substrate concentration. Soil Biology and 
+
+Biochemistry 22, 733-737 
+
+10 
+
+Maljanen, M., Martikainen, P.J., Aaltonen, H., 2002. Short term variation in fluxes of  
+
+carbon dioxide, nitrous oxide and methane in cultivated and forested organic 
+
+boreal soils. Soil Biology and Biochemistry 34, 577-584 
+
+13 
+
+McSwiney, C.P. and Robertson, G.P., 2005. Non-linear response of N2O flux to  
+
+incremental fertilizer addition in a continuous maize (Zea mays L.) cropping 
+
+system. Global Change Biology 11, 1712-1719 
+
+16 
+
+ Mearns, L.O., 2003. Issues in the impacts of climate variability and change on  
+
+agriculture. Climatic Change 60, 1-6 
+
+Mitchell, R.A.C., Mitchell, V.J., Driscoll, S.P., Franklin, J., Lawlor, D.W., 1993.  
+
+Effects of increased CO2 concentration and temperature on growth and yield 
+of winter wheat at two levels of nitrogen application. Plant, Cell Environ 16, 
+
+Mogge, B., Kaiser, E.A., Munch, J.C., 1999. Nitrous oxide emissions and  
+
+denitrification N-losses from agricultural soils in the Bornhoved Lake region: 
+
+Influence of organic Fertilizers and land-use. Soil Biology and Biochemistry 
+
+521-529 
+
+31, 1245-1252 
+
+Morison, J.I.L. and Gifford, R.M., 1984. Plant growth and water use with limited  
+
+water supply in high CO2 concentrations. 1. Leaf area, water use and 
+transpiration. Australian Journal of Plant Physiology11, 361-374 
+
+Mosier, A., Kroeze, C., Nevison, C., Oenema, O., Seitzinger, S., Van Cleemput, O.,  
+
+Abrahamsen,  G.,  Bouwman,  L.,  Bockman,  O.,  Drange,  H.,  Frolking,  S., 
+
+Howarth, R., Smith, K., Bleken, M.A., 1998. Closing the global N2O budget: 
+
+ 
+
+21
+
+ACCEPTED MANUSCRIPT
+
+MANUSCRIPT
+
+1 
+
+2 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+26 
+
+28 
+
+29 
+
+nitrous  oxide  emissions  through  the  agricultural  nitrogen  cycle.  Nutrient 
+
+Cycling in Agro-ecosystems 52, 225-248 
+
+3 
+
+Moss, D. N., Musgrave, R. B., Lemon, E. R., 1961. Photosynthesis under field  
+
+conditions. III. Some effects of light, car- bon dioxide, temperature and soil 
+
+moisture on photosynthesis, respiration, and trans- piration of corn. Crop 
+
+Science 1, 83-87  
+
+Nakicenovic, N., Swart, R., 2000. Special Report on Emissions Scenarios (eds).A  
+
+Special Report of Working Group III of the Intergovernmental Panel on 
+
+Climate Change. Cambridge University Press: Cambridge, UK and New York. 
+
+Olivier, J.G.J., Bouwman, A.F., Van Der hoek, K.W., Berdowski, J.J.M., 1998.  
+
+Global air emission inventories for anthropogenic sources of Nx, NH3 and N2O 
+in 1990. Environmental Pollution 102, 135-148 
+
+Parton, W.J., Ojima, D.S., Cole, C.V., Schimel, D.S., 1994. A general model for 
+
+soil organic matter dynamics: sensitivity to litter chemistry, texture and 
+
+management. In, Quantitative Modelling of Soil Forming Processes, p 
+
+147-167. Madison, WI: Soil Science Society of America. 
+
+Parton, W.J., Hartman, M.D., Ojima, D.S., Schimel, D.S., 1998. DAYCENT and its  
+
+land surface sub-model: description and testing. Global Planetary Change 19, 
+
+570 p 
+
+35-48 
+
+Prather, M.J., 1998. Time scales in atmospheric chemistry: coupled perturbations to  
+
+N2O, NOy, and O3. Science 279, 1339-1341 
+
+Raich, J.W., Schlesinger, W.H., 1992. The global carbon dioxide flux in soil  
+
+respiration and its relationship to vegetation and climate. Tellus 44B, 81-99 
+
+Reddy, K.R., and H.F. Hodges, 2000. Climate change and global crop  
+
+Productivity (ed.). CAB International, Wallingford, UK. 
+
+27 
+
+Rogers, H. H., Bingham, G. E., Cure, J. D., Smith, J. M. and Surano, K. A. 1983.  
+
+Responses of selected plant species to elevated carbon dioxide in the field. 
+
+Journal of Environmental Quality 12, 569-574 
+
+ 
+
+22
+
+ACCEPTED MANUSCRIPT
+
+MANUSCRIPT
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+25 
+
+26 
+
+28 
+
+29 
+
+30 
+
+Rosenzweig, C., and Tubiello, F.N., 1997. Impacts of global climate change on  
+
+Mediterranean  agriculture:  Current  methodologies  and  future  directions:  An 
+
+introductory essay. Mitigation and Adaptation Strategies for Global Change 1, 
+
+Ruser, R., Flessa, H., Schilling, R., Steidl, H., Beese, F., 1998. Soil compaction and  
+
+fertilization effects on nitrous oxide and methane fluxes in potato fields. Soil 
+
+Science Society of America Journal 62, 1587-1595 
+
+Schoenau, J.J., Campbell, C.A., 1996. Impact of crop residues on nutrient  
+
+availability in conservation tillage systems. Canadian Journal of Plant Science 
+
+Shaver, G.R., Canadell, J., Chapin III, F.S., Gurevitch, J., Harte, J., Henry, G., Ineson,  
+
+P., Jonasson, S., Melillo, J., Pitelka, L., Rustad, L., 2000. Global warming and 
+
+terrestrial ecosystems: a conceptual framework for analysis. Bioscience 50, 
+
+Schmitt, M.R. and Edwards, G.E., 1981. Photosynthetic capacity and nitrogen use  
+
+efficiency of maize, wheat and rice: a comparison between C3 and C4 
+photosynthesis. Journal of Experimental Botany 32,459-466 
+
+Shaw, M.R., Harte, J., 2001. Control of litter decomposition in a subalpine meadow- 
+
+sagebrush steppe ecotone under climate change. Ecological Applications 11, 
+
+219-232 
+
+76, 621-626 
+
+871-882 
+
+1206-1223 
+
+Simek, M., Elhottova, D., Klimes, F., Hopkins, D.W., 2004. Emissions of N2O and  
+
+CO2,  denitrification  measurements  and  soil  properties  in  red  clover  and 
+ryegrass stands. Soil Biology and Biochemistry 36, 9-21 
+
+24 
+
+Smith, K.A., Clayton, H., McTaggart, I.P., 1995. The measurement of nitrous oxide  
+
+emissions from soil by using chambers. Philosophical Transactions of the 
+
+Royal Society of London, Series A 351, 327-337 
+
+27 
+
+Smith, W.N., Grant, B.B., Desjardins, R.L., Worth, D., Li, C., Boles, S.H., Huffman,  
+
+E.C., 2010. A tool to link agricultural activity data with the DNDC model to 
+
+estimate GHG emissions factor in Canada. Agriculture, Ecosystems and 
+
+Environment 136, 301-309  
+
+31 
+
+Stanford, G., Epstein, E., 1974. Nitrogen mineralization-water relations in soils.  
+
+ 
+
+23
+
+ACCEPTED MANUSCRIPT
+
+MANUSCRIPT
+
+In: Soil Science Society of America- Proceedings 38, 103-107 
+
+Stark, J.M., Firestone, M.K., 1996. Kinetic characteristics of ammonium-oxidizer  
+
+communities in a California oak woodland–annual grassland. Soil Biology and 
+
+Biochemistry 28, 1307-1317 
+
+Stehfest, E., Heistermann, M., Priess, J.E., Ojima, D.S., Alcamo, J., 2007. Simulation  
+
+of global crop production with the ecosystem model DayCent. Ecological 
+
+Modeling 209, 203-219 
+
+Teagasc, 2010. The Irish Agriculture and Food department Authority. Access at:      
+
+             www.teagasc.ie 
+
+10 
+
+Waksman, S.A., Gerretsen, F.C., 1931. Influence of temperature and moisture upon  
+
+11 
+
+the nature and extent of decomposition of plant residues. Ecology 12, 33-60 
+
+12 
+
+Watson, R.T., Zinyowera, M.C., Moss, R.H., Dokken, D.J., 1996. Climate change  
+
+(1995), impacts, adaptation and mitigation of climate change. Scientific 
+
+Technical Report Analysis. In: Watson, R.T., Zinyowera, M.C., Moss, R.H., 
+
+(Eds.), Contribution of working group II to the Second Assessment Report of 
+
+the Intergovernmental Panel on Climate Change. Cambridge, New York, p. 
+
+Wennman, P., Katterer, T., 2006. Effects of moisture and temperature on carbon and  
+
+nitrogen mineralisation in mine tailing mixed with sewage sludge. Journal of 
+
+Environmental Quality 35, 1135-1141  
+
+21 
+
+Wong, C. S., 1979. Carbon input to the atmosphere from forest fires. Science 204,  
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+18 
+
+19 
+
+20 
+
+22 
+
+23 
+
+880 
+
+210 
+
+ 
+
+ 
+
+24
+
+ACCEPTED MANUSCRIPT
+
+MANUSCRIPT
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+ 
+52o86′ N 
+13.3 (baseline), 15.2 (high scenario) and 12 
+(low scenario 
+5.4  (baseline),  10.3  (high  scenario)  and  7 
+(low scenario) 
+794  (baseline),  1472  (high  scenario)  and 
+1407 (low scenario) 
+0.001* 
+350* (baseline) and 700* (future scenarios) 
+
+Table 
+Table 1: DayCent/DNDC models input data for the pasture field 
+Climate data 
+Latitude (degree) 
+Yearly maximum of average 
+daily temperature (oC) 
+Yearly minimum of average 
+daily temperature (oC) 
+Yearly accumulated precipitation  
+(mm). 
+N concentration in rainfall (mg Nl-1) 
+Atmospheric CO2 concentrations 
+(ppm) 
+Soil properties (0-10 cm depth) 
+Vegetation type 
+Soil texture 
+Bulk density (g cm-3) 
+Clay fraction 
+Soil pH 
+Initial organic C content at surface soil 
+(kg Ckg-1). 
+Harvest 
+WFPS at field capacity 
+WFPS at wilting point 
+Depth of water-retention layer (cm) 
+Slope (%) 
+*Default values  
+ 
+Table 2: Annual measured flux, DayCent predicted flux, DNDC predicted flux and 
+differences between predicted and measured fluxes of N2O (kg N2O-N ha-1). 
+Treatment  Measured 
+
+ 
+Moist pasture 
+Sandy clay loam 
+1.0 
+0.34* 
+7.3 
+0.038 
+
+Grazing/ cutting 
+0.87 
+0.09 
+100* 
+0.0 
+
+DayCent   DNDC   Flux difference 
+
+flux 
+1.0 
+2.6 
+
+(DayCent-measured) 
+-0.5 
++1.0 
+
+0.5 
+3.6 
+
+3.58 
+4.06 
+
+Control 
+fertilized 
+ 
+Table  3:  DayCent  simulated  soil  ammonium,  nitrate,  annual  above  ground  biomass 
+and cumulative N2O fluxes at different climate scenarios. Values with different letters 
+for the same column are significantly different from each other (P<0.05). 
+Climate 
+scenario 
+
+Cumulative flux (kg 
+N2O-N ha-1y-1) 
+
+Average soil  
+nitrate (g kg-1) 
+
+Flux difference 
+(DNDC-measured) 
++2.58 
++3.44 
+
+Average soil 
+ammonium (g 
+kg-1) 
+35a 
+14b 
+19c 
+
+3a 
+2a 
+2a 
+
+Average 
+biomass 
+(t ha-1 y-1) 
+33a 
+50b 
+45c 
+
+4.2a 
+4.4a 
+4.1a 
+
+Baseline 
+High sensetive 
+Low sensetive 
+ 
+
+11 
+
+ 
+
+25
+
+ACCEPTED MANUSCRIPT
+
+MANUSCRIPT
+
+1 
+
+ Figures  
+
+110
+
+a 
+
+2 
+3 
+4 
+
+ 
+ 
+
+b 
+
+)
+
+1
+-
+d
+ 
+
+1
+-
+
+-
+
+a
+h
+ 
+N
+O
+N2
+ 
+g
+(
+ 
+s
+n
+o
+i
+s
+s
+i
+
+m
+e
+ 
+e
+d
+i
+x
+o
+ 
+s
+u
+o
+r
+t
+i
+
+N
+
+)
+
+1
+-
+d
+
+ 
+
+1
+-
+
+ 
+
+ 
+
+-
+
+a
+h
+N
+O
+N2
+g
+(
+ 
+s
+n
+o
+i
+s
+s
+i
+
+m
+e
+ 
+e
+d
+i
+x
+o
+ 
+s
+u
+o
+r
+t
+i
+
+N
+
+90
+
+70
+
+50
+
+30
+
+10
+
+20
+
+15
+
+10
+
+5
+
+0
+
+-5
+
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+-10
+26-Oct-03 09-Jan-04 24-Mar-04 07-Jun-04 21-Aug-04 04-Nov-04 18-Jan-05
+
+-10
+26-Oct-03 09-Jan-04 24-Mar-04 07-Jun-04 21-Aug-04 04-Nov-04 18-Jan-05
+
+ 
+
+ 
+
+26
+
+ACCEPTED MANUSCRIPT
+
+MANUSCRIPT
+
+-10
+26-Oct-03
+
+1 
+2 
+
+ 
+
+c 
+
+d 
+
+590
+
+490
+
+390
+
+290
+
+190
+
+90
+
+)
+
+1
+-
+
+d
+
+ 
+
+1
+-
+
+ 
+
+a
+h
+N
+O
+
+-
+
+2
+
+N
+g
+(
+ 
+s
+n
+o
+i
+s
+s
+i
+
+m
+e
+ 
+O
+N
+
+2
+
+590
+
+490
+
+390
+
+290
+
+190
+
+90
+
+)
+
+1
+-
+
+1
+-
+
+d
+
+ 
+
+-
+
+ 2
+
+a
+h
+N
+O
+N
+g
+(
+ 
+s
+n
+o
+i
+s
+s
+i
+m
+e
+ 
+O
+
+2
+
+N
+
+09-Jan-04
+
+24-Mar-04
+
+07-Jun-04
+
+21-Aug-04
+
+04-Nov-04
+
+18-Jan-05
+
+ 
+
+ 
+
+-10
+26-Oct-03
+
+09-Jan-04
+
+24-Mar-04 07-Jun-04
+
+21-Aug-04 04-Nov-04 18-Jan-05
+
+3 
+4 
+5 
+6 
+7 
+
+8 
+9 
+10 
+11 
+
+Figure 1: Comparisons of DayCent (a and b) and DNDC (c and d) model-simulated 
+(●) and field measured (о) N2O fluxes from the fertilized (a and c) and control (b and 
+d) pasture treatments in 2003/2004. (Error bars for measured values are ± standard 
+error). Arrow show time of fertilizer application. 
+ 
+ 
+ 
+ 
+
+ 
+
+27
+
+ACCEPTED MANUSCRIPT
+
+MANUSCRIPT
+
+70
+
+60
+
+50
+
+40
+
+30
+
+20
+
+10
+
+)
+
+1
+-
+
+1
+-
+
+d
+
+2
+
+-
+
+a
+h
+ 
+N
+O
+N
+g
+(
+ 
+s
+n
+o
+i
+s
+s
+i
+
+m
+e
+ 
+e
+d
+i
+x
+o
+ 
+s
+u
+o
+r
+t
+i
+
+N
+
+)
+
+C
+(o
+ 
+e
+r
+u
+t
+a
+r
+e
+p
+m
+e
+t
+ 
+r
+i
+
+A
+
+35
+30
+25
+20
+15
+10
+5
+0
+-5
+-10
+
+1 
+2 
+
+ 
+
+3 
+4 
+
+ 
+
+0
+Jan-00 Aug-00 Mar-01 Oct-01 May-02 Dec-02
+
+Jul-03
+
+Feb-04
+
+Sep-04 Apr-05 Nov-05
+
+)
+
+m
+m
+
+(
+ 
+l
+l
+a
+f
+n
+i
+a
+R
+
+45
+40
+35
+30
+25
+20
+15
+10
+5
+0
+Jan-00 Aug-00 Mar-01 Oct-01 May-02 Dec-02
+
+Jul-03
+
+Feb-04
+
+Sep-04 Apr-05 Nov-05
+
+ 
+
+ 
+
+Jan-00 Aug-00 Mar-01 Oct-01 May-02 Dec-02 Jul-03 Feb-04 Sep-04 Apr-05 Nov-05
+
+ 
+Figure 2: Simulated nitrous oxide fluxes (a), measured precipitation (b) and maximum 
+(●) and minimum (о) temperature (c) during 2000-2005. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+5 
+6 
+7 
+
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+
+ 
+
+28
+
+ACCEPTED MANUSCRIPT
+
+MANUSCRIPT
+
+60
+
+50
+
+40
+
+30
+
+20
+
+10
+
+60
+
+50
+
+40
+
+30
+
+20
+
+10
+
+h
+t
+p
+e
+d
+ 
+m
+c
+ 
+0
+2
+-
+0
+ 
+t
+a
+ 
+)
+
+%
+
+(
+ 
+S
+P
+F
+W
+
+h
+t
+p
+e
+d
+m
+c
+ 
+
+ 
+
+0
+2
+-
+0
+ 
+t
+a
+ 
+)
+
+%
+
+(
+ 
+S
+P
+F
+W
+
+0
+Oct-03
+
+1 
+2 
+
+ 
+
+Jan-04 Mar-04
+
+Jun-04
+
+Aug-04 Nov-04
+
+Jan-05
+
+0
+Oct-03
+
+Jan-04 Mar-04
+
+Jun-04
+
+Aug-04 Nov-04
+
+Jan-05
+
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+
+Figure 3: Comparisons between the simulated (●) and field measured (о) WFPS from 
+the cut and grazed pasture for DayCent (a) and DNDC (b) models in 2003/04. (Error 
+bars for measured values are ± standard error).  
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+29
+
+ACCEPTED MANUSCRIPT
+
+MANUSCRIPT
+
+)
+
+1
+-
+d
+1
+-
+
+ 
+
+-
+
+a
+h
+N
+O
+N
+g
+(
+ 
+ 
+
+ 
+
+2
+
+ 
+
+O
+N2
+d
+e
+t
+a
+l
+u
+m
+i
+s
+ 
+g
+o
+l
+
+1.5
+
+0.5
+
+2
+
+1
+
+0
+
+-1
+
+-0.5
+
+0
+
+0.5
+
+1
+
+1.5
+
+2
+
+log measured N2O (g N2O-N ha-1d-1)
+
+1 
+2 
+3 
+
+4 
+
+5 
+
+6 
+
+7 
+
+8 
+
+9 
+
+10 
+
+11 
+
+12 
+
+13 
+
+14 
+
+15 
+
+16 
+
+17 
+
+ 
+
+Figure 4: Correlation between the DayCent model-simulated and field measured N2O 
+fluxes for the grass field. y = 0.41x + 0.57 (r2 = 0.32).  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+30
+
+ACCEPTED MANUSCRIPT
+
+MANUSCRIPT
+
+a 
+
+b 
+
+1
+-
+
+)
+ 
+a
+h
+ 
+t
+(
+ 
+s
+s
+a
+m
+o
+i
+b
+
+ 
+
+y
+r
+d
+
+ 
+
+d
+n
+u
+o
+r
+g
+
+ 
+e
+v
+o
+b
+A
+
+1
+-
+
+)
+ 
+a
+h
+
+ 
+t
+(
+ 
+s
+s
+a
+m
+o
+i
+b
+
+ 
+
+y
+r
+d
+
+ 
+
+d
+n
+u
+o
+r
+g
+
+ 
+e
+v
+o
+b
+A
+
+4
+
+3
+
+2
+
+1
+
+0
+
+4
+
+3
+
+2
+
+1
+
+0
+
+0
+
+10
+
+20
+
+30
+
+40
+
+50
+
+Weeks of the year
+
+ 
+
+1 
+2 
+
+ 
+
+0
+
+10
+
+40
+
+50
+
+20
+
+30
+
+Weeks of the year
+
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+
+ 
+Figure 5: Weekly DayCent (a) and DNDC (b) simulated (●) and field measured (о) 
+grass biomass in 2004. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+31
+
+ACCEPTED MANUSCRIPT
+
+MANUSCRIPT
+
+a 
+
+b 
+
+h
+t
+p
+e
+d
+m
+c
+ 
+
+ 
+
+0
+1
+-
+0
+ 
+t
+a
+ 
+)
+
+C
+(o
+ 
+e
+r
+u
+t
+a
+r
+e
+p
+m
+e
+t
+ 
+l
+i
+o
+S
+
+h
+t
+p
+e
+d
+ 
+m
+c
+ 
+0
+1
+-
+0
+ 
+t
+a
+ 
+)
+
+C
+(o
+ 
+e
+r
+u
+t
+a
+r
+e
+p
+m
+e
+t
+ 
+l
+i
+o
+S
+
+30
+
+25
+
+20
+
+15
+
+10
+
+5
+
+0
+
+25
+
+20
+
+15
+
+10
+
+5
+
+0
+
+04-Mar-04 23-Apr-04 12-Jun-04 01-Aug-04 20-Sep-04 09-Nov-04 29-Dec-04
+
+ 
+
+1 
+2 
+3 
+
+ 
+ 
+
+04-Mar-04 23-Apr-04 12-Jun-04 01-Aug-04 20-Sep-04 09-Nov-04 29-Dec-04
+
+ 
+Figure 6: Comparison between the DayCent (a; r2 = 0.64; RMSE = 0.57) and DNDC 
+(b; r2 = 0.88; RMSE = 0.44) simulated (●) and field measured (о) soil temperature (0-
+10 cm depth) from the cut and grazed pasture in 2004. (Error bars for measured values 
+are ± standard error).  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+17 
+18 
+19 
+20 
+21 
+
+ 
+
+32
+
+ACCEPTED MANUSCRIPT
+
+MANUSCRIPT
+
+1 
+
+ 
+ 
+
+)
+
+1
+-
+
+1
+-
+
+d
+
+ 
+
+-
+
+ 
+2
+ 
+
+a
+h
+N
+O
+N
+g
+(
+ 
+s
+n
+o
+i
+s
+s
+i
+
+ 
+
+m
+e
+ 
+e
+d
+i
+x
+o
+ 
+s
+u
+o
+r
+t
+i
+
+N
+
+60
+
+50
+
+40
+
+30
+
+20
+
+10
+
+0
+
+)
+
+1
+-
+
+ 
+a
+h
+
+ 
+t
+(
+ 
+s
+s
+a
+m
+o
+i
+b
+
+ 
+
+d
+n
+u
+o
+r
+g
+
+ 
+e
+v
+o
+b
+A
+
+4
+
+3
+
+2
+
+1
+
+0
+
+7 
+8 
+9 
+10 
+11 
+12 
+
+13 
+
+ 
+
+ 
+
+0
+
+50
+
+100
+
+150
+
+200
+
+250
+
+300
+
+350
+
+400
+
+Days of the year
+
+2 
+3 
+4 
+5 
+
+6 
+
+ 
+Figure 7: Effects of climate change on N2O emissions from the grass field for the high 
+(▲) and low (о) temperature sensitive climate data compared with measured baseline 
+climate (●). Arrow show time of fertilizer application. 
+ 
+
+-3
+
+2
+
+7
+
+12
+
+17
+
+22
+
+27
+
+32
+
+37
+
+42
+
+47
+
+52
+
+Weeks of the year
+
+Figure 8: Effects of climate change on above ground grass biomass production for the 
+high  (о)  and  low  (▲)  temperature  sensitive  climate  scenarios  compared  with 
+measured baseline climate (●). 
+ 
+
+ 
+
+ 
+
+33
+
+ACCEPTED MANUSCRIPT
+
+MANUSCRIPT
+
+

@@ -1,0 +1,1705 @@
+Article
+Controlled Grazing of Maize Residues Increased Carbon
+Sequestration in No-Tillage System: A Case of a Smallholder
+Farm in South Africa
+
+Khatab Abdalla 1,2,3,*
+
+, Macdex Mutema 4
+
+, Pauline Chivenge 3,5 and Vincent Chaplot 3,6
+
+1 Department of Agroecology, Bayreuth Center of Ecology and Environmental Research (BayCEER),
+
+2
+3
+
+University of Bayreuth, 95440 Bayreuth, Germany
+Environment, Natural Resources and Desertiﬁcation Research Institute, Khartoum 11111, Sudan
+School of Agricultural, Earth & Environmental Sciences, University of KwaZulu-Natal,
+Pietermaritzburg 3201, South Africa; p.chivenge@apni.net (P.C.); vincent.Chaplot@ird.fr (V.C.)
+
+4 Agricultural Research Council-Agricultural Engineering, Pretoria 0001, South Africa; macdexo@gmail.com
+5 African Plant Nutrition Institute UM6P Experimental Farm, Benguérir 41350, Morocco
+6
+
+Institut de Recherche pour le Développement (IRD), Laboratoire d’Océanographie et du Climat (LOCEAN),
+UMR 6159 CNRS/IRD/UPMC/MNHN, 75480 Paris, France
+
+* Correspondence: Khatab.Abdalla@uni-bayreuth.de
+
+Abstract: Despite the positive impact of no-tillage (NT) on soil organic carbon (SOC), its potential
+to reduce soil CO2 emission still needs enhancing for climate change mitigation. Combining NT
+with controlled-grazing of crop residues is known to increase nutrient cycling; however, the impacts
+on soil CO2 efﬂuxes require further exploration. This study compared soil CO2 efﬂuxes and SOC
+stocks from conventional tillage with free grazing (CTFG), NT with free grazing (NTFG), NT without
+grazing (NTNG), NT without crop residues (NTNR) and NT with controlled-grazing (NTCG), in
+South Africa. Soil CO2 efﬂuxes were measured 1512 times over two years using LI-COR 6400XT,
+once to thrice a month. Baseline SOCs data were compared against values obtained at the end of
+the trial. Overall, NTCG decreased soil CO2 ﬂuxes by 55 and 29% compared to CTFG and NTNR,
+respectively. NTCG increased SOCs by 3.5-fold compared to NTFG, the other treatments resulted
+in SOC depletion. The increase in SOCs under NTCG was attributed to high C input and also
+low soil temperature, which reduce the SOC mineralization rate. Combining NT with postharvest
+controlled-grazing showed high potential to increase SOCs, which would help to mitigate climate
+change. However, it was associated with topsoil compaction. Therefore, long-term assessment under
+different environmental, crop, and soil conditions is still required.
+
+Keywords: conservative agriculture; carbon dioxide; carbon sequestration; smallholder systems;
+soil respiration
+
+Citation: Abdalla, K.; Mutema, M.;
+Chivenge, P.; Chaplot, V. Controlled
+Grazing of Maize Residues Increased
+Carbon Sequestration in No-Tillage
+System: A Case of a Smallholder
+Farm in South Africa. Agronomy 2021,
+11, 1421. https://doi.org/10.3390/
+agronomy11071421
+
+Academic Editors: Arnd Jürgen Kuhn
+and Koki Toyota
+
+Received: 19 May 2021
+Accepted: 12 July 2021
+Published: 15 July 2021
+
+Publisher’s Note: MDPI stays neutral
+with regard to jurisdictional claims in
+published maps and institutional afﬁl-
+iations.
+
+1. Introduction
+
+Increased greenhouse gases (GHGs) concentrations in the atmosphere have con-
+tributed to the dramatic increase in global surface temperature (by 0.8–1.5 ◦C) since the late
+nineteenth century [1]. Carbon dioxide (CO2) is one of the major GHGs in the atmosphere.
+The atmospheric CO2 accumulated to 545 ± 55 Pg C (1 Pg = 1015 g = 1 billion tonnes)
+over the years from 1870 to 2014 [2]. This quantity is in the same order of magnitude
+as the amount of carbon (C) in the biosphere (620 Pg C) and the atmosphere (720 Pg C).
+Two thirds of the atmospheric CO2 originated from the combustion of fossil fuels [2]. The
+rest is linked to agricultural malpractices such as deforestation, improper land use and
+land mismanagement, which lead to low soil C input from litter and high soil C losses,
+i.e., mineralization and soil erosion [3–5].
+
+There is strong interest in reducing, or at least stabilizing, GHG emissions to the
+atmosphere to combat global warming, which was the main agenda of the December 2015
+
+Copyright: © 2021 by the authors.
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article
+distributed under
+the terms and
+conditions of the Creative Commons
+Attribution (CC BY) license (https://
+creativecommons.org/licenses/by/
+4.0/).
+
+Agronomy 2021, 11, 1421. https://doi.org/10.3390/agronomy11071421
+
+https://www.mdpi.com/journal/agronomy
+
+agronomy
+
+(cid:1)(cid:2)(cid:3)(cid:1)(cid:4)(cid:5)(cid:6)(cid:7)(cid:8)(cid:1)
+(cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:7)
+
+Agronomy 2021, 11, 1421
+
+2 of 15
+
+Conference of Parties (COP21) in Paris, France. At the COP21, an ambitious international
+program, “4 per 1000 initiative: Soil for Food Security and Climate” was launched. The
+initiative aimed to increase global soil organic C (SOC) by 0.4% per year in the top 40 cm
+layer to compensate for global GHGs emissions induced anthropogenically (http://4p1000.
+org). To achieve a 0.4% increase per year, a 30 to 40% increase in C inputs to soil is required
+for 30 years, i.e., in SOC-unsaturated croplands soil, France [6]. However, increasing
+SOC stocks need an optimum balance between C inputs, i.e., C translocation by plants,
+residues, manure and C outputs, i.e., harvests, SOC mineralization and leaching, which is
+challenging and requires a drastic change in the management practices [7–9].
+
+Soil management practices such as no-tillage (NT), mulching with crop residues,
+fertilizer application and crop rotations have shown potential to sequester organic C into
+soils over the long term [10–12]. While there is a consensus on NT beneﬁts for soil C
+sequestration [13–15], some studies have reported limited beneﬁts [16–18], others reported
+no effect [19,20] or even a negative effect [21,22]. As a result of the existing discrepancies,
+several recent studies [14,23] sought to promote both conservation and climate-smart
+agriculture as a comprehensive management practice that delivers adaptation, mitigation
+and productivity instead of NT only [24,25]. For example, combining NT, residue retention
+and crop rotation to increase soil inﬁltration rate, reduce soil erosion and maintain a
+favorable environment for soil macrofauna for residue incorporation [26,27]. For example,
+in a global meta-analysis, [13] reported 23% reduction in soil CO2 efﬂuxes under NT with
+crop residue mulching than NT without crop residue retention. Additionally, organic
+manure, i.e., manure and liquid fertilizer, are commonly used to increase NT potential
+for C sequestration [23,28,29]. However, smallholder farmers usually hesitate to adopt
+conservation agriculture that requires complete crop residues retention because of the need
+for the residue as livestock feed [30].
+
+Integrating postharvest crop residues free grazing with NT provides low-cost fod-
+der for livestock, diversifying agricultural systems, and organic inputs by animal excreta
+enhancing soil C sequestration. However, postharvest grazing is found to contribute posi-
+tively to SOC, but also increases topsoil (0–0.05 m depth) compaction [31]. Time-controlled
+postharvest grazing, i.e., 14 days grazing followed by 101 days resting time, increased SOC
+and ground litter accumulation with no effect on soil compaction in southeast Queensland
+Australia [32]. Such a result was explained by the long resting period following the high
+stocking rate grazing for a few days, allowing the soil to recover from hoof damage and
+enabling litter incorporation and SOC accumulation. Integrating postharvest controlled
+grazing with NT to increase C input to soils has intensively been studied. Yet, little has been
+carried out in terms of investigating the C outputs as soil CO2 emissions, with particular fo-
+cus on the underlying mechanisms by which this combination can alter soil C sequestration
+need a further appraisal. Hence, a high-density stocking rate for short-duration previously
+showed a great potential to rehabilitate degraded grassland by replenishing SOC by 7.4%
+year−1 and increasing aboveground grass biomass by a maximum of 900% in the study
+area [33]. The current study hypothesized that controlled crop residue grazing (i.e., high
+stocking rate for few days per year) maximizes C input into the NT soil (i.e., through
+animal excreta and ground litter) and minimizing the C outputs by mineralization of native
+SOC (and erosion) leading to greater net C accumulation than the conventional residue
+managements. Therefore, the main objective of the study was to evaluate soil CO2 efﬂuxes
+and topsoil SOCs under NT associated with different crop residue management practices
+in smallholder farmers in KwaZulu-Natal province, South Africa.
+
+2. Materials and Methods
+2.1. Study Site
+
+The study site was located in Potshini community (long: 29◦21(cid:48); lat: −28◦81(cid:48), 1305 m a.s.l.),
+10 km south of Bergville town, Kwazulu-Natal, South Africa. Based on the Köppen classiﬁ-
+cation system, the climate of the area was sub-tropical humid characterized by hot and wet
+seasons, representing summers and autumns (October to April), and cold and dry seasons,
+
+Agronomy 2021, 11, 1421
+
+3 of 15
+
+representing winters and springs (May to September). The mean annual temperature
+and precipitation of the area were 13 ◦C and 684 mm, respectively [34]. The upslope area
+of Potshini, characterized by shallow soils, was used for livestock grazing, whereas the
+downslope area, with deep soils (>1.5 m) on 0–10% slopes, was used for rain-fed crop
+production, mainly maize production [35].
+
+Maize (Zea mays) was the main crop planted in early January every year on lands
+tilled with plows. Planting, weeding and harvesting were carried out manually. Little to
+no fertilizer was applied due to a lack of required funds to purchase the fertilizers. The
+parent materials were mainly sandstone and mudstone, while the soils were classiﬁed as
+acidic Acrisols [36]. The soil is deep (>1.2 m), acidic (pH 4.5–5.2), has a low cation exchange
+capacity (2–4 cmol+ kg−1), and SOC content of 9–12 g C kg−1 [37]. The A-horizon was
+approximately 0.35 m deep, with a sandy-loam texture (55–68% sand and 17–19% clay
+content, respectively) and ﬁne granular structure [35,37]. Arable land is a limited resource
+in the area due to a combination of high population and demand for land, and shallow soils
+and steep slopes (e.g., the hillslopes had gradients exceeding 50%). The farmland where
+the experiment is conducted was cultivated and managed traditionally, i.e., conventional
+ox-drawn plow-tilled, rain-fed monoculture maize production and allowing postharvest
+free grazing of the crop residues, for a long time before the trial was set up in 2011.
+
+2.2. Experimental Design and Treatments
+
+The experiment was performed on an area of 450 m2 given by the community, with
+homogeneous soil which was utilized before by Mchunu et al. [37] and Chaplot et al. [26]
+to study the impact of NT on soil and C losses by water erosion. This area was divided into
+ﬁve plots of 90-m2 size each and each plot was divided into three subplots (30-m2 each).
+Each plot was subjected to speciﬁc tillage and crop residue management; namely (i) NTCG;
+no-tillage with controlled grazing, (ii) NTFG; no-tillage with free grazing, (iii) NTNG;
+no-tillage with no grazing (approx. 100% crop residue mulching), (iv) NTNR; no-tillage
+without crop residues mulching, and (v) CTFG; conventional tillage with free grazing were
+applied. No-tillage (NT) practice was a manual operation performed using a wooden
+wedge to open narrow slots of sufﬁcient width and depth (approx. 0.05 m × 0.05 m) to
+guarantee proper maize seed cover with minimum soil disturbance. Controlled grazing
+at a stocking rate equivalent to 1200 heads of cattle per hectare was practiced for three
+consecutive days per year in NTCG. The NTFG plot was open to free livestock grazing
+after grain harvest every year. The other NT plots were fenced to control grazing. There
+was no grazing in NTNG (i.e., approximately 100% crop residue retention). Crop residues
+were removed from NTNR (0% crop residue retention). CTFG was the traditional practice
+where soil was tilled using an ox-drawn plow, and cattle were allowed to graze the crop
+residues freely immediately after harvesting, mimicking the commonly used practice in
+the area. In all cases, the plant spacing adopted approximated 1.0 m between rows and
+0.3 m within the rows. Three 1-m2 quadrants adopted in each subplot (nine per treatment)
+served as pseudoreplication for measurements of soil CO2 emissions, soil properties and
+aboveground biomass production.
+
+2.3. Soil CO2 Efﬂux Measurement
+
+Soil CO2 efﬂuxes were measured from January 2013 to May 2015, once a month in
+the dry season and twice a month in the wet season, except for the tilling month, where
+the CO2 efﬂuxes were measured three to four times per month. Three polyvinyl chloride
+(PVC) collars with 0.05 m height and 0.12 m diameter were inserted 0.03 m into the soil in
+each 1-m2 quadrant (nine per treatment). The collars were inserted between the plant rows
+during the ﬁrst week of January 2013. The collars were kept in their positions during the
+trial period and were only moved in CTFG to allow tillage and in NTCG to avoid damage
+during high-density livestock stocking in the controlled grazing system. Any plants in the
+collars were picked by hand. The LI-COR 6400XT gas exchange system (LI-COR, Lincoln,
+NE, USA) attached with a LI-COR 6400-09 soil respiration chamber was used to measure
+
+Agronomy 2021, 11, 1421
+
+4 of 15
+
+CO2 efﬂuxes from the soil. The chamber covered a soil surface area of 71.6 cm2 and had
+an internal volume of 991 cm3. It was inserted into the PVC collars during soil CO2 efﬂux
+measurements. First measurements were carried out one week after inserting the collars
+into soils to eliminate the effects of soil disturbance [38]. Measurements were carried out
+between 10.00 and 13.00 h to limit the effects of diurnal temperature variations [39,40].
+
+2.4. Soil Temperature and Water Content
+
+Soil temperature was measured using a thermocouple connected to the LI-COR cham-
+ber (LI-COR 6400-09). The thermocouple was 0.15 m long; however, it was inserted only
+0.05 m into the soil close to CO2 measurement points within the 1-m2 quadrants to measure
+topsoil temperature. The soil temperature was measured at the same time as the CO2 mea-
+surements. Nine soil temperature measurements were also made per treatment, which was
+similar to soil CO2 measurements. Soil water content measurements were also performed
+close to the collars using a portable Hydrosense soil moisture meter (Campbell Scientiﬁc,
+Inc., Logan, UT, USA). Due to shipping delays and malfunctioning of the probe, soil water
+content data collection only covered the period from December 2014 to April 2015. The
+Hydrosense was calibrated by noting the meter responses on saturated soils in the study
+area. Precipitation and air temperature data were obtained from a Duncan weather station
+located at the same altitude, about 500 m from the trial site.
+
+2.5. Soil Sampling and Analysis
+
+Soil samples were collected using a metallic cylinder with a size of 0.075 m diameter
+and 0.05 m height. The soil samples were collected from the topsoil (0–0.05 m) layer in all
+treatments for evaluation of SOC content (SOCc) and soil N content (Nc). The results were
+compared against soil analysis results from 2012 when the experiment began. Three soil
+sampling positions from around the PVC collars were used per subplot in each treatment.
+The soil samples were air-dried for 48 h, sieved through 2 mm sieves and ground for
+chemical analysis. Total C and N were measured using LECO CNS-2000 Dumas dry matter
+combustion analyzer (LECO Corp., St. Joseph, MI, USA). The total soil C was considered
+equivalent to SOC content when no more reaction with HCl was obtained. SOC and N
+stocks (SOCs and Ns) were calculated following [41]:
+
+SOCs or Ns = SOCc or Nc × ρb × t (1 − (pf /100))
+
+(1)
+where SOCs or Ns was the soil organic C stock (kg C m−2) or nitrogen stocks (kg N m−2);
+SOCc or Nc are the soil organic C content or nitrogen content in ≤2 mm soil material (g
+C kg−1 soil); ρb was the bulk density of the soil (kg m−3); t the thickness of the soil layer
+(m); pf the proportion (%) of fragments >2 mm; and b a constant equal to 0.001.
+
+Soil bulk density (ρb) was determined from undisturbed soil samples collected using
+the metallic cylinders (0.075 m diameter and 0.05 m height). The samples were also collected
+from around the PVC collars resulting in nine undisturbed soil samples per treatment. The
+soils were stored and transported in airtight plastic bags. The samples were dried in an
+oven until a constant weight was attained. The soil ρb was determined using the ratio of
+water content corrected mass to volume of the soil following [42]:
+ρb = (odw − r f − cw)/(cv − (r f /dr))
+
+(2)
+where ρb was the bulk density of <2 mm soil material (g cm−3); odw the oven-dry weight
+(g); rf the weight of rock fragments (g); cw the empty core weight (g); cv the core volume
+(cm−3); and dr the density of the rocks fragments (g cm−3).
+
+2.6. Penetration Resistance
+
+Penetration resistance, a proxy for soil compaction of the topsoil (0–0.05 m) layer, was
+measured using a cone penetrometer [43]. Fifteen random measurements were taken in
+each demarcated 1-m2 subplot, resulting in 45 points for each treatment. The penetration
+
+Agronomy 2021, 11, 1421
+
+5 of 15
+
+resistance was measure in 2014 and 2015 at the beginning of the seasons before any grazing
+and/or tillage occurred.
+
+2.7. Dry Maize Biomass
+
+Maize plants (grain and vegetative biomass) were entirely harvested from the de-
+marcated 1-m2 quadrats (approx. 8 plants per m2) in each subplot. The fresh harvest
+was weighed in the ﬁeld, and subsamples representing the whole plants were taken to
+the laboratory and dried in an oven at 60 ◦C until constant weight was achieved. The
+moisture content of the subsamples was used in the calculations of total aboveground dry
+biomass for each treatment. All the plant materials, except for NTNR, were returned to the
+respective plots to ensure the best application of the treatments.
+
+2.8. Data Analysis
+
+While the Pseudoreplication design is not ideal for most ecological trials, using such
+an approach is justiﬁed considering the values of this experiment, i.e., natural landscape
+for local community demonstration, in a region scarcely studied in this sense so far, and
+potential statistical solutions [44,45]. Hence, restricted maximum likelihood mixed (RMEL)
+was used in the current study, where the treatments were considered ﬁxed effects while the
+subplots (pseudo-replicates) were the random effects. Therefore, a repeated- analysis of
+variance (repeated-ANOVA) was used to test the effects of treatments, time of sampling
+on the soil CO2 ﬂux, soil temperature and soil water content. The effect of seasons and
+treatments on soil CO2 efﬂuxes were analyzed using RMEL repeated-measures because the
+measurements were repeated at the exact locations over time. Likewise, soil temperature
+and soil water content were analyzed using RMEL repeated analysis. This analysis used
+the time series covariance in the repeated analysis model, where the correlation decreased
+with time.
+
+Soil properties data (SOCs, SOCc, Nc, Ns, ρb and penetration resistance), average CO2
+ﬂux (overall average, wet, and dry seasons and aboveground biomass production were
+analyzed using a linear mixed model, where the treatments were considered as ﬁxed effects
+and the sub-plot as the random effects. The treatment means of all the parameters were
+compared using Tukey test for multiple comparisons, at p < 0.05, unless otherwise speciﬁed.
+The means variation was documented using standard error. The principal component
+analysis was used to evaluate the multiple relationships between soil CO2 efﬂux and the
+factors of control. All the statistical analysis were conducted using Genstat (version 14,
+VSN International, Hemel Hempstead, UK, 2011), and the ﬁgures were generated using
+Sigma Plot software (version 10.0, Systat Software Inc., San Jose, CA, USA).
+
+3. Results
+3.1. Precipitation and Air Temperature
+
+The total annual precipitation was 718 and 562 mm in 2013 and 2014, respectively, with
+90% of the rainfall in each year occurring in the hot and wet period (i.e., from November
+to April) (Figure 1A). The average annual air temperature was 17 and 18 ◦C in 2013 and
+2014, respectively. The highest daily average air temperature of 38 ◦C was recorded in
+September 2014 and the lowest of 13 ◦C in June in both 2013 and 2014. The daily average
+air temperature of 33 ◦C for July–September 2014 was much higher than the same period
+in 2013.
+
+Agronomy 2021, 11, 1421
+
+6 of 15
+
+Figure 1. Precipitation and air temperature (A), daily fluxes (B) and cumulative (C) of gross soil CO2-C efflux (g CO2-C m−2)
+conventional tillage with free grazing (CTFG), no-tillage with free grazing (NTFG), no-tillage with no grazing (NTNG),
+no-tillage without crop residue mulching (NTNR) and no-tillage with controlled grazing (NTCG). Error bars represent the
+standard error of the mean. N = 9.
+
+A.
+
+B.
+
+C.
+
+0
+
+20
+
+40
+
+60
+
+80
+
+15
+
+10
+
+5
+
+0
+200
+
+150
+
+100
+
+50
+
+0
+
+)
+
+m
+m
+
+(
+ 
+n
+o
+i
+t
+a
+t
+i
+p
+i
+c
+e
+r
+P
+
+)
+
+1
+−
+
+d
+
+2
+−
+
+ 
+
+m
+g
+(
+ 
+
+C
+−
+
+O
+C
+
+2
+
+)
+
+2
+−
+
+2
+
+ 
+
+m
+g
+(
+ 
+
+C
+−
+O
+C
+ 
+e
+v
+i
+t
+a
+l
+u
+m
+u
+C
+
+average air temperature of 33 °C for July–September 2014 was much higher than the same 
+period in 2013. 
+
+50
+
+40
+
+30
+
+20
+
+10
+
+)
+
+C
+°
+(
+ 
+e
+r
+u
+t
+a
+r
+e
+p
+m
+e
+t
+ 
+r
+i
+
+A
+
+Precipitation
+Air temperature 
+
+NTCG
+NTFG
+NTNG
+NTNR
+CTFG
+
+Harvesting; 
+
+residues removed; 
+
+cows grazing
+
+Tillage; 
+seeding
+
+Tillage; 
+seeding
+
+Harvesting; 
+
+residues removed; 
+
+cows grazing
+
+Trial started
+
+Jan   May  
+
+Sep  
+
+Jan   May  
+
+Sep  
+
+Jan   May  
+
+2012
+
+2013
+
+Date
+
+2014
+
+2015
+
+ 
+
+Agronomy 2021, 11, 1421
+
+7 of 15
+
+3.2. Temporal and Special Variations in Soil CO2 Efﬂux
+
+The results of repeated-ANOVA showed that treatments, date of CO2 measurement
+and their interactions had signiﬁcant (p < 0.001) effects on soil CO2 emissions from the treat-
+ments (Table 1). Likewise, soil temperature and soil water content were also signiﬁcantly
+affected by the treatments, sampling date, and their interaction.
+
+Table 1. Repeated-measures ANOVA for the effects of treatments, date of sampling and their
+interaction on soil CO2-C emissions, soil temperature (ST) and soil water content (SWC).
+
+Source of Variations
+
+Treatment
+
+Date
+
+Treatment × date
+
+DF
+4
+40
+160
+
+DF: degree of freedom, MS: mean squares.
+
+Soil CO2-C
+(g m−2 d−1)
+F pr.
+MS
+<0.001
+82.0
+<0.001
+70.0
+8.7
+<0.001
+
+ST
+(◦C)
+
+SWC
+(%)
+
+MS
+45.3
+356.9
+6.0
+
+F pr.
+<0.001
+<0.001
+<0.001
+
+MS
+130.6
+870.5
+8.5
+
+F pr.
+<0.001
+<0.001
+<0.001
+
+The overall average of CO2-C ﬂux was signiﬁcantly greater in conventional tillage
+with free grazing (CTFG) than all other NT treatments (Table 2). Compared to CTFG,
+no-tillage with controlled grazing (NTCG) reduced soil CO2-C by 55% (3.2 ± 0.4 vs.
+5.1 ± 0.6 g m−2 d−1). Furthermore, CTFG also emitted signiﬁcantly greater soil CO2-C by
+21, 49 and 65% than no-tillage without crop residues mulching (NTNR), no-tillage with
+no grazing (NTNG) and no-tillage with free grazing (NTFG), respectively. The soil CO2-C
+efﬂuxes differed amongst the treatments during the wet seasons (October to April) but
+were not signiﬁcantly different during the dry seasons (May to September). For example,
+they showed up to 36% lower CO2-C in NTCG than CTFG during the wet seasons.
+Table 2. Mean ± SE (standard error) of soil CO2-C efﬂuxes (CO2-C) under conventional tillage
+with free grazing (CTFG), no-tillage with free grazing (NTFG), no-tillage with no grazing (NTNG),
+no-tillage without crop residue mulching (NTNR) and no-tillage with controlled grazing (NTCG).
+N = 120, 90, 30, for overall average, wet and dry period, respectively.
+
+No-Till
+
+Variable
+
+Soil CO2-C
+(g m−2 d−1)
+
+Time
+Overall
+
+Wet season
+Dry season
+
+NTCG
+3.2 ± 0.4 d
+3.9 ± 0.5 cd
+1.3 ± 0.2 a
+
+NTFG
+3.1 ± 0.3 d
+3.6 ± 0.3 d
+1.2 ± 0.1 a
+
+NTNG
+3.4 ± 0.3 c
+4.1 ± 0.4 c
+1.2 ± 0.2 a
+
+NTNR
+4.2 ± 0.5 b
+5.1 ± 0.5 b
+1.4 ± 0.2 a
+
+Means on the same row followed by different letters are signiﬁcantly different at p < 0.0.
+
+Till
+CTFG
+5.1 ± 0.6 a
+6.0 ± 0.6 a
+1.6 ± 0.2 a
+
+Soil CO2-C efﬂuxes under the treatments changed markedly over time but were
+always much higher in CTFG, followed by NTNR, than other treatments during the ﬁrst
+month (January) after soil tillage (Figure 1B). Furthermore, the variations amongst the
+treatments mostly occurred in the hot and wet periods. However, CTFG showed much
+higher cumulative CO2-C values than NTNR in the period after April 2014 (Figure 1C).
+The ﬁnal cumulative soil CO2-C efﬂuxes were 36 and 23% higher in CTFG and NTNR,
+respectively, than the average of the other treatments, which were signiﬁcant at p < 0.05.
+
+3.3. Effects of Management Practices on Soil Properties and Aboveground Biomass
+
+As expected, SOCc, SOCs, Nc and Nc did not differ signiﬁcantly amongst the treat-
+ments at the start of the trial in 2012 (Table 3). However, SOCc was 40% higher under
+NTCG (30.2 ± 1.0 g kg−1) than NTFG (21.6 ± 0.4 g kg−1) in 2015. NTCG and NTFG had 52
+and 9% higher SOCc than CTFG (19.7 ± 0.3 g kg−1), respectively; there were no signiﬁcant
+differences among NTNG, NTNR and CTFG. The corresponding SOCs were 57% higher in
+NTCG (18.8 ± 0.4 Mg C ha−1) than CTFG (12.5 ± 0.7 Mg C ha−1). On average, the SOCs
+increased at 1.4 Mg C ha−1 yr−1 in NTCG and at only 0.4 Mg C ha−1 yr−1 in NTFG. While
+
+Agronomy 2021, 11, 1421
+
+8 of 15
+
+the decrease in SOCs in CTFG was anticipated, it was surprising that NTNG and NTNR
+also experienced declines in SOCs. NTNR experienced the fastest loss of SOCs at −0.4 Mg
+C ha−1 yr−1. At the end of the study in 2015, NTNG (1.9 ± 0.1 g kg−1) had the highest soil
+Nc, followed by NTCG (1.89 ± 0.1 g kg−1) and it was lowest in CTFG (1.6 ± 0.1 g kg−1).
+However, there were no signiﬁcant differences amongst these treatments.
+
+Table 3. Mean ± SE of soil organic carbon content and stocks (SOCc and SOCs) and soil nitrogen content and stocks (Nc and
+Ns) at topsoil (0–0.05 m) under conventional tillage with free grazing (CTFG), no-tillage with free grazing (NTFG), no-tillage
+with no grazing (NTNG), no-tillage without crop residue mulching (NTNR) and no-tillage with controlled grazing (NTCG)
+before (January 2012) and after three years of the treatments’ implementation (May 2015). N = 9.
+
+SOCc (g kg−1)
+
+SOCs (Mg C ha−1)
+
+Nc (g kg−1)
+
+Ns (Mg N ha−1)
+
+Sequestration Rate/Year
+
+Treatments
+
+2012
+
+2015
+
+2012
+
+2015
+
+2012
+
+2015
+
+2012
+
+2015
+
+Rank
+
+Rank
+
+NTCG
+NTFG
+NTNG
+NTNR
+CTFG
+
+18.3 ± 0.5
+18. 3 ± 0.3
+19. 2 ± 0.5
+18.8 ± 0.6
+19.9 ± 0.9
+
+30.2 ± 1.0 a
+21.6 ± 0.4 b
+19.7 ± 0.3 c
+18.8 ± 0.5 c
+19.9 ± 0.3 c
+
+12.2 ± 0.7
+11.0 ± 1.0
+11.9 ± 0.4
+12.2 ± 1.1
+12.5 ± 0.7
+
+18.8 ± 0.4 a
+12.5 ± 0.1 b
+11.1 ± 0.2 c
+10.7 ± 0.1 c
+12.0 ± 0.1 c
+
+1.5 ± 0.1
+1.5 ± 0.1
+1.6 ± 0.1
+1.6 ± 0.1
+1.6 ± 0.1
+
+1.9 ± 0.1 ab
+1.8 ± 0.1 ab
+1.9 ± 0.1 a
+1.7 ± 0.1 ab
+1.6 ± 0.04 b
+
+10.1 ± 0.3
+10.0 ± 0.4
+10.0 ± 0.5
+10.2 ± 0.4
+10.4 ± 0.5
+
+11.2 ± 0.4
+10.4 ± 0.6
+10.9 ± 0.2
+9.8 ± 0.4
+9.4 ± 0.2
+
+1
+2
+4
+5
+3
+
+Means on the same column followed by different letters are signiﬁcantly different at p < 0.05 level.
+
+SOCs
+(Mg C
+ha−1)
+1.4 a
+0.4 b
+−0.2 c
+−0.4 c
+−0.1 c
+
+Ns
+(Mg N
+ha−1)
+0.3 a
+0.1 b
+0.2 a
+−0.1 b
+−0.2 b
+
+1
+3
+2
+5
+4
+
+Penetration resistance was higher under NTCG and NTFG than under the other
+treatments (Figure 2C). Surprisingly, CTFG had the lowest topsoil penetration resistance,
+which was even lower than NTNG. NTNR also showed high penetration resistance. Soil
+bulk density was less variable (Figure 2D). Overall, it was highest under NTCG and lowest
+under CTFG (1.09 ± 0.02 g cm−3). However, the difference was not signiﬁcant (p < 0.05).
+Aboveground dry biomass was signiﬁcantly lower in CTFR (5.4 ± 0.6 t ha−1 yr−1) and
+NTNR (5.1 ± 0.8 t ha−1 yr−1) than the other treatments (Figure 3). NTCG, NTFG and
+NTNG had much higher aboveground biomass production than CTFG.
+
+Figure 2. Cont.
+
+Agronomy 2021, 11, x FOR PEER REVIEW 
+
+9  of  16 
+
+A.
+
+P = 0.54
+
+B.
+
+P = 0.04 
+
+)
+
+C
+°
+(
+ 
+e
+r
+u
+t
+a
+r
+e
+p
+m
+e
+t
+ 
+l
+i
+o
+S
+
+30
+
+25
+
+20
+
+15
+
+10
+300
+
+*
+
+**
+
+)
+
+%
+
+(
+ 
+t
+n
+e
+t
+n
+o
+c
+ 
+r
+e
+t
+a
+w
+
+ 
+l
+i
+o
+S
+
+30
+
+25
+
+20
+
+15
+
+10
+
+5
+
+0
+1.4
+
+Agronomy 2021, 11, 1421
+
+9 of 15
+
+Figure 2. Box-whisker plots for soil temperatures (A), soil water content (B), penetration resistance (C) and soil bulk
+density (D) at 0.05 m soil depth from conventional tillage with free grazing (CTFG), no-tillage with free grazing (NTFG),
+no-tillage with no grazing (NTNG), no-tillage without crop residue mulching (NTNR) and no-tillage with controlled grazing
+(NTCG). Plain lines correspond to 10th, 25th, median, 75th, and 90th percentiles; short dash lines to the mean. Signiﬁcant
+differences from NTCG mean as a control to the other treatments indicated by *, **, ***, representing p value of < 0.05,
+<0.01, 0.001, respectively. N = 120, 27, 45, for soil temperatures, soil water content, penetration resistance, and soil bulk
+density, respectively.
+
+Figure 3. Aboveground dry biomass from conventional tillage with free grazing (CTFG), no-tillage
+with free grazing (NTFG), no-tillage with no grazing (NTNG), no-tillage with no residues (NTNR)
+and no-tillage with controlled grazing (NTCG). Error bars represent the standard error of the mean.
+N = 9.
+
+3.4. The Main Controls of Soil CO2 Efﬂux
+
+The ﬁrst two axes (axis 1 and 2) of the principal component analysis (PCA), showing
+the multiple relationships between soil CO2 efﬂuxes and soil factors, explained 97% of
+the total variation in soil CO2 emissions (Figure 4). Axis 1 accounted for 89% of the
+variance, while axis 2 accounted for the rest (8%). Axis 1 correlated positively to penetration
+resistance and soil water content but negatively correlated to soil temperature. Axis 2
+
+Agronomy 2021, 11, x FOR PEER REVIEW 
+
+9  of  16 
+
+A.
+
+P = 0.54
+
+B.
+
+P = 0.04 
+
+*
+
+**
+
+P < 0.001
+
+D.
+
+P = 0.89
+
+10
+300
+
+C.
+
+30
+
+25
+
+20
+
+15
+
+)
+
+C
+°
+(
+ 
+e
+r
+u
+t
+a
+r
+e
+p
+m
+e
+t
+ 
+l
+i
+o
+S
+
+250
+
+200
+
+)
+
+2
+−
+m
+c
+ 
+N
+
+(
+ 
+e
+c
+n
+a
+t
+s
+i
+s
+e
+r
+ 
+n
+o
+i
+t
+a
+r
+t
+e
+n
+e
+P
+
+150
+
+100
+
+50
+
+0
+
+)
+
+%
+
+(
+ 
+t
+n
+e
+t
+n
+o
+c
+ 
+r
+e
+t
+a
+w
+
+ 
+l
+i
+o
+S
+
+30
+
+25
+
+20
+
+15
+
+10
+
+5
+
+0
+1.4
+
+1.3
+
+1.1
+
+1.0
+
+0.9
+
+0.8
+
+*
+
+***
+
+)
+
+3
+−
+m
+c
+ 
+
+1.2
+
+g
+(
+ 
+y
+t
+i
+s
+n
+e
+d
+k
+l
+u
+b
+ 
+l
+i
+o
+S
+
+ 
+
+***
+
+NTCG NTFG NTNG NTNR CTFG
+
+Treatments
+
+NTCG NTFG NTNG NTNR NTCG
+
+Treatments
+
+ 
+
+Agronomy 2021, 11, x FOR PEER REVIEW 
+
+10  of  16 
+
+8
+
+7
+
+5
+
+4
+
+1
+−
+r
+y
+
+ 
+
+1
+−
+a
+h
+ 
+n
+o
+t
+(
+ 
+s
+s
+a
+m
+o
+i
+b
+ 
+d
+n
+u
+o
+r
+g
+e
+v
+o
+b
+A
+
+a
+
+a
+
+a
+
+b
+
+b
+
+NTCG
+
+NTFG
+
+NTNG
+
+NTNR
+
+CTFG
+
+Treatments 
+
+Agronomy 2021, 11, 1421
+
+10 of 15
+
+correlated positively to SOC content and stocks. The PCA results show tendencies of CO2-C
+to increase with soil temperature and to decrease with the other studied soil properties.
+
+Figure 4. Principal components analysis (PCA) scatter diagrams for soil CO2-C from one side and
+selected soil factors (soil organic carbon content and stocks (SOCc; SOCs), nitrogen content and
+stocks (Nc; Ns), soil temperature (ST), soil water content (SWC), penetration resistance (PR) and soil
+bulk density (ρb) on the other side. N = 15.
+
+4. Discussion
+
+The results showing signiﬁcantly higher soil CO2 efﬂuxes from a freely grazed con-
+ventionally tilled system (CTFG) than other practices (Table 2 and Figure 1) implied higher
+C losses to the atmosphere under conventional tillage practices. Conventional tillage
+stimulates soil CO2 efﬂuxes, which increases climate change severity, leading to negative
+consequences on land productivity [24]. Several studies explained that tillage accelerates
+SOC oxidation through increased soil aeration, putting crop residues in direct contact
+with soils and exposing the aggregate-protected SOC to decomposers [18,46,47]. How-
+ever, the effect of tillage on soil CO2 efﬂux varies greatly worldwide. For example, while
+La Scala et al. [48] reported 73% higher soil CO2 efﬂux in tilled compared to no-tilled soils
+in Brazil, Sainju et al. [49] reported a difference of only 2% in the USA. Such large varia-
+tions could be explained by the different soil properties, climatic conditions and residue
+managements [13].
+
+No-tillage with no residues (NTNR) induced signiﬁcantly greater soil CO2 ﬂuxes
+than no-tillage with controlled grazing (NTCG) (Table 1), which could be explained by
+the lower soil temperature under NTCG (Figure 2). The lower soil temperature could,
+thus, have deaccelerated the soil organic matter mineralization rate [50,51]. Crop residue
+mulching under NTCG decreased the topsoil temperature because crop residue layers were
+reported to increase the reﬂection of solar radiation, which acted as insulation between
+the soil surfaces and the warmer (or cooler) atmospheric air [52,53]. This explanation is
+consistent with the present study result showing an increase in soil CO2 efﬂuxes with soil
+temperature, and also a decrease in soil CO2 efﬂuxes with soil water content (Figure 4),
+which agreed with other study results [54–57]. These studies explained that the increase
+
+Agronomy 2021, 11, x FOR PEER REVIEW 
+
+11  of  16 
+
+Agronomy 2021, 11, 1421
+
+11 of 15
+
+in soil temperature at optimum soil moisture content stimulated soil microbial activities,
+which subsequently increase CO2 emissions from the soil. Although the current study did
+not investigate soil microbial activity, decreasing moisture tends to improve soil aeration,
+promoting soil microorganism growth. However, the lower soil temperature under NTCG
+and other NT systems with crop residue retention than that with CTFG and NTNR in this
+study could also be attributed to the low thermal conductivity of the residue mulch [58].
+Soil compaction also reducing soil organic matter mineralization [35,59] due to lim-
+ited gaseous exchanges between the soil and the atmosphere. Topsoil compaction also
+reduces dissolved soil C losses due to limited water inﬁltration rates [60,61]. In the current
+study, topsoil compaction was more pronounced in NTCG and NTFG systems, which
+involved livestock grazing. Coincidentally, these two systems showed tremendous po-
+tential to sequester C. Soil compaction increases soil particle aggregation and physical
+protection of SOC against decomposers [59,62]. The current study results are consistent
+with Silva et al. [59], who reported 29% lower CO2 efﬂuxes from compacted compared to
+less compacted soils, while Torber et al. [62] reported a difference of up to 65%. Interest-
+ingly, the greatest C sequestration rate occurred in the NTCG system, characterized by
+high crop residues (leftover after trampling and soiling by the livestock) and higher topsoil
+compaction. The elimination of soil aggregate disturbance through no-tillage has positive
+effects on the physical protection of SOC and the potential addition of C through livestock
+excreta are also important attributes of the NTCG system with a signiﬁcant impact on
+sequestering C into the soil.
+
+Since the high stocking rate was associated with topsoil compaction in the current
+and other studies [63,64], it follows that slight topsoil (0–0.05 m) compaction might help
+to positively modify soil nutrient cycling and improve soil quality after all. However, soil
+compaction using livestock could degrade the physical quality of many soils as it affects soil
+properties such as penetration resistance, soil bulk density, inﬁltration rate, soil moisture
+and soil temperature [60,65,66]. The impact of livestock trampling on soil compaction
+seems to depend on the soil properties because other studies actually reported higher
+soil bulk density and penetration resistance on tilled compared to non-tilled soils [66,67].
+Moreover, the depth of trampling-induced soil compaction varies between 0.05 and 0.2 m,
+depending on animal weight and soil moisture content [64].
+
+The current study showed no signiﬁcant change of topsoil SOC in the NTNG system,
+which agreed with several other studies [13,68,69], suggesting that crop residue retention
+alone might have little to no positive impact on SOCs in the short term. Singh et al. [69]
+reported a limited increase in topsoil C in reduced tillage systems after 30 years of experi-
+menting with different straw management in the boreal region of Southern Finland. In a
+global meta-analysis, Abdalla et al. [13] reported only 12% lower SOCc in tilled compared
+to non-tilled systems when no crop residues were retained, and only a difference of 5%
+when crop residues were retained. In contrast, other studies still pointed to great soil C
+sequestration beneﬁts of crop residue retention in non-tilled systems [54,57,70].
+
+The study results pointed to greater beneﬁts of integrating controlled grazing in NT
+to soil C sequestration than other agricultural land management practices. The beneﬁts
+were explained, mainly, by low soil temperature (due to high crop residue retention
+following soiling of the residues by the livestock) and, to some extent, by topsoil (0–0.05 m)
+compaction. The lower CO2 efﬂuxes from the compacted plots conﬁrmed the laboratory
+ﬁnding by Chaplot et al. [35] using soils from the same experimental site. Chaplot et al. [35]
+compacted the soils manually to different levels and incubated them before evaluating
+CO2 emissions.
+
+Overall, this study demonstrates that faster C sequestration rates than reported by
+some previous studies [57,71] could potentially be achieved in the short term. In a re-
+view article based on 254 data points directly comparing soil C between NT and tillage,
+Six et al. [71] reported that signiﬁcant C sequestration could only be realized in the sec-
+ond decade. The current study results suggest that NTCG can achieve signiﬁcant C
+sequestration over a shorter period of time, as demonstrated by the accelerated topsoil
+
+Agronomy 2021, 11, 1421
+
+12 of 15
+
+C sequestration rate after only three years of implementation. The calculated mean C
+sequestration rate of 1.4 Mg C ha−1 yr−1 (Table 3) was four times greater than the achieved
+by direct sowing trials (i.e., 0.34 Mg C ha−1 yr−1) in tropical Brazilian [72] and temperate
+North American soils [73]. However, it is not very judicious to directly compare the C se-
+questration rates for the Brazilian and North American trials result soils cannot be directly
+compared against the results of the current study because they are based on data from
+different soil types, depths and crop types. Assuming a constant C sequestration rate from
+the soil surface to one-meter depth, NTCG from the current study could store as much as
+28 Mg C ha−1 yr−1. Therefore, adopting NTCG could be one of the available solutions
+to offset the annual net CO2 emissions to the atmosphere, estimated at 11 Pg in 2014 [12].
+However, care would still be required to limit the potentially negative effects of topsoil
+compaction, especially with regard to root growth and soil erosion.
+
+5. Conclusions
+
+The current study was conducted on a smallholder farming system in South Africa.
+The main aim was to compare soil CO2 efﬂuxes and SOC stocks among different tillage
+types combined with different maize residue management practices. The ﬁrst conclusion
+based on the current study results is that no-tillage combined with controlled grazing of
+maize residues has potential to greatly decrease soil CO2 efﬂuxes from cropping systems.
+The study showed 55% lower soil CO2 efﬂuxes from no-tillage combined with controlled
+grazing of residues than conventional tillage combined with free grazing of residues.
+The second conclusion is that no-tillage combined with controlled grazing of residues
+can potentially achieve faster soil C sequestration rates in cropping systems than widely
+reported by studies across the world. Results from many reduced tillage studies performed
+across the world suggested that signiﬁcant soil C sequestration can only be achieved in
+the long-term (i.e., after about 20 years of continuous practice); but the current study
+demonstrated a possibility of signiﬁcantly increasing soil C sequestration rates in the short
+term, by practicing a combination of no-tillage and controlled grazing of the crop residues.
+The current study recorded a soil C sequestration rate of 1.4 Mg C ha−1 year−1 following
+only three years of continuous practice of the no-tillage combined with controlled residue
+grazing technique. This result was contrary to the negative sequestration rates observed in
+no-tillage combined with no crop residue retention and conventional tillage combined with
+free grazing, which was also characterized by signiﬁcantly lower aboveground biomass
+production than no-tillage combined with controlled grazing of the residues. Therefore,
+integrating controlled livestock grazing of crop residues (i.e., high-density stocking rate
+for short duration) in no-tillage systems could be the best agricultural land management
+strategy to mitigate climate change because it increases SOC stocks and aboveground
+biomass production while at the same time reducing CO2 efﬂuxes. However, there is
+a need to overcome the potentially negative effects of soil compaction due to the high
+stocking rate involved. Further research is also still needed to evaluate the potential effect
+of this technique on soil C sequestration in deep soil depths, other environmental and
+soil conditions, as well as the emission of other GHGs such as N2O and CH4. It is also
+important to implement true randomization of the treatments in future trials.
+
+Author Contributions: Conceptualization, K.A., P.C. and V.C.; methodology, K.A.; formal analysis,
+K.A.; investigation; data curation, K.A.; writing—original draft preparation, K.A.; writing—review
+and editing, K.A., M.M., P.C. and V.C.; supervision, P.C. and V.C.; project administration, P.C. and
+V.C.; funding acquisition, P.C. and V.C. All authors have read and agreed to the published version of
+the manuscript.
+
+Funding: The ﬁeldwork and laboratory analysis was funded by the Water Research Commission
+(WRC), South Africa, “project number K5/2266”. The open-access funding was provided by the
+German research foundation (DFG) and the University of Bayreuth through Projekt DEAL program.
+
+Data Availability Statement: All data generated or analyzed during this study are presented in the
+form of tables or ﬁgures.
+
+Agronomy 2021, 11, 1421
+
+13 of 15
+
+Acknowledgments: We would like to acknowledge the Centre for Water Resources Research and De-
+partment of Soil Science, University of KwaZulu-Natal; Agricultural Research Council-Agricultural
+Engineering, the Institut de Recherche pour le Développement (IRD), Department of Agroecology,
+the University of Bayreuth for the facilities and support. We are grateful to Alexander von Humboldt
+Foundation for ﬁnancially supporting the ﬁrst author. Special thanks to the Potshini community for
+allowing us to experiment on their land.
+
+Conﬂicts of Interest: The authors declare no conﬂict of interest.
+
+References
+1.
+
+IPCC Summary for Policymakers. Global Warming of 1.5 ◦C. An IPCC Special Report on the Impacts of Global Warming of 1.5 ◦C
+above Pre-Industrial Levels and Related Global Greenhouse Gas Emission Pathways, in the Context of Strengthening the Global Response
+to the Threat of Climate Change, Sustainable Development, and Efforts to Eradicate Poverty; Masson-Delmotte, V., Zhai, P., Pörtner,
+H.-O., Roberts, D., Skea, J., Shukla, P.R., Pirani, A., Moufouma-Okia, W., Péan, C., Pidcock, R., et al., Eds.; World Meteorological
+Organization: Geneva, Switzerland, 2018; 32p.
+Le Quéré, C.; Moriarty, R.; Andrew, R.M.; Peters, G.P.; Ciais, P.; Friedlingstein, P.; Jones, S.; Sitch, S.; Tans, P.P.; Arneth, A.; et al.
+Global carbon budget 2014. Earth Syst. Sci. Data 2015, 7, 47–85. [CrossRef]
+Abdalla, K.; Mutema, M.; Hill, T. Soil and organic carbon losses from varying land uses: A global meta-analysis. Geogr. Res. 2020,
+58, 167–185. [CrossRef]
+An, S.; Zheng, F.; Zhang, F.; Van Pelt, S.; Hamer, U.; Makeschin, F. Soil quality degradation processes along a deforestation
+chronosequence in the Ziwuling area, China. Catena 2008, 75, 248–256. [CrossRef]
+Guillaume, T.; Damris, M.; Kuzyakov, Y. Losses of soil carbon by converting tropical forest to plantations: Erosion and decompo-
+sition estimated by δ 13 C. Glob. Chang. Biol. 2015, 21, 3548–3560. [CrossRef]
+
+2.
+
+3.
+
+4.
+
+5.
+
+7.
+
+6. Martin, M.P.; Dimassi, B.; Dobarco, M.R.; Guenet, B.; Arrouays, D.; Angers, D.A.; Blache, F.; Huard, F.; Soussana, J.; Pellerin, S.
+Feasibility of the 4 per 1000 aspirational target for soil carbon: A case study for France. Glob. Chang. Biol. 2021, 27, 2458–2477.
+[CrossRef]
+Jacobs, A.; Poeplau, C.; Weiser, C.; Fahrion-Nitschke, A.; Don, A. Exports and inputs of organic carbon on agricultural soils in
+Germany. Nutr. Cycl. Agroecosyst. 2020, 118, 249–271. [CrossRef]
+Lal, R. Digging deeper: A holistic perspective of factors affecting soil organic carbon sequestration in agroecosystems. Glob.
+Chang. Biol. 2018, 24, 3285–3301. [CrossRef]
+Riggers, C.; Poeplau, C.; Don, A.; Frühauf, C.; Dechow, R. How much carbon input is required to preserve or increase projected
+soil organic carbon stocks in German croplands under climate change? Plant Soil 2021, 460, 417–433. [CrossRef]
+
+9.
+
+8.
+
+10. Bhattacharyya, R.; Ghosh, B.N.; Mishra, P.K.; Mandal, B.; Rao, C.S.; Sarkar, D.; Das, K.; Anil, K.S.; Lalitha, M.; Hati, K.M.; et al.
+
+11.
+
+Soil Degradation in India: Challenges and Potential Solutions. Sustainability 2015, 7, 3528–3570. [CrossRef]
+Feng, J.; Li, F.; Zhou, X.; Xu, C.; Ji, L.; Chen, Z.; Fang, F. Impact of agronomy practices on the effects of reduced tillage systems on
+CH4 and N2O emissions from agricultural ﬁelds: A global meta-analysis. PLoS ONE 2018, 13, e0196703. [CrossRef]
+
+12. Lal, R. Cover cropping and the “4 per Thousand” proposal. J. Soil Water Conserv. 2015, 70, 141A. [CrossRef]
+13. Abdalla, K.; Chivenge, P.; Ciais, P.; Chaplot, V. No-tillage lessens soil CO2 emissions the most under arid and sandy soil conditions:
+
+Results from a meta-analysis. Biogeosciences 2016, 13, 3619–3633. [CrossRef]
+
+14. Gong, Y.; Li, P.; Sakagami, N.; Komatsuzaki, M. No-tillage with rye cover crop can reduce net global warming potential and
+
+yield-scaled global warming potential in the long-term organic soybean ﬁeld. Soil Tillage Res. 2021, 205, 104747. [CrossRef]
+
+15. Lu, X.; Lu, X.; Liao, Y. Conservation tillage increases carbon sequestration of winter wheat-summer maize farmland on Loess
+
+Plateau in China. PLoS ONE 2018, 13, e0199846. [CrossRef] [PubMed]
+
+16. Baker, J.M.; Ochsner, T.; Venterea, R.T.; Grifﬁs, T.J. Tillage and soil carbon sequestration—What do we really know? Agric. Ecosyst.
+
+Environ. 2007, 118, 1–5. [CrossRef]
+
+17. Dimassi, B.; Cohan, J.-P.; Labreuche, J.; Mary, B. Changes in soil carbon and nitrogen following tillage conversion in a long-term
+
+experiment in Northern France. Agric. Ecosyst. Environ. 2013, 169, 12–20. [CrossRef]
+
+18. Haddaway, N.R.; Hedlund, K.; Jackson, L.E.; Kätterer, T.; Lugato, E.; Thomsen, I.K.; Jørgensen, H.B.; Isberg, P.-E. How does tillage
+
+intensity affect soil organic carbon? A systematic review. Environ. Évid. 2017, 6, 30. [CrossRef]
+
+19. Aslam, T.; Choudhary, M.; Saggar, S. Inﬂuence of land-use management on CO2 emissions from a silt loam soil in New Zealand.
+
+Agric. Ecosyst. Environ. 2000, 77, 257–262. [CrossRef]
+
+20. Li, C.-F.; Kou, Z.-K.; Yang, J.-H.; Cai, M.-L.; Wang, J.-P.; Cao, C.-G. Soil CO2 ﬂuxes from direct seeding rice ﬁelds under two tillage
+
+practices in central China. Atmos. Environ. 2010, 44, 2696–2704. [CrossRef]
+
+21. Barreto, R.C.; Madari, B.E.; Maddock, J.E.; Machado, P.L.O.D.A.; Torres, E.; Franchini, J.; Costa, A.R. The impact of soil
+management on aggregation, carbon stabilization and carbon loss as CO2 in the surface layer of a Rhodic Ferralsol in Southern
+Brazil. Agric. Ecosyst. Environ. 2009, 132, 243–251. [CrossRef]
+Smith, D.R.; Ramirez, G.H.; Armstrong, S.D.; Bucholtz, D.L.; Stott, D. Fertilizer and Tillage Management Impacts on Non-Carbon-
+Dioxide Greenhouse Gas Emissions. Soil Sci. Soc. Am. J. 2011, 75, 1070–1082. [CrossRef]
+
+22.
+
+23. Krauss, M.; Berner, A.; Perrochet, F.; Frei, R.; Niggli, U.; Mäder, P. Enhanced soil quality with reduced tillage and solid manures in
+
+organic farming—A synthesis of 15 years. Sci. Rep. 2020, 10, 1–12. [CrossRef] [PubMed]
+
+Agronomy 2021, 11, 1421
+
+14 of 15
+
+24. Paustian, K.; Lehmann, J.; Ogle, S.; Reay, D.; Robertson, G.; Smith, P. Climate-smart soils. Nature 2016, 532, 49–57. [CrossRef]
+
+[PubMed]
+
+25. Thierfelder, C.; Chivenge, P.; Mupangwa, W.; Rosenstock, T.S.; Lamanna, C.; Eyre, J.X. How climate-smart is conservation
+agriculture (CA)—Its potential to deliver on adaptation, mitigation and productivity on smallholder farms in southern Africa.
+Food Secur. 2017, 9, 537–560. [CrossRef]
+
+26. Chaplot, V.; Mchunu, C.; Manson, A.; Lorentz, S.; Jewitt, G. Water erosion-induced CO2 emissions from tilled and no-tilled soils
+
+and sediments. Agric. Ecosyst. Environ. 2012, 159, 62–69. [CrossRef]
+
+27. Thierfelder, C.; Wall, P.C. Effects of conservation agriculture techniques on inﬁltration and soil water content in Zambia and
+
+Zimbabwe. Soil Tillage Res. 2009, 105, 217–227. [CrossRef]
+
+29.
+
+28. Rodrigues, L.A.T.; Giacomini, S.J.; Aita, C.; Lourenzi, C.R.; Brunetto, G.; Bacca, A.; Ceretta, C.A. Short- and long-term effects of
+animal manures and mineral fertilizer on carbon stocks in subtropical soil under no-tillage. Geoderma 2021, 386, 114913. [CrossRef]
+Schuster, M.Z.; Harrison, S.K.; de Moraes, A.; Sulc, R.M.; Carvalho, P.C.F.; Lang, C.R.; Anghinoni, I.; Lustosa, S.B.C.; Gastal, F.
+Effects of crop rotation and sheep grazing management on the seedbank and emerged weed ﬂora under a no-tillage integrated
+crop-livestock system. J. Agric. Sci. 2018, 156, 810–820. [CrossRef]
+
+30. Hellin, J.; Erenstein, O.; Beuchelt, T.D.; Camacho, C.; Flores, D. Maize stover use and sustainable crop production in mixed
+
+crop–livestock systems in Mexico. Field Crops Res. 2013, 153, 12–21. [CrossRef]
+
+31. Díaz-Zorita, M.; Duarte, G.A.; Grove, J.H. A review of no-till systems and soil management for sustainable crop production in the
+
+32.
+
+subhumid and semiarid Pampas of Argentina. Soil Tillage Res. 2002, 65, 1–18. [CrossRef]
+Sanjari, G.; Ghadiri, H.; Ciesiolka, C.A.A.; Yu, B. Comparing the effects of continuous and time-controlled grazing systems on soil
+characteristics in Southeast Queensland. Soil Res. 2008, 46, 348–358. [CrossRef]
+
+33. Chaplot, V.; Dlamini, P.; Chivenge, P. Potential of grassland rehabilitation through high density-short duration grazing to
+
+sequester atmospheric carbon. Geoderma 2016, 271, 10–17. [CrossRef]
+
+34. Peel, M.C.; Finlayson, B.L.; McMahon, T.A. Updated World Map of the Köppen-Geiger Climate Classiﬁcation. Hydrol. Earth Syst.
+
+Sci. Discuss. 2007, 4, 439–473.
+
+35. Chaplot, V.; Abdalla, K.; Alexis, M.; Bourennane, H.; Darboux, F.; Dlamini, P.; Everson, C.; Mchunu, C.; Muller-Nedebock, D.;
+Mutema, M.; et al. Surface organic carbon enrichment to explain greater CO2 emissions from short-term no-tilled soils. Agric.
+Ecosyst. Environ. 2015, 203, 110–118. [CrossRef]
+
+36. WRB Soil Classiﬁcation. ISBN 978-92-5-108369-7 (Print). E-ISBN 978-92-5-108370-3 (PDF). Available online: http://www.fao.org/
+
+3/i3794en/I3794en.pdf (accessed on 13 November 2020).
+
+37. Mchunu, C.N.; Lorentz, S.; Jewitt, G.; Manson, A.; Chaplot, V. No-Till Impact on Soil and Soil Organic Carbon Erosion under
+
+Crop Residue Scarcity in Africa. Soil Sci. Soc. Am. J. 2011, 75, 1503–1512. [CrossRef]
+
+38. Healy, R.W.; Striegl, R.G.; Russell, T.F.; Hutchinson, G.L.; Livingston, G.P. Numerical Evaluation of Static-Chamber Measurements
+
+of Soil-Atmosphere Gas Exchange: Identiﬁcation of Physical Processes. Soil Sci. Soc. Am. J. 1996, 60, 740–747. [CrossRef]
+
+39. Mielnick, P.; Dugas, W.A. Soil CO2 ﬂux in a tallgrass prairie. Soil Biol. Biochem. 2000, 32, 221–228. [CrossRef]
+40. Rey, A.; Pegoraro, E.; Oyonarte, C.; Were, A.; Escribano, P.; Raimundo, J. Impact of land degradation on soil respiration in a
+
+steppe (Stipa tenacissima L.) semi-arid ecosystem in the SE of Spain. Soil Biol. Biochem. 2011, 43, 393–403. [CrossRef]
+
+41. Batjes, N.H. Total carbon and nitrogen in the soils of the world. Eur. J. Soil Sci. 2014, 65, 10–21. [CrossRef]
+42. Grossman, R.B.; Reinsch, T.G. Bulk Density and Linear Extensibility. In Methods of Soil Analysis: Part 4. Physical Methods; Dane,
+
+J.H., Topp, G.C., Eds.; Soil Science Society of America Inc.: Madison, WI, USA, 2002; pp. 201–225.
+
+43. Herrick, J.E.; Jones, T.L. A dynamic cone penetrometer for measuring soil penetration resistance. Soil Sci. Soc. Am. J. 2002, 66,
+
+1320–1324. [CrossRef]
+
+44. Davies, G.; A Bodart, J. Changes in vegetation diversity and composition following livestock removal along an upland elevational
+
+gradient. iForest Biogeosci. For. 2015, 8, 582–589. [CrossRef]
+
+45. Liebig, M.; Kronberg, S.; Hendrickson, J.; Dong, X.; Gross, J. Carbon dioxide efﬂux from long-term grazing management systems
+
+in a semiarid region. Agric. Ecosyst. Environ. 2013, 164, 137–144. [CrossRef]
+
+46. Beare, M.; Hendrix, P.F.; Cabrera, M.L.; Coleman, D. Aggregate-Protected and Unprotected Organic Matter Pools in Conventional-
+
+and No-Tillage Soils. Soil Sci. Soc. Am. J. 1994, 58, 787–795. [CrossRef]
+Six, J.; Elliott, E.; Paustian, K. Soil macroaggregate turnover and microaggregate formation: A mechanism for C sequestration
+under no-tillage agriculture. Soil Biol. Biochem. 2000, 32, 2099–2103. [CrossRef]
+
+48. La Scala, N.; Bolonhezi, D.; Pereira, G.T. Short-term soil CO2 emission after conventional and reduced tillage of a no-till sugar
+
+cane area in southern Brazil. Soil Tillage Res. 2006, 91, 244–248. [CrossRef]
+Sainju, U.M.; Stevens, W.B.; Caesar-Tonthat, T.; Jabro, J.D. Land Use and Management Practices Impact on Plant Biomass Carbon
+and Soil Carbon Dioxide Emission. Soil Sci. Soc. Am. J. 2010, 74, 1613–1622. [CrossRef]
+Sarkar, S.; Skalicky, M.; Hossain, A.; Brestic, M.; Saha, S.; Garai, S.; Ray, K.; Brahmachari, K. Management of Crop Residues for
+Improving Input Use Efﬁciency and Agricultural Sustainability. Sustainability 2020, 12, 9808. [CrossRef]
+Shen, Y.; McLaughlin, N.; Zhang, X.; Xu, M.; Liang, A. Effect of tillage and crop residue on soil temperature following planting
+for a Black soil in Northeast China. Sci. Rep. 2018, 8, 4500. [CrossRef]
+
+47.
+
+49.
+
+50.
+
+51.
+
+52. Li, R.; Hou, X.; Jia, Z.; Han, Q.; Ren, X.; Yang, B. Effects on soil temperature, moisture, and maize yield of cultivation with ridge
+
+and furrow mulching in the rainfed area of the Loess Plateau, China. Agric. Water Manag. 2013, 116, 101–109. [CrossRef]
+
+Agronomy 2021, 11, 1421
+
+15 of 15
+
+53. Davin, E.L.; Seneviratne, S.; Ciais, P.; Olioso, A.; Wang, T. Preferential cooling of hot extremes from cropland albedo management.
+
+Proc. Natl. Acad. Sci. USA 2014, 111, 9757–9761. [CrossRef]
+
+54. Al-Kaisi, M.M.; Yin, X. Tillage and Crop Residue Effects on Soil Carbon and Carbon Dioxide Emission in Corn-Soybean Rotations.
+
+55.
+
+J. Environ. Qual. 2005, 34, 437–445. [CrossRef] [PubMed]
+Fortin, M.-C.; Rochette, P.; Pattey, E. Soil Carbon Dioxide Fluxes from Conventional and No-Tillage Small-Grain Cropping
+Systems. Soil Sci. Soc. Am. J. 1996, 60, 1541–1547. [CrossRef]
+
+56. Mathiba, M.; Awuah-Offei, K.; Baldassare, F.J. Inﬂuence of elevation, soil temperature and soil moisture content on reclaimed
+
+mine land soil CO2 ﬂuxes. Environ. Earth Sci. 2015, 73, 6131–6143. [CrossRef]
+
+57. Ussiri, D.A.; Lal, R. Long-term tillage effects on soil carbon storage and carbon dioxide emissions in continuous corn cropping
+
+system from an alﬁsol in Ohio. Soil Tillage Res. 2009, 104, 39–47. [CrossRef]
+
+58. Duiker, S.W.; Lal, R. Carbon Budget Study Using CO2 Flux Measurements from a No till System in Central Ohio. Soil Tillage Res.
+
+2000, 54, 21–30. [CrossRef]
+Silva, S.R.; da Silva, I.R.; de Barros, N.F.; de Sá Mendonça, E. Effect of Compaction on Microbial Activity and Carbon and Nitrogen
+Transformations in Two Oxisols with Different Mineralogy. Rev. Bras. Ciênc. Solo 2011, 35, 1141–1149. [CrossRef]
+
+59.
+
+60. Agostini, M.D.L.A.; Studdert, G.; Martino, S.S.; Costa, J.; Balbuena, R.; Ressia, J.; Mendivil, G.; Lazaro, L. Crop residue grazing
+and tillage systems effects on soil physical properties and corn (Zea mays L.) performance. J. Soil Sci. Plant Nutr. 2012, 12, 271–282.
+[CrossRef]
+
+61. Adekalu, K.; Okunade, D.; Osunbitan, J. Compaction and mulching effects on soil loss and runoff from two southwestern Nigeria
+
+62. Torbert, H.; Wood, C. Effects of soil compaction and water-ﬁlled pore space on soil microbial activity and N losses. Commun. Soil
+
+agricultural soils. Geoderma 2006, 137, 226–230. [CrossRef]
+
+Sci. Plant Anal. 1992, 23, 1321–1331. [CrossRef]
+
+63. Greenwood, K.L.; McKenzie, B.M. Grazing effects on soil physical properties and the consequences for pastures: A review. Aust.
+
+64. Hamza, M.; Anderson, W. Soil compaction in cropping systems: A review of the nature, causes and possible solutions. Soil Tillage
+
+J. Exp. Agric. 2001, 41, 1231. [CrossRef]
+
+Res. 2005, 82, 121–145. [CrossRef]
+
+65. Piva, J.T.; Dieckow, J.; Bayer, C.; Zanatta, J.A.; de Moraes, A.; Tomazi, M.; Pauletti, V.; Barth, G.; Piccolo, M.D.C. Soil gaseous N2O
+and CH4 emissions and carbon pool due to integrated crop-livestock in a subtropical Ferralsol. Agric. Ecosyst. Environ. 2014, 190,
+87–93. [CrossRef]
+Silva, V.R.; Reinert, D.J.; Reichert, J.M. Densidade do solo, atributos químicos e sistema radicular do milho afetados pelo pastejo e
+manejo do solo. Rev. Bras. Ciênc. Solo 2000, 24, 191–199. [CrossRef]
+
+66.
+
+67. Díaz-Zorita, M.; Grove, J.H. Crop Sequence Effects on the Properties of a Hapludoll under Continuous No-Tillage Management.
+In Proceedings of the Annual Southern Conservation Tillage Conference for Sustainable Agriculture, Tifton, GA, USA, 6–8
+July 1999.
+
+68. Lemke, R.; VandenBygaart, A.; Campbell, C.; Lafond, G.; Grant, B. Crop residue removal and fertilizer N: Effects on soil organic
+
+69.
+
+71.
+
+carbon in a long-term crop rotation experiment on a Udic Boroll. Agric. Ecosyst. Environ. 2010, 135, 42–51. [CrossRef]
+Singh, P.; Heikkinen, J.; Ketoja, E.; Nuutinen, V.; Palojärvi, A.; Sheehy, J.; Esala, M.; Mitra, S.; Alakukku, L.; Regina, K. Tillage and
+crop residue management methods had minor effects on the stock and stabilization of topsoil carbon in a 30-year ﬁeld experiment.
+Sci. Total Environ. 2015, 518–519, 337–344. [CrossRef]
+
+70. West, T.; Post, W.M. Soil Organic Carbon Sequestration Rates by Tillage and Crop Rotation. Soil Sci. Soc. Am. J. 2002, 66, 1930–1946.
+
+[CrossRef]
+Six, J.; Ogle, S.M.; Jay Breidt, F.; Conant, R.T.; Mosier, A.R.; Paustian, K. The potential to mitigate global warming with no-tillage
+management is only realized when practised in the long term. Glob. Chang. Biol. 2004, 10, 155–160. [CrossRef]
+
+72. Bayer, C.; Martin-Neto, L.; Mielniczuk, J.; Pavinato, A.; Dieckow, J. Carbon sequestration in two Brazilian Cerrado soils under
+
+no-till. Soil Tillage Res. 2006, 86, 237–245. [CrossRef]
+
+73. West, T.; Marland, G. A synthesis of carbon sequestration, carbon emissions, and net carbon ﬂux in agriculture: Comparing tillage
+
+practices in the United States. Agric. Ecosyst. Environ. 2002, 91, 217–232. [CrossRef]
+
+

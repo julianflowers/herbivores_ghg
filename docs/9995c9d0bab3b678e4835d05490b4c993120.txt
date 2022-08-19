@@ -1,0 +1,1572 @@
+RESEARCH ARTICLE
+Impacts of crop rotational diversity and
+grazing under integrated crop-livestock
+system on soil surface greenhouse gas fluxes
+
+Gandura Omar Abagandura1, Songul Şentu¨ rklu¨ 2,3, Navdeep Singh1, Sandeep KumarID1*,
+Douglas G. Landblom2, Kris Ringwall2
+
+1 Department of Agronomy, Horticulture and Plant Science, South Dakota State University, Brookings, South
+Dakota, United States of America, 2 Dickinson Research Extension Center, North Dakota State University,
+Dickinson, North Dakota, United States of America, 3 Animal Science Department, Canakkale Onsekiz Mart
+Universitesi, Canakkale, Turkey
+
+Integrated crop-livestock (ICL) system is beneficial in enhancing soil organic carbon and
+nutrient cycling. However, the benefits of the ICL system on mitigation of GHG emissions
+are poorly understood. Thus, the present study was initiated in 2011 to assess the effect of
+crop rotation diversity and grazing managed under the ICL system on GHG emissions. The
+cropping system investigated here included spring wheat grown continuously for five years
+and a 5-yr crop rotation (spring wheat-cover crops-corn-pea/barley-sunflower). Each phase
+was present each year. Yearling steers grazed only the pea/barley, corn and cover crops
+plots in 2016 and 2017. Exclusion areas avoided the grazing in these crops to compare the
+GHG fluxes under grazed vs. non-grazed areas. The GHG fluxes were measured weekly
+from all crop phases during the growing season for both years using a static chamber.
+Cumulative CO2 and CH4 fluxes were similar from all crop phases over the study period.
+However, continuous spring wheat recorded higher cumulative N2O fluxes (671 g N ha-1)
+than that under spring wheat in rotation (571 g N ha-1). Grazing decreased cumulative CO2
+fluxes (359 kg C ha-1) compared to ungrazed (409 kg C ha-1), however, no effect from graz-
+ing on cumulative CH4 and N2O fluxes over the study period were found. The present study
+shows that grazing and crop rotational diversity affected carbon and nitrogen inputs, which
+in turn affected soil CO2 and N2O fluxes. Long-term monitoring is needed to evaluate the
+response of soil GHG emissions to grazing and crop rotation interactions under the ICL
+system.
+
+a1111111111
+a1111111111
+a1111111111
+a1111111111
+a1111111111
+
+* sandeep.kumar@sdstate.edu
+
+Abstract
+
+OPEN ACCESS
+
+Citation: Abagandura GO, Şentu¨rklu¨ S, Singh N,
+Kumar S, Landblom DG, Ringwall K (2019)
+
+Impacts of crop rotational diversity and grazing
+
+under integrated crop-livestock system on soil
+
+surface greenhouse gas fluxes. PLoS ONE 14(5):
+
+e0217069. https://doi.org/10.1371/journal.
+
+pone.0217069
+
+Editor: Sergio Saia, Consiglio per la Ricerca e la
+
+Sperimentazione in Agricoltura, ITALY
+
+Received: November 19, 2018
+
+Accepted: May 3, 2019
+
+Published: May 22, 2019
+
+Copyright: © 2019 Abagandura et al. This is an
+open access article distributed under the terms of
+
+the Creative Commons Attribution License, which
+
+permits unrestricted use, distribution, and
+
+reproduction in any medium, provided the original
+
+author and source are credited.
+
+Data Availability Statement: All relevant data are
+
+within the manuscript and its Supporting
+
+Information files.
+
+Introduction
+
+Funding: The authors received funding from
+
+USDA-CAP project.
+
+Competing interests: The authors have declared
+
+that no competing interests exist.
+
+Increasing atmospheric concentrations of greenhouse gases [GHG, particularly carbon dioxide
+(CO2), methane (CH4), and nitrous oxide (N2O)] are contributing to increasing trends in
+global warming [1]. Agriculture is one of the sources of worldwide GHG emissions, account-
+ing for 9% of total U.S. GHG emissions [2]. Integrated crop-livestock (ICL) system can play a
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0217069 May 22, 2019
+
+1 / 18
+
+Crop rotation and grazing impact on greenhouse gas fluxes
+
+prominent role in GHG emissions mitigation [3–5]. Few examples of commonly implemented
+ICL system in the U.S. include: animal grazing of cover crops within cash crop rotations, crop
+residue grazing, silvopasture and agroforestry, sod based crop rotation (perennial forage for
+grazing with crops), dual purpose cereal crops (harvesting for grains followed by grazing e.g.
+corn) [6]. Crop rotation and grazing under the ICL system can impact soil organic carbon
+(SOC), crop residue mineralization, and root and microbial respiration [7–8], thus play a
+major role in regulating soil surface GHG emissions [9].
+
+Crop residues returned to the soil are the main input in maintaining SOC, which generally
+seems to increase with the diversified crop rotation compared to the mono-cropping [10–11],
+which if employed continuously increases the need for off-farm inputs due to increased infes-
+tation of weeds, diseases, and pests [12–13]. Crop rotation affects numerous soil properties,
+including water holding capacity, nutrient availability, and soil structure [14–15, 9], all of
+those can influence soil GHG emissions. For example, crop type can impact soil temperature
+and water content by affecting shade intensity and evapotranspiration [16, 11].
+
+There are few studies investigating the effect of crop rotational diversity on GHG emissions
+
+from different plant species within the rotation. Wegner et al. [17], who monitored GHG
+fluxes under corn and soybean rotation (both phases were present each year) for three years,
+found that corn and soybean emitted similar soil CH4 fluxes each year. In addition, Lehman
+et al. [18] reported no significant differences on N2O fluxes from different plant species (corn-
+pea-winter wheat-soybean, each phase was present every year) within the rotation for four
+years. However, Halvorson and Del Grosso [19] reported that CO2 emissions were influenced
+by plant species within the rotation in Northeastern Colorado, with barley (corn-barley rota-
+tion) emitting higher cumulative CO2 flux compared to corn (continuous corn) and dry beans
+(corn-dry beans rotation) in the same year. These differences on cumulative CO2 flux were
+attributed to the amount and quality of decomposing residue from the previous crops.
+
+Other studies have compared soil GHG fluxes from a crop grown in rotation with a similar
+
+crop grown in mono-cropping, and their results were contradictory. For example, corn in
+rotation has shown to reduce total N2O as well as CO2 emissions compared with continuous
+corn [20–22] due to the increased fertilizer input from the mono-cropping. Sainju et al. [16]
+reported higher CH4 uptake by barley from a barley–pea rotation than from continuous barley.
+However, other studies have reported no effect on soil GHG from crop rotation compared to
+mono-cropping. According to Barton et al. [23], wheat in rotation (lupin–wheat) has been
+found to emit similar soil N2O fluxes compared with continuous wheat after two years. Behnke
+et al. [24] reported that corn emitted similar soil CO2 fluxes from continuous corn, soybean-
+corn and soybean-wheat- corn rotation. Such discrepancies suggest that the response of GHG
+emissions to crop rotational diversity may vary with different crop diversity, climate and soil
+type.
+
+Crop rotation, especially forage crops, can offer livestock mixed grazing pastures. Grazing,
+
+which is an important component in the ICL system, is used to control weeds and pests, reduce
+feed costs, and increase nutrient turnover rate [25]. Grazing can impact soil GHG by modify-
+ing canopy structure and residue accumulation [26–27]. In addition, grazing alters soil tem-
+perature and water content by consuming crop residues [28–29], both of which in turn affect
+soil microbial processes, the primary processes responsible for soil GHG fluxes [30–32]. The
+material added to the soil from animal excreta deposition (dung and urine) as well as the soil
+compaction increased by the movement of the animals can create anaerobic environments
+suitable for denitrification, resulting in the acceleration of soil GHG fluxes [33–34].
+
+Several studies in the past have reported that grazing can enhance soil GHG fluxes [35–38],
+however, Zhong et al. [34] found that five years of grazing did not affect N2O emissions com-
+pared to ungrazed plots. Other studies have reported that grazing decreased soil CO2 fluxes
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0217069 May 22, 2019
+
+2 / 18
+
+Crop rotation and grazing impact on greenhouse gas fluxes
+
+compared to ungrazed soil [39–41]. Such a reduction was attributed to various, but presently
+uncertain, issues that include a decrease of (1) the diffusion of CO2 in soil (due to the increase in
+soil bulk density), (2) the SOC (grazing can remove the biomass, thus reducing C input), and (3)
+activities of soil organisms (grazing would deplete SOC and depress microbial activities). Wolf
+et al. [42] reported that grazing decreased the emissions of N2O due to the reduction in soil
+organic matter and soil moisture, especially in arid and semi-arid regions. No significant differ-
+ence in CH4 flux between grazed and ungrazed plots was reported by Wang et al. [43]. Typically,
+upland agricultural soils are minor emitters or minor sinks for CH4 [17], therefore, grazing usu-
+ally has minor effects on CH4 flux in these systems. These results emphasize the need to explain
+the mechanistic reasons for differences in the impact of grazing on soil GHG fluxes.
+
+Current knowledge cannot explain the mechanisms responsible for the crop rotational
+diversity and grazing effects under the ICL system on soil GHG emissions in the semi-arid
+region of the Northern Great Plains. The specific objectives of this study were to study the
+mechanisms affecting soil GHG emission from (i) different plant species within the rotation,
+(ii) crop rotation and mono-cropping, and (iii) grazing during the growing season.
+
+Materials and methods
+Site description
+
+A field experiment to investigate the effect of crop rotation and grazing under the ICL system
+on soil GHG fluxes was initiated in 2011 at the Dickinson Research Extension Center in Dunn
+County, North Dakota (46˚53’N, 102˚49’W). The present study was conducted for 2 yr: 2016
+and 2017 on a Vebar Series (coarse-loamy, mixed, superactive, frigid Typic Haplustolls) and on
+a Savage Series (fine, smectitic, frigid Vertic Argiustolls). To minimize the impact of soil on the
+analysis of the ICL system effects, two replicates were assigned to one soil type and the third rep-
+licate was assigned to the other soil for each treatment. This study area is representative of a typ-
+ical rainfed farming system in North Dakota. The experimental site was characterized as a
+continental climate with moist springs (April, May, and June), relatively dry summers (August
+and September), and cold and snowy winters (November through March). Before the initiation
+of the experiment, basic soil characterization data were collected and represented in Table 1.
+
+Crop rotation treatments
+The cropping system investigated here included mono-cropping system (spring wheat [Triti-
+cum aestivum L.]) grown continuously for five years and a 5-yr crop rotation (spring wheat-
+cover crop-corn [Zea mays L.]-pea [Pisum sativum L.]/barley [Hordeum vulgare L.]-sunflower
+
+Table 1. Basic soil properties (averaged for 0–10 cm depth) at the initiation of the study.
+
+Crop
+
+Continuous wheat
+
+Wheat
+
+Pea/barley
+
+Sunflower
+
+Cover crops
+
+Corn
+
+pH
+
+5.43
+
+5.93
+
+5.60
+
+6.27
+
+5.43
+
+ECa
+
+(dS m-1)
+
+0.33
+
+0.29
+
+0.38
+
+0.34
+
+0.27
+
+OM
+(%)
+
+3.37
+
+2.78
+
+3.83
+
+3.60
+
+3.30
+
+N
+
+(kg ha-1)
+
+27.24
+
+20.74
+
+14.23
+
+18.27
+
+15.13
+
+P
+
+(ppm)
+
+25.70
+
+26.70
+
+28.30
+
+31.70
+
+23.00
+
+5.55
+
+0.26
+
+3.31
+
+16.23
+
+26.32
+
+Analysis of variance P > F
+
+0.640
+
+0.260
+
+0.340
+
+0.220
+
+0.800
+
+aEC, electrical conductivity; OM, organic matter; N, nitrogen; P, phosphorus.
+
+https://doi.org/10.1371/journal.pone.0217069.t001
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0217069 May 22, 2019
+
+3 / 18
+
+Crop rotation and grazing impact on greenhouse gas fluxes
+
+Table 2. Agronomic and grazing management information at the study site performed during 2016 and 2017.
+
+Crop
+
+Planting
+Date
+
+Population
+(plants ha–1)
+
+Seeding depth
+(cm)
+
+Hybrid
+
+Row spacing (cm) Harvest
+
+Grazing start date Grazing end date
+
+Continuous
+wheat
+
+Wheat
+
+Sunflower
+
+Pea/barley
+
+Corn
+
+Continuous
+wheat
+
+Wheat
+
+Sunflower
+
+Pea/barley
+
+Corn
+
+9-May
+
+3,087,500
+
+9-May
+
+3,087,500
+
+9-May
+
+49,400
+
+9-May
+
+3,087,500
+
+21-May
+
+49,400
+
+3-May
+
+3,087,500
+
+3-May
+
+3,087,500
+
+15-May
+
+49,400
+
+1-May
+
+3,087,500
+
+9-May
+
+49,400
+
+Master graze
+BMR
+
+2016
+
+Barlow
+
+Barlow
+
+60ME80
+
+Mixed
+
+2017
+
+Barlow
+
+Barlow
+
+60ME80
+
+Mixed
+
+Master graze
+BMR
+
+19.10
+
+19.10
+
+76.20
+
+19.10
+
+76.20
+
+19.10
+
+19.10
+
+76.20
+
+19.10
+
+76.20
+
+date
+
+16-Aug.
+
+16-Aug.
+
+9-Nov.
+
+18-Aug.
+
+18-Aug.
+
+19-Oct.
+
+20-July
+
+16-Aug.
+
+16-Aug.
+
+5-Oct.
+
+11-July
+
+16-Aug.
+
+23-Sep.
+
+16-Aug.
+
+23-Sep.
+
+23-Oct.
+
+2.54
+
+2.54
+
+5.08
+
+3.81
+
+5.08
+
+2.54
+
+2.54
+
+2.54
+
+5.08
+
+2.54
+
+5.08
+
+2.54
+
+Cover crops
+
+13-July
+
+3,730,170
+
+13 species
+
+19.10
+
+5-Oct.
+
+11-Nov.
+
+Cover crops
+
+15-June
+
+3,730,170
+
+13 species
+
+19.10
+
+https://doi.org/10.1371/journal.pone.0217069.t002
+
+[Helianthus annuus L.]), a total of 6 main plots, with three replicates. Species of cover crops
+used in this study are listed in S1 Table. Every phase of the crop was present each year. The
+pea/barley, corn and cover crops plots were split into two areas in 2016 and 2017 (grazed and
+ungrazed), where grazing occurred only for these three species. Treatments were arranged in a
+randomized complete block in 18 uniform rectangular 1.74 ha (31.3 ha in total) plots. All
+crops were seeded with a John Deere 1590 no-till drill (Deere & Company, Moline, IL). For
+the pea/barley field pea (Arvika, var.) mix, seeding rate was 67.2 kg ha-1 and the forage barley
+(Stockford var.) was seeded at the rate of 44.8 kg ha-1 resulting in a combined 3,087,500 esti-
+mated plants ha-1. Crop management decisions, based on soil test results and recommenda-
+tions from the NDSU Soil Testing Laboratory, indicated that no nitrogen fertilizer needed to
+be applied to the crops in 2016 and 2017. However, herbicides for grass and broadleaf weed
+control were applied, as needed for weed control. All crops were grown under rain fed condi-
+tion, and no irrigation was applied. Crop managements are included in Table 2.
+
+Grazing treatments
+
+Spring wheat and sunflower were cash crops in the cropping system, and yearling crossbred beef
+steers grazed the pea/barley, corn and cover crops plots in 2016 and 2017. When grazing started,
+the experimental design was modified to incomplete split-plot with pea/barley, corn and cover
+crops plots split in two grazing treatments (grazed and ungrazed). Protocols were reviewed and
+approved for animal use in this investigation by the North Dakota State University Institutional
+Animal Care and Use Committee (Protocol Approval #A16015). Before grazing started in the
+experimental plots in 2016 and 2017, the yearling beef cattle steers grazed native range from May
+4 to July 11 (68 d) in both years to allow adequate time for the annual forages that were to be
+grazed to attain sufficient growth before grazing began. Based on crop growth, grazing in both
+years began in the pea/barley plot first before moving to the corn and finally to the cover crops
+plots. Based on best grazing management practices, the harvest efficiency goal was to utilize
+approximately one-half or the available forage and leave one-half for soil armor, resulting in the
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0217069 May 22, 2019
+
+4 / 18
+
+Crop rotation and grazing impact on greenhouse gas fluxes
+
+number of hectares grazed per steer per month of 0.211, 0.143, and 0.25 for pea/barley, corn,
+and cover crops, respectively. Grazing information including the beginning and end of grazing
+are included in Table 2. The yearling steers grazed in the appropriate fields at all times from the
+beginning of the grazing until they were moved to the next plot.
+
+Soil sampling and analysis
+
+At planting in 2016 and 2017, four samples from random spots in each plot, including grazed
+and ungrazed plots from 2016 grazing, were collected at 0–5 cm depth using a push probe
+auger (3.2-cm diam.), composited and air-dried at ambient temperature, and ground to pass
+through a 2-mm screen for determining SOC and total nitrogen (TN) using the method out-
+lined by Nelson and Sommers [44]. In addition, soil bulk density from all plots at planting in
+2016 and 2107 were measured from 0–5 cm depth using the core method [45]. No soil samples
+were collected after 2017 grazing.
+
+Measurements and analysis of GHG fluxes
+
+Soil GHG fluxes from all the plots were measured for 2016 and 2017 using the static chamber
+technique described by Parkin and Venterea [46]. The chambers, which were made of polyvi-
+nyl chloride (PVC) pipe anchors (20.3 internal diameter and 15 cm height), were installed in
+each plot at the beginning of the study and remained undisturbed during the entire monitor-
+ing period except for temporary removal when mechanized farm operations were performed.
+A minimum of 24 h elapsed before resumption of sampling activities following chamber instal-
+lation. The gas samples were collected once a week depending on weather conditions from
+June through October of 2016 and 2017. The GHG fluxes were measured only during the
+growing seasons, and the sampling was discontinued during periods when the installation of
+the chambers on the collars would have necessitated disturbance of the snow cover causing a
+non-representative sampling location (� four months each year). Sampling was typically done
+between 8:00 am and noon, with gas samplings being taken during the same period each day
+to reduce the diurnal effect of temperature on GHG fluxes. A PVC cap with a vent tube and
+sampling port were placed on anchors prior to taking the gas samples. A lid was used to keep
+these chambers closed during the gas sample collection. The gas samples from the chamber
+were collected with a syringe (10 mL) at 0, 20 and 40 minutes and transferred into 10 mL glass
+vials sealed with butyl rubber septa pre-charged inert argon gas that was removed by needle
+puncture prior to transfer of collected gas samples from the static chambers. Two chambers
+were installed per plot to reduce spatial variability in GHG measurement, and the average
+value was used for each treatment for data analysis.
+
+Air chamber temperature during the time of sampling from each chamber was measured
+
+for calculating the GHG fluxes. The gas samples were analyzed using a gas chromatograph
+(CombiPAL; CTCAnalytics, Zwingen, Switzerland), which was fully automated with thermo-
+conductivity, flame ionization, and electron capture detectors for analysis of CO2, CH4, and
+N2O concentrations in one gas sample. Daily GHG flux was calculated as:
+
+F ¼ r
+
+� �
+
+� �
+
+V
+A
+
+Dc
+Dt
+
+273=ð273 þ TÞ
+
+where F is gas flux, ρ is gas density under normal conditions (mg m-3), V is the volume of the
+static chamber (m3), A is the area that the static chamber covered, Δc/Δt is changes in gas con-
+centration (Δc) during a certain time (Δt), and T is mean temperature inside the chamber.
+Cumulative fluxes for each crop growing season in a year was calculated using linear
+interpolation.
+
+ð1Þ
+
+5 / 18
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0217069 May 22, 2019
+
+Crop rotation and grazing impact on greenhouse gas fluxes
+
+Fig 1. Monthly average precipitation (PRCP), air maximum (TMAX) and minimum temperature (TMIN) for the 2016 and 2017. Weather data from
+Agrometeorological Station located 25 km away from the experimental site.
+
+https://doi.org/10.1371/journal.pone.0217069.g001
+
+As a supplement to gas flux measurements, soil water content and temperature at the 0 to 5
+
+cm depth were measured using a HH2 moisture sensor (Delta-T-Devices, Cambridge,
+England) and a thermometer (Acurite Digital Meat Thermometer, 00641W, AcuRite Com-
+pany, Geneva, WI), respectively. Average daily minimum and maximum air temperature and
+precipitation (mm) for each year (2016 and 2017) were collected from a weather station
+located approximately 25 km from the field.
+
+Statistical analysis
+
+Data were normal (Skewness and Kurtosis’s tests) and homogeneous (Levene’s test) for all the
+variables. To determine the effect of crop rotational diversity and grazing, data for GHG fluxes
+were analyzed using the GLIMMIX procedure in SAS (SAS Institute Inc., North Carolina, U.
+S.). Sampling date, year, soil, crop and their replicates were defined as random variables. Fixed
+effects in the model included crop phase ‘nested’ within grazing. Mean values were separated
+using pairwise differences method (adjusted by Tukey). Analysis of variance (ANOVA) was
+conducted to investigate the effect of crop rotational diversity and grazing on average soil tem-
+perature and soil water content. Linear (Y = B0+B1X1) and multiple linear regression analysis
+(Y = B0+B1X1+B2X2) were conducted to examine the relationship between soil temperature
+and soil water content with CO2 and N2O fluxes using SIGMA PLOT 14.0. Differences were
+considered significant at 0.05 probability.
+
+Results
+Climate, soil temperature and water content
+
+The mean values of precipitation and air temperature for 2016 and 2017 are shown in Fig 1.
+Average (30-yr) air temperature at the site was 6.2˚C, and mean annual precipitation was 610
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0217069 May 22, 2019
+
+6 / 18
+
+Crop rotation and grazing impact on greenhouse gas fluxes
+
+mm. Total precipitation in 2016 (740.7 mm) was 29.7% higher than in the 2017 (520.3 mm)
+(Fig 1). Generally, the spring and summer of 2016 were unusually wet with higher precipita-
+tion throughout the growing season. The precipitation during the growing season (May–Octo-
+ber) was greater in 2016 than in 2017. Air temperature was similar during the growing season
+in the two years. The air temperature values at the beginning of the growing seasons for both
+years rose before falling later in the season (Fig 1). Soil temperature and water content (S1 and
+S2 Figs) were not affected by crop rotational diversity and grazing over the study period (aver-
+aged across measurements dates, p >0.05). The linear regressions for the CO2 and N2O fluxes
+and soil temperature showed a significant positive correlation between soil temperature and
+the CO2 fluxes (R2 = 0.63 and p = 0.021) and N2O fluxes (R2 = 0.71 and p = 0.011) over the two
+years of this study. However, non-significant correlations between soil water content and CO2
+fluxes (R2 = 0.16 and p = 0.121) and N2O fluxes (R2 = 0.21 and p = 0.834) were found in this
+study. The CO2 and N2O fluxes plotted against soil temperature and water content over the
+study period are shown in Fig 2. The results from multiple regression analysis showed signifi-
+cant positive correlations between the combination of soil water content and soil temperature
+with CO2 and N2O fluxes (p <0.001 for CO2 fluxes and p = 0.0051 for N2O fluxes). This com-
+bination (soil temperature and water content) can explain up to 26% of the variation in CO2
+fluxes and 64% of the variation in N2O fluxes. Maximum CO2 and N2O fluxes appeared gener-
+ally at soil water content >26% and soil temperatures warmer than 27˚C (Fig 2).
+
+Effect of crop rotational diversity on GHG fluxes
+
+Daily GHG fluxes based on crop phases in 2016 and 2017 are shown in Fig 3. Regardless of
+crop phases, soil GHG fluxes were lower during the 2016 than the 2017 season (Fig 3). Cumu-
+lative GHG fluxes from all crop phases were higher in 2017 compared to the 2016 (Table 3).
+
+The trend in soil CO2 fluxes under all the crop phases exhibited the same pattern for all
+
+sampling dates (Fig 3). The highest peak of CO2 flux over the two years from crop phases was
+recorded on August 14, 2017 (Fig 3) under pea/barley (56.8 kg C ha-1 d-1), corn (52.1 kg C ha-1
+
+Fig 2. Effects of soil temperature (˚C) and soil water content (%) on CO2 and N2O fluxes over the study period (2016 and 2017).
+
+https://doi.org/10.1371/journal.pone.0217069.g002
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0217069 May 22, 2019
+
+7 / 18
+
+Crop rotation and grazing impact on greenhouse gas fluxes
+
+Fig 3. Trend of CO2, CH4 and N2O fluxes in the 2016 and 2017 growing seasons as influenced by crop rotational diversity.
+
+https://doi.org/10.1371/journal.pone.0217069.g003
+
+d-1), continuous spring wheat (40.7 kg C ha-1 d-1), spring wheat (37.8 kg C ha-1 d-1), sunflower
+(31.3 kg C ha-1 d-1), and cover crops (28.7 kg C ha-1 d-1). No significant differences in the daily
+CO2 flux was observed among all the crop phases during this peak (p = 0.5341, Fig 3). For
+other sampling dates, no significant effect of crop rotational diversity (p �0.05 for each sam-
+pling date for each year) on CO2 fluxes was found. Cumulative CO2 fluxes exhibited no signifi-
+cant differences among all phases over the study period (Table 4). Comparing the effect of
+mono-cropping with rotation on CO2 flux revealed that continuous spring wheat resulted in
+similar cumulative CO2 flux compared to spring wheat over the study period (Table 4).
+
+The trend of the CH4 fluxes under crop phases varied on the sampling dates over the two
+years (Fig 3). Generally, peaks of CH4 release were observed after rainfall events, while peaks
+
+Table 3. Significance of F values for year for GHG cumulative fluxes.
+
+CO2
+
+CH4
+
+N2O
+
+Nparm
+
+DF
+
+Sum of squares
+
+F ratio
+
+Prob > F
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+459272.7
+
+5550524.0
+
+1749469.2
+
+2.18
+
+13.49
+
+10.53
+
+0.0148
+
+0.0008
+
+0.0026
+
+https://doi.org/10.1371/journal.pone.0217069.t003
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0217069 May 22, 2019
+
+8 / 18
+
+Table 4. Cumulative soil surface CO2, CH4 and N2O fluxes influenced by crop rotational diversity and grazing over the study period.
+
+Crop rotation and grazing impact on greenhouse gas fluxes
+
+Continuous wheat
+
+Wheat
+
+Pea/barley
+
+Sunflower
+
+Cover crops
+
+Corn
+
+Pea/barley
+
+Corn
+
+Cover crops
+
+Average
+
+1570.17aa
+
+1583.73a
+
+1889.85a
+
+1420.87a
+
+1454.96a
+
+1777.02a
+
+CO2
+
+(kg C ha-1)
+
+Rotation
+
+Grazingb
+
+642.91a
+
+642.08a
+
+349.18b
+
+459.17a
+
+85.78b
+
+126.18a
+
+359.29b
+
+409.14a
+
+Grazed
+
+Ungrazed
+
+Grazed
+
+Ungrazed
+
+Grazed
+
+Ungrazed
+
+Grazed
+
+Ungrazed
+
+CH4
+
+(g C ha-1)
+
+N2O
+
+(g N ha-1)
+
+520.54a
+
+128.18a
+
+369.32a
+
+416.91a
+
+528.74a
+
+609.42a
+
+671.46b
+
+571.57c
+
+1071.40a
+
+500.89c
+
+746.94b
+
+722.74b
+
+-45.46a
+
+53.07a
+
+214.54a
+
+122.38a
+
+118.87a
+
+-87.50a
+
+95.90a
+
+29.31a
+
+443.81a
+
+444.51a
+
+252.41a
+
+187.46a
+
+51.38a
+
+148.80a
+
+249.20a
+
+260.29a
+
+aWithin a column, values followed by the same letters are not significantly different at a = 0.05.
+bCumulative GHG was only for the period when grazing occurred.
+
+https://doi.org/10.1371/journal.pone.0217069.t004
+
+of CH4 uptake corresponded with an increase in soil temperature. No significant effects were
+observed for all phases on the CH4 fluxes during these peaks and other sampling dates for both
+years (p >0.05 for all sampling dates). Although not significant, CH4 effluxes have negative
+peaks very much pronounced for corn and wheat compared to other crops. In addition, no sig-
+nificant effects from crop rotational diversity on cumulative CH4 fluxes were observed
+(Table 4).
+
+Similar to the trend of the CO2 fluxes, the variation in N2O fluxes exhibited the same pattern
+under all phases on all sampling dates for both years (Fig 3). The highest peak of N2O flux over
+the two years was recorded on August 14, 2017, the same date as the highest peak of CO2 flux
+(Fig 3). This N2O peak occurred under pea/barley (51.85 g N ha-1 d-1), a peak that was signifi-
+cantly higher (p = 0.001) than for the other phases (27.1 g N ha-1 d-1 for corn, 26.7 g N ha-1 d-1
+for continuous spring wheat, 19.6 g N ha-1 d-1 for spring wheat, 11.3 g N ha-1 d-1 for sunflower,
+and 23.2 g N ha-1 d-1 for cover crops). Except for the peak in N2O fluxes, no significant effect of
+crop rotational diversity (p �0.05 for each sampling date) on N2O fluxes for both years was
+found. N2O fluxes were higher in continuous spring wheat compared to spring wheat for 19 of
+the 29 sampling dates over the 2016 and 2017 period; however, no significant differences in
+N2O fluxes between these two phases were observed (p �0.05 for each sampling date). Crop
+rotational diversity over the study period affected the cumulative N2O fluxes, with pea/barley
+recording higher cumulative N2O fluxes than the other phases (Table 4). Comparing the effect
+of mono-cropping with crop rotation on cumulative N2O fluxes found that continuous spring
+wheat resulted in greater cumulative N2O fluxes compared to spring wheat (Table 4).
+
+Effect of grazing on GHG fluxes
+
+The GHG fluxes based on grazing in 2016 and 2017 are shown in Fig 4. Cumulative GHG
+fluxes from grazing are listed in Table 4. Similar to the trend in daily soil CO2 fluxes under
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0217069 May 22, 2019
+
+9 / 18
+
+Crop rotation and grazing impact on greenhouse gas fluxes
+
+Fig 4. Trend of CO2, CH4 and N2O fluxes as influenced by grazing during the grazing period of pea/parley, corn and cover crops for the 2016 and 2017
+growing seasons. Vertical bars indicate standard errors.
+
+https://doi.org/10.1371/journal.pone.0217069.g004
+
+crop phases in rotation, the trend in daily soil CO2 fluxes under grazing treatments appeared
+to be similar on all sampling dates (Fig 4). On August 14, 2017, the same date when the highest
+peak was recoded under crop phases in rotation, the highest peak of CO2 flux over the two
+years was recorded for the pea/barley plots (Figs 3 and 4). No significant differences
+(p = 0.543) on the daily CO2 fluxes were recorded during this peak (53.3 kg C ha-1 d-1 for
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0217069 May 22, 2019
+
+10 / 18
+
+Crop rotation and grazing impact on greenhouse gas fluxes
+
+grazed plots and 56.6 kg C ha-1 d-1 for ungrazed plots, Fig 4). For other sampling dates, no sig-
+nificant effect of grazing (p �0.05 for each sampling date for each year) on CO2 fluxes was
+found. Regardless of the grazed crop, cumulative CO2 flux was significantly lower under
+grazed plots than under ungrazed plots (Table 4). The trend and the peaks of the CH4 fluxes
+under grazing treatments over the two years (Fig 4) were similar to the trend and the peaks of
+the CH4 fluxes under crop phases in rotation (Fig 4). No significant effects were observed for
+grazing on the cumulative CH4 fluxes (Table 4).
+
+The highest peak of N2O flux over the two years was recorded on August 14, 2017 from the
+pea/barley plots (Fig 4), with ungrazed plots emitting similar N2O flux (51.9 g N ha-1 d-1) com-
+pared to the grazed plots (50.3 g N ha-1 d-1). For other sampling dates, no significant effect of
+grazing (p �0.05 for each sampling date for each year) on N2O fluxes was observed. Grazing
+did not affect cumulative N2O flux as seen in Table 4.
+
+Discussion
+Soil temperature and water content
+
+While the daily trend of soil temperature was similar to that of the maximum and minimum air
+temperature under crop phases in rotation and grazing during the growing season for both
+years, the daily trend of soil water content was highly influenced by precipitation events and
+varied with the measurement dates. Soil temperature and water content were not affected by
+crop rotational diversity over the study period. Soil organic carbon for mono-cropping and
+rotation indicated that both practices have similar SOC, perhaps explaining why continuous
+spring wheat recorded similar soil temperature and soil moisture compared to spring wheat in
+this reported study. Significant changes in SOC may need long-term study to be detected. King
+and Blesh [10] reported that enhancing SOC can improve soil water content and temperature.
+The continuous cropping of a similar crop leads to retarded plant growth, serious pest and dis-
+ease damage, and low crop productivity [47], therefore, it was expected that continuous spring
+wheat would record lower SOC compared to spring wheat, however, both had similar SOC.
+Long-term crop rotation study (>5 years) might show the negative effects of mono-cropping
+on plant yield. Fu et al. [48], who investigated the 30-yr effect of crop rotation (alfalfa–potato
+and winter wheat) compared with mono-cropping (continuous winter wheat), reported that
+wheat in rotation increased SOC compared to continuous wheat in the semiarid climate. This
+difference in the effect of crop rotation on SOC between our study and Fu et al. [48] can be
+attributed to the differences in crops used in the rotation and the length of the rotation study.
+
+Soil temperature and water content were not affected by grazing. Grazing can alter soil tem-
+perature by increasing the radiant energy reaching it, leading to higher soil temperature. Risch
+et al. [49] also reported that grazing grass for five years did not affect the temperature of the
+soil (Mollisols, like the studied soil) compared to ungrazed plots in Wyoming. In addition, soil
+water content was not affected by grazing, confirming the results found by Barsotti et al. [25],
+who conducted a study in Montana (dryland cropping systems) on silt loam soil, reported that
+grazing spring wheat, pea/barley hay, and alfalfa for 11 years did not affect soil water content
+compared to ungrazed soil. Conversely, soil water content in an ungrazed pasture was higher
+than in a grazed one (grazing for more than13 years) in other studies [50–51], which they
+attributed to the greater accumulation of litter in the ungrazed plots decreasing evaporation
+and thus, increasing soil water content in these plots.
+
+Effect of crop rotational diversity on GHG fluxes
+
+Soil GHG fluxes under crop phases were lower during the 2016 season than the 2017 season, a
+result partially attributed to the higher soil temperature in 2017. Higher soil temperature can
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0217069 May 22, 2019
+
+11 / 18
+
+Crop rotation and grazing impact on greenhouse gas fluxes
+
+stimulate microbial activity and C and N mineralization, causing an increase in GHG fluxes
+[52–53,16]. The positive correlation between soil temperature and the CO2 and N2O fluxes
+over the two years emphasizes the important role of this parameter in their productions.
+Higher temperature can enhance the microbial activity needed to breakdown the organic mat-
+ter and hence increase CO2 production. The emission of N2O from soils is primarily caused by
+microbial nitrification and denitrification, both of which are controlled by temperature: more
+specifically, the lower the temperature, the lower the soil microbial activity, resulting in
+reduced N2O emissions [17]. Our previous study [54] conducted in South Dakota on fine silty
+soil reported that GHG emissions increased with the increase in soil temperature due to the
+increase in the microbial activity and C and N mineralization, causing an increase in GHG
+emissions, consistent with our results.
+
+The variation in soil CO2 fluxes under all crop phases appeared to be related to the trends
+
+in soil temperature or water content for both years. The peak of CO2 that observed in 2017
+and not in 2016 was a response to an increase in soil temperature after precipitation events.
+Soil CO2 from root respiration is a primary contributor to total soil respiration rates in most
+soils, it is likely that higher soil temperature increased root respiration and microbial activities
+which increased CO2 emission in this year compared to 2016. These results were supported by
+Lee et al. [55], who reported that a higher soil temperature corresponded with a higher soil res-
+piration rate due to the increase of the biological process. However, no significant effects of
+crop rotational diversity on the daily CO2 fluxes for each sampling date for each year in this
+study were found. In addition, no significant differences between all phases on cumulative
+CO2 fluxes were found, results that may be due to the absence effect of crop rotational diversity
+on soil temperature over the study period. However, Carvalho et al [56], Rochette and Janzen
+[57] and Brock et al [58] reported that the decomposition of the previous crop residues in the
+crop rotation can influence GHG fluxes. Other parameter that could influence soil respiration
+included SOC; however, there was no significant effect on SOC by crop rotational diversity.
+The variation in daily CH4 fluxes under crop phases were not similar over the two years,
+varying both positively (atmospheric source) and negatively (atmospheric sink). Generally,
+peaks of CH4 release were observed after rainfall events, while peaks of uptake corresponded
+with an increase in soil temperature. Ozlu and Kumar [54] and Lee et al. [55] reported that
+whether a soil is a source or a sink for CH4 depends on the activity of the CH4 release microor-
+ganisms (increases under anaerobic conditions) and the CH4 uptake microorganisms
+(increases under aerobic conditions). Although not significant, CH4 effluxes have negative
+peaks very much pronounced for corn and wheat compared to other crops. The reasons for
+higher soil CH4 uptake for corn and wheat than in other phases in this study were not known.
+No significant effects of crop rotational diversity on daily and cumulative CH4 fluxes were
+observed in this study, perhaps because of the non-significant effect of crop rotational diversity
+on soil water content. Similarly, Behnke et al. [20] conducted an experiment in Northwestern
+Illinois (cropping system) reported that a corn-soybean rotation had similar CH4 fluxes from
+silty clay loam soil compared to continuous corn or continuous soybean systems alone after 17
+years of rotation. In addition, crop rotational diversity did not affect soil bulk density (data not
+shown), which may explain the lack of effect from crop rotational diversity on CH4 fluxes in
+this study. In well-drained mineral soils, diffusion of CH4 flux into the soil is the main factor
+limiting the CH4 flux. Any changes in soil aeration can significantly affect the CH4 flux.
+
+Similar to the trend of the daily CO2 fluxes, the variation in N2O fluxes showed the same
+pattern under crop phases on all sampling dates for both years. The highest peak of N2O flux
+was attributed to the increase in soil temperature that occurred after heavy rainfall [59]. The
+N2O flux was correlated with soil temperature and water content, suggesting N mineralization,
+and nitrification/denitrification processes may occur simultaneously, resulting in greater N2O
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0217069 May 22, 2019
+
+12 / 18
+
+Crop rotation and grazing impact on greenhouse gas fluxes
+
+flux. A significant effect during this peak was observed, with pea/barley recording higher N2O
+flux than the other phases. Legumes can increase N2O emission through atmospheric N2 fixa-
+tion by the rhizobia living in the root nodules. This fixed N2 can be mineralized to release inor-
+ganic N producing N2O when nitrified [60–62]. However, no significant effect of crop
+rotational diversity on other daily N2O fluxes was found. Although daily N2O fluxes were
+higher in continuous spring wheat compared to spring wheat for many days during 2016 and
+2017, no significant differences in daily N2O fluxes between these two phases were observed.
+Unlike cumulative CO2 fluxes, pea/barley recorded higher cumulative N2O flux than other
+phases, perhaps due to the ability of pea/barley to fix N2, increasing N2O emissions compared
+to other phases as mentioned earlier. Leguminous crops can be a source of N2O emissions dur-
+ing residue decomposition because of their greater N concentration than non-leguminous
+crops. The fact that leguminous plots had higher TN than other phases may explain the signifi-
+cant increase in cumulative N2O fluxes from leguminous plots compared to other plots. Sainju
+et al. [9] reported increased accumulation of total organic C from legumes compared to non-
+legumes. Comparing the effect of mono-cropping with crop rotation, continuous spring wheat
+resulted in greater cumulative N2O fluxes compared to spring wheat. Soil grown with continu-
+ous corn emitted higher N2O emission than soil grown with corn in rotation [30, 24]. Other
+soil parameters (like soil aggregates and enzyme activities) that affect GHG flux were not mea-
+sured in this study. These properties may have been improved by crop rotation compared to
+mono-cropping as suggested by [63, 12], which can decrease soil N2O emissions.
+
+Effect of grazing on GHG fluxes
+
+The trend of soil CO2 fluxes under grazing treatments (grazed and ungrazed) appeared to be
+related to trends in soil temperature or water content for both years as the CO2 peaks under
+grazing were in response to an increase in the soil temperature that occurred after precipita-
+tion events. Wegner et al. [17], who conducted a study on fine silty soil in South Dakota from
+2013 to 2015, reported that higher soil temperature can cause an increase in CO2 fluxes due to
+the increase in microbial activity, C mineralization and root respiration, causing an increase in
+CO2 production. No significant effects of grazing on the daily CO2 fluxes for each sampling
+date for each year in this study were found. However, grazed plots recorded lower cumulative
+CO2 fluxes than ungrazed plots. Cumulative CO2 flux was reduced by grazing as a result of
+reduced C input since this biomass was removed by the grazing event, consistent with SOC
+being lower in grazed plot in 2016 (p = 0.0210). Cao et al. [64] reported that seasonal CO2 flux
+was significantly higher in a low grazed site (grazing for 13 years) in China than in a high
+grazed one, a difference they attributed to the lower SOC in the high grazed site. Tang et al.
+[40] reported that heavy-grazing for ten years decreased soil CO2 flux during spring-thaw
+period in desert steppe in China compared to ungrazed soils. It is possible that grazing in this
+study reduced the diffusion of CO2 fluxes in soil, resulting in lower cumulative CO2 fluxes
+from grazed plots compared to the ungrazed plots. The fact that grazed plots had higher soil
+bulk density than ungrazed plots in 2016 (p = 0.002) supports this conclusion. On the other
+hand, grazing did not affect daily and cumulative CH4, perhaps because of the similar soil
+water content between the grazing treatments. Paz-Ferreiro et al. [65] reported that sheep graz-
+ing for 14 years in Northern England (temperate weather) had no effect on CH4 fluxes com-
+pared to ungrazed site.
+
+The variation in N2O fluxes under grazing treatments showed the same pattern on all sam-
+
+pling dates for both years. Denef et al. [66] and Sainju et al. [16] reported that yearling steers
+feces and urine returned to the soil from grazing can enhance microbial activity and N miner-
+alization. However, grazed plots emitted similar cumulative N2O flux compared to ungrazed
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0217069 May 22, 2019
+
+13 / 18
+
+Crop rotation and grazing impact on greenhouse gas fluxes
+
+plots in this reported study. This result can be attributed to the lack effect from grazing on soil
+TN in 2016 (p = 0.341). Shaaban et al. [62] reported that soil TN content is critical in control-
+ling soil N2O emissions. On the other hand, Wolf et al. [42] reported that grazing decreased
+annual N2O fluxes compared to ungrazed plots, which was attributed to the increase in the soil
+water content in the ungrazed plots, stimulating denitrifying microbial activity, causing the
+increase in the N2O fluxes compared to grazed plots in this cited study.
+
+Because only three crops were grazed in this reported study, these findings are not applica-
+ble to all other plant species within the rotation. In addition, spring wheat in mono-cropping
+and rotation systems was used as a cash crop in this study. Therefore, comparing the effects of
+grazing a crop grown in rotation with a similar crop grown in mono-cropping on GHG fluxes
+was not evaluated. More research is required to evaluate the response of GHG emissions to
+grazing with different crops and soil types under different climatic conditions.
+
+Limitations of the study
+
+Very limited studies are conducted across the world to evaluate the impacts of ICL system on
+soil surface GHG emissions. Nonetheless, like many other studies, this study had two limita-
+tions. First, the GHG fluxes were measured only during the growing season; therefore, the
+effect of ICL system on GHG emission is not quite conclusive. Measurements of GHG emis-
+sions over the entire year may be required to evaluate the effect of ICL system on GHG emis-
+sions. Second, this study did not include the emissions from the livestock (enteric), which can
+be a critical component in addressing the overall goal of the ICL system. Despite these limita-
+tions, however, we believe that this study provides important observational data assessing the
+effects of ICL system on soil GHG emissions.
+
+Conclusions
+
+This study was conducted to assess the impact of crop rotational diversity and grazing under
+an ICL system on soil surface GHG emissions, and to compare the effects of crop rotation and
+mono-cropping on soil GHG emissions. Differences in weather conditions between the two
+studied years influenced soil temperature, which, in turn, affected GHG emissions. The find-
+ings indicated that crop rotational diversity did not affect cumulative CO2 and CH4 emissions.
+Mono-cropping (continuous spring wheat) recorded higher cumulative N2O fluxes than crop
+rotation (spring wheat). Grazing decreased cumulative CO2 flux compared to ungrazed, how-
+ever, cumulative N2O and CH4 fluxes were not affected by grazing. Further, long-term moni-
+toring of GHG fluxes from plots under crop rotation and grazing with different crops under
+different climatic conditions is required to explore sustainable strategies for mitigating the
+agricultural emissions.
+
+Supporting information
+
+S1 Table. Species of cover crops used in this study for 2016 and 2017.
+(PDF)
+
+S1 Fig. Soil temperature and water content as influenced by crop rotational diversity for
+the 2016 and 2017 growing seasons.
+(PDF)
+
+S2 Fig. Soil temperature and water content as influenced by grazing during the grazing
+period for 2016 and 2017.
+(PDF)
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0217069 May 22, 2019
+
+14 / 18
+
+Crop rotation and grazing impact on greenhouse gas fluxes
+
+S1 File. Daily means for greenhouse gas fluxes in 2016 and 2017 under different crop rota-
+tional diversity.
+(PDF)
+
+S2 File. Daily means for greenhouse gas fluxes in 2016 and 2017 under grazing.
+(PDF)
+
+Acknowledgments
+
+This work was supported by the USDA National Institute of Food and Agriculture, Coordi-
+nated Agricultural Projects (CAP) (Award No. 2016-68004-24768) and the project entitled
+‘‘Back to the Future: Enhancing food security and farm production with integrated crop-live-
+stock production systems”.
+
+Author Contributions
+
+Conceptualization: Sandeep Kumar.
+
+Data curation: Douglas G. Landblom.
+
+Formal analysis: Gandura Omar Abagandura.
+
+Funding acquisition: Sandeep Kumar.
+Investigation: Songul Şentu¨rklu¨, Sandeep Kumar, Douglas G. Landblom.
+
+Methodology: Douglas G. Landblom.
+
+Project administration: Sandeep Kumar.
+
+Software: Gandura Omar Abagandura, Navdeep Singh.
+
+Supervision: Kris Ringwall.
+
+Validation: Gandura Omar Abagandura, Sandeep Kumar.
+
+Writing – original draft: Gandura Omar Abagandura, Navdeep Singh.
+Writing – review & editing: Songul Şentu¨rklu¨, Sandeep Kumar, Douglas G. Landblom.
+
+References
+1.
+
+IPCC. 2007. Climate change 2007. The physical science basis. 4th assessment report. IPCC Secretar-
+iat, Geneva.
+
+2. USEPA. 2018. Sources of greenhouse gas emissions. Accessed October 1, 2018 United States Envi-
+
+ronmental Protection Agency.
+
+3. Buller LS, Bergier I, Ortega E, Moraes A. Bayma-Silva G, Zanetti MR. Soil improvement and mitigation
+
+of greenhouse gas emissions for integrated crop–livestock systems: Case study assessment in the
+Pantanal savanna highland, Brazil. Agricultural Systems. 2015; 137: 206–219.
+
+4. Cai Y, and Akiyama H. Nitrogen loss factors of nitrogen trace gas emissions and leaching from excreta
+
+patches in grassland ecosystems: A summary of available data. Sci. Total Environ. 2016; 572: 185–
+195. https://doi.org/10.1016/j.scitotenv.2016.07.222 PMID: 27498380
+
+5. Salton JC, Mercante FM, Tomazi M, Zanatta JA, Concenco G, Silva WM, et al. Integrated crop-livestock
+system in tropical Brazil: Toward a sustainable production system. Agric., Ecosyst. Environ. 2014; 190:
+70–79.
+
+6. Sulc RM, and Franzluebbers AJ. Exploring integrated crop–livestock systems in different ecoregions of
+
+the United States. Eur. J. Agron. 2014; 57: 21–30.
+
+7. Hafner S, Unteregelsbacher S, Seeber E, Lena B, Xu X, Li X, et al. Effect of grazing on carbon stocks
+
+and assimilate partitioning in a Tibetan montane pasture revealed by 13 CO2 pulse labeling. GCB Bioe-
+nergy. 2012; 18: 528–538.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0217069 May 22, 2019
+
+15 / 18
+
+Crop rotation and grazing impact on greenhouse gas fluxes
+
+8. Hewins DB, Lyseng MP, Schoderbek DF, Alexander M, Willms WD, Carlyle CN, et al. Grazing and cli-
+mate effects on soil organic carbon concentration and particle-size association in northern grasslands.
+Sci. Rep. 2018; 8: 1336. https://doi.org/10.1038/s41598-018-19785-1 PMID: 29358591
+
+9. Sainju UM, Stevens WB, Caesar-TonThat T, Liebig MA, Wang J. Net global warming potential and
+
+greenhouse gas intensity influenced by irrigation, tillage, crop rotation, and nitrogen fertilization. J. Envi-
+ron. Qual. 2014; 43: 777–788. https://doi.org/10.2134/jeq2013.10.0405 PMID: 25602807
+
+10. King AE, and Blesh J. Crop rotations for increased soil carbon: perenniality as a guiding principle. Eco-
+
+logical Applications. 2018; 28: 249–261. https://doi.org/10.1002/eap.1648 PMID: 29112790
+
+11. Sainju UM. A global meta-analysis on the impact of management practices on net global warming
+
+potential and greenhouse gas intensity from cropland soils. PloS one. 2016; 11.
+
+12. Kremen C, and Miles A. Ecosystem services in biologically diversified versus conventional farming sys-
+
+tems: benefits, externalities, and trade-offs. Ecology and Society. 2012; 17.
+
+13. Sainju UM. Can novel management practice improve soil and environmental quality and sustain crop
+
+yield simultaneously?. PloS one. 2016; 11.
+
+14. Benitez MS, Osborne SL, Lehman RM. Previous crop and rotation history effects on maize seedling
+
+health and associated rhizosphere microbiome. Sci. Rep. 2017; 7: 15709. https://doi.org/10.1038/
+s41598-017-15955-9 PMID: 29146930
+
+15. West TO, and Post WM. Soil organic carbon sequestration rates by tillage and crop rotation. Soil Sci.
+
+Soc. Am. J. 2002; 66: 1930–1946.
+
+16. Sainju UM, Stevens WB, Caesar-TonThat T, Liebig MA. Soil greenhouse gas emissions affected by irri-
+
+gation, tillage, crop rotation, and nitrogen fertilization. J. Environ. Qual. 2012; 41: 1774–1786. https://
+doi.org/10.2134/jeq2012.0176 PMID: 23128735
+
+17. Wegner BR, Chalise KS, Singh S, Lai L, Abagandura GO, Kumar S, et al. Response of soil surface
+
+greenhouse gas fluxes to crop residue removal and cover crops under a corn–soybean rotation. J. Envi-
+ron. Qual. 2018; 47:1146–1154. https://doi.org/10.2134/jeq2018.03.0093 PMID: 30272788
+Lehman RM, Osborne SL, Duke SE. Diversified no-till crop rotation reduces nitrous oxide emissions,
+increases soybean yields, and promotes soil carbon accrual. Soil Sci. Soc. Am. J. 2017; 81: 76–83.
+
+18.
+
+19. Halvorson AD, Del Grosso, SJ. Nitrogen, tillage, and crop rotation effects on carbon dioxide and meth-
+
+ane fluxes from irrigated cropping systems. J. Environ. Qual. 2009; 38: 023–2033.
+
+20. Behnke GD, Zuber SM, Pittelkow CM, Nafziger ED, Villamil MB. Long-term crop rotation and tillage
+
+effects on soil greenhouse gas emissions and crop production in Illinois, USA. Agric., Ecosyst. Environ.
+2018; 261: 62–70.
+
+21. Omonode RA, Smith DR, Ga´l A, Vyn TJ. Soil nitrous oxide emissions in corn following three decades of
+
+tillage and rotation treatments. Soil Sci. Soc. Am. J. 2011; 75: 152–163.
+
+22. Wilson HM, and Al-Kaisi MM. Crop rotation and nitrogen fertilization effect on soil CO2 emissions in cen-
+
+tral Iowa. Applied soil ecology. 2008; 39: 264–270.
+
+23. Barton L, Murphy DV, Butterbach-Bahl K. Influence of crop rotation and liming on greenhouse gas emis-
+
+sions from a semi-arid soil. Agric., Ecosyst. Environ. 2013; 167: 23–32.
+
+24. Behnke GD, Pittelkow CM, Nafziger ED, Villamil MB. Exploring the relationships between greenhouse
+
+gas emissions, yields, and soil properties in cropping systems. Agriculture. 2018; 8: 62.
+
+25. Barsotti JL, Sainju UM, Lenssen AW, Montagne C, Hatfield PG. Net greenhouse gas emissions affected
+
+by sheep grazing in dryland cropping systems. Soil Sci. Soc. Am. J. 2013; 77: 1012–1025.
+
+26. Drewry JJ, Cameron KC, Buchan GD. Pasture yield and soil physical property responses to soil com-
+
+paction from treading and grazing—a review. Soil Res. 2008; 46: 237–256.
+
+27. Nawaz MF, Bourrie G, Trolard F. Soil compaction impact and modelling. A review. Agron. Sustainable
+
+Dev. 2013; 33: 291–309.
+
+28. Wei D, Wang Y, Wang Y, Liu Y, Yao T. Responses of CO2, CH4 and N2O fluxes to livestock exclosure
+
+29.
+
+in an alpine steppe on the Tibetan Plateau, China. Plant and Soil. 2012; 359: 45–55.
+Zhou X, Wan S, Luo Y. Source components and interannual variability of soil CO2 efflux under experi-
+mental warming and clipping in a grassland ecosystem. GCB Bioenergy. 2007; 13: 761–775.
+
+30. Campbell B, Chen L, Dygert C, Dick W. Tillage and crop rotation impacts on greenhouse gas fluxes
+
+from soil at two long-term agronomic experimental sites in Ohio. J. Soil Water Conserv. 2014; 69: 543–
+552.
+
+31. Chiavegato MB, Powers WJ, Carmichael D, Rowntree JE. Pasture-derived greenhouse gas emissions
+
+in cow-calf production systems 1. Journal of animal science. 2015; 93: 1350–64. https://doi.org/10.
+2527/jas.2014-8134 PMID: 26020912
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0217069 May 22, 2019
+
+16 / 18
+
+Crop rotation and grazing impact on greenhouse gas fluxes
+
+32.
+
+33.
+
+34.
+
+36.
+
+Jia B, Zhou G, Wang Y, Wang F, Wang X. Effects of temperature and soil water-content on soil respira-
+tion of grazed and ungrazed Leymus chinensis steppes, Inner Mongolia. Journal of Arid Environments.
+2006; 67: 60–76.
+Liu Y, Yan C, Matthew C, Wood B, Hou F. Key sources and seasonal dynamics of greenhouse gas
+fluxes from yak grazing systems on the Qinghai-Tibetan Plateau. Sci. Rep. 2017; 7: 40857. https://doi.
+org/10.1038/srep40857 PMID: 28106070
+Zhong L, Du R, Ding K, Kang X, Li FY, Bowatte S, et al. Effects of grazing on N2O production potential
+and abundance of nitrifying and denitrifying microbial communities in meadow-steppe grassland in
+northern China. Soil Biol. Biochem. 2014; 69: 1–10.
+
+35. Boon A, Robinson S, Chadwick D, Cardenas L. Effect of cattle urine addition on the surface emissions
+
+and subsurface concentrations of greenhouse gases from a UK lowland peatland. InEGU General
+Assembly Conference Abstracts. 2014.
+da Silva Cardoso A, de Figueiredo Brito L, Janusckiewicz ER, da Silva Morgado E, Barbero RP,
+Koscheck JFW, et al. Impact of grazing intensity and seasons on greenhouse gas emissions in tropical
+grassland. Ecosystems. 2017; 20: 845–859.
+
+37. Kebreab E, Clark K, Wagner-Riddle C, France J. Methane and nitrous oxide emissions from Canadian
+
+animal agriculture: A review. Can. J. Anim. Sci. 2006; 86: 135–157.
+
+38. Rafique R, Hennessy D, Kiely G. Nitrous oxide emission from grazed grassland under different man-
+
+agement systems. Ecosystems. 2011; 14: 563–582.
+
+39. Chen W, Wolf B, Zheng X, Yao Z, Butterbach-Bahl K, Bru¨ggemann N, et al. Carbon dioxide emission
+from temperate semiarid steppe during the non-growing season. Atmos. Environ. 2013; 64: 141–149.
+Tang S, Zhang Y, Guo Y, Zhai X, Wilkes A, Han G, et al. Changes of soil CO2 flux under different stock-
+ing rates during spring-thaw period in a northern desert steppe, China. Atmos. Environ. 2015; 122:
+343–348.
+
+40.
+
+41. Wu X, Yao Z, Bru¨ggemann N, Shen ZY, Wolf B, Dannenmann M, et al. Effects of soil moisture and tem-
+
+perature on CO2 and CH4 soil–atmosphere exchange of various land use/cover types in a semi-arid
+grassland in Inner Mongolia, China. Soil Biol. Biochem. 2010; 42: 773–787.
+
+42. Wolf B, Zheng X, Bru¨ggemann N, Chen W, Dannenmann M, Han X, et al. Grazing-induced reduction of
+natural nitrous oxide release from continental steppe. Nature. 2010; 464: 881. https://doi.org/10.1038/
+nature08931 PMID: 20376147
+
+43. Wang X, Huang D, Zhang Y, Chen W, Wang C, Yang X, et al. Dynamic changes of CH4 and CO2 emis-
+sion from grazing sheep urine and dung patches in typical steppe. Atmos. Environ. 2013; 79: 576–581.
+44. Nelson DW, and Sommers LE. Total carbon, organic carbon, and organic matter. Methods of soil analy-
+
+sis part 3—chemical methods. 1996: 961–1010.
+
+45. Grossman RB, and Reinsch TG. 2.1 Bulk density and linear extensibility. Methods of soil analysis: Part
+
+4 physical methods. 2002: 201–228.
+
+46. Parkin TB, and Venterea RT. USDA-ARS GRACEnet project protocols chapter 3. Chamber-based
+
+trace gas flux measurements. 2010; 4: 1–39.
+Fu H, Zhang G, Zhang F, Sun Z, Geng G, Li T. Effects of continuous tomato monoculture on soil micro-
+bial properties and enzyme activities in a solar greenhouse. Sustainability. 2017; 9: 317.
+Fu X, Wang J, Sainju UM, Liu W. Soil carbon fractions in response to long-term crop rotations in the
+Loess Plateau of China. Soil Sci. Soc. Am. J. 2017; 81: 503–513.
+
+49. Risch AC, Jurgensen MF, Frank DA. Effects of grazing and soil micro-climate on decomposition rates in
+
+a spatio-temporally heterogeneous grassland. Plant and Soil. 2007; 298: 191–201.
+Lecain DR, Morgan JA, Schuman GE, Reeder JD, Hart RH. Carbon exchange rates in grazed and
+ungrazed pastures of Wyoming. J. Range Manage. 2000: 199–206.
+Zhao Y, Peth S, Reszkowska A, Gan L, Kru¨mmelbein J, Peng X, et al. Response of soil moisture and
+temperature to grazing intensity in a Leymus chinensis steppe, Inner Mongolia. Plant and soil. 2011;
+340: 89–102.
+
+47.
+
+48.
+
+50.
+
+51.
+
+52. Drury CF, Reynolds WD, Tan CS, McLaughlin NB, Yang XM, Calder W, et al. Impacts of 49–51 years of
+
+fertilization and crop rotation on growing season nitrous oxide emissions, nitrogen uptake and corn
+yields. Can. J. Soil Sci. 2014; 94: 421–433.
+
+53. Hegymegi P, Ga´l A, Czinkota I, Vyn T. Soil gas emission measurements in long term tillage experi-
+
+ments. Cereal Res. Commun. 2005; 33: 373–376.
+
+54. Ozlu E, and Kumar S. Response of surface GHG fluxes to long-term manure and inorganic fertilizer
+application in corn and soybean rotation. Sci. Total Environ. 2018; 626: 817–825. https://doi.org/10.
+1016/j.scitotenv.2018.01.120 PMID: 29898556
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0217069 May 22, 2019
+
+17 / 18
+
+Crop rotation and grazing impact on greenhouse gas fluxes
+
+55.
+
+Lee J, McKnight J, Skinner LS, Sherfy A, Tyler D, English B. Soil carbon dioxide respiration in switch-
+grass fields: assessing annual, seasonal and daily flux patterns. Soil Systems. 2018; 2: 13.
+
+56. Carvalho AM, Bustamante MM, Coser TR, Marchão RL, Malaquias JV. Nitrogen oxides and CO2 from
+
+an Oxisol cultivated with corn in succession to cover crops. Pesquisa Agropecua´ria Brasileira. 2016;
+51: 1213–1222.
+
+57. Rochette P, and Janzen HH. Towards a revised coefficient for estimating N2O emissions from legumes.
+
+Nutr. Cycling Agroecosyst. 2005; 73: 171–179.
+
+58. Brock PM, Muir S, Herridge DF, Simmons A. Cradle-to-farmgate greenhouse gas emissions for 2-year
+
+wheat monoculture and break crop–wheat sequences in south-eastern Australia. Crop Pasture Sci.
+2016; 67: 812–822.
+
+59. Chatskikh D, and Olesen JE. Soil tillage enhanced CO2 and N2O emissions from loamy sand soil under
+
+spring barley. Soil Tillage Res. 2007; 97: 5–18.
+
+60. Ghosh S, Majumdar D, Jain M. Nitrous oxide emissions from kharif and rabi legumes grown on an allu-
+
+vial soil. Biol. Fertil. Soils. 2002; 35: 473–478.
+
+61. Schwenke GD, Herridge DF, Scheer C, Rowlings DW, Haigh BM, McMullen KG. Soil N2O emissions
+under N2-fixing legumes and N-fertilised canola: a reappraisal of emissions factor calculations. Agric.,
+Ecosyst. Environ. 2015; 202: 232–242.
+
+62. Shaaban M, Peng Q, Hu R, Lin S, Zhao J. Soil nitrous oxide and carbon dioxide emissions following
+incorporation of above-and below-ground biomass of green bean. Int. J. Environ. Sci. Technol. 2016;
+13: 179–186.
+Tiemann L, Grandy A, Atkinson E, Marin-Spiotta E, McDaniel M. Crop rotational diversity enhances
+belowground communities and functions in an agroecosystem. Ecol. Lett. 2015; 18: 761–771. https://
+doi.org/10.1111/ele.12453 PMID: 26011743
+
+63.
+
+64. Cao G, Tang Y, Mo W, Wang Y, Li Y, Zhao X. Grazing intensity alters soil respiration in an alpine
+
+meadow on the Tibetan plateau. Soil Biol. Biochem. 2004; 36: 237–243.
+
+65. Paz-Ferreiro J, Medina-Rolda´n E, Ostle NJ, McNamara NP, Bardgett RD. Grazing increases the tem-
+perature sensitivity of soil organic matter decomposition in a temperate grassland. Environ. Res. Lett.
+2012; 7: 014027.
+
+66. Denef K, Archibeque S, Paustian K. Greenhouse gas emissions from US agriculture and forestry: A
+
+review of emission sources, controlling factors, and mitigation potential. Interim report to USDA under
+Contract# GS23F8182H. URL http://www.usda.gov/oce/climate_change/techguide/Denef_et_al_
+2011_Review_of_reviews_v1.0.pdf. 2011.
+
+PLOS ONE | https://doi.org/10.1371/journal.pone.0217069 May 22, 2019
+
+18 / 18
+
+

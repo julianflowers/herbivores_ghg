@@ -1,11 +1,29 @@
 ## snowball sampling with R
 
-library(myScrapers); library(semanticscholar);library(tidygraph); library(ggraph)
-library(tidyverse)
+library(myScrapers); library(semanticscholar);library(tidygraph); library(ggraph); library(roadoi)
+library(tidyverse);library(fulltext)
 
 ## let's start with the references from the systematic map paper
+search <- "Regenerative rotational grazing management of dairy sheep increases springtime grass production and topsoil carbon storage"
+test_ss <- semanticscholar::S2_search_papers(search)
 
-test_ss <- semanticscholar::S2_search_papers("What evidence exists on the impacts of large herbivores on climate change? A systematic map protocol")
+details <- semanticscholar::S2_paper(test_ss$data$paperId)
+
+details$doi
+
+roadoi_addin()
+
+ft <- roadoi::oadoi_fetch("10.1016/J.ECOLIND.2021.107484")
+ft$best_oa_location[[1]]$url_for_landing_page
+
+fulltext::ft_get(details$doi, type = "xml" ,verbose = TRUE) 
+
+|>
+  ft_collect()
+ft$best_oa_location[[1]] |>
+  glimpse()
+
+glimpse(ft)
 
 https://api.semanticscholar.org/graph/v1/paper/466446d58e6e5e97e447e88dd9d4b05d4d4b4229/citations
 

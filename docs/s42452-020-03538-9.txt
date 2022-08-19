@@ -1,0 +1,1501 @@
+Research Article
+
+The effect of exclosures on restoration of soil properties in Ethiopian 
+lowland conditions
+
+Kiros Abay1 · Sarah Tewolde‑Berhan2 · Kassa Teka3
+
+Received: 28 April 2020 / Accepted: 17 September 2020 / Published online: 6 October 2020 
+© Springer Nature Switzerland AG 2020
+
+Abstract
+Land degradation is one of the environmental challenges in the semi-arid areas of Africa such as Ethiopia. To tackle this 
+problem, exclosures have been established on degraded open grazing lands. However, there was paucity of research 
+regarding their ecological merits, especially in the lowlands of Tigray, Northern Ethiopia. Hence, this study was con-
+ducted to explore the effect of conversion of grazing lands to an exclosure on soil chemical properties and soil organic 
+carbon stock (SOC stock) in Tselemti district, which was taken as testing site to represent the lowlands of Tigray. A total 
+of 36 plots (18 from grazing land and 18 from exclosure), measuring 20 m × 20 m, were established along 6 transects for 
+soil sampling. From each plot, 1 composite soil sample for analyses of total nitrogen (TN), available phosphorus (avP), 
+cation exchange capacity (CEC), electrical conductivity (EC), available potassium (avK), soil pH and soil organic carbon 
+content (SOC) and 1 undisturbed soil sample for soil bulk density (BD) determination was collected from a depth of 
+0–30 cm. Hence, a total of 72 soil samples (36 for nutrients and 36 for bulk density analysis) were analyzed in the labo-
+ratory. Paired samples t test statistics at 5% level of significance using SPSS version 20 was used to compare the land 
+uses. Pearson correlation test was also used to analyze the relationship among the different soil properties. The study 
+showed that the conversion of open grazing land to an exclosure enhanced most of the soil properties except soil pH, 
+avP and EC. The results revealed that the exclosure had significantly (p < 0.05) higher SOC (1.89 ± 0.1 and 1.29 ± 0.06) 
+and SOC stock (73.61 ± 4.9 and 45.64 ± 2.57 Mg ha−1), indicating an improvement by 46.5 and 61.3% as compared to the 
+grazing land. Similarly, it enhanced CEC, TN and avK level significantly (p < 0.05) by 16.8, 45.5 and 34%, respectively. It 
+can be concluded that conversion of open grazing lands to exclosures is a viable option to restore degraded soils. For 
+this reason, additional exclosures have to be established on previously degraded open grazing lands in the area and 
+areas with similar biophysical setup.
+
+Keywords  Lowlands · Nutrients · Restoration · Soil organic carbon stock
+
+Abbreviations
+TN 
+avP 
+CEC 
+EC 
+avK 
+SOC 
+BD 
+
+ Total nitrogen
+ Available phosphorus
+ Cation exchange capacity
+ Electrical conductivity
+ Available potassium
+ Soil organic carbon content
+ Bulk density
+
+1  Introduction
+
+Land degradation, soil erosion and deforestation are seri-
+ous problems in Ethiopia [1]. The country loses about 
+1493 million tons of top soil annually [2]. On the other 
+hand, FAO [3] reported an estimated deforestation rate of 
+140,000–200,000 ha per annum and as a consequence, the 
+forest cover declined from 15.1 million ha in 1990 to 12.2 
+
+ *  Kiros Abay, kirosabay01@gmail.com | 1Shire-Maitsebri Agricultural Research Center, Tigray Agricultural Research Institute, 
+Shire Endaselassie, Ethiopia. 2Department of Food Science and Post-Harvest Technology, Mekelle University, Mekelle, 
+Ethiopia. 3Department of Land Resources Management and Environmental Protection, Mekelle University, Mekelle, Ethiopia.
+
+SN Applied Sciences (2020) 2:1771 | https://doi.org/10.1007/s42452-020-03538-9
+
+Research Article 
+
+SN Applied Sciences (2020) 2:1771 | https://doi.org/10.1007/s42452-020-03538-9
+
+million ha in 2010. Tigray, Northern Ethiopia, is one of the 
+most environmentally degraded regions in Ethiopia, char-
+acterized by erratic rainfall, overgrazing, deforestation, soil 
+erosion, soil moisture stress, loss of biodiversity and soil 
+fertility decline [4].
+
+To overcome these challenges, conversion of previously 
+open grazing lands to exclosures was one, among many 
+environmental rehabilitation efforts that have been pro-
+moted and implemented in the region in the last 30 and 
+more years [5, 6]. Exclosures are areas exempted from the 
+interference of humans and domestic animals with the 
+goal of reducing land degradation and promoting natural 
+regeneration of plants of formerly degraded grazing lands.
+Studies conducted by authors [6–12] have shown the 
+positive role of conversion of grazing lands to exclosures 
+on restoration of soils that were previously degraded in 
+the region. However, most of these studies focused in 
+the mid (1500–2300 m above sea level) and highlands 
+(> 2300 m above sea level) with limited focus to the low-
+lands (< 1500 m above sea level) such as the study area, 
+Tselemti district.
+
+Traditionally,  the  lowlands  of Tigray  are  based  on 
+extensive livestock production, with higher livestock 
+population than the highlands, whereas the farmers in 
+the highlands have been mainly focusing on crop pro-
+duction due to land scarcity. This might bring a differ-
+ence in the grazing intensity and stocking rate between 
+the highland and lowland areas of the region. Accord-
+ing to Amiri et al. [13], soil properties can be influenced 
+by different grazing intensities and pointed out that 
+heavily grazed areas (> 3 sheep ha−1) negatively influ-
+enced soil properties than moderately grazed areas (> 1 
+sheep ha−1). Heavy grazing can negatively influence veg-
+etation by destroying and/or disrupting the soil struc-
+ture, enhancing organic matter oxidation, and resulting 
+in the changes of soil properties storage than light graz-
+ing. Furthermore, as a result of their high livestock popu-
+lation, some farmers in the lowlands of Tigray, including 
+the study area, are pessimistic towards exclosure and are 
+complaining about the management system and its ben-
+efits. They are not sure that it is giving them more benefit 
+than if it was used for livestock rearing, since they do 
+not like to be deprived from environmental resources 
+where it is a means of pursuing their livelihoods. Besides, 
+according to Evans et al. [14], in drier and arid ecologi-
+cal regions, there might be trade-offs between manag-
+ing lands for rehabilitation and animal production. The 
+same is true in the lowlands of Tigray. In addition, accu-
+mulation of soil nutrients can vary between lowlands 
+and highlands due to varying decomposition rates since 
+it could affect the nutrients turnover and difference in 
+plant productivity [15]. According to the authors, the 
+effect of exclosure under different agro-ecologies varied 
+
+significantly, and reported that plots located in lowland 
+site contained higher amounts of soil nutrients than 
+their upland counterparts at equal topographic position 
+and similar treatment. These all imply that the effect of 
+livestock exclusion can vary between lowland and high-
+lands at similar management practices.
+
+The  effectiveness  of  restoration  options  can  be 
+affected by the differences in ecological and socio-eco-
+nomic conditions, political and historical contexts and 
+level of management [16]. The effect of land use conver-
+sion on soil nutrients and soil organic carbon stock (SOC 
+stock) is variable and it depends on soil type, land use 
+history, vegetation type, climate, topography and cur-
+rent land use and land cover [17, 18]. According to Meku-
+ria et al. [19], the effectiveness of establishing exclosures 
+to restore degraded open grazing lands varies across dif-
+ferent localities due to heterogeneity of exclosure man-
+agement, soil, climate and topography. Furthermore, 
+studies on the effect of conversion of grazing lands to 
+exclosures on soil chemical properties and soil carbon 
+stock have not been consistent. For instance:
+
+ 
+
+ 
+
+i.  Mekuria et al. [7, 20] and Yimer et al. [21] reported an 
+increase in SOC stock and SOC, while the soil param-
+eters were not significantly influenced by establish-
+ing exclosures [22].
+
+ii.  Tiki et al. [23] and Gebreanenia [24] reported an 
+enhancement in TN level, whereas Munie [16] and 
+Mekuria et al. [22] demonstrated a decrease and 
+Yimer et al. [21] indicated a non-significant result.
+
+  iii.  Bahiru [25] and Mekuria [26] indicated an increase 
+in avP level, while Legesse [27], Mekuria et al. [22] 
+reported a decrease. Asmamaw [28] also report a 
+non- significant result.
+
+  iv.  Tadesse  [29]  reported  an  increase  in  avK  level, 
+whereas Mekuria et al. [22] and Asmamaw [28] dem-
+onstrated higher in communal grazing land than in 
+exclosures and a non-significant effect, respectively.
+  v.  Mekuria et al. [30] pointed out an enhancement in 
+CEC level, while Abiyu et al. [31] and Mekuria et al. 
+[22] reported an insignificant result.
+
+These  results  imply  a  lack  of  clear  relationship 
+between grazing exclusion and soil nutrients, which 
+may result from the contributions of different climate, 
+soil type, landscape position, management practices 
+[32], years of grazing exclusion [33], and grassland eco-
+system types [34].
+
+For this reason, generalization is difficult unless sev-
+eral and representative studies are conducted across dif-
+ferent locations in the region, since the agro-ecologies 
+and climatic conditions varies highly in the region. This 
+
+SN Applied Sciences (2020) 2:1771 | https://doi.org/10.1007/s42452-020-03538-9 
+
+Research Article
+
+together with the inconclusiveness of the evidence indi-
+cates that there is a need to study the changes in soil 
+properties and soil carbon stock following the establish-
+ment of exclosures. Therefore, studies which investigate 
+the role of conversion of previously degraded grazing 
+lands  to  exclosures  under  different  agro-ecologies, 
+socio-economic conditions, soil types and level of man-
+agement are crucial. Moreover, quantifying the effect 
+of establishing exclosures for ecological restoration is 
+critical to provide important source of information for 
+policy makers and planners to make informed decisions 
+on the future fates of exclosures and for understand-
+ing the appropriate management and conservation of 
+degraded communal grazing lands, designing ways of 
+improving soil properties and soil carbon stock through 
+exclosure establishment and create better awareness to 
+the community to enhance their effort of land rehabili-
+tation. Hence, this study was conducted to explore the 
+effect of conversion of previously degraded communal 
+grazing land into an exclosure on soil chemical proper-
+ties and SOC stock in Tselemti district, Northern Ethiopia, 
+representing the lowlands of Tigray region.
+
+Based on the stated goals of restoration by exclosures, 
+we hypothesize that exclosures can be effective in restor-
+ing degraded soil chemical properties and soil organic 
+stock. Finally, the study will answer the research ques-
+tion ‘‘do exclosures established in lowland areas of Tigray 
+
+region, Northern Ethiopia, have a potential to improve soil 
+chemical properties and SOC stock?’’.
+
+2   Materials and methods
+
+2.1   Study area
+
+The study was conducted at Mai-Saba exclosure and its 
+adjacent grazing land, Sekota-Mariam Kebelle (the small-
+est political administration units in Ethiopia) in Tselemti 
+district, Tigray, Northern Ethiopia (Fig. 1), which is 380 km 
+far from Mekelle, capital city of Tigray region, towards 
+North West. The district is located at 13° 05′ latitude and 
+38° 18′ longitude at an altitude of 1350 m above sea level 
+(m a.s.l) [35]. Areas characterized at an elevation ranging 
+from 500 to 1500 m a.s.l. are classified as lowland or locally 
+called ‘Kolla’ [36]. The exclosure was protected (closed) 
+against any disturbance from humans and livestock since 
+1999.
+
+Five years (2012–2016) temperature data show that 
+the temperature in the study area varies from 15.6 °C in 
+January to 38.6 °C in April. The dry season occurs between 
+November  and  April,  while  the  rainy  season  occurs 
+between June and September (Fig. 2). The study sites are 
+characterized by rugged topography where the land is 
+undulating with mountainous terrain and flat plains.
+
+Fig. 1   Map showing the location of the study area. Town = Maitsebri town
+
+Research Article 
+
+SN Applied Sciences (2020) 2:1771 | https://doi.org/10.1007/s42452-020-03538-9
+
+)
+
+m
+m
+
+(
+ 
+F
+R
+
+400
+350
+300
+250
+200
+150
+100
+50
+0
+
+RF(mm)
+T.max
+T.min
+
+45
+40
+35
+30
+25
+20
+15
+10
+5
+0
+
+)
+
+C
+
+º
+ 
+(
+ 
+e
+r
+u
+t
+a
+r
+e
+p
+m
+e
+T
+
+Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec
+
+Fig. 2   Five  years  (2012–2016)  mean  monthly  rainfall  (mm)  and 
+maximum and minimum mean monthly temperatures of the study 
+area. Source: Tigray meteorological services center
+
+A range of soil types are found in the district, but the domi-
+nant soil type on the escarpment slopes where this study was 
+carried out are Cambisols [37]. These soils are soils which are at 
+the beginnings of horizon differentiation in the subsoil evident 
+from changes in structure and color, characterized by slight or 
+moderate weathering of parent material and brownish discolor-
+ation as well [38]. The soil texture of these soils is loamy to clayey 
+and the texture of the subsurface horizons are sandy loam or 
+finer. Ziziphus spina- christi, Balanites aegyptiaca, Stereospermum 
+kunthianum and Acacia abyssinica are the most common woody 
+vegetation species in the exclosure and Anogeisus leiocarpus 
+was the most dominant species in the grazing land. Of these 
+species, Ziziphus spina-christi, Balanites aegyptiaca and Acacia 
+abyssinica are nitrogen fixers. The community mainly depends 
+on mixed agriculture (both crop and animal husbandry) for live-
+lihood. The dominant crops grown are Sorghum bicolour L., Zea 
+mays L. and Eleusine coracana L. [35] and the major livestock are 
+donkeys, cattle, chicken and goats.
+
+2.2   Description and land management history 
+
+of both the land uses
+
+Exclosures in the study area refer to areas exempted from the 
+interference of humans and domestic animals with the goal 
+of environmental rehabilitation, which are implemented 
+on community land, most frequently on very steep and 
+degraded slopes using community regulation by appointing 
+guards. The exclosures are totally protected from any live-
+stock and human activities until the community and local 
+administration agree on its full rehabilitation. When all par-
+ties agree that the land is rehabilitated, the community uses 
+the accessible part of the exclosures to harvest dry herbs 
+during the dry season for livestock feed using cut and carry 
+system. Harvesting is operated when herbs are dry and grass 
+harvesting (using a cut and carry system) is allowed and is 
+conducted once a year, starting 4–5 years after exclosure 
+establishment. However, tree cutting is also not allowed. 
+The area in this study was identified and prioritized for 
+establishing exclosures as a joint initiative of governmental 
+
+institutions mainly of development agents of office of agri-
+culture and rural development and local communities. Then, 
+final decisions were taken at a general meeting of the com-
+munity so that to make the protection effective. Bylaws were 
+devised through participatory process. For instance, there is 
+a penalty when agreed rules are broken, e.g., when people 
+illegally graze livestock or cut trees at night or when guards 
+were not around. The current management-related activities 
+relate to only guarding and harvesting grass annually. The 
+long-term plans of establishing exclosures are for environ-
+mental rehabilitation and economic benefit. Once the exclo-
+sures are established, they will not be re-used for grazing.
+
+Open grazing land represents the communal lands that 
+are not privately owned, yet belonging to the communities 
+whose members have equal access rights to the communal 
+resources. On these lands, unlimited access for free graz-
+ing is practiced, while illegal tree cutting is not allowed. 
+According to Mekuria et al. [7], the stocking rate of com-
+munal grazing lands is 1.4 livestock ha−1 year−1. The area of 
+the exclosure and the grazing land in this study is 20.3 and 
+28.8 ha, respectively. Accordingly, a total of 40.3 livestock 
+could graze throughout the year. The communal grazing 
+land was observed to be under heavy grazing pressure 
+and severe land degradation. Rill and sheet erosion in the 
+grazing land were observed to be relatively more common 
+compared to the exclosure. In addition, it was character-
+ized by low vegetation cover, sediment deposits and higher 
+proportions of bare soil than the exclosure.
+
+The  exclosure  in  this  study  was  protected  (closed) 
+against any disturbance from humans and livestock since 
+1999. Before establishment, the exclosure and the adjacent 
+grazing land had similar conditions, because the exclo-
+sure was established on parts of the degraded communal 
+grazing land that was used for livestock grazing which 
+means the same site was divided into both exclosure and 
+open grazing land and established in steep, eroded, and 
+degraded areas that have been used for grazing in the 
+past. Hence, it is assumed that the exclosure and the graz-
+ing lands were homogenous before the establishment of 
+the exclosure. The distance between the exclosure and the 
+adjacent grazing land was in the range of 50–100 m. The 
+elevation and slope gradient of the sampling plots in both 
+the land uses range between 1196–1405 m and 7–44%, 
+respectively, with similar aspect (towards west) (Table 1). 
+The abundant plant species were found to be naturally 
+regenerated, while no planted seedlings were observed in 
+both the land uses. Besides, no other management prac-
+tices such as physical structures were observed.
+
+2.3   Experimental design and data collection
+
+Prior to this study, discussion with the local residents and 
+experts from all administration levels, who have extensive 
+
+SN Applied Sciences (2020) 2:1771 | https://doi.org/10.1007/s42452-020-03538-9 
+
+Research Article
+
+Table 1   Characteristics of the 
+sampling plots in both the 
+studied land uses
+
+Characteristics
+
+Land use
+
+Exclosure (n = 18)
+
+Open grazing land (n = 18)
+
+Minimum
+
+Maximum Mean ± SEM Minimum
+
+Maximum Mean ± SEM
+
+1405
+40
+
+1298 ± 19
+23 ± 2.9
+
+1402
+44
+
+1300 ± 18
+25 ± 3
+
+Elevation (m.a.s.l) 1196
+Slope (%)
+Aspect
+Soil type
+Area of each plot
+
+8
+Towards west
+Cambisols
+20 m × 20 m
+
+n represents number of plots in each land use
+
+1201
+7
+Towards west
+Cambisols
+20 m × 20 m
+
+knowledge  of  study  sites,  was  done. The  experts  and 
+administrators were briefed on the study’s objective to 
+get permission since humans interference is not allowed 
+in the closed area. Hence, they permit us to conduct the 
+study in both the land uses. Visual field observations and 
+a reconnaissance survey were conducted in the second 
+week of November 2016 to collect the baseline informa-
+tion and determine the number of transect lines and plots 
+to be laid.
+
+Space for time substitution approach [39] was used to 
+detect changes in soil chemical properties and SOC stock 
+after conversion of grazing land to exclosure. According 
+to Pickett [40], the approach has been a very widely used 
+to the study of long-term phenomena in ecology and it 
+has been used most often and most successfully, in sys-
+tems acknowledged to have strong successional dynam-
+ics and has been long recognized as having potential for 
+understanding community temporal dynamics. Accord-
+ing to the author, it has been used to assess the impact of 
+human-induced changes in the environment where pre-
+impact records are sparse or nonexistent. Furthermore, 
+this chronological method is widely adopted in applied 
+ecosystem  research  [41],  considered  a “retrospective” 
+research method, because it compares existing conditions 
+with original conditions and treatments and it is an effec-
+tive way of studying changes over time since disturbance 
+or land use change in a region [39, 42, 43]. The implicit 
+assumption of this approach is that exclosures and paired 
+adjacent grazing lands had similar initial conditions such 
+that the changes in soil properties after a time is a conse-
+quence of conversion process from open grazing lands to 
+exclosures [20] and not by inherent site variability.
+
+A systematic random sampling technique was used to 
+collect soil samples. Three line transects parallel to each 
+other and across the slope were laid in the exclosure and 
+open grazing lands systematically at 150 meters interval. 
+That is, we delineated three landscape positions (upper 
+slope, mid-slope and foot slope) which were parallel to 
+each other and to the topography of the landscape (Fig. 3). 
+
+The upper slope position is the upper most position of 
+each land use and it receives little or no overland flow but 
+may contribute runoff to down slope areas. The middle 
+slope position receives overland flow from the upper slope 
+and contributes runoff to the foot slope. The foot slope 
+represents the lowest part of each study site and receives 
+overland flow from both mid and upper slopes. Along each 
+transect line, six sample plots measuring 20 m × 20 m [44] 
+were laid down at 100 meters intervals from each other. 
+The first plot was laid down randomly in all of the tran-
+sects and the other plots systematically at equal interval in 
+each of the transects. To avoid the effect of disturbances, 
+the first and the last line transects and plots were laid at 
+a distance of at least 30 m from the edges from all sides 
+in both of the land uses. From each plot, soil samples and 
+all related information were collected from December to 
+January 2016.
+
+Thus, a total of 36 plots (18 plots from each land use 
+
+type) were used to collect soil samples.
+
+2.4   Soil sampling
+
+In each of the 36 plots, five soil pits, from four corners 
+and at the center, with an area of 1 m × 0.6 m, following 
+the recommendation by Yimer et al. [21] were dug in an 
+‘X’ design in both the land uses. From each pit, soil sam-
+ples from a depth of 0–30 cm [45] were collected and 
+thoroughly mixed in a large bucket to form one com-
+posite soil sample per plot for TN, SOC, avK, avP, EC, CEC 
+and soil pH analysis. According to Badgery et al. [46], 
+effect of land use management changes are more likely 
+to occur in the upper 0–30 cm profile. In one of the five 
+pits, an undisturbed soil samples using core sampler of 
+height 5 cm and diameter of 5 cm (5 cm × 5 cm) were 
+also collected from each plot for BD determination. 
+Hence, a total of 72 soil samples (36 for nutrients and 
+36 for BD analysis), from both land uses, were collected 
+and submitted to Mekelle Soil Research Center labora-
+tory, Tigray region. The collected composite soil samples 
+
+Research Article 
+
+SN Applied Sciences (2020) 2:1771 | https://doi.org/10.1007/s42452-020-03538-9
+
+Fig. 3   Sampling across slope positions (a) and the study area (b). Each landscape position (LA, MA, UA) represents the position from which 
+12 sampling plots (6 from exclosure and 6 from grazing land) were taken
+
+were air dried, grounded and passed through a 2 mm 
+sieve prior to analysis.
+
+2.6   Soil organic carbon stock determination
+
+2.5   Soil laboratory analysis
+
+The collected soil samples were analyzed in laboratory 
+using the methods given in Table 2.
+
+Table 2   Methods used to analyze the soil properties in laboratory
+
+Soil property
+
+Method used
+
+References
+
+TN
+avP
+SOC
+Soil pH
+avK
+EC
+CEC
+BD
+
+Kjeldahl method
+Olsen-P method
+Walkley–Black method
+Water suspension method
+Flame photometry
+Sodium saturation ratio
+Ammonium acetate method
+Core method
+
+[47]
+[48]
+[49]
+[50]
+[51]
+[52]
+[53]
+[54]
+
+TN = Total nitrogen (g/100 g), avP = Available phosphorus (mg kg−1), 
+SOC = Soil  organic  carbon  (g/100  g),  avK = Available  potassium 
+(mg  kg−1),  EC = Electrical  conductivity  (dS  m−1),  CEC = Cation 
+exchange capacity (cmol (+) kg−1), BD = Bulk density (g cm−3)
+
+To determine the SOC stock, the dried, 2 mm sieved soil 
+was weighed and the volume of coarse fragments was 
+recorded for coarse fragments correction. Then, it was 
+calculated using the following formula:
+
+SOC stock = [WBC × BD × D × (1 −
+
+CF
+
+100)] × 100
+
+(1)
+
+where WBC (%) = Walkley–Black carbon content of the fine 
+fraction (< 2 mm), D = soil depth (cm), BD = soil bulk density 
+(g cm−3); CF =  % of volume of coarse fragments. The volu-
+metric content of the coarse fragments (> 2 mm material) 
+was calculated from a density of rock fragments value of 
+2.65 g cm−3 [55].
+
+2.7   Statistical analysis
+
+Data were first checked for normality. Those data which 
+were not normally distributed were log transformed. All 
+variables were subjected to paired samples t test statistics 
+
+SN Applied Sciences (2020) 2:1771 | https://doi.org/10.1007/s42452-020-03538-9 
+
+Research Article
+
+A
+
+B
+
+90
+
+80
+
+70
+
+60
+
+50
+
+40
+
+30
+
+20
+
+10
+
+0
+
+ 
+
+h
+t
+p
+e
+d
+
+ 
+l
+i
+o
+s
+ 
+
+m
+c
+0
+3
+-
+0
+
+ 
+e
+h
+t
+ 
+n
+
+i
+ 
+
+k
+c
+o
+t
+s
+ 
+n
+o
+b
+r
+a
+c
+ 
+c
+i
+
+n
+a
+g
+r
+o
+ 
+ 
+l
+i
+o
+S
+
+)
+1
+-
+a
+h
+g
+M
+
+ 
+
+(
+
+at 5% level of significance using SPSS version 20 to com-
+pare the land uses. The mean of the analyzed soil proper-
+ties of the 18 plots from the exclosure were compared to 
+the mean of the 18 plots in grazing land. Pearson correla-
+tion test was also used to analyze the relationship among 
+the different soil properties.
+
+3   Results and discussions
+
+Significantly (p < 0.001) higher SOC was measured in the 
+exclosure (1.89 ± 0.1 g/100 g) as compared to the graz-
+ing land (1.29 ± 0.06 g/100 g) (Table 3). Likewise, con-
+version of the grazing land to exclosure had brought 
+significant  (p < 0.001)  variation  in  SOC  stock.  It  has 
+improved from 45.64 ± 2.57 Mg ha−1 in the grazing land 
+to 73.61 ± 4.94 Mg ha−1 in the exclosure (Fig. 4), showing an 
+increase by 61.3% and indicates the land use conversion 
+has added an average of 1.65 Mg ha−1 of SOC stock per 
+annum. The reasons for lower SOC and SOC stock in the 
+grazing land might be due to loss of soil structure by live-
+stock free grazing and removal of vegetation by both live-
+stock and human, which might have exposed soil materials 
+to erosion [56], whereas higher amount of organic carbon 
+in the exclosure might be due to higher leaf litter, reduced 
+soil erosion as a result of higher vegetation cover as well 
+as low agitation in the soils of the exclosure. This corre-
+sponds with the findings of Gebremariam and Kebede [57] 
+in Tahtay Adiabo district, Northern Ethiopia, who reported 
+an enhancement of SOC stock by 25%; Gebreanenia [24] 
+an increase of SOC by 80% in Alamata district, Southern 
+Tigray. Authors [7, 8, 11, 20] also reported from different 
+districts of Tigray region that conversion of grazing lands 
+to exclosures improved SOC stock and SOC significantly. 
+Similarly, Yimer et al. [21] from Dodota sire district, Ethio-
+pia, pointed out that an exclosure enhanced SOC by 13.5% 
+compared to grazing land.
+
+The  conversion  of  open  grazing  land  to  an  exclo-
+sure  has  significantly  (p < 0.05)  improved  the  TN 
+level  from  0.11 ± 0.01  g/100  g  in  the  grazing  land  to 
+0.16 ± 0.02 g/100 g in the exclosure (Table 3). This result 
+indicated that conversion of the grazing land to exclosure 
+
+Grazing land
+
+Exclosure
+
+Land uses
+
+Fig. 4   Effect  of  conversion  of  open  grazing  land  to  exclosure  on 
+SOC  stock  (Mg  ha−1).  Different  letters  represent  significant  differ-
+ence between the land uses. Error bars denote standard error
+
+converted the low level of nitrogen to optimum level. 
+According to ATA [58], TN is low if is 0.1–0.15% and opti-
+mum if it is 0.15–3.0%. This could be due to higher soil 
+organic matter content and the presence of nitrogen fix-
+ing plants in the exclosure compared to the grazing land. 
+Pearson correlation matrix (Table 4) also showed that 
+TN was positively and significantly associated with SOC 
+(r = 0.746, p < 0.01). According to Niknahad et al. [59], soil 
+organic matter is the most important source of TN; hence, 
+changes in soil TN are likely related to organic matter 
+change in rangelands. This confirms the finding of Gebre-
+anenia [24], who reported an enhancement by more than 
+twofold in Southern Tigray and Mureithi et al. [60] by 83% 
+
+Table 3   Comparison of soil chemical properties between exclosure and grazing land at 0–30 cm depth (Mean ± SEM)
+
+LUT
+
+Soil parameters
+
+Soil pH
+
+EC (ds m−1)
+
+CEC (cmol(+) kg−1)
+
+TN (g/100 g)
+
+avP (mg kg−1)
+
+avK (mg kg−1)
+
+SOC (g/100 g)
+
+EX (n = 18)
+GL (n = 18)
+p values
+
+6.74 ± 0.03a
+6.82 ± 0.04a
+0.191
+
+0.14 ± 0.01a
+0.16 ± 0.01a
+0.167
+
+35.53 ± 1.06a
+30.41 ± 1.39b
+0.003
+
+0.16 ± 0.02a
+0.11 ± 0.01b
+0.023
+
+5.18 ± 0.25a
+4.52 ± 0.32a
+0.082
+
+63.27 ± 0.54a
+47.21 ± 0.46b
+0.000
+
+1.89 ± 0.11a
+1.29 ± 0.06b
+0.000
+
+Means with the same superscript letters are not significantly different at p < 0.05
+LUT Land use type, EX Exclosure, GL Grazing land, n represents number of plots
+
+Research Article 
+
+SN Applied Sciences (2020) 2:1771 | https://doi.org/10.1007/s42452-020-03538-9
+
+Table 4   Pearson correlation 
+matrix among different soil 
+properties
+
+Soil pH
+
+EC
+
+avP
+
+TN
+
+avK
+
+CEC
+
+SOC
+
+Soil pH
+EC
+avP
+TN
+avK
+CEC
+SOC
+
+1.00
+− 0.230
+0.145
+0.372
+0.454
+0.223
+0.329
+
+1.00
+− 0.271
+− 0.380
+− 0.501*
+− 0.107
+− 368
+
+1.00
+0.400
+0.322
+0.369
+0.362
+
+1.00
+0.900**
+0.711**
+0.746**
+
+1.00
+0.731**
+0.763**
+
+1.00
+0.837**
+
+1.00
+
+EC Electrical conductivity, avP available phosphorus, TN total nitrogen, avK available potassium, CEC cat-
+ion exchange capacity, SOC soil organic carbon
+*Correlation is significant at the 0.05 level
+**Correlation is significant at the 0.01 level
+
+in semi-arid range land of Kenya. Other prior studies [6, 
+23], also indicated a positive impact of exclosures on soil 
+nitrogen content. Nonetheless, it contradicts a report by 
+Munie [16], from South Western Ethiopia, who pointed out 
+that TN in the soil decreased by 50% after conversion of 
+grazing land into exclosure and Yong-Zhong et al. [61] and 
+Yimer et al. [21], who reported that exclosures and graz-
+ing lands were not significantly different in TN % level. The 
+difference from this study could be due to difference in 
+rate of decomposition of soil organic matter as a result of 
+difference in temperature, rainfall and soil pH. For instance, 
+Munie ([16] conducted the study in Illubabor zone, South 
+Western Ethiopia, at an elevation of 1800 m.a.s.l, with a 
+minimum and maximum annual temperature of 12.7 and 
+25.6 °C which is lower than in this study. Besides, the study 
+area was more acidic (4.3–6.7) than in this study. Yimer 
+et al. [21], from Dodota Sire, Arsi zone (with an elevation 
+of 1635–1795 m.a.s.sl and annual rainfall of 500–700 mm), 
+also reported a non-significant difference between the 
+two land uses. According to Pineiro et al. [62], a difference 
+in temperature could bring a difference in rate of decom-
+position of soil organic matter and in turn the level of TN. 
+Soil acidity can also adversely affect the nitrogen level as 
+well. A study conducted in Mongolia, Northern China, has 
+also shown that the land use conversion didn’t affect the 
+TN level significantly [61]. The study area, Mongolia, has 
+different and lowest mean temperature (6.5 °C) and rainfall 
+(366 mm) than the area in this study.
+
+The result demonstrated that conversion of open graz-
+ing lands to an exclosure had no significant ((p > 0.05) 
+effect on the level of avP. However, the mean value was 
+slightly higher in the exclosure than in the open grazing 
+land. The numerical, but not statistical difference in phos-
+phorus level between the land uses could be due to addi-
+tion of animal manure to the grazing land which in turn 
+could slightly increase the avP level since interference of 
+animals is allowed in the grazing land. According to Munie 
+[16], faeces of animals could enhance the level of soil 
+
+nutrients in grazing lands. Generally, the avP in the study 
+area is classified as acutely deficient, indicating that there 
+is high deficiency of avP in the study area. According to 
+ATA [58], majority of Tigray region soils, including the study 
+district, were categorized under ‘very low’ (0–15 mg g−1) 
+status. The present study is in agreement with the findings 
+of Asmamaw [28]; Lu et al. [63] and Umer and Sinore [64], 
+who did not report a significant difference between the 
+land uses in their avP level. In contrast to these findings, 
+Bahiru [25] and Mekuria [26] reported that the conversion 
+of open grazing lands into exclosures enhanced the level 
+of avP and Legesse [27] found a higher value of avP in 
+communal grazing land compared with 22 years old exclo-
+sure. In addition, Ajorlo et al. [65], from Malaysia reported 
+significantly higher AvP in grazed areas than exclosures. 
+According to Prasad and Power [66], the presence of phos-
+phorus content depends upon a number of factors such 
+as vegetation type, soil texture, climate and drainage. This 
+might bring a difference between the result in this study 
+and other various prior studies.
+
+Available potassium in the exclosure ranged from 59.6 
+to 67.2 mg kg−1, with a mean value of 63.27 ± 0.54 mg kg−1, 
+while it ranges from 43.4 to 50.5, with a mean value of 
+47.21 ± 0.46 mg kg−1) in the grazing land and it was signifi-
+cantly (p < 0.001) higher in the exclosure than the grazing 
+land (Table 3). The lower available potassium content of 
+the grazing land could be due to higher soil leaching rates. 
+According to Hosseinzadeh et al. [67], grazing can cause 
+higher soil leaching rates and in turn lower potassium con-
+tent since it is cashed more easily than other nutrients. 
+Moraes and Dynia [68] considered K as the most easily 
+leached cation due to its displacement to the soil solu-
+tion and to its percolation. Legesse [27], also pointed out 
+that because of its high mobility in the soil, avK is most 
+susceptible to leaching losses, which might be the reason 
+for the decline of this vital nutrient in free grazing land. 
+The finding in this study corroborates with prior studies 
+at different districts in Ethiopia [11, 27, 29].
+
+SN Applied Sciences (2020) 2:1771 | https://doi.org/10.1007/s42452-020-03538-9 
+
+Research Article
+
+The process of conversion of open grazing land to exclo-
+sure has improved the CEC level significantly (p < 0.05). The 
+mean value has increased from 30.41 ± 1.39 cmol (+)/kg) in 
+the grazing land to 35.53 ± 1.06 cmol (+)/kg) in the exclo-
+sure (Table 3), indicating an enhancement of 16.8%. The 
+difference in CEC level between the land use types may be 
+attributed to the higher soil organic matter content in the 
+exclosure. According to Moges et al. [69], the level of CEC 
+of soils depends mainly on the amount of soil organic mat-
+ter available in the soil. This is also supported by correla-
+tion matrix (Table 4) that showed  positive and significant 
+association of CEC with SOC (r = 0.837, p < 0.01), reflecting 
+that the increase in soil organic matter could increase the 
+CEC level. The present study supports the findings of dif-
+ferent authors [16, 30, 64], who reported higher CEC in 
+exclosures of different ages than their adjacent open graz-
+ing areas. However, it is not consistent with a finding by 
+Abiyu et al. [31] and Oduor et al. [70] at South Wello Zone, 
+Ethiopia and Northwestern Kenya, respectively, who found 
+that exclosures and grazing lands didn’t vary significantly 
+in their CEC level and Mekuria et al. [22], who pointed out 
+that grazing lands showed higher CEC level than 7 year old 
+exclosure. Such variation in the changes in soil CEC level 
+across different study sites might be due to difference in 
+the rainfall and temperature which determines the rate of 
+decomposition of soil organic matter [62].
+
+Though  not  significant  (p > 0.05),  the  grazing  land 
+had slightly higher EC level (0.16 ± 0.01 ds m−1) than the 
+exclosure (0.14 ± 0.01 ds m−1) (Table 3). The insignificant 
+higher soil salinity in the grazing land could be due to the 
+absence of foliage vegetation cover which leads to rela-
+tively higher evaporation and poor infiltration. This result 
+comes to an agreement with a finding by Gebreanenia 
+[24], who indicated that conversion of open grazing land 
+to an exclosure decreased the EC level by 10%, but the 
+difference was not statistically significant. Similar results 
+were also reported from previous studies [29, 64]. How-
+ever, the present finding was not consistent with a find-
+ing by Munie [16], who reported that EC was significantly 
+higher in exclosure than grazing land.
+
+The conversion of the land uses didn’t bring significant 
+(p > 0.05) change in soil pH level (Table 3), though the graz-
+ing land had numerically higher soil pH than exclosure. 
+The numerically but not statistically lower soil pH in the 
+exclosure could be due to more root biomass and active 
+microorganism metabolism in the rhizosphere, which 
+helps to reduce pH level as a result of extensive secretion 
+of organic acids from roots and amount of  CO2 released 
+from roots and microorganisms [61, 71, 72]. This result is 
+in-line with the result found by Mureithi et al. [60], who 
+reported that conversion of grazing lands into exclosures 
+didn’t affect soil pH significantly, but was not consist-
+ent with a study by Mekuria et al. [22], who found that 
+
+exclosures of age 4–7 years had significantly higher soil 
+pH than communal grazing lands and 2-year old exclosure. 
+Umer and Sinore [64] also reported a significantly higher 
+soil pH in an exclosure than the grazing land in southern 
+Ethiopia after six years of exclusion.
+
+4   Conclusions
+
+The  conversion  of  open  grazing  land  to  an  exclosure 
+improved most of the soil properties except soil pH, EC 
+and avP. The land use conversion enhanced SOC stock and 
+soil properties like SOC, TN, av. K and CEC significantly. 
+From the result, it can be concluded that establishment 
+of exclosures on degraded communal grazing lands is a 
+viable option to enhance degraded soils. As the present 
+study focused only on soil chemical properties and soil 
+organic carbon stock, further studies on fauna and micro-
+organisms, erosion control, hydrology, downstream agri-
+cultural production and socio-economic factors analysis 
+that determine the sustainability of the land use systems 
+need to be undertaken.
+
+Acknowledgements  The  authors  are  grateful  to  the  Ecological 
+Organic Agriculture (EOA) Project for financial support. We also 
+express sincere thanks to the village extension agents and adminis-
+trators and inhabitants of the study area for providing information.
+
+Authors’ contributions  KA, ST and KT designed the study. KA col-
+lected the soil samples and conducted the laboratory experiment. 
+KA and ST analyzed the data. KA, ST and KT wrote the manuscript. 
+All authors read and approved the final manuscript.
+
+Funding  Ecological Organic Agriculture (EOA) project funded the 
+research work.
+
+Availability of data and materials  Upon request, the data and materi-
+als used in this article are available from the corresponding author.
+
+Compliance with ethical standards 
+
+Conflict of interest  The authors declared that they have no conflict 
+of interest.
+
+References
+
+  1.  Haile G, Lemenhi M, Itanna F, Senbeta F (2014) Impacts of land 
+uses changes on soil fertility, carbon and nitrogen stock under 
+small holder farmers in Central highlands of Ethiopia: implica-
+tion for sustainable agricultural land scape management around 
+Butajira Area. N Y Sci J 7(2):27–44
+
+  2.  Yitbarek TW, Belliethathan S, Stringer LC (2012) The onsite cost 
+of gully erosion and cost-benefit of gully rehabilitation: a case 
+study in Ethiopia. Land Degrad Dev 23(2):157–166. https ://doi.
+org/10.1002/ldr.1065
+
+Research Article 
+
+SN Applied Sciences (2020) 2:1771 | https://doi.org/10.1007/s42452-020-03538-9
+
+  3.  FAO (2010) Global forest resources assessment-country report 
+
+Ethiopia. Food and Agriculture Organization (FAO), Rome
+
+  4.  Tadesse D (2014) Impacts and impediments of community par-
+ticipation on soil and water conservation to sustainable land 
+resource management in LaelayMaychew Woreda, Tigray, Ethio-
+pia. M.Sc.thesis. Addis Ababa University. Addis Ababa, Ethiopia
+  5.  Nedessa B, Ali J, Nyborg I (2005) Exploring ecological and socio-
+economic issues for the improvement of area enclosure man-
+agement. A case study from Ethiopia. Dry lands Coordination 
+Group, report no. 38.1-55
+
+  6.  Mekuria W, Aynekulu E (2011) Exclosure land management for 
+restoration of the soils in degraded communal grazing lands in 
+northern Ethiopia. Land Degrad Dev. https ://doi.org/10.1002/
+ldr.1146
+
+  7.  Mekuria W, Veldkamp E, Corre MD, Haile M (2011) Restoration 
+of ecosystem carbon stocks following exclosure establishment 
+in communal grazing lands in Tigray. Ethiopia. Soil Sci Soc Am J 
+75(1):246–256. https ://doi.org/10.2136/sssaj 2010.0176
+
+  8.  Hishe S, Lyimo J, Bewket W (2017) Soil and water conservation 
+effects on soil properties in the Middle Silluh Valley, northern 
+Ethiopia. Int Soil Water Conserv Res 5(3):231–240. https ://doi.
+org/10.1016/j.iswcr .2017.06.005
+
+  9.  Gebremedihin KM, Birhane E, Tadesse T, Gbrewahid H (2018) 
+Restoration of degraded drylands through exclosures enhanc-
+ing woody species diversity and soil nutrients in the highlands 
+of Tigray, Northern Ethiopia. Nat Conserv Res 3(1):1–20. https ://
+doi.org/10.24189 /ncr.2018.001
+
+ 10.  Welemariam M, Kebede F, Bedadi B, Birhane E (2018) Exclosures 
+backed up with community-based soil and water conservation 
+practices increased soil organic carbon stock and microbial bio-
+mass carbon distribution, in the northern highlands of Ethiopia. 
+Chem Biol Technol Agric 5(1):12. https ://doi.org/10.1186/s4053 
+8-018-0124-1
+
+ 11.  Welemariam M, Kebede F, Bedadi B, Birhane E (2018) Effect of 
+community-based soil and water conservation practices on soil 
+glomalin, aggregate size distribution, aggregate stability and 
+aggregate-associated organic carbon in northern highlands 
+of Ethiopia. Agric Food Secur 7(1):42. https ://doi.org/10.1186/
+s4006 6-018-0193-1
+
+ 12.  Manaye A, Negash M, Alebachew M (2019) Effect of degraded 
+land rehabilitation on carbon stocks and biodiversity in semi-
+arid region of Northern Ethiopia. For Sci Technol 15(2):70–79. 
+https ://doi.org/10.1080/21580 103.2019.15927 87
+
+ 13.  Amiri F, Ariapor A, Fadai S (2008) Effects of livestock grazing on 
+vegetation composition and soil moisture properties in grazed 
+and non-grazed range site. J Biol Sci 8(8):1289–1297
+
+ 14.  Evans CRW, Krzic M, Broersma K, Thompson DJ (2012) Long-term 
+grazing effects on grassland soil properties in southern British 
+Columbia. Can J Soil Sci 92(4):685–693
+
+ 15.  Chaneton EJ, Lavado RS (1996) Soil nutrients and salinity after 
+long-term grazing exclusion in a Flooding Pampa grassland. J 
+Range Manag 49:182–187
+
+ 16.  Munie SA (2013) Effect of plantation forests on soil chemical 
+properties, soil temperature and regeneration of woody plants: 
+a comparative analysis. Ph.D. dissertation. Mendel University in 
+Brno, Czech Republic, pp 1–111
+
+ 17.  Marland G, Garten CT, Post WM, West TO (2004) Studies on 
+enhancing carbon sequestration in soils. Energy 29(9):1643–
+1650. https ://doi.org/10.1016/j.energ y.2004.03.066
+
+ 18.  Conant RT, Ogle SM, Paul EA, Paustian K (2011) Measuring and 
+monitoring soil organic carbon stocks in agricultural lands for 
+climate mitigation. Front Ecol Environ 9(3):169–173. https ://doi.
+org/10.1890/09015 3
+
+ 19.  Mekuria W, Langan S, Noble A, Johnston R (2017) Soil restoration 
+after seven years of exclosure management in northwestern 
+
+Ethiopia.  Land  Degrad  Dev  28(4):1287–1297.  https ://doi.
+org/10.1002/ldr.2527
+
+ 20.  Mekuria W, Veldkamp E, Haile M (2009) Carbon stock changes 
+with relation to land use conversion in the low lands of Tigray, 
+Ethiopia. In: Conference on international research on food secu-
+rity, natural resource management and rural development. Uni-
+versity of Hamburg, Germany. Retrieved from http://www.trope 
+ntag.de/2009/abstr acts/full/184.pdf. Accessed 8 Jan 2020
+
+ 21.  Yimer F, Alemu G, Abdelkadir A (2015) Soil property variations 
+in relation to exclosure and open grazing land use types in the 
+Central Rift Valley area of Ethiopia. Environ Syst Res 4(1):17. https 
+://doi.org/10.1186/s4006 8-015-0041-2
+
+ 22.  Mekuria W, Langan S, Noble A, Johnston R (2014) Soil organic 
+carbon and nutrient contents are not influenced by exclosures 
+established in communal grazing land in Nile basin, Northern 
+Ethiopia. In: International conference on advances in agricul-
+tural, biological & environmental sciences (AABES-2014) Octo-
+ber, pp 15–16. Retrieved from https ://iicbe .org/uploa d/5899C 
+10140 45.pdf. Accessed 28 Jan 2020
+
+ 23.  Tiki L, Tadesse M, Yimer F (2015) Effects of integrating different 
+soil and water conservation measures into hillside area closure 
+on selected soil properties in Hawassa Zuria District, Ethiopia. J 
+Soil Sci Environ Manag 6(10):268–274
+
+ 24.  Gebreanenia G (2018) The role of area enclosure on the reha-
+bilitation of woody species composition and its socio-economic 
+importance in Gratkahssu Forest of Southern Tigray. M.sc. thesis, 
+Addis Ababa University. Retrieved from http://213.55.95.56/bitst 
+ream/handl e/12345 6789/18316 /Gebre medhi n%20Geb reane  
+nia%20%20%20201 8.pdf?seque nce=1&isAll owed=y. Accessed 
+6 Jan 2020
+
+ 25.  Bahiru K M (2008) Enclosure as a viable option for rehabilitation 
+of degraded lands and biodiversity conservation: the case of 
+Kallu Woreda, Southern Wello. Addis Ababa University School 
+of Graduate Studies, Ethiopia, pp 1–99. Retrieved from https ://
+pdfs.seman ticsc holar .org/3be0/25718 0cd04 daf0d 07bfb ac2d4 
+c942f 1830f 2.pdf
+
+ 26.  Mekuria  W  (2013)  Changes  in  regulating  ecosystem  ser-
+vices following establishing exclosures on communal graz-
+ing  lands  in  Ethiopia:  a  synthesis.  J  Ecosyst.  https ://doi.
+org/10.1155/2013/86073 6
+
+ 27.  Legesse AT (2008) Area closure as a strategy for land manage-
+ment: a case study at Kelala Dalacha enclosure in the central rift 
+valley of Ethiopia. M.Sc. thesis, Addis Ababa University, Ethiopia. 
+Retrieved from http://etd.aau.edu.et/bitst ream/handl e/12345 
+6789/3910/Abiy%20Tse targa chew.pdf?seque nce=1&isAll  
+owed=y. Accessed 12 Jan 2020
+
+ 28.  Asmamaw MM (2011) The role of area closures for soil and 
+Woody Vegetation  Rehabilitation  in  Kewot  District,  North 
+Shewa. M.Sc. Thesis. Addis Ababa University, Ethiopia, pp 1–93. 
+Retrieved from http://etd.aau.edu.et/bitst ream/handl e/12345 
+6789/6574/Mengi stu%20Asm amaw.pdf?seque nce=1&isAll  
+owed=y. Accessed 10 Feb 2020
+
+ 29.  Tadesse AY (2011) The impact of area enclosure on soil qual-
+ity and farmers perception: the case of Tachignaw Gimbichu 
+enclosure in Shashogo woreda, Southern Ethiopia. M.Sc. thesis. 
+Addis Ababa University, Addis Ababa. Ethiopia. Retrieved from 
+http://213.55.95.56/bitst ream/handl e/12345 6789/3862/Abine 
+t%20Tad esse.pdf?seque nce=1&isAll owed=y. Accessed 15 Jan 
+2020
+
+ 30.  Mekuria W, Wondie M, Amare T, Wubet A, Feyisa T, Yitaferu B 
+(2018) Restoration of degraded landscapes for ecosystem ser-
+vices in North-Western Ethiopia. Heliyon 4(8):e00764. https ://
+doi.org/10.1016/j.heliy on.2018.e0076 4
+
+ 31.  Abiyu A, Lemenih M, Gratzer G, Aerts R, Teketay D, Glatzel 
+G  (2011)  Status  of  native  woody  species  diversity  and  soil 
+
+SN Applied Sciences (2020) 2:1771 | https://doi.org/10.1007/s42452-020-03538-9 
+
+Research Article
+
+characteristics in an exclosure and in plantations of Eucalyptus 
+globulus and Cupressus lusitanica in Northern Ethiopia. Mt Res 
+Dev 31(2):144–152. https ://doi.org/10.1659/MRD-JOURN AL-D-
+10-00116 .1
+
+ 32.  McSherry ME, Ritchie ME (2013) Effects of grazing on grassland 
+
+soil carbon: a global review. Glob Change Biol 19:1347–1357
+
+ 33.  Wang  C,  Han  X,  Xing  X  (2010)  Effects  of  grazing  exclusion 
+on soil net nitrogen mineralization and nitrogen availabil-
+ity in a temperate steppe in northern China. J Arid Environ 
+74(10):1287–1293
+
+ 34.  Luan J, Cui L, Xiang C, Wu J, Song H, Ma Q, Hu Z (2014) Differ-
+ent grazing removal exclosures effects on soil C stocks among 
+alpine  ecosystems  in  east  Qinghai-Tibet  Plateau.  Ecol  Eng 
+64:262–268
+
+ 35.  Darcha G, Abay K, Birhane N (2018) Evaluation of Awir (Ipomoea 
+carnea) for Gully Rehabilitation through different propagation 
+techniques in North Western Zone of Tigray. J Agric Ecol Res Int. 
+https ://doi.org/10.9734/JAERI /2018/39723 
+
+ 36.  Hurni H, Berhe WA, Chadhokar P, Daniel D, Gete Z, Grunder M, 
+Kassaye G (2016) Soil and water conservation in ethiopia: guide-
+lines for development agents. Second revised edition. Bern, 
+Switzerland: Centre for Development and Environment (CDE), 
+University of Bern, with Bern Open Publishing (BOP). 134 pp. 
+https ://boris .unibe .ch/80013 /1/Guide lines _Soil_and_Water 
+_Conse rvati on_in_Ethio pia_2016.pdf
+
+ 37.  FAO (1998) Land and Water Digital Media series: the soil and 
+terrain data base for north eastern Africa. FAO (land and water 
+digital media series no. 2). FAO, Rome
+
+ 38.  FAO (Food and Agriculture Organization of the United Nations) 
+
+(2006). World reference base for soil resources
+
+ 39.  Fukami T, Wardle DA (2005) Long-term ecological dynamics: 
+reciprocal insights from natural and anthropogenic gradients. 
+Proc R Soc B Biol Sci 272(1577):2105–2115
+
+ 40.  Pickett ST (1989) Space-for-time substitution as an alternative 
+to long-term studies. In: Long-term studies in ecology. Springer, 
+New York, pp 110–135
+
+ 41.  Fang W, Peng SL (1997) Development of species diversity in the 
+restoration process of establishing a tropical man-made forest 
+ecosystem in China. For Ecol Manag 99(1–2):185–196
+
+ 42.  Li XR, Kong DS, Tan HJ, Wang XP (2007) Changes in soil and 
+vegetation following stabilisation of dunes in the southeastern 
+fringe of the Tengger Desert, China. Plant Soil 300(1–2):221–231
+ 43.  Sparling GP, Schipper LA, Bettjeman W, Hill R (2004) Soil quality 
+monitoring in New Zealand: practical lessons from a 6-year trial. 
+Agr Ecosyst Environ 104(3):523–534
+
+ 44.  Mekuria W, Yami M (2013) Changes in woody species composi-
+tion following establishing exclosures on grazing lands in the 
+lowlands of Northern Ethiopia. Afr J Environ Sci Technol 7(1):30–
+40. https ://doi.org/10.5897/AJEST 11.378
+
+ 45.  Food and Agriculture Organization of the United Nations (FAO) 
+(2019) Measuring and modelling soil carbon stocks and stock 
+changes in livestock production systems—Guidelines for assess-
+ment (Draft for public review). Livestock Environmental Assess-
+ment and Performance (LEAP) Partnership. FAO, Rome, Italy. 
+Retrieved from http://www.fao.org/3/CA293 4EN/ca293 4en.
+pdf. Accessed 18 Jan 2020
+
+ 46.  Badgery WB, Simmons AT, Murphy BW, Rawson A, Andersson KO, 
+Lonergan VE (2014) The influence of land use and management 
+on soil carbon levels for crop-pasture systems in Central New 
+South Wales, Australia. Agr Ecosyst Environ 196:147–157. https 
+://doi.org/10.1016/j.agee.2014.06.026
+
+ 47.  Jackson M (1958) Soil chemical analysis, 6th edn. Englewood 
+
+Cliffs, Prentice Halls Inc., p 498
+
+ 48.  Olsen SR, Sommers LE (1982) Phosphorus. In: Page AL, Miller 
+LH, Keeney DR (eds) Methods of soil analysis. Part 2. Chemical 
+
+and microbiological properties. Agronomy monograph, vol 9. 
+American Society of Agronomy, Madison, pp 403–430
+
+ 49.  Walkley A, Black IA (1934) Chromic acid titration for determina-
+
+tion of soil organic matter. Soil Sci 63:239–251
+
+ 50.  Mclean EO (1982) Soil pH and lime requirement. Methods of soil 
+analysis. Chemical and microbiological properties. Agronomy 
+monograph, seconded, vol 9. American Society of Agronomy, 
+Madison, pp 199–224
+
+ 51.  Black CA (1965) Methods of soil analysis: physical and miner-
+alogical properties, including statistics of measurement and 
+sampling. Part 2. Chemical and microbiological properties. 
+Agronomy 9:1387–1388
+
+ 52.  Van Reeuwijk LP (1992) Procedures for soil analysis, 3rd edn. 
+International  Soil  Reference  Centre  Wageningen  (ISRIC), 
+Wageningen
+
+ 53.  Houba V, Vander L, Novazamsky I, Walinga I (1989) Plant and 
+soil analysis procedures. Department of Soil Science and Plant 
+Nutrition Agriculture University, Wageningen
+
+ 54.  Grossman RB, Reinsch TG (2002) Bulk density and linear exten-
+
+sibility. Methods Soil Anal 4 Phys Methods 5:201–228
+
+ 55.  Pradhan BM, Awasthi KD, Bajracharya RM (2012) Soil organic 
+carbon stocks under different forest types in Pokhare Khola 
+sub-watershed: a case study from Dhading district of Nepal. 
+WIT Trans Ecol Environ 157:535–546. https ://doi.org/10.2495/
+AIR12 0471
+Itanna F, Olsson M, Stahr K (2011) Effect of land use changes on 
+soil carbon status of some soil types in the Ethiopian Rift valley. 
+J Dry Lands 4(1):289–299
+
+ 56. 
+
+ 57.  Gebremariam M, Kebede F (2010) Land use change effect on 
+soil carbon stock, above ground biomass, aggregate stability 
+and soil crust: a case from Tahtay Adyabo, North Western Tigray, 
+Northern Ethiopia. J Dry Lands 3(2):220–225
+
+ 58.  ATA (Agricultural Transformation Agency) (2014) Soil fertility 
+status and fertilizer recommendation Atlas for Tigray Regional 
+State, Ethiopia. Retrieved from http://www.ata.gov.et/downl 
+oad/soil-ferti lity-statu s-ferti lizer -recom menda tion-atlas -tigra 
+y-regio nal-state _jul20 14/. Accessed 21 Feb 2020
+
+ 59.  Niknahad G, Sheidai-Karkaj E, Jafari I (2016) Effects of exclosure 
+on soil properties in winter rangelands in Golestan Province, 
+Iran. J Rangel Sci 7(1):55–66
+
+ 60.  Mureithi SM, Verdoodt A, Gachene CK, Njoka JT, Wasonga VO, 
+De Neve S, Van Ranst E (2014) Impact of enclosure management 
+on soil properties and microbial biomass in a restored semi-
+arid rangeland, Kenya. J Arid Land 6(5):561–570. https ://doi.
+org/10.1007/s4033 3-014-0065-x
+
+ 61.  Yong-Zhong S, Yu-Lin L, Jian-Yuan C, Wen-Zhi Z (2005) Influences 
+of continuous grazing and livestock exclusion on soil proper-
+ties in a degraded sandy grassland, Inner Mongolia, northern 
+China. CATENA 59(3):267–278. https ://doi.org/10.1016/j.caten 
+a.2004.09.001
+
+ 62.  Pineiro G, Paruelo JM, Oesterheld M, Jobbágy EG (2010) An 
+assessment of grazing effects on soil carbon stocks in grass-
+lands. Rangel Ecol Manag. https ://doi.org/10.2111/08-255.1
+
+ 63.  Lu X, Yan Y, Sun J, Zhang X, Chen Y, Wang X, Cheng G (2015) 
+Short-term grazing exclusion has no impact on soil properties 
+and nutrients of degraded alpine grassland in Tibet. China. Solid 
+Earth 6(4):1195–1205. https ://doi.org/10.5194/se-6-1195-2015
+ 64.  Umer S, Sinore T (2019) Effects of area exclosure on soil proper-
+ties and farmers’ awareness towards the practice in Wera Sub-
+Watershed at Analemo Woreda, Southern Ethiopia. Int J Agric 
+Environ Sci 4(1):1–7
+
+ 65.  Ajorlo M, Abdullah R, Hanif AH, Halim RA, Yusoff MK (2011) 
+Impacts of livestock grazing on selected soil chemical proper-
+ties in intensively managed pastures of Peninsular Malaysia. J 
+Trop Agric Sci 34(1):109–121
+
+Research Article 
+
+SN Applied Sciences (2020) 2:1771 | https://doi.org/10.1007/s42452-020-03538-9
+
+ 66.  Prasad R, Power JF (1997) Soil fertility management for sustain-
+able agriculture. Lewis Publishers in an Imprint of CRC Press, 
+243. Retrieved from https ://www.scirp .org/(S(czeh2 tfqyw 2orz5 
+53k1w 0r45))/refer ence/Refer ences Paper s.aspx?Refer  enceI 
+D=18183 39. Accessed 22 Dec 2019
+
+ 67.  Hosseinzadeh  G,  Jalilvand  H,  Tamartash  R  (2010)  Short 
+time impact of enclosure on vegetation cover, productivity 
+and some physical and chemical soil properties. J Appl Sci 
+10(18):2001–2009
+
+ 68.  Moraes JFV, Dynia JF (1992) Modifications in chemical and 
+physico-chemical characteristics of low humic gley soil under 
+flooding and after drainage. Pesquisa Agropecuaria Brasileira 
+(Brazil)
+
+ 69.  Moges A, Dagnachew M, Yimer F (2013) Land use effects on soil 
+quality indicators: a case study of Abo-Wonsho, Southern Ethio-
+pia. Appl. Environ. Soil Sci. https ://doi.org/10.1155/2013/78498 
+9
+
+ 70.  Oduor CO, Karanja NK, Onwonga RN, Mureithi SM, Pelster D, 
+Nyberg G (2018) Enhancing soil organic carbon, particulate 
+organic carbon and microbial biomass in semi-arid range-
+land using pasture enclosures. BMC Ecol 18(1):45. https ://doi.
+org/10.1186/s1289 8-018-0202-z
+
+ 71.  Hinsinger P, Plassard C, Tang C, Jaillard B (2003) Origins of root-
+mediated pH changes in the rhizosphere and their responses to 
+environmental constraints: a review. Plant Soil 248(12):43–59
+
+ 72.  Jones DL, Hodge A, Kuzyakov Y (2004) Plant and mycorrhizal 
+regulation of rhizodeposition. New Phytol 163(3):459–480. https 
+://doi.org/10.1111/j.1469-8137.2004.01130 .x
+
+Publisher’s  Note  Springer  Nature  remains  neutral  with  regard  to 
+jurisdictional claims in published maps and institutional affiliations.
+
+

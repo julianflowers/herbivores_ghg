@@ -132,8 +132,6 @@ lat_long |>
   filter(str_detect(item, "^D"))
 ```
 
-
-
 ```{r}
   
 trial <- ll |> 
@@ -182,7 +180,6 @@ points[23, "dec_long"] <- daaz_long
 points
 ```
 
-
 ```{r}
 library(sf)
   coords <- points |>
@@ -211,5 +208,3 @@ coords |>
   
 
 ```
-
-

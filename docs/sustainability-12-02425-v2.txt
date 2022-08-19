@@ -1,0 +1,2153 @@
+Article
+Eﬀects of Land Use and Topographic Position on Soil
+Organic Carbon and Total Nitrogen Stocks in
+Diﬀerent Agro-Ecosystems of the Upper Blue
+Nile Basin
+
+Getu Abebe 1,2,*, Atsushi Tsunekawa 3
+Menale Wondie 2
+Kindiye Ebabu 1,5, Mulatu Liyew Berihun 1,7
+1
+
+, Enyew Adgo 5
+
+, Nigussie Haregeweyn 4
+
+, Taniguchi Takeshi 3,
+
+, Tsugiyuki Masunaga 6
+
+, Mitsuru Tsubo 3,
+
+and Asaminew Tassew 5
+
+The United Graduate School of Agricultural Sciences, Tottori University, 1390 Hamasaka, Tottori 680-8553,
+Japan; kebabu2@gmail.com (K.E.); mulatuliyew@yahoo.com (M.L.B.)
+
+2 Amhara Agricultural Research Institute, Forestry Research Department, P.O. Box 527 Bahir Dar, Ethiopia;
+
+menalewondie@yahoo.com
+
+3 Arid Land Research Center, Tottori University, 1390 Hamasaka, Tottori 680-0001, Japan;
+
+tsunekawa@tottori-u.ac.jp (A.T.); takeshi@alrc.tottori-u.ac.jp (T.T.); tsubo@tottori-u.ac.jp (M.T.)
+International Platform for Dryland Research and Education, Tottori University, 1390 Hamasaka,
+Tottori 680-0001, Japan; nigussie_haregeweyn@yahoo.com
+
+5 College of Agriculture and Environmental Sciences, Bahir Dar University, P.O. Box 1289 Bahir Dar, Ethiopia;
+
+enyewadgo@gmail.com (E.A.); atassew2005@yahoo.com (A.T.)
+Faculty of Life and Environmental Science Shimane University, Shimane Matsue 690-0823, Japan;
+masunaga@life.shimane-u.ac.jp
+Faculty of Civil and Water Resource Engineering, Bahir Dar Institute of Technology, Bahir Dar University,
+P.O. Box 26 Bahir Dar, Ethiopia
+
+4
+
+6
+
+7
+
+* Correspondence: gabebe233@gmail.com
+
+Received: 24 January 2020; Accepted: 4 March 2020; Published: 19 March 2020
+
+−1) at Guder. The lowest SOC and TN stocks were observed in cropland (25.97 and 2.14 Mg ha
+
+Abstract: Soil organic carbon (SOC) and total nitrogen (TN) are key ecological indicators of soil
+quality in a given landscape. Their status, especially in drought-prone landscapes, is associated
+mainly with the land-use type and topographic position. This study aimed to clarify the eﬀect of
+land use and topographic position on SOC and TN stocks to further clarify the ecological processes
+occurring in the landscape. To analyze the status of SOC and TN, we collected 352 composite soil
+samples from three depths in the uppermost soil (0–50 cm) in four major land-use types (bushland,
+cropland, grazing land, and plantation) and three topographic positions (upper, middle, and lower)
+at three sites: Dibatie (lowland), Aba Gerima (midland), and Guder (highland). Both SOC and TN
+stocks varied signiﬁcantly across the land uses, topographic positions, and agro-ecosystems. SOC and
+−1) and grazing lands (13.11 Mg
+TN stocks were signiﬁcantly higher in bushland (166.22 Mg ha
+−1)
+ha
+at Aba Gerima, which was mainly attributed to frequent and unmanaged plowing and extensive
+biomass removal. Compared to other land uses, plantations exhibited lower SOC and TN stocks
+due to poor undergrowth and overexploitation for charcoal and ﬁrewood production. Each of the
+three sites showed distinct characteristics in both stocks, as indicated by variations in the C/N ratios
+(11–13 at Guder, 10–21 at Aba Gerima, and 15–18 at Dibatie). Overall, land use was shown to be an
+important factor inﬂuencing the SOC and TN stocks, both within and across agro-ecosystems, whereas
+the eﬀect of topographic position was more pronounced across agro-ecosystems than within them.
+Speciﬁcally, Aba Gerima had lower SOC and TN stocks due to prolonged cultivation and unsustainable
+human activities, thus revealing the need for immediate land management interventions, particularly
+targeting croplands. In a heterogeneous environment such as the Upper Blue Nile basin, proper
+
+Sustainability 2020, 12, 2425; doi:10.3390/su12062425
+
+www.mdpi.com/journal/sustainability
+
+sustainability
+
+(cid:1)(cid:2)(cid:3)(cid:1)(cid:4)(cid:5)(cid:6)(cid:7)(cid:8)(cid:1)
+(cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:7)
+
+Sustainability 2020, 12, 2425
+
+2 of 18
+
+understanding of the interactions between land use and topographic position and their eﬀect on SOC
+and TN stock is needed to design proper soil management practices.
+
+Keywords: Acacia decurrens; Eucalyptus; drought-prone; highland; midland; lowland
+
+1. Introduction
+
+Soil organic carbon (SOC) and total nitrogen (TN) provide information on the impact of land
+management on soil health. The SOC stock, which is a key component and the largest carbon pool
+in terrestrial ecosystems, is strongly linked to nitrogen availability [1] and serves as an indicator
+of soil quality [2]. SOC acts as a major source or sink for atmospheric CO2 [3–6]. Globally, soil is
+estimated to store 3150 Pg C (1 Pg C = 1015 g C), which is four times greater than carbon storage in the
+terrestrial plant biomass (650 Pg C) and atmospheric (750 Pg C) pools [7]. The size of the soil carbon
+pool, however, is signiﬁcantly controlled by the balance between the input and output of carbon in an
+ecosystem. Therefore, any change in the size of the SOC stock potentially aﬀects elemental cycling,
+land productivity, atmospheric CO2 concentration, and thus global climate [7–9].
+
+The amount of SOC in a terrestrial ecosystem is inﬂuenced by natural and anthropogenic
+factors [10]. Human-induced land-use change causes a particularly substantial loss of SOC [7,11,12].
+Land-use change is associated with ecosystem carbon change [13] and drives negative impacts on
+climate and the environment. Numerous studies have shown that deforestation and land-use change
+results in land degradation and poorer soil quality [8,14–16]. In Ethiopia, the conversion of natural
+vegetation to croplands or plantations is increasing due to population pressure and socio-economic
+drivers. This has implications for biodiversity decline, land productivity, desertiﬁcation, and SOC
+dynamics [5,17–20]. According to Assefa et al. [5], conversion of natural forest to cropland in the
+northern highland of Ethiopia accounted for 50% to 87% of the observed SOC reduction. Likewise,
+Kassa et al. [21] reported that conversion of forest and agroforestry to croplands caused an annual
+−1 in the southwestern highlands of Ethiopia. On the other
+decline of SOC stock from 3.3 to 8.0 Mg ha
+hand, reports on vegetation restoration of degraded lands in the region indicated that SOC is improved
+by planting Eucalyptus trees [18,22,23] or establishing exclosures [24,25].
+
+Generally, the soil of natural vegetation has higher SOC than croplands because of its higher
+organic residue content [26]. However, the eﬃciency of SOC accumulation depends on the quality
+and amount of organic inputs, decomposition rate in the soil [26], and topographic position [10,27].
+Topography inﬂuences SOC mainly by altering the input and output of carbon via hydrological
+processes, and it aﬀects soil erosion and sediment deposition [28]. The topographic position also aﬀects
+water availability, temperature regime, vegetation distribution, and soil processes [15,29].
+
+Recently, owing to their strong inﬂuence on the sustainability of natural and agricultural
+ecosystems, the eﬀects of factors such as land use, topography, and their interaction on SOC and TN
+stocks have attracted scientiﬁc attention at the small watershed scale [10,12,13,15,27,30]. At the regional
+scale, climate is the dominant factor that controls SOC and TN stocks by inducing changes in soil
+moisture, vegetation patterns, decomposition rate [31], microbial activity [32], and soil respiration [33].
+Therefore, SOC and TN dynamics in the soil vary in response to environmental factors (both biotic and
+abiotic), and are sensitive to changes in climate and the local environment [1]. Thus, understanding
+soil carbon and nitrogen stock dynamics in diﬀerent agro-ecosystems as a function of topographic
+position, land use, and their interaction is important for designing sustainable land management
+options [22,27,34] that also contribute to food security [35].
+
+The direct and interactive eﬀects of topography and land use on SOC and TN stocks are not
+well studied in the landscape of Ethiopia’s Upper Blue Nile basin, which is also known as the
+Abay River basin and covers an area of 173,000 km2 [36]. The climate of the region is tropical
+highland monsoonal [37]. The region is characterized by fragile and drought-prone areas, with diverse
+
+Sustainability 2020, 12, 2425
+
+3 of 18
+
+agro-ecosystems and severe land degradation. Although soil and water conservation practices have
+been used since the 1980s [38], a reduction in vegetation cover [39,40] and soil erosion induced by poor
+land-use management have become major challenges for ensuring food security [36].
+
+The aim of this study was to assess the eﬀects of major controlling factors on SOC and TN stocks
+in three agro-ecosystems of the Upper Blue Nile basin. The speciﬁc objectives were to (1) determine
+how stocks of SOC and TN vary with topographic position, land-use type, and soil depth across
+agro-ecosystems; (2) assess the interactive eﬀect of land use and topographic position on SOC and TN
+stocks within and across agro-ecosystems; and (3) assess the current spatial distribution of SOC and
+TN stocks in the three agro-ecosystems of the Upper Blue Nile basin.
+
+2. Materials and Methods
+
+2.1. Study Sites
+
+The study was conducted in three diﬀerent agro-ecosystems of the Upper Blue Nile basin, Ethiopia
+(Figure 1), namely Guder, Aba Gerima, and Dibatie, representing the highland, midland, and lowland
+agro-ecosystems, respectively (Table 1). According to Mekonnen [41], the four dominant soil types
+(in the FAO classiﬁcation system) in the study area are Acrisols, Leptosols, Luvisols, and Vertisols
+(Table 1).
+
+Figure 1. Location of the three study sites in the Upper Blue Nile basin, with respective land-use and
+drainage maps shown. The points in each watershed illustrate the distribution of sampling points with
+respect to land use and three topographic positions.
+
+In the Koppen–Geiger classiﬁcation [42], the climate is characterized as subtropical oceanic
+highland at Guder, humid subtropical at Aba Gerima, and tropical wet-dry at Dibatie. The rainfall
+pattern is unimodal and mostly occurs from June to September at all sites (Figure 2). The mean annual
+rainfall was 1022, 1343, and 2454 mm at Dibatie, Aba Gerima, and Guder, respectively. Mean annual
+temperature varies from 25 to 32
+C
+at Guder [43,44].
+
+C at Aba Gerima, and from 9.4 to 25
+
+C at Dibatie, from 13 to 27
+
+◦
+
+◦
+
+◦
+
+Sustainability 2020, 12, x FOR PEER REVIEW 
+3 of 20 
+stocks within and across agro-ecosystems; and (3) assess the current spatial distribution of SOC and 
+TN stocks in the three agro-ecosystems of the Upper Blue Nile basin.   
+
+2. Materials and Methods
+
+2.1. Study Sites 
+
+The  study  was  conducted  in  three  different  agro-ecosystems  of  the  Upper  Blue  Nile  basin, 
+Ethiopia (Figure 1), namely Guder, Aba Gerima, and Dibatie, representing the highland, midland, 
+and lowland agro-ecosystems, respectively (Table 1). According to Mekonnen [41], the four dominant 
+soil types (in the FAO classification system) in the study area are Acrisols, Leptosols, Luvisols, and 
+Vertisols (Table 1). 
+
+a)
+
+)
+
+m
+m
+
+(
+ 
+l
+l
+a
+f
+n
+i
+a
+R
+
+600
+
+500
+
+400
+
+300
+
+200
+
+100
+
+0
+
+(b)
+
+(c)
+
+Mean Rainfall
+Mean Temperature
+
+40
+
+30
+
+20
+
+10
+
+0
+
+600
+
+500
+
+400
+
+300
+
+200
+
+100
+
+0
+
+40
+
+30
+
+20
+
+10
+
+0
+
+600
+
+500
+
+400
+
+300
+
+200
+
+100
+
+0
+
+n
+a
+J
+
+b
+e
+F
+
+r
+a
+
+M
+
+r
+p
+A
+
+y
+a
+M
+
+n
+u
+J
+
+l
+u
+J
+
+g
+u
+A
+
+p
+e
+S
+
+t
+c
+O
+
+v
+o
+N
+
+c
+e
+D
+
+n
+a
+J
+
+b
+e
+F
+
+r
+a
+
+M
+
+r
+p
+A
+
+y
+a
+M
+
+n
+u
+J
+
+l
+u
+J
+
+g
+u
+A
+
+p
+e
+S
+
+t
+c
+O
+
+v
+o
+N
+
+c
+e
+D
+
+n
+a
+J
+
+b
+e
+F
+
+r
+a
+
+M
+
+r
+p
+A
+
+p
+e
+S
+
+t
+c
+O
+
+v
+o
+N
+
+c
+e
+D
+
+g
+u
+A
+
+l
+u
+J
+
+n
+u
+J
+
+y
+a
+M
+Month
+
+40
+
+30
+
+20
+
+10
+
+0
+
+)
+C
+
+˚
+(
+ 
+ 
+e
+r
+u
+t
+a
+r
+e
+p
+m
+e
+T
+
+Sustainability 2020, 12, 2425
+
+4 of 18
+
+Table 1. Site characteristics of study watersheds in the Upper Blue Nile basin.
+
+Site Characteristics
+
+Longitude, latitude
+
+Area (ha)
+
+Elevation (m a.s.l.)
+◦
+) a
+Slope gradients (
+
+Topographic positions (elevation range
+
+and mode of slope (%))
+
+Upper
+Middle
+Lower
+
+◦
+Annual mean temperature (
+−1) b
+
+Rainfall (mm yr
+
+C) b
+
+Agro-ecology c
+
+Soil parent material d
+
+Major soil types e
+
+Primary soil texture a
+Sand, silt, and clay (%) e
+Selected soil properties
+
+pH (water)
+
+−1)
+Cation exchange capacity (cmol kg
+
+Electric conductivity (dS m
+
+−1) e
+
+Land-use types
+
+(Area, ha)
+
+−1 yr
+
+−1) f
+
+Dry biomass (tones ha
+Cropland (teﬀ)
+Grazing land
+
+Guder (Highland)
+
+Aba Gerima (Midland)
+
+Dibatie (Lowland)
+
+◦
+(cid:48)
+35.13” N,
+0
+11
+◦
+(cid:48)
+7.97” E
+56
+36
+343
+
+2500–2800
+
+0–32
+
+Site (Watershed)
+
+(cid:48)
+◦
+53.09” N,
+45
+10
+(cid:48)
+◦
+19.11” E
+36
+16
+426
+
+1900–2200
+
+0–36
+
+(2500–2600, 30–50)
+(2600–2700, 10–20)
+(2700–2800, 0–10)
+
+9.4–25
+
+1951–3424
+
+(2200–2100, 10–20)
+(2100–2000, 10–20)
+(2000–1900, 0–10)
+
+13–27
+
+895–2037
+
+oceanic subtropical
+Basalt (Quaternary)
+
+Acrisols and Leptosols
+
+humid subtropical
+
+Basalt (Oilgo pilocene)
+Leptosols and Luvisols
+
+clay
+
+15, 30, and 55
+
+4.7–6.8
+0.01–0.12
+23.8–26.8
+
+clay loam
+
+30, 40, and 30
+
+4.2–6.5
+0.01–0.11
+21.4–65.7
+
+bushland (58.8),
+
+cropland(106), grazing
+land (47.1), plantation
+
+forest (116.5)
+
+(cid:48)
+◦
+27.26” N,
+39
+11
+(cid:48)
+◦
+14.21” E
+30
+37
+246
+
+1400–1700
+
+0–21
+
+(1700–1600, 10–20)
+(2100–2000, 0–10)
+(2000–1900, 0–10)
+
+25–32
+
+850–1200
+
+tropical wet-dry
+
+-
+
+clay
+
+25, 19, and 56
+
+5.8–7.4
+0.02–0.19
+23.2–48.8
+
+Luvisols and Vertisols
+
+bushland (46.5), cropland
+(220), grazing land (14.6),
+
+plantation forest (38)
+
+bushland (37.6, cropland
+(151), grazing land (55.3)
+
+a Slope and soil texture data taken from [45]. b Weather data (1999–2015) was obtained from [43]. c Koppen–Geiger
+classiﬁcation [42]. d Soil geology data taken from [46]; e Soil characteristics taken from [41]. f Dry biomass data was
+obtained from KAKENHI project (average from 150 plots (1 m × 3 m), 2016–2017).
+
+7.14
+3.9
+
+6.17
+3.08
+
+6.94
+7.9
+
+Figure 2. Climograph of Guder (a), Aba Gerima (b), and Dibatie (c) from 1999 to 2017.
+
+The native tree and shrub species common at Guder are Acacia abyssinica, Albizia gummifera,
+Croton macrostaches, Combretum molle, Cordia africana, Scheﬄera abyssinica, Dovyalis abyssinica, and Entada
+abyssinica. Those at Aba Gerima are A. gummifera, Bersama abyssinica, Calpurnia aurea, Croton macrostaches,
+Olea europaea, Ficus thonningii, and E. abyssinica. At Dibatie, Acacia negrii, Acacia sieberiana, Ficus sycomorus,
+Terminalia brownii, Terminalia schimperiana, and Oxytenanthra abyssinica are common in the bushlands.
+A. decurrens at Guder and Eucalyptus camadulensis at Aba Gerima are the dominant exotic tree species
+planted as woodlots for fuelwood, charcoal, and construction wood production. Clear felling (Guder)
+and coppice management (Aba Gerima) are the common plantation management practices. The rotation
+period of the plantations at Guder and Aba Gerima is 3–5 and 5–7 years, respectively.
+
+Rainfed, subsistence-based and mixed farming (crop cultivation and livestock rearing) is the main
+agricultural practice at the study sites [44]. At Guder, teﬀ (Eragrostis tef ), barley (Hordeum vulgare),
+
+In  the  Koppen–Geiger  classification  [42],  the  climate  is  characterized  as  subtropical  oceanic 
+highland at Guder, humid subtropical at Aba Gerima, and tropical wet-dry at Dibatie. The rainfall 
+pattern is unimodal and mostly occurs from June to September at all sites (Figure 2). The mean annual 
+rainfall was 1022, 1343, and 2454 mm at Dibatie, Aba Gerima, and Guder, respectively. Mean annual 
+temperature varies from 25 to 32 °C at Dibatie, from 13 to 27 °C at Aba Gerima, and from 9.4 to 25 °C 
+at Guder [43,44].   
+
+ 
+
+a)
+
+)
+
+m
+m
+
+(
+ 
+l
+l
+a
+f
+n
+
+i
+a
+R
+
+600
+
+500
+
+400
+
+300
+
+200
+
+100
+
+0
+
+(b)
+
+(c)
+
+Mean Rainfall
+Mean Temperature
+
+40
+
+30
+
+20
+
+10
+
+0
+
+600
+
+500
+
+400
+
+300
+
+200
+
+100
+
+0
+
+40
+
+30
+
+20
+
+10
+
+0
+
+600
+
+500
+
+400
+
+300
+
+200
+
+100
+
+0
+
+n
+a
+J
+
+b
+e
+F
+
+r
+a
+
+M
+
+r
+p
+A
+
+y
+a
+M
+
+n
+u
+J
+
+l
+u
+J
+
+g
+u
+A
+
+p
+e
+S
+
+t
+c
+O
+
+v
+o
+N
+
+c
+e
+D
+
+n
+a
+J
+
+b
+e
+F
+
+r
+a
+
+M
+
+r
+p
+A
+
+y
+a
+M
+
+n
+u
+J
+
+l
+u
+J
+
+g
+u
+A
+
+p
+e
+S
+
+t
+c
+O
+
+v
+o
+N
+
+c
+e
+D
+
+n
+a
+J
+
+b
+e
+F
+
+r
+a
+
+M
+
+r
+p
+A
+
+p
+e
+S
+
+t
+c
+O
+
+v
+o
+N
+
+c
+e
+D
+
+g
+u
+A
+
+l
+u
+J
+
+n
+u
+J
+
+y
+a
+M
+Month
+
+40
+
+30
+
+20
+
+10
+
+0
+
+)
+C
+
+˚
+(
+ 
+ 
+e
+r
+u
+t
+a
+r
+e
+p
+m
+e
+T
+
+Sustainability 2020, 12, 2425
+
+5 of 18
+
+wheat (Triticum aestivum), and potato (Solanum tuberosum) are grown. At Aba Gerima, teﬀ, ﬁnger
+millet (Eleusine coracana), wheat, and maize (Zea mays) are cultivated. At Dibatie, maize, teﬀ, sorghum
+(Sorghum bicolor), and groundnut (Arachis hypogaea) are the major food crops [43,45].
+
+2.2. Soil Sampling
+
+Based on the available land-use types and elevation range of the watersheds (Table 1),
+three topographic positions (i.e., upper, middle, and lower) were selected. Cropland and grazing land
+are common in all topographic positions at the three study sites, whereas plantation (A. decurrens or
+E. camaldulensis) at Dibatie and bushland in the lower position at all sites are not part of the current
+land-use systems (Figure 1). In each topographic position, four replicated land uses were measured.
+A total of 352 soil samples were collected from the three agro-ecosystems. The top 50 cm of soil was
+sampled, divided into three soil layers of 0–15, 15–30, and 30–50 cm. Soil samples were collected from
+ﬁve points, at the four corners and in the center of a plot (10 m × 10 m) using a hand-driven soil auger.
+Soil samples collected from each plot from similar layers were thoroughly mixed to obtain a composite
+sample (1 kg). Soil bulk density was determined separately by using a metal core cylinder (100 cm3),
+which was inserted at the midpoint of the 0–15, 15–30, and 30–50 cm layers. All composite soil samples
+were ﬁrst air-dried and then passed through a 2-mm sieve, packed, labeled, and transported to Japan
+for chemical analysis at the Arid Land Research Center of Tottori University.
+
+2.3. Soil Analysis
+
+Soil pH and electrical conductivity were measured at a 1:5 soil-to-water ratio using a pH meter
+(D-51, Horiba, Kyoto, Japan) and conductivity meter (ES-51, Horiba), respectively. Bulk soil density
+−3) was determined for core soil samples after oven-drying at 105
+(Mg m
+
+C for 24 h.
+
+◦
+
+2.4. Determination of SOC and TN Stocks
+
+Five-gram subsamples of homogenized soil from each soil depth were dried at 60
+
+C for 48 h.
+From each subsample, 1 g of soil was taken, and total organic carbon and nitrogen were determined
+using a CN corder (Macro Corder JM1000CN, J-Science Lab, Kyoto Japan). Total carbon and nitrogen
+stocks (Mg ha
+
+−1) down to the 50 cm soil horizon were calculated using the model of [47]:
+SOC (or TN) stock = content × ρb × d × 10,000 m2 ha
+−1,
+
+−1 × 0.001 Mg kg
+
+◦
+
+where SOC (or TN) stock is the soil organic carbon or total nitrogen stock (Mg ha
+organic carbon or total nitrogen concentration (kg Mg
+the thickness of the soil layer (m).
+
+−1), ρb is the soil bulk density (Mg m
+
+(1)
+−1), content is the soil
+−3), and d is
+
+2.5. Data Analysis
+
+Data with a non-normal distribution were transformed using square-root and log transformation
+techniques. Two-way (within agro-ecosystem) and nested three-way (between agro-ecosystems)
+analysis of variance were used to test the signiﬁcance of mean diﬀerences in SOC and TN content and
+stock as dependent variables, while topographic position, land use, soil depth, and their interactions
+(between two or three factors) were considered as driving factors. Diﬀerences in means between
+groups were analyzed using Tukey’s HSD (honestly signiﬁcant diﬀerence) test within the Agricolae
+package (version 1.2-8). Statistical analyses were carried out in RStudio [48], an interface for the R
+software program (version 3.4.4). The signiﬁcance level was set at alpha = 0.05.
+
+Sustainability 2020, 12, 2425
+
+3. Results
+
+6 of 18
+
+3.1. Eﬀect of Topographic Position on SOC and TN Contents and Stocks
+
+At Guder, SOC content in croplands increased signiﬁcantly (p < 0.05) from the upper (10.96 mg g
+
+−1)
+−1; Figure 3a). In the case of grazing land, SOC content
+to the lower topographic position (16.68 mg g
+−1 in the middle position and then
+decreased from 22.59 mg g
+−1 in the lower position. For bushland and A. decurrens plantations, SOC content
+increased to 17.40 mg g
+did not vary among topographic positions. TN content for bushland decreased signiﬁcantly from
+−1 in the middle position (Figure 3d). However, TN in
+2.87 mg g
+cropland and grazing lands were not signiﬁcantly diﬀerent across topographic position.
+
+−1 in the upper position to 14.57 mg g
+
+−1 in the upper position to 2.39 mg g
+
+Figure 3. Soil organic carbon (SOC) and total nitrogen (TN) contents under diﬀerent land uses and
+topographic positions at Guder (a,d), Aba Gerima (b,e), and Dibatie (c,f). Diﬀerent lowercase letters
+above the bars indicate signiﬁcant diﬀerences in SOC and TN among land uses in the same topographic
+position (p < 0.05); diﬀerent capital letters indicate signiﬁcant diﬀerences in SOC and TN among
+topographic positions within the same land use (p < 0.05). Error bars represent the standard error of
+the mean at alpha = 0.05.
+
+At Aba Gerima, SOC and TN contents diﬀered among topographic positions (p < 0.05; Figure 3b,e).
+−1), and Eucalyptus plantations
+−1) were signiﬁcantly lower at the upper position than that at the middle and lower positions.
+−1) were in bushland at the middle
+−1) and TN
+
+The TN contents of bushland (0.78 mg g
+(0.49 mg g
+The highest contents of SOC (17.52 mg g
+position, whereas croplands in the upper position showed the lowest SOC (4.78 mg g
+contents (0.19 mg g
+
+−1), cropland (0.19 mg g
+−1) and TN (1.23 mg g
+
+−1).
+
+At Dibatie, SOC and TN contents in the upper position in bushland and cropland were 16.12 and
+−1;
+0.99, and 15.22 and 0.86 mg g
+Figure 3c,f). In contrast, both SOC and TN contents were similar among land-use types in the middle
+and lower topographic positions.
+
+−1 higher, respectively, than those in grazing land (12.58 and 0.74 mg g
+
+At Guder, the SOC stock decreased from the upper to lower topographic positions in grazing land
+(Figure 4a). SOC stock under A. decurrens plantations increased signiﬁcantly (p < 0.05), from 42.73 Mg
+−1 in the upper position to 44.63 Mg ha
+−1 in the lower
+ha
+−1) in the upper position. The TN stock
+position. The SOC stock in bushland was highest (166.22 Mg ha
+−1) in grazing lands in the upper position and decreased toward
+was signiﬁcantly higher (13.11 Mg ha
+the lower position (Figure 4d).
+
+−1 in the middle position and 58.94 Mg ha
+
+interface for the R software program (version 3.4.4). The significance level was set at alpha = 0.05. 
+
+3. Results 
+
+3.1. Effect of Topographic Position on SOC and TN Contents and Stocks 
+
+At Guder, SOC content in croplands increased significantly (P < 0.05) from the upper (10.96 mg 
+g–1)  to  the  lower  topographic  position  (16.68  mg  g–1;  Figure  3a).  In  the  case  of  grazing  land,  SOC 
+content decreased from 22.59 mg g–1 in the upper position to 14.57 mg g–1 in the middle position and 
+then increased to 17.40 mg g–1 in the lower position. For bushland and A. decurrens plantations, SOC 
+content did not vary among topographic positions. TN content for bushland decreased significantly 
+from 2.87 mg g–1 in the upper position to 2.39 mg g–1 in the middle position (Figure 3d). However, TN 
+in cropland and grazing lands were not significantly different across topographic position. 
+
+At Aba Gerima, SOC and TN contents differed among topographic positions (P < 0.05; Figure 
+3b, e). The TN contents of bushland (0.78 mg g–1), cropland (0.19 mg g–1), and Eucalyptus plantations 
+(0.49  mg  g–1)  were  significantly  lower  at  the  upper  position  than  that  at  the  middle  and  lower 
+positions. The highest contents of SOC (17.52 mg g–1) and TN (1.23 mg g–1) were in bushland at the 
+middle position, whereas croplands in the upper position showed the lowest SOC (4.78 mg g–1) and 
+TN contents (0.19 mg g–1).   
+
+ 
+
+Sustainability 2020, 12, 2425
+
+7 of 18
+
+Figure 4. Soil organic carbon (SOC) and total nitrogen (TN) stocks under diﬀerent land-use types
+and topographic positions at Guder (a,d), Aba Gerima (b,e), and Dibatie (c,f). Diﬀerent lowercase
+letters above the bars indicate signiﬁcant diﬀerences in SOC and TN among land-use types in the same
+topographic position (p < 0.05); diﬀerent capital letters indicate signiﬁcant diﬀerences in SOC and
+TN among topographic positions within the same land-use type (p < 0.05). Error bars represent the
+standard error of the mean at alpha = 0.05.
+
+At Aba Gerima, TN stocks in cropland and Eucalyptus plantations increased signiﬁcantly from
+
+the upper to lower positions (Figure 4e).
+
+At Dibatie, TN stocks in bushland, cropland, and grazing lands varied signiﬁcantly between
+−1) and lowest
+−1) TN stocks were recorded in bushlands and croplands in the upper and middle
+
+the upper and the middle and lower positions (Figure 4f). The highest (9.53 Mg ha
+(4.56 Mg ha
+positions, respectively.
+
+In general, SOC and TN stocks at Guder, TN content and stock at Aba Gerima, and SOC and TN
+contents at Dibatie were inﬂuenced by topographic position (p < 0.05; Table 2). With the exception
+of SOC stock at Dibatie, both SOC and TN contents and stocks at the three study sites were strongly
+aﬀected by land use (p < 0.05). Likewise, the interaction between topographic position and land use
+had a signiﬁcant eﬀect on both SOC and TN contents and stocks at Guder and Aba Gerima, whereas
+no signiﬁcant eﬀect was detected at Dibatie (Table 2).
+
+Table 2. Results of two-way analysis of variance (ANOVA) for SOC and TN contents and stocks as a
+function of topographic position and land use in diﬀerent agro-ecosystems of the Upper Blue Nile basin.
+
+Agro-Ecosystem
+
+Source
+
+df
+
+SOC Content
+
+TN Content
+
+SOC Stock
+
+TN Stock
+
+p-Value
+
+Aba Gerima
+
+Guder
+
+land use
+
+topographic position
+
+topographic position
+
+topographic position × land use
+
+<0.001
+<0.001
+<0.001
+<0.001
+<0.001
+<0.001
+0.005
+0.004
+0.793
+Notes: Topographic positions: upper, middle, and lower; land uses: bushland, cropland, grazing land, and plantation.
+
+<0.001
+<0.001
+<0.001
+0.307
+<0.001
+<0.001
+0.046
+0.492
+0.766
+
+0.093
+<0.001
+0.019
+<0.001
+<0.001
+0.002
+0.003
+0.003
+0.681
+
+0.278
+<0.001
+0.034
+0.562
+<0.001
+0.012
+0.010
+0.024
+0.924
+
+topographic position × land use
+
+topographic position × land use
+
+topographic position
+
+2
+3
+5
+2
+3
+5
+2
+2
+3
+
+land use
+
+land use
+
+Dibatie
+
+Sustainability 2020, 12, x FOR PEER REVIEW 
+
+7 of 20 
+
+lower position. The SOC stock in bushland was highest (166.22 Mg ha–1) in the upper position. The 
+TN  stock  was  significantly  higher  (13.11  Mg  ha–1)  in  grazing  lands  in  the  upper  position  and 
+decreased toward the lower position (Figure 4d).   
+
+ 
+
+Sustainability 2020, 12, 2425
+
+8 of 18
+
+3.2. SOC and TN Contents and Stocks for Diﬀerent Land Uses across Soil Depths
+
+Across soil proﬁles, both SOC and TN contents were slightly decreased from top to the lower soil
+
+proﬁle at Aba Gerima (Figure 5b,e) compared with Guder (Figure 5a,d) and Dibatie (Figure 5c,f).
+
+Figure 5. Soil organic carbon and total nitrogen contents in relation to land-use type at Guder (a,d),
+Aba Gerima (b,e), and Dibatie (c,f). Diﬀerent lowercase letters indicate signiﬁcant diﬀerences in SOC;
+n = 12).
+
+The SOC and TN contents at Guder (Figure 5a,d) and Aba Gerima (Figure 5b,e) varied signiﬁcantly
+among land uses at all soil depths (p < 0.05). At Dibatie, except for TN contents in the lower soil depth,
+there were no signiﬁcant diﬀerences in SOC and TN contents among land-use types at all soil depths
+(Figure 5c,f).
+
+At Guder, SOC and TN contents of bushland were signiﬁcantly higher than the other land uses in
+all soil proﬁles (Figure 5a,d). At Aba Gerima, SOC contents in the 0–15 cm layer were 15, 11.3, and 6.7
+times higher in bushland, plantation, and grazing land, respectively, than in cropland (Figure 5b).
+However, in the 15–30 and 30–50 cm layers, the SOC content in bushland was signiﬁcantly greater than
+that in the other land uses. Similarly, TN content in the 0–15 cm layer at Aba Gerima was signiﬁcantly
+−1) in bushland than in the other land uses (Figure 5e). In the 15–30
+higher (p < 0.05; 1.06 mg g
+and 30–50 cm soil layers, the TN content was 1.29, 0.81, and 0.77 times higher in bushland, grazing
+land, and plantation, respectively, than in cropland (p < 0.05). At Dibatie, there were no signiﬁcant
+diﬀerences in SOC content among land-use types at all soil depths (Figure 5c). However, TN contents
+in the 30–50 cm soil layer were signiﬁcantly higher in bushland and cropland than in grazing land
+(0.49 mg g
+
+−1; p < 0.05; Figure 5f).
+
+Sustainability 2020, 12, x FOR PEER REVIEW 
+
+9 of 20 
+
+Sustainability 2020, 12, 2425
+
+9 of 18
+
+On the other hand, the SOC and TN stocks at Guder and Aba Gerima varied signiﬁcantly among
+land uses within each soil proﬁle (p < 0.05; Table S1). Signiﬁcant diﬀerences in SOC stocks across soil
+depths within each land-use type were observed at Aba Gerima and Dibatie, whereas TN stock only
+varied signiﬁcantly at Dibatie (Table S1). SOC stocks of grazing land and plantations showed a 0.43-
+and 0.44-fold decrease from the top layer to the lower layer, respectively, at Aba Gerima. The SOC
+stock in cropland decreased signiﬁcantly across soil depths at Dibatie. TN stock in the 0–15 cm layer
+was higher than at 15–30 and 30–50 cm soil depths at Dibatie, whereas no signiﬁcant diﬀerence was
+found in the TN stock between the 15–30 and 30–50 cm layers.
+
+3.3. Eﬀect of Agro-ecosystem on SOC and TN Contents and Stocks
+
+−1) was signiﬁcantly lower than that at Guder (13.07 mg g
+
+SOC and TN contents and stocks in bushland and grazing land at Guder were signiﬁcantly
+larger than those at Dibatie and Aba Gerima (Table 3). SOC content in croplands at Aba Gerima
+−1).
+(5.01 mg g
+Plantation at Guder (A. decurrens) and Aba Gerima (Eucalyptus) had similar SOC and TN stocks
+−1) than
+(Table 3). In contrast, the TN stock in cropland was signiﬁcantly higher at Dibatie (6.26 Mg ha
+at Guder (4.77 Mg ha
+
+−1) and Aba Gerima (2.14 Mg ha
+
+−1) and Dibatie (13.28 mg g
+
+−1).
+
+Both SOC and TN contents in the lower and middle topographic positions were signiﬁcantly
+higher at Guder than at Aba Gerima and Dibatie (Table S2), whereas the SOC and TN contents in the
+upper position were signiﬁcantly lower at Aba Gerima than at Guder and Dibatie. The SOC stocks
+−1),
+in the upper position were in the following order: Guder (104.67 Mg ha
+−1). The SOC stock in the middle and lower positions and TN stock in all
+Aba Gerima (41.91 Mg ha
+topographic positions were signiﬁcantly lower at Aba Gerima, but the values for Guder and Dibatie
+were similar (Table S2).
+
+−1), Dibatie (88.90 Mg ha
+
+There was signiﬁcant variation in the C/N ratios of cropland, grazing land, and plantation among
+sites (Table 3). The highest (17.52) and lowest (11.03) C/N ratios were those of grazing lands at Dibatie
+and Aba Gerima, respectively. Eucalyptus plantations (12.15) showed a signiﬁcantly higher C/N ratio
+than A. decurrens plantations (12.16). The C/N ratios in the upper position were signiﬁcantly higher at
+Aba Gerima followed by Dibatie and Guder, whereas the C/N ratios in the middle and lower positions
+were signiﬁcantly higher at Dibatie than at the other two sites (Table S2).
+
+Bulk densities in bushland, cropland, and grazing land diﬀered signiﬁcantly among sites (p < 0.05;
+Table 3), whereas those of plantations at Guder (A. decurrens) and Aba Gerima (Eucalyptus) were not
+−3,
+signiﬁcantly diﬀerent. Bulk density ranged from 0.90 to 1.18 Mg m
+−3 at Guder, Aba Gerima, and Dibatie, respectively (Table 3). Bulk densities
+and from 1.11 to 1.32 Mg m
+in bushland, cropland, and grazing land were signiﬁcantly lower at Guder than at Aba Gerima and
+Dibatie (Table 3). The bulk density also varied signiﬁcantly among topographic positions (p < 0.05;
+Table S2). Soils at Guder showed signiﬁcantly lower soil bulk density in the lower and middle positions
+as compared to the upper position. Soils at Dibatie had signiﬁcantly higher soil bulk density in the
+middle position (Table S2).
+
+−3, from 1.09 to 1.19 Mg m
+
+Overall, SOC and TN contents and stocks were strongly dependent on agro-ecosystem (p < 0.05),
+land use (p < 0.05), and the interaction between agro-ecosystem and land use (p < 0.05; Table 4).
+Topographic position (p < 0.05) also inﬂuenced SOC content, SOC stock, and TN stock, but not TN
+content. In addition, the interaction between agro-ecosystem and topographic position aﬀected TN
+content and SOC and TN stocks. TN content, SOC stock, and TN stock were also strongly dependent
+on the interaction of agro-ecosystem, topographic position, and land use.
+
+Sustainability 2020, 12, 2425
+
+10 of 18
+
+Table 3. SOC and TN contents and stocks in diﬀerent land-use types at the three study sites.
+
+Land Use
+
+Site
+
+Bushland
+
+Guder
+
+Aba Gerima
+
+Cropland
+
+Aba Gerima
+
+Grazing
+
+Aba Gerima
+
+Plantation
+
+Aba Gerima
+
+Dibatie
+Guder
+
+Dibatie
+Guder
+
+Dibatie
+Guder
+
+SOC
+
+TN
+
+mg g−1
+
+31.63 (1.45) a
+13.42 (1.16) b
+15.31 (1.19) b
+13.07 (1.04) a
+5.01 (0.29) b
+13.28 (0.96) a
+18.19 (1.20) a
+7.97 (0.49) b
+10.84 (0.81) b
+9.85 (0.87) a
+9.24 (0.79) a
+
+Mg ha−1
+
+141.19 (6.74) a
+59.23 (7.19) b
+85.70 (9.81) a,b
+61.00 (2.33) a
+25.97 (7.04) b
+72.62 (8.33) a
+109.94 (3.69) a
+44.14 (7.55) b
+66.42 (4.69) b
+48.79 (7.15) a
+44.77 (6.33) a
+
+mg g−1
+2.63 (0.13) a
+0.96 (0.09) b
+0.92 (0.06) b
+1.02 (0.07) a
+0.39 (0.03) b
+0.75 (0.04) a
+1.44 (0.09) a
+0.71 (0.04) b
+0.63 (0.05) b
+0.78 (0.06) a
+0.68 (0.06) a
+
+Mg ha−1
+11.73 (0.50) a
+4.13 (1.91) b
+8.08 (1.51) a
+4.77 (0.28) b
+2.14 (1.44) c
+6.26 (1.34) a
+8.68 (0.31) a
+4.17 (1.19) b
+5.65 (1.52) a,b
+3.86 (0.65) a
+3.56 (0.38) a
+
+C/N Ratio
+
+12.16 (0.30) a
+14.01 (0.31) a
+16.16 (0.57) a
+12.52 (0.32) b
+17.63 (2.33) a
+17.38 (0.82) a
+12.68 (0.20) b
+11.03 (0.17) b
+17.52 (0.72) a
+12.16 (0.41) b
+17.15 (2.62) a
+
+Bulk Density
+
+Mg m−3
+0.90 (0.01) b
+1.09 (0.03) a
+1.11 (0.04) a
+0.96 (0.03) b
+1.12 (0.01) a
+1.12 (0.03) a
+1.18 (0.04) b
+1.19 (0.03) b
+1.32 (0.02) a
+1.02 (0.02) a
+1.06 (0.03) a
+
+Mean (standard error) values were calculated across the whole soil depth from 0 to 50 cm. Within a column, diﬀerent letters for each land use indicate a signiﬁcant diﬀerence between sites
+(Tukey’s HSD at p < 0.05).
+
+Sustainability 2020, 12, 2425
+
+11 of 18
+
+Table 4. Nested three-way ANOVA for SOC and TN contents and stocks as functions of topographic
+position and land use across agro-ecosystems.
+
+Source
+
+df
+
+p-Value
+
+SOC Content
+
+TN Content
+
+SOC Stock
+
+TN Stock
+
+Land use
+
+Agro-ecosystem
+
+Topographic position
+
+Agro-ecosystem × topographic position
+
+<0.001
+<0.001
+<0.001
+<0.001
+<0.001
+<0.001
+Agro-ecosystems: Guder, Aba Gerima, and Dibatie; topographic positions: upper, middle, and lower; land uses:
+bushland, cropland, grazing land, and plantation.
+
+Agro-ecosystem × topographic position × land use
+
+Agro-ecosystem × land use
+
+<0.001
+0.862
+<0.001
+<0.001
+<0.001
+<0.001
+
+<0.001
+0.019
+<0.001
+0.003
+<0.001
+<0.001
+
+<0.001
+0.043
+<0.001
+0.082
+<0.001
+0.058
+
+2
+2
+3
+4
+5
+13
+
+4. Discussion
+
+4.1. Eﬀects of Land-Use Type on SOC and TN Contents and Stocks Across Topographic Positions
+
+Climate, soil type, land use, and topography are the principal factors that control SOC and TN
+distributions at a regional scale [49,50]. In a small watershed, however, soil type and climate variability
+are commonly low [51]. Our ﬁndings conﬁrmed that land use and topography inﬂuenced the SOC and
+TN storage in the three agro-ecosystems.
+
+At Guder, the SOC content in cropland was signiﬁcantly increased (Figure 3a) from the upper to
+lower topographic positions. In fact, the upper position of a watershed is often exposed to soil erosion,
+serving as a source of run-oﬀ and sediment for the lower positions [10]. In cropland, particularly,
+this situation has ampliﬁed the variation of SOC content in association with geomorphologic processes.
+Cropland in the highlands is poor in vegetation cover and experiences soil disturbance due to tillage and
+high biomass removal [5,22]. In contrast, SOC content in grazing land was signiﬁcantly decreased from
+the upper to lower positions (Figure 4a). Less soil disturbance, greater vegetation cover, and organic
+input from grazing animals would improve the SOC in the upper position. Similarly, Mekuria et al. [25]
+reported better vegetation cover and biomass in communal grazing lands in the upper position
+than in the lower position, which is more easily accessed by livestock that induce changes in SOC.
+Zhu et al. [30] also found an increasing trend in SOC content for cropland and a decreasing trend in
+grassland from the summit to the lower part of a watershed in China. A review by Deng et al. [52] of
+studies conducted worldwide revealed that conversion of native vegetation to grassland signiﬁcantly
+increased the SOC stock. In contrast, the SOC content in bushland and plantation at Guder were not
+aﬀected by topographic position. This distribution pattern may be due to the generally good vegetation
+cover in bushland and plantations, which may reduce soil erosion in the upper position, resulting in
+similar SOC contents in the middle and lower positions. Likewise, Fu et al. [13] reported uniform SOC
+contents under diﬀerent vegetative types along a hillslope on the Loess Plateau of China.
+
+The TN content in bushland at Guder was higher in the upper than middle position, which was
+probably due to the presence of a large number of native leguminous shrubs (e.g., E. abyssinica) and
+trees (e.g., A. abyssinica and A. gummifera) in the bushland. These results correspond with the ﬁnding
+of [21], who reported high TN content in native vegetation consisting of leguminous tree species.
+−1) in the upper position than in the
+TN stock of the grazing land was signiﬁcantly higher (13.11 Mg ha
+middle and lower positions (Figure 4d), likely because grazing land in the upper position was recently
+converted from bushland [40], which may have stored relatively high SOC and TN stocks.
+
+At Aba Gerima, both SOC and TN contents were signiﬁcantly diﬀerent among land uses
+−1,
+(Figure 3b,e). SOC and TN contents in the middle position of bushland (17.52 and 1.23 mg g
+respectively) were higher than those in the upper position. Similarly, a study conducted in northern
+Ethiopia [53] reported higher SOC and TN contents in the middle position of natural vegetation.
+Our results could be associated with soil erosion, which is a common problem in the study area and
+elsewhere in Ethiopia [36,43]. Soil erosion often causes translocation of soil from the upper slope
+
+Sustainability 2020, 12, 2425
+
+12 of 18
+
+to lower area and contributes to the loss of soil organic matter [15]. Many studies elsewhere in the
+world [30,53,54] have reported that soil in sites of deposition has higher SOC and TN stocks.
+
+At Dibatie, both SOC and TN contents in the upper position were signiﬁcantly aﬀected by land-use
+type (Figure 3c,f), which could be due to greater anthropogenic pressures in the upper than in the
+middle and lower topographic positions. Many members of the farming community live around the
+lower part of the watershed and their livelihoods depend on the bushland. This results in continuous
+removal of wood and bushland clearing for cropland and grazing land toward the upper position.
+−1 higher and TN contents were
+SOC contents in bushland and cropland were 16.12 and 15.22 mg g
+−1 higher than those of grazing lands. Natural vegetation at Dibatie is dominated by
+0.99 and 0.86 mg g
+deciduous tree and shrub species that commonly contribute large amounts of organic matter to the
+soil. However, grassland is regularly burned, which substantially reduces the grass cover and induces
+loss of SOC and TN contents [55]. In a study in Ethiopia, [56] reported that the natural vegetation in
+Dibatie (Combretum–Terminalia) decreased as a result of ﬁre.
+−1) to middle positions (75.50 Mg ha
+
+With regard to land-use eﬀects, the SOC stock of grazing land soil decreased signiﬁcantly from
+−1) at Guder. Soil bulk density in grazing
+the upper (162.22 Mg ha
+lands is relatively higher as a result of livestock trampling [22,24,57]. At this site, a bulk density of
+1.18 Mg/m3 was recorded in the grazing land (Table 3). At Aba Gerima, a high SOC stock was stored in
+the middle position of bushland. Similarly, at Dibatie bushlands showed higher SOC and TN contents
+than those of the other land-use types.
+
+4.2. Eﬀect of Soil Depth on SOC and TN Contents and Stocks
+
+At Guder, SOC and TN contents at 0–15 cm soil depth in bushland were higher than those of other
+land-use types (Figure 5a,d). Bushland comprises a sizable proportion of native vegetation, and the
+bushes, shrubs, and trees contain a substantial amount of wood biomass with a lower decomposition
+rate, which could improve the organic input and contribute more to soil SOC and TN. These results are
+similar to those of previous studies [10,21] that reported higher SOC and TN contents in the surface
+soil under native vegetation as compared to that of other land uses. Therefore, conversion of bushland
+to another land-use type may cause a substantial amount of SOC loss from the surface soil, as reported
+by studies conducted elsewhere [3,4,21].
+
+Plantation (A. decurrens woodlot) contained lower surface SOC and TN contents than we expected
+(Figure 5a,d). Tesfaye et al. [58] reported lower SOC and TN contents in A. decurrens plantations in the
+central highlands of Ethiopia, which reﬂects the complete removal of plant residues from the woodlots.
+The plantations were established on previous cropland areas, but due to prolonged soil disturbance
+and soil erosion, this land was no longer able to support crop production. Thus, farmers had to change
+the cropland to plantations as a result of poor soil fertility and degradation [59,60]. Because plantations
+are commonly used for charcoal production, both the above- and belowground biomass is completely
+removed at the end of a rotation cycle (~3–5 years). According to Sultan et al. [61], plantations have
+high stand density (<1 m spacing), no understory vegetation cover, poor inﬁltration, and high runoﬀ,
+all of which could contribute to their lower SOC and TN contents.
+
+Similarly, in the 0–15 cm layer of Aba Gerima, cropland has signiﬁcantly less surface SOC and
+TN contents than bushland, plantation, and grazing land (Figure 5b,e). This diﬀerence may be due
+to croplands having less organic input than areas with more vegetation. However, plantations at
+Aba Gerima had SOC contents comparable to those of cropland and grazing lands. These diﬀerences
+in SOC content from the plantations at Guder are likely induced by the diﬀerences in species and
+woodlot management. Unlike the Acacia plantations at Guder, the plantations at Aba Gerima consist
+of Eucalyptus camaldulensis, and tree harvesting operations do not include the belowground biomass.
+A study in northern Ethiopia revealed that Eucalyptus plantations had a better potential to restore
+SOC content than did cropland and grazing land [5,22], and [62] reported that the conversion of
+cropland to Eucalyptus plantations ameliorates soil degradation in central Ethiopia. Moreover, Assefa
+
+Sustainability 2020, 12, 2425
+
+13 of 18
+
+et al. [63] reported that the amount of ﬁne root biomass in Eucalyptus plantations was higher than that
+of cropland and grazing land.
+
+In the lower soil depths (15–30 and 30–50 cm) at Guder, SOC and TN contents were similar to
+those of the surface layer, probably largely due to plant roots and exudates, dissolved organic matter,
+bioturbation, and translocation of particulate organic matter [64]. This result is in line with the ﬁnding
+of [62], who reported a similar trend across soil depths. At Dibatie, soil depth generally had no eﬀect
+on SOC content, however in the lower depths TN content was higher in bushland than in grazing
+land. This may be because of regular burning of the surface cover in woodland, which is the most
+common soil fertility problem in the lowlands of northwestern Ethiopia [65], as well as leaching and
+lower temperature in the subsurface layer [55].
+
+Land use had a signiﬁcant eﬀect on both SOC and TN stocks across the entire 50-cm soil proﬁle
+at Guder (Table S1). The topsoil layer of bushland stored signiﬁcantly greater SOC and TN stocks
+than that of plantation, which may be largely due to less carbon input from litter biomass, roots,
+and residues, including understory biomass in plantations [10,12,66,67]. At the lower two depths,
+however, bushland and grazing land had the highest SOC and TN stocks. Similarly, at Aba Gerima,
+SOC and TN stocks of cropland were lower than those of the tree- and grass-based systems of bushland,
+plantation, and grazing land. Many studies have reported that cropland stores the lowest SOC and TN
+stocks [27,52]. In the 30–50 cm soil layer, bushland also showed higher SOC and TN accumulation than
+cropland (Table S1). At Dibatie, however, SOC and TN stocks were similar at all soil depths, except
+for the TN stock in the lower soil depth. This could be due to the practice of burning woodland (as
+discussed above).
+
+4.3. Eﬀect of Agro-Ecosystem on SOC and TN Contents and Stocks
+
+The SOC stock in bushland (141.19 Mg ha
+
+Agro-ecology had a signiﬁcant eﬀect on SOC and TN contents and stocks (Table 4). The soil under
+bushland and grazing land had lower SOC and TN contents at Aba Gerima and Dibatie than at Guder.
+In diﬀerent ecosystems, climate strongly aﬀects the soil carbon and nitrogen by controlling vegetation
+productivity and organic matter decomposition [68]. Guder had higher mean annual precipitation
+and was cooler than the other two sites (Figure 2). Similar studies also reported that areas with high
+mean annual precipitation and lower mean annual temperature tend to accumulate large amounts
+of SOC and TN [5,49,68]. The SOC and TN contents in cropland were lower at Aba Gerima than at
+Guder and Dibatie. This result clearly indicated that cropland at Aba Gerima had less organic input
+and poor physical protection, including vegetation cover, which plays a substantial role in organic
+matter stabilization in cultivated land [69]. In another study of agro-ecosystems of the Upper Blue Nile
+basin, Ebabu et al. [43] reported greater soil loss for cropland at Aba Gerima than that at Guder and
+Dibatie. However, plantations had similar SOC and TN contents at Guder and Aba Gerima.
+−1) was greater at
+Guder than at Aba Gerima. These values are comparable with previous reports of SOC stocks of 69–239
+−1 in natural vegetation and grazing land to 50 cm depth in the northwest highlands
+and 67–109 Mg ha
+of Ethiopia [5,62], but they are markedly higher than the values reported by [12], who recorded
+−1 to 50 cm depth in grazing and shrub land of northern Ethiopia,
+SOC stocks of 52 and 39 Mg ha
+−1; [35])
+respectively. These values are also lower than the estimated mean of tropical sites (216 Mg ha
+−1; [70]). However, cropland had higher SOC and TN stocks at
+and the global average (254 Mg ha
+Dibatie than those at Guder and Aba Gerima, which could be related to the diﬀerent farming system
+at Dibatie. Unlike at Guder and Aba Gerima, crop residues are not collected in the ﬁeld at Dibatie,
+which could be contributing to the SOC accumulation. In addition, the bulk density in cropland at
+Dibatie was higher than that at the other sites (Table 3). On the other hand, cropland at Dibatie is a new
+land-use type, having been converted from woodlands (Combretum–Terminalia) recently. In southern
+Ethiopia, [71] reported that soil under Combretum–Terminalia vegetation stored higher carbon stock
+than the aboveground biomass.
+
+−1) and grazing land (109.94 Mg ha
+
+Sustainability 2020, 12, 2425
+
+14 of 18
+
+4.4. Implications of SOC and TN Stocks as Indicators for Sustainable Land Management in the Upper Blue
+Nile Watershed
+
+At the watershed scale, the eﬀects of topographic position and land use on SOC and TN stocks
+were not consistent. At Guder, Aba Gerima, and Dibatie, topographic position and land use, land use,
+and topographic position, respectively, were the dominant factors that aﬀected SOC stock (Table 2).
+However, TN stock in all agro-ecosystems was aﬀected by topographic position and land use. Thus,
+by maintaining the same land uses at Guder, both stocks of SOC and TN could be enhanced by
+topographic position, whereas converting bushland and grazing land to A. decurrens woodlots would
+likely diminish the SOC and TN stored in the soil. At Aba Gerima, conversion of cropland to Eucalyptus
+plantation had a positive impact on SOC and TN [5,62]. Plantation had lower SOC and TN stocks due
+to poor undergrowth and litter removal [72]. The interaction of land use and topographic position
+showed a signiﬁcant eﬀect on SOC and TN stocks at Guder and Aba Gerima (Table 2), indicating that
+the variation in topography and land use may simultaneously aﬀect diﬀerent soil processes including
+soil erosion and the accumulation and decomposition of organic matter [10,30].
+
+Across the agro-ecosystems, topographic position and land use were the main factors inﬂuencing
+SOC and TN stocks, but agro-ecosystem also showed a signiﬁcant interactive eﬀect with topographic
+position and land use on the SOC and TN stocks (Table 4). Among agro-ecosystems, SOC and
+TN stocks were higher at Guder, followed by Dibatie and Aba Gerima (Figure 4). In addition to
+vegetation composition, the hydrological regime, soil formation processes, and climate (temperature
+and precipitation) are important factors that aﬀect the SOC [68], which in turn inﬂuences soil
+respiration [33]. In this study, Guder has higher mean annual precipitation and lower mean annual
+temperature (Figure 2a) than Aba Gerima (Figure 2b) and Dibatie (Figure 2c). Agro-ecosystems in
+cooler and moister climates accumulate high SOC and have a low rate of soil respiration [33] and
+limited microbial activity [50]. A warm and moist agro-ecosystem such as Dibatie, however, tends
+to store moderate SOC stocks due to high biomass production (Table 1) and greater soil respiration.
+Aba Gerima has low SOC and TN stocks, likely as a result of severe soil erosion, prolonged crop
+cultivation, and poor land management. The C/N ratio varied from 11–13 at Guder to 10–21 at Aba
+Gerima and 15–18 at Dibatie. The C/N ratio is commonly considered as an indicator of microbial
+activity and quality of soil organic matter [73]. Similar to the SOC and TN stocks, the C/N ratio also
+varied among land-use types, agro-ecosystems, and topographic positions.
+
+5. Conclusions
+
+This study clearly demonstrated that SOC and TN stocks varied signiﬁcantly across land-use types
+and topographic positions of diﬀerent agro-ecosystems. Poor and environmentally damaging land
+management practices tended to reduce SOC and TN in soil. Interactive eﬀects of topographic position
+and land-use types on SOC and TN stocks were signiﬁcant at Guder and Aba Gerima. Bushland
+at Guder accumulated a substantial amount of SOC and TN stocks. Cropland at Aba Gerima had
+poor SOC and TN stocks. Compared to other land-use types, the soil of A. decurrens plantation was
+the lowest in SOC and TN, due to high biomass removal and improper silvicultural management.
+However, E. camaldulensis plantations at Aba Gerima had a positive impact on SOC and TN stocks.
+Across agro-ecosystems, Guder and Dibatie accumulated larger SOC and TN stocks than those of
+Aba Gerima.
+
+Overall, land use was a crucial factor inﬂuencing SOC and TN, both within and across the sites.
+However, the eﬀect of topographic position was more pronounced across watersheds than within them.
+Aba Gerima showed lower SOC and TN stocks due to prolonged crop cultivation and mismanagement
+of the landscape. This calls for immediate land management interventions, particularly targeting
+croplands. Our ﬁndings highlight the importance of assessing SOC and TN stocks when designing
+evidence-based land management options in the Upper Blue Nile basin.
+
+Sustainability 2020, 12, 2425
+
+15 of 18
+
+Supplementary Materials: The following are available online at http://www.mdpi.com/2071-1050/12/6/2425/s1.
+Table S1: SOC and TN stocks at three soil depths under diﬀerent land-use types at Guder, Aba Gerima, and Dibatie.
+Table S2: SOC and TN contents and stocks at the three topographic positions of the study sites.
+Author Contributions: Conceptualization, G.A. and N.H.; data curation, G.A. and K.E.; validation, A.T. (Atsushi
+Tsunekawa) and N.H.; methodology, G.A., M.W., T.M., and T.T.; formal analysis, G.A.; investigation, G.A.;
+resources A.T. (Atsushi Tsunekawa) and N.H.; writing—original draft preparation, G.A.; writing—review and
+editing, A.T. (Atsushi Tsunekawa), E.A., N.H., T.T., M.W., K.E., and M.L.B.; supervision, A.T. (Atsushi Tsunekawa),
+N.H., T.T., and M.T.; project administration, A.T. (Atsushi Tsunekawa), E.A., N.H., and A.T. (Asaminew Tassew);
+funding acquisition, A.T. (Atsushi Tsunekawa), E.A., and N.H. All authors have read and agreed to the published
+version of the manuscript.
+Funding: This research was funded by the Science and Technology Research Partnership for Sustainable
+Japan Science and Technology Agency/Japan International
+Development
+Cooperation Agency.
+Acknowledgments: We are grateful to Anteneh Wubet and Agerselam Gualie for the facilitation of our ﬁeld and
+laboratory work. We also thank the Arid Land Research Center of Tottori University for providing a convenient
+research environment and facilities throughout our work.
+Conﬂicts of Interest: The authors declare no conﬂict of interest.
+
+JPMJSA1601),
+
+(grant no.
+
+References
+
+1.
+
+2.
+
+3.
+
+Chen, L.-F.; He, Z.-B.; Du, J.; Yang, J.-J.; Zhu, X. Patterns and environmental controls of soil organic carbon
+and total nitrogen in alpine ecosystems of northwestern China. Catena 2016, 137, 37–43. [CrossRef]
+Bünemann, E.K.; Bongiorno, G.; Bai, Z.; Creamer, R.E.; De Deyn, G.; de Goede, R.; Fleskens, L.; Geissen, V.;
+Kuyper, T.W.; Mäder, P.; et al. Soil quality—A critical review. Soil Bio. Biochem. 2018, 120, 105–125. [CrossRef]
+Zhang, J.; Wang, X.; Wang, J. Impact of land use change on proﬁle distributions of soil organic carbon
+fractions in the Yanqi Basin. Catena 2014, 115, 79–84. [CrossRef]
+
+7.
+
+5.
+
+6.
+
+4. Martin, D.; Lal, T.; Sachdev, C.B.; Sharma, J.P. Soil organic carbon storage changes with climate change,
+landform and land use conditions in Garhwal hills of the Indian Himalayan mountains. Agri. Ecosyst.
+Environ. 2010, 138, 64–73. [CrossRef]
+Assefa, D.; Rewald, B.; Sandén, H.; Rosinger, C.; Abiyu, A.; Yitaferu, B.; Godbold, D.L. Deforestation and
+land use strongly eﬀect soil organic carbon and nitrogen stock in Northwest Ethiopia. Catena 2017, 153, 89–99.
+[CrossRef]
+Lal, R. Managing Soils and Ecosystems for Mitigating Anthropogenic Carbon Emissions and Advancing
+Global Food Security. Biosci. 2010, 60, 708–721. [CrossRef]
+Fan, S.; Guan, F.; Xu, X.; Forrester, D.; Ma, W.; Tang, X. Ecosystem Carbon Stock Loss after Land Use Change
+in Subtropical Forests in China. Forests 2016, 7, 142. [CrossRef]
+Poeplau, C.; Don, A.; Vesterdal, L.; Leifeld, J.; Wesemael, B.V.; Schumacher, J.; Gensior, A. Temporal dynamics
+of soil organic carbon after land-use change in the temperate zone—Carbon response functions as a model
+approach. Glob. Change Bio. 2011, 17, 2415–2427. [CrossRef]
+Lützow, M.V.; Kögel-Knabner, I.; Ekschmitt, K.; Matzner, E.; Guggenberger, G.; Marschner, B.; Flessa, H.
+Stabilization of organic matter in temperate soils: Mechanisms and their relevance under diﬀerent soil
+conditions—A review. Euro. J. Soil Sci. 2006, 57, 426–445. [CrossRef]
+Sun, W.; Zhu, H.; Guo, S. Soil organic carbon as a function of land use and topography on the Loess Plateau
+of China. Ecol. Eng. 2015, 83, 249–257. [CrossRef]
+IPCC. Climate Change: The Physical Science Basis. Contribution of Working Group I to the Fifth Assessment Report
+of the Intergovernmental Panel on Climate Change; Cambridge Univ. Press: Cambridge, UK, 2013.
+
+11.
+
+10.
+
+9.
+
+8.
+
+12. Gelaw, A.M.; Singh, B.R.; Lal, R. Soil organic carbon and total nitrogen stocks under diﬀerent land uses in a
+
+13.
+
+semi-arid watershed in Tigray, Northern Ethiopia. Agri. Ecosyst. Environ. 2014, 188, 256–263. [CrossRef]
+Fu, X.; Shao, M.; Wei, X.; Horton, R. Soil organic carbon and total nitrogen as aﬀected by vegetation types in
+Northern Loess Plateau of China. Geoderma 2010, 155, 31–35. [CrossRef]
+
+14. Gelaw, A.M.; Singh, B.R.; Lal, R. Organic Carbon and Nitrogen Associated with Soil Aggregates and Particle
+Sizes Under Diﬀerent Land Uses in Tigray, Northern Ethiopia. Land Degrad. Dev. 2015, 26, 690–700.
+[CrossRef]
+
+Sustainability 2020, 12, 2425
+
+16 of 18
+
+15. Yimer, F.; Ledin, S.; Abdelkadir, A. Changes in soil organic carbon and total nitrogen contents in three
+adjacent land use types in the Bale Mountains, south-eastern highlands of Ethiopia. For. Ecol. Manag. 2007,
+242, 337–342. [CrossRef]
+
+16. Meshesha, D.T.; Tsunekawa, A.; Tsubo, M.; Ali, S.A.; Haregeweyn, N. Land-use change and its
+socio-environmental impact in Eastern Ethiopia’s highland. Reg. Environ. Change 2014, 14, 757–768.
+[CrossRef]
+
+17. Alem, S.; Pavlis, J. Conversion of grazing land into Grevillea robusta plantation and exclosure: Impacts on
+
+soil nutrients and soil organic carbon. Environ. Mon. Ass. 2014, 186, 4331–4341. [CrossRef]
+
+18. Lemenih, M.; Olsson, M.; Karltun, E. Comparison of soil attributes under Cupressus lusitanica and Eucalyptus
+saligna established on abandoned farmlands with continuously cropped farmlands and natural forest in
+Ethiopia. For. Ecol. Manag. 2004, 195, 57–67. [CrossRef]
+
+19. Guteta, D.; Abegaz, A. Dynamics of selected soil properties under four land uses in Arsamma watershed,
+
+Southwestern Ethiopian Highlands. Phys. Geog. 2017, 38, 83–102. [CrossRef]
+
+20. Chen, H.; Zhang, W.; Wang, K.; Hou, Y. Soil organic carbon and total nitrogen as aﬀected by land use types
+in karst and non-karst areas of northwest Guangxi, China. J. Sci. Food Agri. 2012, 92, 1086–1093. [CrossRef]
+21. Kassa, H.; Dondeyne, S.; Poesen, J.; Frankl, A.; Nyssen, J. Impact of deforestation on soil fertility, soil carbon
+and nitrogen stocks: The case of the Gacheb catchment in the White Nile Basin, Ethiopia. Agri. Ecosyst.
+Environ. 2017, 247, 273–282. [CrossRef]
+
+22. Teferi, E.; Bewket, W.; Simane, B. Eﬀects of land use and land cover on selected soil quality indicators in the
+headwater area of the Blue Nile basin of Ethiopia. Environ. Mon. Ass. 2016, 188, 83. [CrossRef] [PubMed]
+Feyisa, K.; Beyene, S.; Angassa, A.; Said, M.Y.; de Leeuw, J.; Abebe, A.; Megersa, B. Eﬀects of enclosure
+management on carbon sequestration, soil properties and vegetation attributes in East African rangelands.
+Catena 2017, 159, 9–19. [CrossRef]
+
+23.
+
+24. Mekuria, W.; Langan, S.; Noble, A.; Johnston, R. Soil Restoration after seven Years of Exclosure Management
+
+in Northwestern Ethiopia. Land Degrad. Dev. 2017, 28, 1287–1297. [CrossRef]
+
+25. Mekuria, W.; Wondie, M.; Amare, T.; Wubet, A.; Feyisa, T.; Yitaferu, B. Restoration of degraded landscapes
+
+26.
+
+for ecosystem services in North-Western Ethiopia. Heliyon 2018, 4, e00764. [CrossRef] [PubMed]
+Solomon, D.; Lehmann, J.; Zech, W. Land use eﬀects on soil organic matter properties of chromic luvisols in
+semi-arid northern Tanzania: Carbon, nitrogen, lignin and carbohydrates. Agri. Ecosyst. Environ. 2000, 78,
+203–213. [CrossRef]
+
+27. Dessalegn, D.; Beyene, S.; Ram, N.; Walley, F.; Gala, T.S. Eﬀects of topography and land use on soil
+characteristics along the toposequence of Ele watershed in southern Ethiopia. Catnea 2014, 115, 47–54.
+[CrossRef]
+
+28. Dialynas, Y.G.; Bastola, S.; Bras, R.L.; Billings, S.A.; Markewitz, D.; Richter, D.d. Topographic variability and
+
+the inﬂuence of soil erosion on the carbon cycle. Glob. Biogeochem. Cycles 2016, 30, 644–660. [CrossRef]
+
+29. Wang, Y.; Fu, B.; Lü, Y.; Chen, L. Eﬀects of vegetation restoration on soil organic carbon sequestration at
+
+multiple scales in semi-arid Loess Plateau, China. Catena 2011, 85, 58–66. [CrossRef]
+
+30. Zhu, H.; Wu, J.; Guo, S.; Huang, D.; Zhu, Q.; Ge, T.; Lei, T. Land use and topographic position control soil
+organic C and N accumulation in eroded hilly watershed of the Loess Plateau. Catena 2014, 120, 64–72.
+[CrossRef]
+
+31. Conant, R.T.; Ryan, M.G.; Ågren, G.I.; Birge, H.E.; Davidson, E.A.; Eliasson, P.E.; Evans, S.E.; Frey, S.D.;
+Giardina, C.P.; Hopkins, F.M.; et al. Temperature and soil organic matter decomposition rates—Synthesis of
+current knowledge and a way forward. Glob. Change Bio. 2011, 17, 3392–3404. [CrossRef]
+
+32. Crowther, T.W.; Thomas, S.M.; Maynard, D.S.; Baldrian, P.; Covey, K.; Frey, S.D.; van Diepen, L.T.;
+Bradford, M.A. Biotic interactions mediate soil microbial feedbacks to climate change. Proc. Natl. Acad. Sci.
+USA 2015, 112, 7033–7038. [CrossRef] [PubMed]
+
+33. Wang, W.; Fang, J. Soil respiration and human eﬀects on global grasslands. Glob. Planet. Change 2009, 67,
+
+20–28. [CrossRef]
+
+34. Takoutsing, B.; Weber, J.C.; Tchoundjeu, Z.; Shepherd, K. Soil chemical properties dynamics as aﬀected by
+
+land use change in the humid forest zone of Cameroon. Agrofor. Sys. 2015, 90, 1089–1102. [CrossRef]
+
+35. Lal, R. Soil Carbon Sequestration Impacts on Global Climate Change and Food Security. Science 2004, 304,
+
+1623–1627. [CrossRef] [PubMed]
+
+Sustainability 2020, 12, 2425
+
+17 of 18
+
+36. Haregeweyn, N.; Tsunekawa, A.; Poesen, J.; Tsubo, M.; Meshesha, D.T.; Fenta, A.A.; Nyssen, J.; Adgo, E.
+Comprehensive assessment of soil erosion risk for better land use planning in river basins: Case study of the
+Upper Blue Nile River. Sci Total Environ. 2017, 574, 95. [CrossRef]
+
+38.
+
+37. Gebremicael, T.G.; Mohamed, Y.A.; Betrie, G.D.; van der Zaag, P.; Teferi, E. Trend analysis of runoﬀ and
+sediment ﬂuxes in the Upper Blue Nile basin: A combined analysis of statistical tests, physically-based
+models and landuse maps. J. Hydrol. 2013, 482, 57–68. [CrossRef]
+Sultan, D.; Tsunekawa, A.; Haregeweyn, N.; Adgo, E.; Tsubo, M.; Meshesha, D.T.; Masunaga, T.; Aklog, D.;
+Ebabu, K. Analyzing the runoﬀ response to soil and water conservation measures in a tropical humid
+Ethiopian highland. Phys. Geog. 2017, 38, 423–447. [CrossRef]
+Sisay, K.; Thurnher, C.; Belay, B.; Lindner, G.; Hasenauer, H. Volume and Carbon Estimates for the Forest
+Area of the Amhara Region in Northwestern Ethiopia. Forests 2017, 8, 122. [CrossRef]
+
+39.
+
+40. Berihun, M.L.; Tsunekawa, A.; Haregeweyn, N.; Meshesha, D.T.; Adgo, E.; Tsubo, M.; Masunaga, T.;
+Fenta, A.A.; Sultan, D.; Yibeltal, M. Exploring land use/land cover changes, drivers and their implications in
+contrasting agro-ecological environments of Ethiopia. Land Use Policy 2019, 87, 104052. [CrossRef]
+
+41. Mekonnen, G. Soil Characterization Classiﬁcation and Mapping of Three Twin Watersheds in the Upper Blue Nile
+
+basin, Ethiopia; Amhara Design and Supervision Works Enterprise: Bahir Dar, Ethiopia, 2016.
+
+42. Peel, M.C.; Finlayson, B.L.; McMahon, T.A. Updated world map of the Köppen-Geiger climate classiﬁcation.
+
+Hydrol. Earth Sys. Sci. Discuss. 2007, 4, 439–473. [CrossRef]
+
+43. Ebabu, K.; Tsunekawa, A.; Haregeweyn, N.; Adgo, E.; Meshesha, D.T.; Aklog, D.; Masunaga, T.; Tsubo, M.;
+Sultan, D.; Fenta, A.A.; et al. Eﬀects of land use and sustainable land management practices on runoﬀ and
+soil loss in the Upper Blue Nile basin, Ethiopia. Sci. Total Environ. 2019, 648, 1462–1475. [CrossRef]
+
+44. Nigussie, Z.; Tsunekawa, A.; Haregeweyn, N.; Adgo, E.; Nohmi, M.; Tsubo, M.; Aklog, D.; Meshesha, D.T.;
+Abele, S. Factors inﬂuencing small-scale farmers’ adoption of sustainable land management technologies in
+north-western Ethiopia. Land Use Policy 2017, 67, 57–64. [CrossRef]
+
+45. Yibeltal, M.; Tsunekawa, A.; Haregeweyn, N.; Adgo, E.; Meshesha, D.T.; Aklog, D.; Masunaga, T.; Tsubo, M.;
+Billi, P.; Vanmaercke, M.; et al. Analysis of long-term gully dynamics in diﬀerent agro-ecology settings.
+Catena 2019, 179, 160–174. [CrossRef]
+
+46. Poppe, L.; Frankl, A.; Poesen, J.; Admasu, T.; Dessie, M.; Adgo, E.; Deckers, J.; Nyssen, J. Geomorphology of
+
+the Lake Tana basin, Ethiopia. J. Maps 2013, 9, 431–437. [CrossRef]
+
+47. Ellert, B.H.; Bettany, J.R. Calculation of organic matter and nutrients stored in soils under contrasting
+
+management regimes. Can J. Soil Sci. 1995, 75, 529–538. [CrossRef]
+
+48. R Core Team. R: A Language and Environment for Statistical Computing; R Foundation for Statistical Computing:
+
+Vienna, Austria, 2015; ISBN 3-900051-07-0.
+
+49. Li, D.; Niu, S.; Luo, Y. Global patterns of the dynamics of soil carbon and nitrogen stocks following
+
+aﬀorestation: A meta-analysis. New Phytol. 2012, 195, 172–181. [CrossRef] [PubMed]
+
+50. Wiesmeier, M.; Urbanski, L.; Hobley, E.; Lang, B.; von Lützow, M.; Marin-Spiotta, E.; van Wesemael, B.;
+Rabot, E.; Ließ, M.; Garcia-Franco, N.; et al. Soil organic carbon storage as a key function of soils—A review
+of drivers and indicators at various scales. Geoderma 2019, 333, 149–162. [CrossRef]
+
+51. Chai, H.; Yu, G.R.; He, N.P.; Wen, D.; Li, J.; Fang, J.P. Vertical distribution of soil carbon, nitrogen, and
+
+phosphorus in typical Chinese terrestrial ecosystems. Chi. Geog. Sci. 2015, 25, 549–560. [CrossRef]
+
+52. Deng, L.; Zhu, G.-Y.; Tang, Z.-S.; Shangguan, Z.-P. Global patterns of the eﬀects of land-use changes on soil
+
+carbon stocks. Glob. Ecol. Conserv. 2016, 5, 127–138. [CrossRef]
+
+53. Berihu, T.; Girmay, G.; Sebhatleab, M.; Berhane, E.; Zenebe, A.; Sigua, G.C. Soil carbon and nitrogen losses
+
+following deforestation in Ethiopia. Agron. Sustain. Dev. 2016, 37. [CrossRef]
+
+54. Ma, W.; Li, Z.; Ding, K.; Huang, B.; Nie, X.; Lu, Y.; Xiao, H. Soil erosion, organic carbon and nitrogen dynamics
+in planted forests: A case study in a hilly catchment of Hunan Province, China. Soil Tillage Res. 2016, 155,
+69–77. [CrossRef]
+
+55. Knicker, H. How does ﬁre aﬀect the nature and stability of soil organic nitrogen and carbon? A review.
+
+56.
+
+Biogeochem 2007, 85, 91–118. [CrossRef]
+van Breugel, P.; Friis, I.; Demissew, S.; Lillesø, J.-P.B.; Kindt, R. Current and Future Fire Regimes and Their
+Inﬂuence on Natural Vegetation in Ethiopia. Ecosystems 2015, 19, 369–386. [CrossRef]
+
+57. Don, A.; Schumacher, J.; Freibauer, A. Impact of tropical land-use change on soil organic carbon stocks—A
+
+meta-analysis. Glob. Change Bio. 2011, 17, 1658–1670. [CrossRef]
+
+Sustainability 2020, 12, 2425
+
+18 of 18
+
+58. Tesfaye, M.A.; Bravo-Oviedo, A.; Bravo, F.; Kidane, B.; Bekele, K.; Sertse, D. Selection of Tree Species and
+Soil Management for Simultaneous Fuelwood Production and Soil Rehabilitation in the Ethiopian Central
+Highlands. Land Degrad. Dev. 2015, 26, 665–679. [CrossRef]
+
+59. Nigussie, Z.; Tsunekawa, A.; Haregeweyn, N.; Adgo, E.; Nohmi, M.; Tsubo, M.; Aklog, D.; Meshesha, D.T.;
+Abele, S. Factors Aﬀecting Small-Scale Farmers’ Land Allocation and Tree Density Decisions in an Acacia
+decurrens-Based taungya System in Fagita Lekoma District, North-Western Ethiopia. Small-Scale For. 2016,
+16, 219–233. [CrossRef]
+
+60. Wondie, M.; Mekuria, W. Planting of Acacia decurrens and Dynamics of Land Cover Change in Fagita
+
+61.
+
+Lekoma District in the Northwestern Highlands of Ethiopia. Mt. Res. Dev. 2018, 38, 230–239. [CrossRef]
+Sultan, D.; Tsunekawa, A.; Haregeweyn, N.; Adgo, E.; Tsubo, M.; Meshesha, D.T.; Masunaga, T.; Aklog, D.;
+Fenta, A.A.; Ebabu, K. Impact of Soil and Water Conservation Interventions on Watershed Runoﬀ Response
+in a Tropical Humid Highland of Ethiopia. Environ. Manag. 2018, 61, 860–874. [CrossRef]
+
+62. Tesfaye, M.A.; Bravo, F.; Ruiz-Peinado, R.; Pando, V.; Bravo-Oviedo, A. Impact of changes in land use, species
+and elevation on soil organic carbon and total nitrogen in Ethiopian Central Highlands. Geoderma 2016, 261,
+70–79. [CrossRef]
+
+63. Assefa, D.; Rewald, B.; Sandén, H.; Godbold, D. Fine Root Dynamics in Afromontane Forest and Adjacent
+
+Land Uses in the Northwest Ethiopian Highlands. Forests 2017, 8, 249. [CrossRef]
+
+64. Twongyirwe, R.; Sheil, D.; Majaliwa, J.G.M.; Ebanyat, P.; Tenywa, M.M.; van Heist, M.; Kumar, L. Variability of
+Soil Organic Carbon stocks under diﬀerent land uses: A study in an afro-montane landscape in southwestern
+Uganda. Geoderma 2013, 193–194, 282–289. [CrossRef]
+
+65. Lemenih, M.; Feleke, S.; Tadesse, W. Constraints to smallholders production of frankincense in Metema
+
+66.
+
+district, North-western Ethiopia. J. Arid Environ. 2007, 71, 393–403. [CrossRef]
+Stockmann, U.; Adams, M.A.; Crawford, J.W.; Field, D.J.; Henakaarchchi, N.; Jenkins, M.; Minasny, B.;
+McBratney, A.B.; Courcelles, V.d.R.d.; Singh, K.; et al. The knowns, known unknowns and unknowns of
+sequestration of soil organic carbon. Agric. Ecosyst. Environ. 2013, 164, 80–99. [CrossRef]
+
+67. Wang, T.; Kang, F.; Cheng, X.; Han, H.; Ji, W. Soil organic carbon and total nitrogen stocks under diﬀerent
+land uses in a hilly ecological restoration area of North China. Soil Tillage Res. 2016, 163, 176–184. [CrossRef]
+68. Deng, L.; Liu, G.B.; Shangguan, Z.P. Land-use conversion and changing soil carbon stocks in China’s
+
+‘Grain-for-Green’ Program: A synthesis. Glob Change Bio. 2014, 20, 3544–3556. [CrossRef]
+
+69. Liu, S.; Dong, Y.; Cheng, F.; Yin, Y.; Zhang, Y. Variation of soil organic carbon and land use in a dry valley in
+
+Sichuan province, Southwestern China. Ecol. Eng. 2016, 95, 501–504. [CrossRef]
+
+70. Batjes, N.H. Total carbon and nitrogen in the soils of the world. Euro. J. Soil Sci. 1996, 47, 151–163. [CrossRef]
+71. Tesfaye, M.; Negash, M. Combretum—Terminalia vegetation accumulates more carbon stocks in the soil
+than the biomass along the elevation ranges of dryland ecosystem in Southern Ethiopia. J. Arid Environ.
+2018, 155, 59–64. [CrossRef]
+
+72. Temesgen, D.; Gonzálo, J.; Turrión, M.B. Eﬀects of short-rotation Eucalyptus plantations on soil quality
+attributes in highly acidic soils of the central highlands of Ethiopia. Soil Use Manag. 2016, 32, 210–219.
+[CrossRef]
+
+73. Ostrowska, A.; Por˛ebska, G. Assessment of the C/N ratio as an indicator of the decomposability of organic
+
+matter in forest soils. Ecol. Ind. 2015, 49, 104–109. [CrossRef]
+
+© 2020 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access
+article distributed under the terms and conditions of the Creative Commons Attribution
+(CC BY) license (http://creativecommons.org/licenses/by/4.0/).
+
+
