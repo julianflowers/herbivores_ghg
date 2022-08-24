@@ -3,9 +3,9 @@ title: "Herbivory coding"
 format: html
 editor: visual
 execute: 
-  cache: true
-  message: true
-  warning: true
+  cache: false
+  message: false
+  warning: false
   echo: false
 toc: true
 toc-location: left
@@ -50,7 +50,7 @@ skimr::skim(data)
 ```{r}
 
 data |>
-  count(europe)
+  count(europe, sort = TRUE)
 ```
 
 ## Mapping
@@ -66,134 +66,119 @@ The basic pattern is degrees and minutes, some have seconds - this can be repres
 
 Looking at the unique contents of the `latitude_n_s` field we can also see it contains non lats (a DOI) and also other numbers which we need to remove or exclude.
 
+The data is very messy - full of extraneous characters and extra text.
+
+Let's start simple - we'll extract a list of coordinates from `latitude_n_s` and `longitude_e_w` try simple patterns
+
+-   \\d{1,2}.\*\[NSEW\] find a string which has 1 or 2 digits followed by any number of other characters and then a capital N, S, E or W
+-   \[NSEW\].\*\\d{1,2} as above but digits follow N, S, E, W
+
 ```{r}
-#| label: unique lat-longs
-#| eval: false
-data$latitude_n_s[1] |>
-  str_extract(pattern2)
+#| label: pattern matching
+
+data_1 <- data |>
+  select(refs = item, latitude_n_s, longitude_e_w) |>
+  mutate(lats = str_extract_all(latitude_n_s, paste0("\\d{1,2}.*[NSEW]", "|", "[NSEW].*\\d{1,2}")))
+  
+data_1 <- data_1 |>
+  mutate(longs = str_extract_all(longitude_e_w, paste0("\\d{1,2}.*[NSEW]", "|", "[NSEW].*\\d{1,2}")))
+  
+data_1 |>
+  gt::gt()
 ```
 
+There are some issues here:
+
+-   Extraneous text e.g '20 sites between 6Â° 32â€² W'
+
+-   Extraneous numbers e.g. 1: 55.87Â° N
+
+Let's try and fix these - we can clean extraneous text and numbers.
+
 ```{r}
 
-#| label: create regex patterns 
-
-#pattern1 <- "\\d{1,2}\\.\\d{1,2}"                                  ## e.g. N54:41:18 
-pattern2 <- "\\d{1,2}\\D*\\d{1,2}\\D*\\d{1,2}\\D*[NSEW]"             ## e.g. 52 8' 12\"N
-pattern3 <- "\\d{1,2}\\D*\\d{1,2}\\D*[NS]"                         ## e.g. 52Â°86' N
-pattern2a <- "\\d{1,2}\\D*\\d{1,2}\\.\\d{1,2}\\.\\d{1,2}\\D*[NSEW]" 
-pattern2b <- "\\d{1,2}\\D*\\d{1,2}\\.\\d{1,2}\\D*[NSEW]"## eg 52 25' 43.76"N
-pattern4 <- "[EW]\\d{1,2}\\D*\\d{1,2}\\D*\\d{1,2}"
-pattern5 <- "\\d{1,2}\\D*\\d{1,2}\\D*\\d{1,2}\\D*[EW]" 
-pattern6 <- "\\d{1,2}\\D*\\d{1,2}\\D*[EW]"
-pattern7 <- "[NS]\\d{1,2}[[:punct:]]\\d{1,2}[[:punct:]]\\d{1,2}"
-pattern8 <- "[EW]\\d{1,2}[[:punct:]]\\d{1,2}[[:punct:]]\\d{1,2}"
+data_2 <- data_1 |>
+  mutate_all(~str_remove(., "20 sites")) |>
+  mutate_all( ~str_remove(., "\\r\\nCOMPARATOR SITE")) |>
+  mutate_all(~str_remove(., "latitude")) |>
+  mutate_all(~str_remove_all(., "\\d{1}:\\s")) |>
+  mutate_all(~str_remove(., "EXPOSURE SITE.*:")) |>
+  #mutate_all(~str_remove(., "-Latitude (state in info)")) |>
+  mutate_all(~str_remove(., "\\r\\n")) |>
+  mutate_all(~str_remove(., "NY.\\d{6}"))
 
 
+data_2
+ 
 ```
 
 We can use these patterns to isolate the lat-longs, extract the numerical data and calculate the decimal coordinates.
 
 ```{r}
 #| label: dry run
-library(stringi)
-lat_long <- data|>
-  select(item, latitude_n_s, longitude_e_w) |>
-  mutate_all(~str_remove_all(.,"20 sites")) |>
-  mutate_all(~str_remove_all(., "Hill.\\d")) |>
-  mutate_all(~str_remove_all(., "NY\\D*\\d{6}")) |>
-  mutate_all(~str_remove_all(., "(state in info)\r\n") )|>
-  mutate(latitude_n_s = str_remove(latitude_n_s, pattern8), 
-         longitude_e_w = str_remove(longitude_e_w, pattern7))
 
-lat_long
-
-
-ll <- lat_long |>
-  mutate(lat = str_extract(latitude_n_s, pattern2a), 
-         lat = ifelse(is.na(lat), str_extract(latitude_n_s, pattern2), lat), 
-         lat = ifelse(is.na(lat), str_extract(latitude_n_s, pattern7), lat), 
-         long = str_extract(longitude_e_w, pattern2),
-         long = ifelse(is.na(long), str_extract(longitude_e_w, pattern2b), long),
-         long = ifelse(is.na(long), str_extract(longitude_e_w, pattern8), long), 
-         long = ifelse(is.na(long), str_extract(longitude_e_w, pattern6), long))
-
-ll |>
-  filter(str_detect(item, "Medi"))
-
+geo_data <- data_2 |>
+  select(refs, lats, longs) |>
+  mutate(lat_point = str_extract(lats, "^[NS]|[NS]$"), 
+         long_point = str_extract(longs, "^[EW]|[EW]$"))   ## get compass information
 ```
 
 ```{r}
-#| label: calculate decimal lat-longs
-#| message: false
-#| 
-#lats <- 
-  
-lat_long |>
-  filter(str_detect(item, "^D"))
+
+## identify already decimal coordinates
+geo_data <- geo_data |>
+  mutate(lat_cat = str_match(lats, "\\d{1,2}\\.\\d{1,2}"), 
+         long_cat = str_match(longs, "\\d{1,2}\\.\\d{1,2}")) 
+
+## identify [NSEW]deg:min:sec pattern
+
+geo_data <- geo_data |>
+  mutate(lat_cat = ifelse(is.na(lat_cat), str_extract(lats, "[NS]\\d{1,2}:\\d{1,2}:\\d{1,2}"), lat_cat), 
+         long_cat = ifelse(is.na(long_cat), str_extract(longs, "[EW]\\d{1,2}:\\d{1,2}:\\d{1,2}"), long_cat), 
+         lat_point = ifelse(is.na(lat_point), str_extract(lat_cat, "[NS]"), lat_point),
+         long_point = ifelse(is.na(long_point), str_extract(long_cat, "[EW]"), long_point))
+
+geo_data 
 ```
 
 ```{r}
-  
-trial <- ll |> 
-  mutate(lat1 = str_replace_all(lat, "\\D", " "),
-         long1 = str_replace_all(long, "\\D", " ")) |>
-  mutate(latlen = str_length(lat1)) 
-
-points <- trial |> 
-  select(item, lat, long) |>
-  mutate(compass_lat = str_extract(lat, "[NS]"), 
-         compass_long = str_extract(long, "[EW]"), 
-         lat1 = str_extract_all(lat, "\\d{1,2}"), 
-         long1 = str_extract_all(long, "\\d{1,2}")) |>
-  drop_na() |>
-  unnest("lat1") |>
-  group_by(item) |>
-  mutate(lat_id = row_number()) |>
-  filter(!lat_id %in% c(3,4)) |>
-  mutate(lat1 = as.numeric(lat1), 
-         dec_lat = ifelse(str_detect(lat, "\\d{1,2}\\.\\d{1,2}"), lat1[1] + lat1[2]/100, lat1[1] + lat1[2]/60)) |>
-  select(-c(lat1, lat_id)) |>
-  unnest("long1") |>
-  mutate(long_id = row_number()) |>
-  filter(long_id %in% c(1,2)) |> 
-  mutate(long1 = as.numeric(long1),
-         dec_long = ifelse(str_detect(long, "\\d{1,2}\\.\\d{1,2}"), long1[1] + long1[2]/100, long1[1] + long1[2]/60), 
-         dec_long = ifelse(compass_long == "W", dec_long * -1, dec_long), 
-         dec_lat = ifelse(compass_long == "S", dec_lat * -1, dec_lat)) |>
-  select(item, dec_lat, dec_long) |>
+geo_data <- geo_data |>
+  mutate(lat_degrees = str_extract(lats, "\\d{1,2}"), ## first numbers
+         long_degrees = str_extract(longs, "\\d{1,2}"), 
+         lat_mins = str_extract_all(lats, "\\d{1,2}")) |>
+  unnest_wider("lat_mins") |>
+  mutate(long_mins = str_extract_all(longs, "\\d{1,2}")) |>
+  unnest_wider("long_mins", names_repair = "unique") |>
+  mutate_at(.vars = 8:21, as.numeric) |>
+  select(refs, lat_point, long_point, lat_cat, long_cat, ...10, ...11, ...16, ...17) |>
+  group_by(refs, lat_point, long_point ) |>
+  summarise(dec_lat = ifelse(is.na(lat_cat), ...10 + ...11/60, ...10 + ...11/100), 
+         dec_long = ifelse(is.na(long_cat), ...16 + ...17/60, ...16 + ...17/100), 
+         dec_long = ifelse(long_point == "W", -dec_long, dec_long)) |>
+  select(refs, dec_lat, dec_long) |>
   distinct()
-  
-  
 
-```
+geo_data
 
-```{r}
-
-## temp fix of daaz while working out a better solution
-
-daaz_lat <- 51 + 41/60
-daaz_long <- 2 + 37/60
-
-points[23, "dec_lat"] <- daaz_lat
-points[23, "dec_long"] <- daaz_long
-
-points
 ```
 
 ```{r}
 library(sf)
-  coords <- points |>
+
+coords <- geo_data |>
+  drop_na() |>
   st_as_sf(coords = c(x = "dec_long", y = "dec_lat"), crs = 4326)
   
-coords
+coords <- coords |>
+  left_join(data, by = c("refs" = "item"))
 ```
 
 ## Interactive map
 
 ```{r}
-library(mapview);library(sp);library(ggspatial)
+library(mapview);library(sp);library(ggspatial);library(leaflet);library(leafpop)
 
-mapview(coords, legend = FALSE)
+mapview(coords, legend = FALSE, popup = popupTable(coords, zcol = c("refs", "herbivore_species_or_simulation_exposure")))
 ```
 
 ## Static map
@@ -204,6 +189,7 @@ coords |>
   ggplot() +
   annotation_map_tile("cartolight") +
   geom_sf() +
+  coord_sf() +
   theme_void()
   
 

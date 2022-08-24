@@ -10,8 +10,8 @@
   },
   "Packages": [],
   "Python": {
-    "Version": "3.9.13",
+    "Version": "3.8.9",
     "Type": "virtualenv",
-    "Name": "myenv"
+    "Name": "r-taxonerd"
   }
 }

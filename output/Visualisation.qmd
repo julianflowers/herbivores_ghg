@@ -1,0 +1,403 @@
+---
+title: "Visualising herbivory and climate change literature"
+format: html
+editor: visual
+execute: 
+  cache: true
+toc: true
+toc-location: left
+code-fold: true
+code-tools: true
+---
+
+`ggplot2` is a hugely powerful R package which enables the creation of high quality scientific charting and visualisation for communication.
+
+This note walks through some basics for creating charts to illustrate the literature review but there are lots of resources for chart creation of which [this course](https://rstudio-conf-2022.github.io/ggplot2-graphic-design/) really showcases what is possible.
+
+## Load libraries and import data
+
+```{r}
+#| label: import data 
+## load libraries
+
+library(pacman)
+pacman::p_load(tidyverse, readxl, here, skimr, overviewR, ggmap, gt, gtsummary, DataExplorer, gtExtras, rphylopic, magick)       ## readxl is needed to load excel files into R
+
+
+path <- here::here("data")         ## the `here` package helps with file paths
+
+
+xls <- list.files(path, "xls", full.names = TRUE)
+
+data <- readxl::read_xlsx(xls[1]) |>
+  janitor::clean_names()
+
+```
+
+```{r}
+introduce(data)
+```
+
+## Data wrangling
+
+The dataset is wide - that is each variable or category has its own column, but for analysis and plotting it might be easier to groups some of the variables to make the data more hierarchical. For example *climate change outcome* has a set of outcome categories each of which have a direction of change.
+
+The `skimr` package gives us a rapid overview of the data structure...
+
+```{r}
+
+skimr::skim(data)
+```
+
+Lets try and reshape the climate effects variables.
+
+```{r}
+#| label: select climate effect variables
+
+climate_effect <- data |>
+  select(item, title, albedo:direction_of_climate_change_outcome)
+
+climate_effect_long <- climate_effect |>
+  pivot_longer(names_to = "vars", values_to = "vals", cols = 3:16)
+
+pluck(climate_effect_long, "vars") |>
+  unique()
+
+```
+
+### Recoding variables to create groups
+
+```{r}
+
+cel <- climate_effect_long |>
+  mutate(var_cat = case_when(str_detect(vars, "methane") ~ "methane", 
+                             str_detect(vars, "biomass") ~ "biomass", 
+                             str_detect(vars, "emissions") ~ "emissions",
+                             TRUE ~ vars)) 
+
+  gt <- cel |>
+  janitor::tabyl(vars, vals) |>
+  gt::gt() 
+
+gt |>
+  tab_header(title = "Climate change outcomes") |>
+  tab_spanner(
+    label = "Outcome",
+    columns = 2:9
+  ) |>
+  tab_row_group(
+    label = "Biomass", 
+    rows = c(1, 11)
+  ) |>
+  tab_row_group(
+    label = "Methane", 
+    rows = c(5:9)
+  ) 
+
+
+
+
+```
+
+Lets do similar data on herbivores.
+
+```{r}
+
+#| label: download phylopic images
+
+dir.create(paste0(here(), "/images"))
+
+image_path <- here("images")
+
+taxa <- "sheep"
+
+ns <- name_search(taxa, options = "namebankID")[1,]
+
+id <- name_images(uuid = ns$uid[1])
+
+uid <- id$same[[4]]$uid
+
+size <- 64
+
+img <- paste0("http://phylopic.org/assets/images/submissions/", uid, ".", size, ".png") %>%
+    image_read()
+
+img |>
+  image_write(paste0(image_path, "/sheep.png"))
+
+
+```
+
+### Table decoration with images
+
+```{r}
+#| label: add images to table
+
+## Create a table of images
+image_files <- list.files(here::here("images"), "png", full.names = T) 
+taxa <- c("Cows", "Goat", "Horses", "Sheep")
+image_tab <- tibble(taxa, image_files)
+
+data |>
+  select(item, contains("ine"), -continent_and_country) |>
+  pivot_longer(names_to = "Herbivores", values_to = "Breed", cols = 2:11, values_drop_na = TRUE) |>
+  mutate(Herbivore_Group = case_when(str_detect(Herbivores, "ines") ~ "Outcome", 
+                                TRUE ~ "Comparator")) |>
+  group_by(Herbivore_Group, Herbivores) |>
+  count(Breed) |>
+  mutate(Herbivores = str_remove_all(Herbivores, "_.*ine?."), 
+         Herbivores = str_to_title(Herbivores)) |>
+  pivot_wider(names_from = "Herbivore_Group", values_from = "n", values_fill = 0) |>
+  mutate(Breed = str_remove(Breed, "-"), 
+         Breed = str_remove(Breed, "\\r\\n")) |>
+  left_join(image_tab, by = c("Herbivores" = "taxa")) |>
+  select(Herbivory = image_files, Breed, Outcome, Comparator) |>
+  gt::gt() |>
+    gt_img_rows(Herbivory, img_source = "local") |>
+  gt_theme_guardian()
+
+
+
+```
+
+## Basic template for plotting categorical variables
+
+### Select categorical variables
+
+```{r}
+
+## Select categorical variables
+chr_vars <- select_if(data, is.character) |> 
+  janitor::clean_names()          ## this function converts variable names to snake case which makes them much more consistent
+
+glimpse(chr_vars) 
+```
+
+### Ordered bar charts (recommended)
+
+We'll use `ggplot2` which is a hugely powerful and (hopefully) intuitive package for high quality production charting.
+
+Lets plot `climate_change_outcome`
+
+The first step is to count the frequency of each category within the variable:
+
+```{r}
+
+## the |> symbol is called a "pipe" . It says "do the instruction on the right hand side to the data on the left hand side. So... count categories in the variable climate_effect_outcome in the data set chr_vars
+
+counts <- chr_vars  |>           
+  count(climate_effect_outcome)
+
+counts
+```
+
+We can see there are `r nrow(counts)` in the data.
+
+We can now construct a bar (column) chart using gg plot
+
+```{r}
+
+counts |> 
+  ggplot(aes(x = climate_effect_outcome, y = n)) +  ## we have to wrap x and y variables in aes()
+  geom_col()                                        ## geom_col() plots bars 
+  
+
+
+
+```
+
+It's a bit of a mess...
+
+Lets do 2 things:
+
+1.  Order the bars by size
+2.  Flip the chart from horizontal to vertical
+
+Note that `ggplot` is built on the idea that charts are built in layers - axes, annotations, data, panels and plot areas and so on, and each layer we add needs a `+` sign -
+
+In the code below we tell ggplot to add columns to represent the data on the chart by `+ geom_col()`
+
+That's better but we can see a few issues:
+
+1.  Labels are ?duplicated and rather messy
+2.  The y axis label is redundant
+3.  The x axis needs to be integer and we need to label it correctly
+4.  We need to add titles etc
+5.  We should remove (or relabel) NAs.
+
+Let's tackle these.
+
+### Labelling or modifying axes labels, adding titles
+
+This is controlled by `labs()`
+
+```{r}
+
+g <- counts |>
+  ggplot(aes(reorder(climate_effect_outcome, n), n)) +      
+  geom_col(fill = "blue") +                             ## (fill = ... controls the colour of the bars)
+  labs(y = "No of studies", 
+       x = NULL, 
+       title = "Climate outcomes") +
+  coord_flip()  
+
+g
+
+```
+
+### 
+
+Lets move the title to the left, and reduce the font size of the y axis labels, and we'll change the scale of the x-axis
+
+Positions of titles, axes labels, font sizes and so on are controlled by `theme()`
+
+```{r}
+#| label: labelling
+
+g <- g +
+  theme(plot.title.position = "plot", 
+        axis.text.x = element_text(size = .5))
+
+g
+
+```
+
+### Further modifications
+
+The value labels still need tidying but that may best be done in the data. We can change the colour of the bars and the background.
+
+```{r}
+
+g +
+  theme(panel.background = element_blank())      ## removes panel background
+  
+
+
+```
+
+### Putting it all together
+
+```{r}
+#| label: putting it all together
+
+chr_vars |>              
+  count(climate_effect_outcome) |>
+  ggplot(aes(reorder(climate_effect_outcome, n), n)) +     
+  geom_col(fill = "blue") +
+  labs(y = "No of studies", 
+       x = NULL, 
+       title = "Climate outcomes") +
+  ylim(c(0, 14)) +
+  coord_flip() +
+  theme(plot.title.position = "plot", 
+        axis.text.y = element_text(size = 7), 
+        panel.background = element_blank())
+
+```
+
+### Making it generic - writing a function
+
+Now we have a basic template, it would be useful to reuse this for other variables.
+
+To do this we can write a function - like a macro - which in R is very easy - just need to wrap our code in `function()` and identify the input we want to change - which in this case is other variables. Lets call the function `plot_ordered_bar_chart`. The core looks like this...
+
+```{r}
+#| label: plotting function
+
+plot_ordered_bar_chart <- function(df, var){
+  df = df
+  var <- enquo(var)
+  df |> 
+    count(!!var) |>
+  ggplot(aes(reorder(!!var, n), n)) +     
+  geom_col(fill = "yellow") +
+  labs(y = "No of studies", 
+       x = NULL, 
+       title = var) +
+  ylim(c(0, 14)) +
+  coord_flip() +
+  theme(plot.title.position = "plot", 
+        axis.text.y = element_text(size = 7), 
+        panel.background = element_blank())
+  
+}
+
+
+
+plot_ordered_bar_chart(chr_vars, var= climate_effect_outcome)
+```
+
+```{r}
+#| eval: false
+
+
+
+variables <- colnames(chr_vars)
+
+plot_ordered_bar_chart(chr_vars, horses_equines)
+
+```
+
+### Pie chart (not recommended
+
+Pie charts are unexpectedly hard to to create in R - there is no geom in ggplot for example
+
+```{r}
+#| eval: true
+
+counts |>
+  ggplot(aes(x="", y=n, fill=climate_effect_outcome)) +
+  geom_bar(stat="identity", width=1) +
+  coord_polar("y", start=0)    
+
+
+
+```
+
+### Small multiples
+
+We might want to compare frequencies across multiple variables, for example
+
+```{r}
+
+## lets create a frequency table of the number of breeds mentioned in studes for each herbivore group
+
+grouped <- data |>
+  select(contains("vine")) |>
+  pivot_longer(names_to = "herbivore", values_to = "breed", cols = 1:6) |>
+  group_by(herbivore) |>
+  count(breed)
+
+grouped
+
+```
+
+```{r}
+#| label: stacked bars
+
+grouped |>
+  drop_na() |>
+  ggplot(aes(herbivore, n, fill = breed)) +
+  geom_col(position = "fill") +
+  scale_y_continuous(labels = scales::percent_format())
+
+
+```
+
+```{r}
+
+#| label: faceted (small multiples)
+
+grouped |>
+  drop_na() |>
+  ggplot(aes(reorder(breed, n), n)) +
+  geom_col(position = "dodge") +
+  coord_flip() +
+  labs(x = "", 
+       y = "No of studies") +
+  #scale_y_continuous(labels = scales::percent_format()) +
+  facet_wrap(~herbivore) 
+
+
+
+```

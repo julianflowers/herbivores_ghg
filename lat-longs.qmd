@@ -3,7 +3,7 @@ title: "Extracting lat longs from published articles"
 format: html
 editor: visual
 execute:
-    cache: true
+    cache: false
     message: false
     warning: false
     echo: true
@@ -17,11 +17,11 @@ code-tools: true
 
 Ecological field studies usually report site location or range.
 
-This note explains how to programmatically extract lat-longs from pdf publications for further processing (e.g. mapping).
+This note explains how to programmatically extract lat-longs and elevations from pdf publications for further processing (e.g. mapping).
 
 One of the challenges is that there is not consistent reporting pattern so this is based on analyses of 45 documents which form part of the herbivory climate change review.
 
-## Method
+## Method 
 
 I outline 3 steps:
 
@@ -41,7 +41,7 @@ I've already created a directory to store the pdfs I want to extract the informa
 #| label: load libraries
 
 library(pacman)  ## package manager
-p_load(tidyverse, readtext) ## installs and loads packages if not already installed or loaded
+p_load(tidyverse, readtext, sf, mapview, leaflet, leafpop) ## installs and loads packages if not already installed or loaded
 
 
 ```
@@ -60,7 +60,7 @@ df <- map_dfr(f, readtext)                        ## iterate through file list, 
 df                                       ## look at first 6 rows of dataframe
 ```
 
-There are 2 columns - the file name of document, and the text effectively stored in a cell in the dataframe
+There are 2 columns - the file name of document, and the text effectively stored in a cell in the dataframe.
 
 We can now generate a piece of text (regular expression) to try and match lat-longs in the documents.
 
@@ -78,25 +78,116 @@ Sometimes to compass point is at the beginning rather than the end of the expres
 
 Regular expressions are an essential bit of coding needed to extract information from text but looks like gibberish.
 
+### Elevations
+
+For elevations a quick review of the papers suggest that there are a number of text patterns
+
+-   `elevation`
+
+-   `above see level`
+
+-   `a.s.l`
+
+Lets use these to try and extract elevations from text.
+
+Potential text patterns are.
+
+-   "\\\\d{1,}.\*elevation\|above sea level\|a.s.l" f*ind a number with at least 1 digit followed by the words elevation OR a.s.l OR above sea level*
+
+-   "elevation\|above sea level\|a.s.l.\*\\\\d{1,}" *find the words elevation OR a.s.l OR above sea level followed by a number with 1 or more digits*
+
+```{r}
+#| label: elevation
+
+df$text |>
+  str_extract("\\d{1,}.*(elevation|a\\.s\\.l.|above sea Level).*\\d{1,}")
+
+
+
+```
+
 Lets apply these patterns to our texts
 
 ### Finding lat-longs
 
 ```{r}
 
-pattern1 <- "\\d{1,2}◦\\s*\\d{1,2}.*[NSEW]|\\d{1,2}\\.\\d{1,2}◦.*[NSEW]|\\d{1,2}\\.\\d{1,2}°*[NSEW]|NSEW]?\\d{1,2}:\\d{1,2}:\\d{1,2}?"
+# pattern_lat <- "\\d{1,2}◦\\s*\\d{1,2}.*[NS]|\\d{1,2}\\.\\d{1,2}◦.*[NS]|\\d{1,2}\\.\\d{1,2}°*[NS]|[NS]?\\d{1,2}:\\d{1,2}:\\d{1,2}?"
+# 
+# pattern_long <- "\\d{1,2}◦\\s*\\d{1,2}.*[EW]|\\d{1,2}\\.\\d{1,2}◦.*[EW]|\\d{1,2}\\.\\d{1,2}°*[EW]|[EW]?\\d{1,2}:\\d{1,2}:\\d{1,2}?"
 
-x <- mutate(df, lat_long = str_extract_all(text, "\\d{1,2}◦\\s*\\d{1,2}.*[NSEW]|^\\d{1,2}:\\d{1,2}:\\d{1,2}.*[NSEW]$|\\d{1,2}°\\s*\\d{1,2}.*[NSEW]|\\d{1,2}\\.\\d{1,2}°.*[NSEW]|\\d{1,2}\\.\\d{1,2}◦.*[NSEW]"))
+decimal_pattern <- "\\d{1,2}\\.\\d{1,2}◦.*[NSEW]|[NSEW]\\d{1,2}\\.\\d{1,2}◦|\\d{1,2}\\.\\d{1,2}°.*[NSEW]|[NSEW]\\d{1,2}\\.\\d{1,2}°"
 
-x |>
-  unnest("lat_long") |>
-  select(doc_id, lat_long) |>
-  mutate(degree = str_extract_all(lat_long, "\\d{1,2}"), 
-         point = str_extract_all(lat_long, "[NSEW]")) |>unnest("degree") |>
-  group_by(doc_id, point) |>
+colon_pattern <- "[NSEW]?\\d{1,2}:\\d{1,2}:\\d{1,2}?"
+
+normal_pattern <- "\\d{1,2}.*◦\\s*\\d{1,2}.*[NSEW]|\\d{1,2}.*°\\s*\\d{1,2}.*[NSEW]"
+
+alt_pattern <- "\\d{1,2}.*\\s*\\d{1,2}.*[NSEW]"
+
+df <- tibble(df)
+
+x <- df |>
+  mutate(dec = str_extract_all(text, decimal_pattern), 
+         colon = str_extract_all(text, colon_pattern), 
+         normal = str_extract_all(text, normal_pattern)) |>
+  select(doc_id, dec, colon, normal)
+
+df1 <- x |>
+  hoist("normal") |>
+  hoist("dec") |>
+  hoist("colon") |>
+  pivot_longer(names_to = "pattern", values_to = "coords", 2:4) |>
+  unnest("coords") |>
+  mutate(degree = ifelse(pattern == "normal", str_extract_all(coords, "\\d{1,2}?°|\\d{1,2}?◦"),
+                         ifelse(pattern == "colon", str_extract(coords, "\\d{1,2}:"), 
+                                str_extract_all(coords, "\\d{1,2}\\.\\d{1,2}"))),
+         minutes = ifelse(pattern == "normal", str_extract_all(coords, "°\\d{1,2}|◦\\d{1,2}"),
+                         ifelse(pattern == "colon", str_extract(coords, ":\\d{1,2}"), coords)),
+) |>
+  unnest("degree") |>
+  unnest("minutes") |>
+  mutate(degree = parse_number(degree),
+         minutes = parse_number(minutes),
+         decimal = ifelse(pattern != "dec", degree + (minutes/60), degree), 
+         decimal = round(decimal, 4), 
+         point = str_extract_all(coords, "[NSEW]")) |>
   unnest("point") |>
-  mutate(id = row_number()) |>
-  distinct()
+  mutate(lat_long = case_when(decimal < 10 & point %in% c("E", "W") ~"long", 
+                              decimal > 10 & point %in% c("N", "S") ~ "lat", 
+                              )) |>
+  drop_na() |>
+  mutate(
+         decimal = ifelse(point == "W", -decimal, decimal)
+         ) |>
+  distinct() 
 
 
 ```
+
+```{r}
+
+df2 <- df1 |>
+  select(doc_id, coords, decimal, lat_long) |>
+  pivot_wider(names_from = "lat_long", values_from = "decimal") |>
+  unnest("lat") |>
+  unnest("long")
+
+df2
+```
+
+We need to filter...not sure how to do this programmatically
+
+Lets create a map...we'll use the simple features package (`sf`).
+
+```{r}
+
+library(sf);library(ggspatial)
+
+df_3 <- st_as_sf(df2, coords = c(x = "long",  y ="lat"), crs = 4326)
+
+df_3 |>
+  mapview::mapview(popup = popupTable(df_3, zcol = c("doc_id"))) 
+ 
+```
+
+\tex
