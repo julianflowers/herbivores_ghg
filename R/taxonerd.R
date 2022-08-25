@@ -3,6 +3,8 @@ library(pacman)
 p_load(tidyverse, taxonerd, reticulate)
 
 virtualenv_install("r_taxonerd", packages = "taxonerd[1.3.2]")
+import("taxonerd")
+
 use_python(install_python(version="3.8:latest", force = TRUE))
 use_virtualenv("")
                
