@@ -21,7 +21,7 @@ This note explains how to programmatically extract lat-longs and elevations from
 
 One of the challenges is that there is not consistent reporting pattern so this is based on analyses of 45 documents which form part of the herbivory climate change review.
 
-## Method 
+## Method
 
 I outline 3 steps:
 
@@ -41,7 +41,7 @@ I've already created a directory to store the pdfs I want to extract the informa
 #| label: load libraries
 
 library(pacman)  ## package manager
-p_load(tidyverse, readtext, sf, mapview, leaflet, leafpop) ## installs and loads packages if not already installed or loaded
+p_load(tidyverse, readtext, sf, mapview, leaflet, leafpop, quanteda, tidytext) ## installs and loads packages if not already installed or loaded
 
 
 ```
@@ -51,9 +51,9 @@ It's really easy to use `readtext`
 ```{r}
 #| label: readtext
 
-p <- here::here("~/Downloads/herbivory-corpus")   ## point R at the pdf directory 
+p <- here::here("my_corpus")   ## point R at the pdf directory 
 
-f <- list.files(p, "pdf", full.names = T)         ## get a list of files
+f <- list.files(p, "pdf$", full.names = T)         ## get a list of files
 
 df <- map_dfr(f, readtext)                        ## iterate through file list, read in the text and create a data frame
 
@@ -63,6 +63,26 @@ df                                       ## look at first 6 rows of dataframe
 There are 2 columns - the file name of document, and the text effectively stored in a cell in the dataframe.
 
 We can now generate a piece of text (regular expression) to try and match lat-longs in the documents.
+
+```{r}
+decimal_pattern <- "\\d{1,2}\\.\\d{1,2}◦.*[NSEW]|[NSEW]\\d{1,2}\\.\\d{1,2}◦|\\d{1,2}\\.\\d{1,2}°.*[NSEW]|[NSEW]\\d{1,2}\\.\\d{1,2}°"
+
+colon_pattern <- "[NSEW]?\\d{1,2}:\\d{1,2}:\\d{1,2}?"
+
+normal_pattern <- "\\d{1,2}.*◦\\D?\\d{1,2}.*[NSEW]|\\d{1,2}.*°\\D?\\d{1,2}.*[NSEW]"
+
+alt_pattern <- "\\d{1,2}.?\\d{1,2}.?[[:punct:]][NSEW]"
+
+degrees <- "\\d{1,2}\\D?(?=◦)|\\d{1,2}\\D?(?=°)"
+
+decimal_coords <- "\\d{1,2}\\.\\d{1,2}.?◦.?[nsew]|\\d{1,2}\\.\\d{1,2}.?°.?[nsew]"
+minutes <- "\\d{1,2}\\D?(?=ʹ)|\\d{1,2}\\D?(?=')"
+
+degrees_minutes <-  "\\d{1,2}.?°.*\\d{1,2}.*'.*[NnSsEeWw]|\\d{1,2}\\D.?◦.*\\d{1,2}.*'.*[NnSsEeWw]|\\d{1,2}.?°.*\\d{1,2}.*ʹ.*[NnSsEeWw]|\\d{1,2}\\D.?◦.*\\d{1,2}.*ʹ.*[NnSsEeWw]"
+
+str_match("20°45'N", degrees_minutes)
+
+```
 
 -   \\\\d{1,2}◦\\\\s\*\\\\d{1,2}.\*\[NSEW\] matches 20◦45'N. Note that in some pdfs what is printed as ° actually turns out to be ◦ when the pdf text is extracted
 
@@ -100,7 +120,24 @@ Potential text patterns are.
 #| label: elevation
 
 df$text |>
-  str_extract("\\d{1,}.*(elevation|a\\.s\\.l.|above sea Level).*\\d{1,}")
+  str_extract("\\d{1,}.*m.*(elevation|a\\.s\\.l.|above sea Level)|(elevation|a\\.s\\.l.|above sea Level).*\\d{1,}.*m")
+
+
+
+```
+
+```{r}
+
+df_para <- df |>
+  unnest_tokens(para, text, token = "paragraphs") 
+
+df_para |>
+  mutate(para_id = row_number(), 
+         clean_para = str_remove_all(para, "°[Cc]"), 
+         degrees = str_extract_all(clean_para, degrees_minutes), 
+         decimal_coords = str_extract_all(clean_para, decimal_coords)) |>
+  DT::datatable()
+
 
 
 
