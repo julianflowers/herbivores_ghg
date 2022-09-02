@@ -5,17 +5,21 @@ nounprojectR::np_credentials("ecology", "4e1dec60dae2482dadd228c2ad566290",
 
 cow <- nounprojectR::get_icon_by_term("cow")
 
-glimpse(sheep)
+glimpse(cow)
 
-sheep$icons
+cow$icons
 
-sheep |>
+cow |>
   enframe() |>
   unnest("value")
 
-sheep_icons <- map(sheep$icons, c("icon_url")) 
+sheep_icons <- map(cow$icons, c("preview_url")) 
 
-browseURL(sheep_icons[[4]])
+magick::image_read(sheep_icons[[4]])
+
+sheep_icons[[1]][4]
+
+browseURL(sheep_icons[[1]])
 
 library(rvest); library(httr)
 
@@ -34,8 +38,8 @@ x1 <- jsonlite::fromJSON(url, simplifyDataFrame = TRUE)
 images <- magick::image_read(head(x1$results$urls$small))
 }
 
-i <- get_unsplash_images("willow tit")
+i <- get_unsplash_images("skye terrier")
 
-str(i)
+i[2]
 
-i[1]
+  

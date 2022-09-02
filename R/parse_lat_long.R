@@ -40,16 +40,7 @@ get_lat_long <- function(corpus){
   df <- df |>
     mutate(esting = str_extract_all(paras, p4))
   
-  df <- df |>
-    group_by(doc_id) |>
-    mutate(para_id = row_number())
-  
-  df <- df |>
-    select(-c(paras)) |>
-    pivot_longer(names_to = "type", values_to = "coords", 2:5) |>
-    unnest(coords) |>
-    mutate(degrees = ifelse(!type %in% c("dec", "esting"), str_extract_all(coords, "\\d{1,2}"), NA), 
-           point = ifelse(!type %in% c("dec", "esting")))
+
   
 }
 
