@@ -67,11 +67,11 @@ We can now generate a piece of text (regular expression) to try and match lat-lo
 ```{r}
 decimal_pattern <- "\\d{1,2}\\.\\d{1,2}◦.*[NSEW]|[NSEW]\\d{1,2}\\.\\d{1,2}◦|\\d{1,2}\\.\\d{1,2}°.*[NSEW]|[NSEW]\\d{1,2}\\.\\d{1,2}°"
 
-colon_pattern <- "[NSEW]?\\d{1,2}:\\d{1,2}:\\d{1,2}?"
+colon_pattern <- "[NSEWnsew]?\\d{1,2}:\\d{1,2}:\\d{1,2}?"
 
 normal_pattern <- "\\d{1,2}.*◦\\D?\\d{1,2}.*[NSEW]|\\d{1,2}.*°\\D?\\d{1,2}.*[NSEW]"
 
-alt_pattern <- "\\d{1,2}.?\\d{1,2}.?[[:punct:]][NSEW]"
+esting_nthing_pattern <- "\\d{5,6}\\D?[NSEW]"
 
 degrees <- "\\d{1,2}\\D?(?=◦)|\\d{1,2}\\D?(?=°)"
 
@@ -117,7 +117,16 @@ Potential text patterns are.
 -   "elevation\|above sea level\|a.s.l.\*\\\\d{1,}" *find the words elevation OR a.s.l OR above sea level followed by a number with 1 or more digits*
 
 ```{r}
-#| label: elevation
+
+
+ corpus <- corpus(df, text_field = "text")
+ kw <- kwic(corpus, "elevation|a\\.s\\.l", valuetype = "regex")
+ 
+ kw
+```
+
+```{r}
+#| label: elevation 
 
 df$text |>
   str_extract("\\d{1,}.*m.*(elevation|a\\.s\\.l.|above sea Level)|(elevation|a\\.s\\.l.|above sea Level).*\\d{1,}.*m")
@@ -131,14 +140,29 @@ df$text |>
 df_para <- df |>
   unnest_tokens(para, text, token = "paragraphs") 
 
-df_para |>
+df_para$para
+
+df_2 <- df_para |>
   mutate(para_id = row_number(), 
          clean_para = str_remove_all(para, "°[Cc]"), 
          degrees = str_extract_all(clean_para, degrees_minutes), 
-         decimal_coords = str_extract_all(clean_para, decimal_coords)) |>
-  DT::datatable()
+         decimal_coords = str_extract_all(clean_para, decimal_coords), 
+         colon_coords = str_extract_all(clean_para, colon_pattern), 
+         esting_coords = str_extract_all(clean_para, esting_nthing_pattern))
 
 
+df_2 |>
+  hoist("degrees") |>
+  hoist("decimal_coords") |>
+  hoist("colon_coords") |>
+  unnest("esting_coords") |>
+  View()
+
+```
+
+```{r}
+df_2 <- df_2 |>
+         mutate(elevation = str_extract_all(clean_para, "\\d{1,}.*m.*(elevation|a\\.s\\.l.|above sea Level)|(elevation|a\\.s\\.l.|above sea Level).*\\d{1,}.*m")) 
 
 
 ```
@@ -169,12 +193,17 @@ x <- df |>
          normal = str_extract_all(text, normal_pattern)) |>
   select(doc_id, dec, colon, normal)
 
-df1 <- x |>
-  hoist("normal") |>
-  hoist("dec") |>
-  hoist("colon") |>
-  pivot_longer(names_to = "pattern", values_to = "coords", 2:4) |>
-  unnest("coords") |>
+df2 <- df_2 |>
+  hoist("degrees") |>
+  hoist("decimal_coords") |>
+  hoist("colon_coords") |>
+  pivot_longer(names_to = "pattern", values_to = "coords", 5:8) |>
+  unnest("coords") 
+
+
+df2
+
+|>
   mutate(degree = ifelse(pattern == "normal", str_extract_all(coords, "\\d{1,2}?°|\\d{1,2}?◦"),
                          ifelse(pattern == "colon", str_extract(coords, "\\d{1,2}:"), 
                                 str_extract_all(coords, "\\d{1,2}\\.\\d{1,2}"))),
