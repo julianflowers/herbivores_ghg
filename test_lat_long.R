@@ -14,9 +14,9 @@ p3 <-  "[NSEWnsew]\\d{1,2}:\\d{1,2}:\\d{1,2}?"                                  
 p4 <- "\\d{4,6}\\D?[NSns].*\\d{4,6}\\D?[EWew]"                                                    ## easting / northing
 
 
-p5 <- "((\\d{1,2})(◦|°|\\.||8?|:|\\\\))(\\D*)(\\d{1,2}|\\d{1,2}′|\\d{1,2}\\004)(\\D*)([NSEW])"
+p5 <- "(\\d{1,2})(◦|°|\\.||8?|:|\\\\)[^C](\\D*)(\\d{1,2}|\\d{1,2}′|\\d{1,2}\\004)(\\D*)([NSEW])"
 
-p6 <- "(\\d{1,2}(◦|°|\\.||8?|:|\\001))"
+p6 <- "((\\d{1,2})(◦|°|\\.||8?|:|\\001))"
 
 p7 <- "(\\d{1,2})\\D{1,4}(\\d{1,2}0)\\D{1,3}(\\d{1,2}00)\\s*([NSEWnsew])"
 
@@ -71,13 +71,56 @@ pat5 <- y |>
   select(-text) |>
   unnest_wider("matches") 
 
-str_match_all(y$text, p3) |>
-  tibble() |>
-  set_names("base") |>
-  unnest_longer("base") |>
-  data.frame() |>
-  View()
+namess <- paste0("X", 1:3)
 
+pattern_7 <- str_match_all(y$text, paste0(p7)) |>
+  enframe() |>
+  unnest_auto("value") %>%
+  as.matrix() |>
+  data.frame() |>
+  mutate_at(.vars = 3:5, as.numeric) |>
+  mutate(value.3 = value.3/10, 
+         value.4 = value.4/100) |>
+  rename(degree = value.2, 
+         minutes = value.3, 
+         seconds = value.4, 
+         point = value.5, 
+         extract = value.1) |> 
+  mutate(decimal = degree + minutes/60 + seconds/3600, 
+         decimal = ifelse(point %in% c("S", "W"), -1 * decimal, decimal), 
+         lat_long = ifelse(point %in% c("S", "N"), "lat", "long"))
+
+pattern_7
+
+pattern_5 <- str_match_all(y$text, paste0(p5)) |>
+  enframe() |>
+  unnest_auto("value") %>%
+  as.matrix() |>
+  data.frame() |>
+  filter(value.3 != "") 
+
+pattern_5 |>
+  select(value.1, value.2, value.3, value.5, value.7) |>
+  mutate(value.1 = str_squish(value.1)) |>
+  gt::gt()
+
+pattern_5$value.3
+
+pattern_5 |>
+  glimpse()
+
+|>
+  mutate_at(.vars = 3:5, as.numeric) |>
+  mutate(value.3 = value.3/10, 
+         value.4 = value.4/100) |>
+  rename(degree = value.2, 
+         minutes = value.3, 
+         seconds = value.4, 
+         point = value.5, 
+         extract = value.1) |> 
+  mutate(decimal = degree + minutes/60 + seconds/3600, 
+         decimal = ifelse(point %in% c("S", "W"), -1 * decimal, decimal), 
+         lat_long = ifelse(point %in% c("S", "N"), "lat", "long"))
 
 
 |>
