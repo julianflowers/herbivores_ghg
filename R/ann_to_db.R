@@ -3,12 +3,7 @@ library(tidyverse)
 
 ann <- list.files(p, pattern = ".ann$", full.names = TRUE)
 
-ann[1] 
-read_delim(ann[3], col_names = c("x1", "x2", "x3"))
 
-
-, col_names = c("index", "locations", "taxa", "X4"))
-ann
 
 ann_to_db <- function(file){
   

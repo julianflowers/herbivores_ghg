@@ -1,8 +1,30 @@
-library(here); library(tidyverse)
+library(here); library(tidyverse); library(taxize)
 
-p <- here("data")
+## taxa id using gnfinder
+
+p <- here("my_corpus")
 f <- list.files(p, ".csv", full.names = TRUE)
 f
+
+t <- map_dfr(f, ~(read_csv(.x) |> select(Verbatim, Name) |> mutate(file = basename(.x))))
+
+t <- t |>
+  mutate(common = map(Name, taxize::sci2comm))
+t |>
+  unnest_auto("common") |>
+  filter(!is.na(common)) |>
+  gt::gt()
+
+
+
+
+
+
+
+
+
+
+
 
 ann <- read_csv(f[1]) |>
   select(file, text, entity, p)

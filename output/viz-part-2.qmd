@@ -1,0 +1,95 @@
+---
+title: "Visualising herbivory literature"
+subtitle: "Part 2"
+author: "Julian Flowers"
+date: "`r Sys.Date()`"
+format: html
+editor: visual
+---
+
+## 
+
+```{r}
+#| label: import data & load libraries
+
+library(pacman)
+library(stringi)
+pacman::p_load(stringi, stringr, ggplot2, dplyr, readr, readxl, here, skimr, overviewR, ggmap, gt, gtsummary, DataExplorer, gtExtras, rphylopic, magick, semanticscholar, readtext, pdftools)       ## readxl is needed to load excel files into R
+
+
+path <- here::here("data")         ## the `here` package helps with file paths
+
+
+xls <- list.files(path, "xls", full.names = TRUE)
+
+xls[2]
+
+data <- readxl::read_excel(xls[2]) |>
+  janitor::clean_names()
+
+glimpse(data)
+```
+
+### Get dois from title and free full text from dois
+
+```{r}
+
+titles <-  data |> 
+  select(title)
+get_doi_from_title <- function(titles){
+  x <- titles |>
+    mutate(detail = purrr::map(title, semanticscholar::S2_search_papers)) |>
+    tidyr::unnest_auto("detail") |>
+    tidyr::unnest_auto("data") |>
+    tidyr::unnest("paperId") |>
+    mutate(detail = purrr::map(paperId, ~semanticscholar::S2_paper(.x)))
+
+  doi <- x |>
+    tidyr::unnest_longer("detail") |>
+    filter(detail_id == "doi") |>
+    tidyr::unnest("detail") 
+  doi <- doi |>
+      janitor::clean_names() |>
+    dplyr::select(title = title_1, doi = detail)
+} 
+
+
+y <- get_doi_from_title(titles)
+
+safe_text <- purrr::safely(readtext::readtext)
+
+y <- y |>
+  mutate(free_text = purrr::map(doi, roadoi::oadoi_fetch)) |>
+  tidyr::unnest("free_text", names_repair = "universal") |>
+  tidyr::unnest("oa_locations") 
+
+y_ft <- y$best_oa_location |>
+  purrr::map("url_for_pdf") |>
+  tibble::enframe() |>
+  tidyr::unnest("value") |>
+  dplyr::mutate(text_extract = purrr::map(value, ~safe_text(.x))) |>
+  tidyr::unnest("text_extract") |>
+  filter(text_extract != "NULL")
+
+out <- data.frame(id = y_ft_1$result$doc_id[1:55], text = y_ft_1$result$text[1:55])
+  
+  tidyr::unnest_auto("result")
+#   dplyr::mutate(text_1 = purrr::map(text_extract, "result"))
+out |> write_csv("full_text.csv")
+# 
+
+```
+
+```{r}
+
+tldr <- data |>
+  mutate(tldr = purrr::map(title, semanticscholar::S2_search_papers)) |>
+  select(title, tldr) |>
+  unnest_auto("tldr") |>
+  select(title, data) |>
+  unnest("data", names_repair = "universal") |>
+  mutate(tldr = purrr::map(paperId, get_tldr)) |>
+  unnest("tldr")
+  
+
+```
