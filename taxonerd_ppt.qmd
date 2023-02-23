@@ -1,0 +1,211 @@
+---
+title: "Automated extraction of taxa from texts"
+format: pptx
+editor: visual
+bibliography: references.bib
+execute:
+     echo: true
+     cache: true
+---
+
+## Rationale
+
+-   Extracting information from large volumes of published literature is labour intensive, time consuming and potentially error prone
+
+-   Natural language processing (NLP) is a branch of artificial intelligence which aims to train computers to read and interpret written text
+
+-   Named entity recognition (NER) is an NLP technique which uses large databases of words and terms trained of datasets like Wikipedia (*large language models - LLMs)* to identify and classify words and phrases
+
+-   Originally NER was capable of identifying parts of speech (e.g. nouns, verble s etc) and noun types like locations, geo-political entities, dates and people.
+
+-   Recent developments have enables NER detection and classification in technical areas like biomedical and ecological terms
+
+-   These slides show how to use the R package `taxonerd` for extracting taxa from texts, files and multiple files
+
+## Taxonerd
+
+-   `taxonerd` is developed by @taxonerd and needs R, RStudio and Python installed on your computer
+
+-   Its not like most other R packages because it relies on a Python package in the background
+
+-   It is not available on CRAN
+
+-   To install run
+
+```{r}
+install.packages("https://github.com/nleguillarme/taxonerd/releases/download/v1.5.0/taxonerd_for_R_1.5.0.tar.gz", repos=NULL)
+install.packages("needs", repos = "http://cran.us.r-project.org")
+library(taxonerd)
+library(needs)
+```
+
+## Setting up (1)
+
+-   Getting up and running with `taxonerd` is slightly complicated
+
+    -   install and load the `reticulate` package which enables R to talk to python
+
+    -   set up a virtual environment
+
+    -   install the `taxonerd` python package
+
+    -   install and load a large language model to perform the NER task
+
+``` {style="color: gray"}
+library(reticulate)
+virtualenv_create("r-taxonerd")
+use_python("/Users/julianflowers/.virtualenvs/r-taxonerd/bin/python") ## restart R after running this line of code
+use_virtualenv("r-taxonerd")
+py_install("taxonerd", pip = TRUE, envname = "r-taxonerd")
+
+
+```
+
+```{r, echo = FALSE}
+
+needs("reticulate")
+library(reticulate)
+
+## Create a virtual environment called r-taxonerd
+## check if environment exists - clean install
+#virtualenv_remove("r-taxonerd")
+
+virtualenv_create("r-taxonerd")
+
+## set the location of python to use
+
+use_python("/Users/julianflowers/.virtualenvs/r-taxonerd/bin/python") ## restart R after running this line of code
+
+
+## Allow R to use this environment
+
+use_virtualenv("r-taxonerd")
+
+
+## install python taxonerd module from the python store (pip)
+
+py_install("taxonerd", pip = TRUE, envname = "r-taxonerd")
+
+```
+
+## Setting up (2)
+
+Import the `taxonerd` module into R
+
+```{r}
+## import the taxonerd module into R
+
+taxonerd <- import("taxonerd")
+
+
+```
+
+## Dependency issues
+
+-   If `taxonerd` installation stalls however we may need to install a package called `nmslib` which is needed by `taxonerd` independently.
+
+-   To do this open a terminal windown (Tools \> Terminal \> New Terminal)
+
+-   You should see something like this `(r-taxonerd) (base) MacBook-Air-36:Desktop julianflowers$`
+
+-   at the prompt type `CFLAGS="-mavx -DWARN(a)=(a)" pip install nmslib` and press enter
+
+-   then import `nmslib` with `import("nmslib")`
+
+## Installing language models
+
+-   We can now install a language model
+
+-   `en-core-eco-weak-biobert` is recommended
+
+-   Install as follows - this downloads the `weak-biobert` data from the web
+
+```{r}
+library(taxonerd)
+install.model(model="en_core_eco_weak_biobert", version = "1.0.0")
+
+
+```
+
+## Initialise taxonerd
+
+This step sets up the language model, linkage file for taxonerd to use and set a threshold for matching terms to be included (minimum probablity of a match)
+
+There are 4 language models available at present
+
+-   `en-core-eco-md` 115 Mb download
+
+-   `en-core-eco-biobert` 498 Mb download
+
+-   `en-core-eco-weak-md` 115 Mb download
+
+-   `en-core-eco-waek-biobert` 521 Mb download
+
+The 'weak' models are more accurate for common terms. `biobert` models are best run with gpu = TRUE
+
+There are 3 linker databases available
+
+-   taxref (`linker = "taxref"`)
+
+-   gbif_backbone (`linker = "gbif_backbone"`)
+
+-   ncbi_taxonomy (`linker = "ncbi_taxonomy"`)
+
+```{r}
+
+taxonerd <- init.taxonerd(model = "en_core_eco_weak_biobert", linker="taxref", thresh=0.7, gpu=TRUE)
+
+```
+
+## Let's classify
+
+Some text
+
+```{r}
+
+
+text <- "House sparrows, passer domesticus are bigger than goldcrests"
+
+find.in.text(taxonerd, text)
+
+```
+
+## A file
+
+-   We can extract taxa from a file (pdf, docx, txt, csv, xls, png) using the `find.in.file` function
+
+-   For example @Arroyo-Correa2023
+
+-   I have put a timer on it to see how long it takes
+
+```{r}
+
+library(tictoc)
+tic()
+out <- find.in.file(taxonerd, "/Users/julianflowers/Dropbox/My Mac (Julians-MBP-2)/Downloads/Ecology Letters - 2023 - Arroyo‐Correa - Intraspecific variation in species interactions promotes the feasibility of.pdf")
+toc()
+
+```
+
+```{r}
+out |>
+  head(10)
+```
+
+## A set of files (corpus)
+
+-   we can scale up to a whole directory of files (corpus) using the `find.in.corpus` function
+
+-   This takes an input directory (where you files are), annotates them and creates files with ,*ann* extension as output.
+
+-   These can be opened as text files with `readr::files_delim()`
+
+## Tweaks
+
+-   If your pc has a GPU (an NVIDIA graphics card) you can speed up processing by adding gpu = TRUE to `taxonerd.init()` - `taxonerd.init(gpu = TRUE)`
+
+-   You can change the linker file  - see above
+
+-   You can use taxonerd directly in Python or as a command-line tool
+
+## References
